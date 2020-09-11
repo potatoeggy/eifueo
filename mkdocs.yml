@@ -3,3 +3,18 @@ nav:
   - Home: index.md
   - G11 SL Physics: sph3u7.md
 theme: readthedocs
+markdown_extensions:
+  - mdx_math:
+      add_preview: True
+
+#extra_css: [
+#  'https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css'
+#]
+
+extra_javascript: [
+#  'https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js',
+#  'https://cdn.jsdelivr.net/npm/katex/dist/contrib/mathtex-script-type.min.js'
+#]
+  'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js',
+  'mathjax-config.js'
+]
