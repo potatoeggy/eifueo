@@ -1,6 +1,6 @@
 # Eifueo
 
-A "competitor" of sorts to magicalsoup's notes.
+A "competitor" of sorts to magicalsoup/highschool.
 
 Please note that the clone link is incorrect; it should be `https://git.eggworld.tk/eggy/eifueo.git`.
 
