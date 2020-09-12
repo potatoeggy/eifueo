@@ -9,6 +9,7 @@ theme: readthedocs
 markdown_extensions:
   - mdx_math:
       add_preview: True
+      enable_dollar_delimiter: True
 
 #extra_css: [
 #  'https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css'
