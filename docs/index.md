@@ -3,7 +3,7 @@
 This website is intended to be a database of knowledge for students.
 
 
-Testing math rendering: \(a^2+b^2=c^2\)
+Testing math rendering: $a^2+b^2=c^2$
 
 | Tables | too! |
 | --- | --- |
