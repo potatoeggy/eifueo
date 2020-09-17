@@ -111,7 +111,7 @@ The course code for this page is **ENG3UZ**.
  - Diction: The word choice used by a speaker or writer to create an effect.
 	- e.g., *"I shall take Her Majesty back to the carriage."*
  - Epigram: A brief, interesting, memorable, and sometimes surprising or satirical statement.
-	- e.g., *"No one can make you efel inferior without your consent."* (Eleanor Roosevelt)
+	- e.g., *"No one can make you feel inferior without your consent."* (Eleanor Roosevelt)
  - Irony: An unexpected event or statement revealing what was believed to be true was false.
 	- e.g., *Thunder boomed as rain poured down all around the classroom. "Nice weather we're having today."* (Verbal)
 	- e.g., *The fire station burned down.* (Situational)
