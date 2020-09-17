@@ -63,7 +63,7 @@ The course code for this page is **ENG3UZ**.
 	- e.g., *But, woe is me, you are so sick of late, / So far from cheer and from your former state* (William Shakespeare)
  - Enjambment: A single thought in a line of poetry using two lines.
 	- e.g., *If I were a potato / The world would be a tomato.*
- - Caesura: A pause, represented by "||", most commonly found in the middle of a line. Masculine caesurae follow stressed syllables while feminine caesurae follow ununstressed ones. They are also distinguished by their location in the line: Caesurae near the beginning, middle, or end of a line are referred to as initial, medial, and terminal caesurae, respectively.
+ - Caesura: A pause, represented by two vertical lines ("||"), most commonly found in the middle of a line. Masculine caesurae follow stressed syllables while feminine caesurae follow ununstressed ones. They are also distinguished by their location in the line: Caesurae near the beginning, middle, or end of a line are referred to as initial, medial, and terminal caesurae, respectively.
 	- e.g., *You're stupid! || But so am I.*
  - Form:
 	- Ballad: A poetic story set to music relying on simple language, commonly containing romance and tragedy.
