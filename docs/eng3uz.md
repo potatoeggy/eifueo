@@ -8,29 +8,33 @@ The course code for this page is **ENG3UZ**.
 
  - Allusion: A brief and indirect reference to a thing or idea of significance.
 	- e.g., *"Look at Einstein over there, thinking he's so smart."*
- - Anecdote: A short and interesting story or event used to support a point.
-	- e.g., *"You should all be grateful! When I was a young lad, there was this girl that I liked, so what did I do about it? I went straight-up told to her face that I loved her! Of course, she smacked me away as if I were a stray dog, but if I was able to stand up to someone like her, you young'uns should be able to send a simple text message!"*
+ - Anecdote: A short and usually personal story used to support a point.
+- e.g., *"You should all be grateful! When I was a young lad, there was this girl that I liked, so what did I do about it? I went straight-up told to her face that I loved her! Of course, she smacked me away as if I were a stray dog, but if I was able to stand up to someone like her, you young'uns should be able to send a simple text message!"*
  - Hyperbole: An exaggeration for the purpose of emphasis.
 	- e.g., *"If you null pointer me one more time I am going to crush you into two billion pieces!"*
- - Imagery: The usage of figurative language to describe concepts in a way that invokes the **senses**.
+ - Imagery: The use of words to describe concepts in a way that involves the five senses.
 	- e.g., *"My mother…how sweet and juicy her tender limbs are."*
- - Metaphor: An implicit comparison between two unlike things without the use of "like" or "as".
+ - Metaphor: An implicit comparison between two unlike things without the use of "like" or "as", used especially to describe abstract ideas indirectly.
 	- e.g., *"My computer is an absolute potato."*
- - Simile: An explicit comparison between two unlike things *with* the use of "like" or "as".
+ - Simile: An explicit comparison between two unlike things *with* the use of "like" or "as", used especially to describe abstract ideas indirectly.
 	- e.g., *"She's as stupid as an elephant!"*
- - Litotes: An understatement by negating a positive or negative expression.
+ - Litotes: An understatement by negating a very positive or negative expression.
 	- e.g., *"My marks aren't the best in the world."*
  - Personification: The application of human concepts to non-humans, such as human-like speech. This is a common example of a metaphor.
 	- e.g., *The rock blinked at me with a cute face unlike any other I had seen before. "…Owo. Uwu?"*
- - Adjectives and adverbs: Words that describe and modify nouns and verbs, respectively.
+ - Adjectives and adverbs: Words that directly describe and modify nouns and verbs, respectively.
 	- e.g., *The traitorous man died painfully.*
 
 ### Sound
 
- - Alliteration: A number of words with the same beginning consonant sound that appear close together in sequence.
+ - Alliteration: A number of words with the same beginning sound that appear close together.
 	- e.g., *The dancing damsel dazzled the crowd.*
- - Assonance: A repetition of similar vowel sounds in words close to each other in a sentence.
-	- e.g., *"Oh, please let her go."*
+ - Assonance: A number of words with the same vowel sound, not at the beginning, that appear close together.
+	- e.g., *The cat in the hat knows a lot about that!*
+ - Cacophony: The use of words and phrases that are harsh to the ear by using consonants that require pressure to to say (e.g., p, b, d, g, k, ch-, sh-).
+	- e.g., *How much wood could a woodchuck chuck if a woodchuck could chuck wood?*
+ - Consonance: A number of words with the same consonant sound, not at the beginning, that appear close together.
+	- e.g., *Shelley sells shells by the seashore.*
  - Dialect: A regional variety of language with spelling, grammar, and pronunciation that differentiates a population from others around them.
 	- e.g., *"There's five of them dirty ducks flappin' out and about, sir!"*
  - Euphony: The use of words and phrases that are pleasing to the ear by using long vowel sounds, harmonious constants (l, m, n, r, f, v), and soft consonants or semi-vowels (w, s, y, th, wh).
@@ -51,7 +55,7 @@ The course code for this page is **ENG3UZ**.
 	- Dactyl: Three syllables, in which the first is stressed while the rest are unstressed.
 		- e.g., *"Marvelous!"*
 	- Iamb: Two syllables, in which the first is unstressed while the second is stressed.
-		- e.g., *"You* ***stu****pid* ***id****iot."*
+		- e.g., *To be, or not to be, that is the question.*
 	- Spondee: Two syllables, both of which are stressed.
 		- e.g., *"Rage, rage against the dying of the light"* (Dylan Thomas)
 	- Trochee: Two syllables, in which the first is stressed while the second is unstressed.
