@@ -119,7 +119,7 @@ The course code for this page is **ENG3UZ**.
  - Jargon: Specialised terms that use actual words, which are usually unfamiliar to the layman.
 	- e.g., *p53 is responsible for holding the cell cycle at the G1/S checkpoint and will induce apoptosis if damage to the cell's deoxyribonucleic acid is too great.*
  - Motif: An recurring object or idea used to explain the theme.
-	- e.g., The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
+	- e.g., In *To Kill a Mockingbird*, The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
  - Oxymoron: The pairing of two opposing or contradictory words.
 	- e.g., *It was her only choice.*
  - Paradox: A statement that appears to be self-contradictory at first glance, typically used to allow the reader to think over an idea differently.
@@ -131,4 +131,4 @@ The course code for this page is **ENG3UZ**.
  - Tone: The attitude of a writer or character toward a subject or audience, typically through word choice.
 	- e.g., *"I don't want to! That candy is MINE, and no one is going to take it from ME! Mine, mine, MINE!"*
  - Theme: The "main idea" or underlying meaning of a literary work, which can be given directly or indirectly.
-	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning.* (ScytheRider)
+	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (ScytheRider)
