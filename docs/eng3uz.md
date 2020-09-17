@@ -9,7 +9,7 @@ The course code for this page is **ENG3UZ**.
  - Allusion: A brief and indirect reference to a thing or idea of significance.
 	- e.g., *"Look at Einstein over there, thinking he's so smart."*
  - Anecdote: A short and interesting story or event used to support a point.
-	- e.g., *"You should all be grateful! When I was a young lad, we didn't have these fancy phones! We had to *talk* to people's *faces!"
+	- e.g., *"You should all be grateful! When I was a young lad, there was this girl that I liked, so what did I do about it? I went straight-up told to her face that I loved her! Of course, she smacked me away as if I were a stray dog, but if I was able to stand up to someone like her, you young'uns should be able to send a simple text message!"*
  - Hyperbole: An exaggeration for the purpose of emphasis.
 	- e.g., *"If you null pointer me one more time I am going to crush you into two billion pieces!"*
  - Imagery: The usage of figurative language to describe concepts in a way that invokes the **senses**.
