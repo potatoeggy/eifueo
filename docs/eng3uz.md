@@ -57,14 +57,14 @@ The course code for this page is **ENG3UZ**.
 	- Iamb: Two syllables, in which the first is unstressed while the second is stressed.
 		- e.g., *To be, or not to be, that is the question.*
 	- Spondee: Two syllables, both of which are stressed.
-		- e.g., *"Rage, rage against the dying of the light"* (Dylan Thomas)
+		- e.g., *"Rage, rage against the dying of the light."* ("Do not go gentle into that good night", Dylan Thomas)
 	- Trochee: Two syllables, in which the first is stressed while the second is unstressed.
-		- e.g., *Double, double, toil and trouble* (William Shakespeare)
+		- e.g., *Double, double, toil and trouble* (*Macbeth*, William Shakespeare)
 
 ### Organisation and Pace
 
  - Blank verse: An non-rhyming verse with a regular rhythmic structure, most commonly iambic pentameter (10 syllables/line, unstressed-to-stressed pattern)
-	- e.g., *But, woe is me, you are so sick of late, / So far from cheer and from your former state* (William Shakespeare)
+	- e.g., *But, woe is me, you are so sick of late, / So far from cheer and from your former state.* (*Hamlet*, William Shakespeare)
  - Enjambment: A single thought in a line of poetry using two lines.
 	- e.g., *If I were a potato / The world would be a tomato.*
  - Caesura: A pause, represented by two vertical lines ("||"), most commonly found in the middle of a line. Masculine caesurae follow stressed syllables while feminine caesurae follow ununstressed ones. They are also distinguished by their location in the line: Caesurae near the beginning, middle, or end of a line are referred to as initial, medial, and terminal caesurae, respectively.
@@ -105,7 +105,7 @@ The course code for this page is **ENG3UZ**.
  - Connotation: An implied meaning from a phrase that differs from its explicit and direct meaning.
 	- e.g., *I carried him for the entire assignment.*
  - Contrast/Juxtaposition: A comparison between multiple ideas or things by placing them side by side.
-	- e.g., *It was the best of times, it was the worst of times…* (Charles Dickens)
+	- e.g., *It was the best of times, it was the worst of times…* (*A Tale of Two Cities*, Charles Dickens)
  - Denotation: The literal meaning of a word.
 	- e.g., *"My old computer no longer functions."*
  - Diction: The word choice used by a speaker or writer to create an effect.
@@ -119,11 +119,11 @@ The course code for this page is **ENG3UZ**.
  - Jargon: Specialised terms that use actual words, which are usually unfamiliar to the layman.
 	- e.g., *p53 is responsible for holding the cell cycle at the G1/S checkpoint and will induce apoptosis if damage to the cell's deoxyribonucleic acid is too great.*
  - Motif: An recurring object or idea used to explain the theme.
-	- e.g., In *To Kill a Mockingbird*, The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
+	- e.g., In *To Kill a Mockingbird* by Harper Lee, The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
  - Oxymoron: The pairing of two opposing or contradictory words.
 	- e.g., *It was her only choice.*
  - Paradox: A statement that appears to be self-contradictory at first glance, typically used to allow the reader to think over an idea differently.
-	- e.g., *All animals are equal, but some are more equal than others.* (George Orwell)
+	- e.g., *All animals are equal, but some are more equal than others.* (*Animal Farm*, George Orwell)
  - Pathetic fallacy: A form of personification in which inanimate objects in nature are given emotions.
 	- e.g., *The wind roared as the earth shook in fury at our insolence.*
  - Symbol: The use of objects to represent an abstract idea.
@@ -131,4 +131,4 @@ The course code for this page is **ENG3UZ**.
  - Tone: The attitude of a writer or character toward a subject or audience, typically through word choice.
 	- e.g., *"I don't want to! That candy is MINE, and no one is going to take it from ME! Mine, mine, MINE!"*
  - Theme: The "main idea" or underlying meaning of a literary work, which can be given directly or indirectly.
-	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (ScytheRider)
+	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (*Eon Fable*, ScytheRider)
