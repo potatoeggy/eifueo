@@ -113,7 +113,7 @@ The course code for this page is **ENG3UZ**.
 	- e.g., *The fire station burned down.* (Situational)
 	- e.g., *The cat fell over, its head completely severed. Meanwhile, Johnny whistled in his car, thinking of all the treats and belly rubs he would give his precious kitty.* (Dramatic)
  - Jargon: Specialised terms that use actual words, which are usually unfamiliar to the layman.
-	- e.g., *p53 is responsible for holding the cell cycle at the G1/S checkpoint and will induce apoptosis if damage to its DNA is too great.*
+	- e.g., *p53 is responsible for holding the cell cycle at the G1/S checkpoint and will induce apoptosis if damage to the cell's deoxyribonucleic acid is too great.*
  - Motif: An recurring object or idea used to explain the theme.
 	- e.g., The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
  - Oxymoron: The pairing of two opposing or contradictory words.
