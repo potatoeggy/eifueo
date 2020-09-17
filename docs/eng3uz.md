@@ -117,7 +117,7 @@ The course code for this page is **ENG3UZ**.
  - Motif: An recurring object or idea used to explain the theme.
 	- e.g., The usage of life in Maycomb to show goodness and recurring images of gloomy areas supports the central idea of co-existence of good and evil.
  - Oxymoron: The pairing of two opposing or contradictory words.
-	- e.g., *"It was her only choice."*
+	- e.g., *It was her only choice.*
  - Paradox: A statement that appears to be self-contradictory at first glance, typically used to allow the reader to think over an idea differently.
 	- e.g., *All animals are equal, but some are more equal than others.* (George Orwell)
  - Pathetic fallacy: A form of personification in which inanimate objects in nature are given emotions.
