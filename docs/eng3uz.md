@@ -50,15 +50,15 @@ The course code for this page is **ENG3UZ**.
  - Rhyme scheme: The rhyming pattern or structure at the end of each line of poetry.
 	- e.g., the above poem uses ABAB as its rhyme scheme.
  - Rhythm: The usage of stressed and unstressed syllables to demonstrate patterns, especially in verses.
-	- Anapest: Three syllables, in which the first two are unstressed while the last is stressed.
-		- e.g., *"'Twas the* ***night*** *before* ***Christ****mas and* ***all*** *through the* ***house****"*
-	- Dactyl: Three syllables, in which the first is stressed while the rest are unstressed.
+	- Anapest: Two unstressed syllables followed by a stressed syllable (uu/).
+		- e.g., *"Understand?"*
+	- Dactyl: A stressed syllable followed by two unstressed syllables (/uu).
 		- e.g., *"Marvelous!"*
-	- Iamb: Two syllables, in which the first is unstressed while the second is stressed.
+	- Iamb: An unstressed syllable followed by a stressed syllable (u/).
 		- e.g., *To be, or not to be, that is the question.*
-	- Spondee: Two syllables, both of which are stressed.
+	- Spondee: A stressed syllable followed by another stressed syllable (//).
 		- e.g., *"Rage, rage against the dying of the light."* ("Do not go gentle into that good night", Dylan Thomas)
-	- Trochee: Two syllables, in which the first is stressed while the second is unstressed.
+	- Trochee: A stressed syllable followed an unstressed syllable (/u).
 		- e.g., *Double, double, toil and trouble* (*Macbeth*, William Shakespeare)
 
 ### Organisation and Pace
