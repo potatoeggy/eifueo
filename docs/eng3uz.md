@@ -66,9 +66,9 @@ The course code for this page is **ENG3UZ**.
  - Blank verse: An non-rhyming verse with a regular rhythmic structure, most commonly iambic pentameter (10 syllables/line, unstressed-to-stressed pattern)
 	- e.g., *But, woe is me, you are so sick of late, / So far from cheer and from your former state.* (*Hamlet*, William Shakespeare)
  - Enjambment: A single thought in a line of poetry using two lines.
-	- e.g., *If I were a potato / The world would be a tomato.*
- - Caesura: A pause, represented by two vertical lines ("||"), most commonly found in the middle of a line. Masculine caesurae follow stressed syllables while feminine caesurae follow ununstressed ones. They are also distinguished by their location in the line: Caesurae near the beginning, middle, or end of a line are referred to as initial, medial, and terminal caesurae, respectively.
-	- e.g., *You're stupid! || But so am I.*
+	- e.g., *The world / is a tomato.*
+ - Caesura: A pause in a poem used to emphasise a phrase.
+	- e.g., *I, am intellectual, make no speling errors whatsoever.*
  - Form:
 	- Ballad: A poetic story set to music relying on simple language, commonly containing romance and tragedy.
 	- Concrete poem: A poem written, arranged, or "drawn" in a way that its visual appearance is most important in conveying meaning.
@@ -83,7 +83,8 @@ The course code for this page is **ENG3UZ**.
  - Genre: A work classified by its form, content, and style. Poetry, fiction, drama, and non-fiction are the four main genres of literature.
  - Line: A typically straight sequence of characters that ends at the last character before a newline.
  - Meter: The pattern of stressed and unstressed syllables in a verse or poem.
- - Stanza: A collection of four or more lines of poetry with with a fixed length, meter, or rhyme scheme, similar to a paragraph in prose.
+ - Point of view: The perspective that a literary work is written from. First person usually focuses more on characters while third person perspectives focus more on plot.
+ - Stanza: A collection of four or more lines of poetry with with a fixed length, meter, or rhyme scheme, similar to a paragraph in prose. However, it is not paragraph.
  - Sentence types: The use of simple, compound, complex, and compound-complex sentences.
  - Sentence lengths: The number of characters or words present in a sentence.
  - Syntax: A set of rules in a language regarding the order of words.
@@ -96,7 +97,7 @@ The course code for this page is **ENG3UZ**.
 	- e.g., *She was beautiful.*
  - Allegory: The use of characters and events to describe an abstract idea to teach a moral lesson.
 	- e.g., *Animal Farm* by George Orwell, which uses farm animals and their actions to describe the Russian Revolution.
- - Ambiguity: A statement or phrase whose meaning is unclear. This can usually be resolved via context.
+ - Ambiguity: A statement or phrase whose meaning is unclear or can have multiple different meanings. This can usually be resolved via context. Strongly recommended to be used in poetry analysis.
 	- e.g., *Nintendo sold 22 million of them.*
  - Colloquialism: The use of informal phrases or slang in writing.
 	- e.g., *"Pog!"*
