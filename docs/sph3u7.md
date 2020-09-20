@@ -23,7 +23,7 @@ Every other SI unit is derived from fundamental units. Memorise these!
 Every SI unit can be expanded with metric prefixes.
 
 !!! example
-    milli + metre = millimetre ($10^{-3}) m
+    milli + metre = millimetre ($10^{-3}$) m
 
 | Prefix | Abbreviation | Value | Inverse ($10^{-n}$) abbreviation | Inverse prefix |
 | --- | --- | --- | --- | --- |
@@ -55,6 +55,8 @@ Every SI unit can be expanded with metric prefixes.
 !!! example
     $$1.25 + 1.20 = 2.45$$
     $$1.24 + 1.2 = 2.4$$
+    $$1.2 × 2 = 2$$
+    $$1.2 × 2.0 = 2.4$$
 
 !!! warning
     When rounding an answer with significant figures, if the **least significant figure** is $5$, round up only if the **second-least** significant figure is odd.
