@@ -6,7 +6,10 @@ nav:
   - G11 SL Math - Advanced Functions: mhf4u7.md
   - G11 HL English: eng3uz.md
   - IB Resources: resources.md
-theme: readthedocs
+
+theme:
+  name: materia
+
 markdown_extensions:
   - mdx_math:
       add_preview: True
