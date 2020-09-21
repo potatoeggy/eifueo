@@ -1,3 +1,5 @@
+# HL Chemistry - A
+
 The course code for this page is **SCH3UZ**.
 
 ## 11.1 - Uncertainties and errors in measurement and results

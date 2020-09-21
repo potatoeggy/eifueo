@@ -1,4 +1,4 @@
-# Grade 11 HL English
+# HL English - A
 
 The course code for this page is **ENG3UZ**.
 
