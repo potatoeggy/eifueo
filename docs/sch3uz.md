@@ -1,6 +1,15 @@
-# Grade 11 HL Chemistry
-
 The course code for this page is **SCH3UZ**.
+
+## 11.1 - Uncertainties and errors in measurement and results
+
+!!! info
+    Please see [SL Physics](/sph3u7/#12-uncertainties-and-errors) for more information.
+
+## 11.2 - Graphical techniques
+
+
+
+## 11.3 - Spectroscopic identification of organic compounds
 
 ## Resources
 
