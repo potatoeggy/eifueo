@@ -6,7 +6,7 @@ The course code for this page is **SPH3U7**.
 
 ### Fundamental units
 
-Every other SI unit is derived from fundamental units. Memorise these!
+Every other SI unit is derived from the fundamental SI units. Memorise these!
 
 | Quantity type | Unit | Symbol |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Every SI unit can be expanded with metric prefixes.
     $$1.2 × 2.0 = 2.4$$
 
 !!! warning
-    When rounding an answer with significant figures, if the **least significant figure** is $5$, round up only if the **second-least** significant figure is odd.
+    When rounding an answer with significant figures, if the **least significant figure** is $5$, round up only if the **second-least** significant figure is **odd**.
 
     $$1.25 + 1.2 = 2.4$$
     $$1.35 + 1.2 = 2.6$$
@@ -76,10 +76,76 @@ Scientific notation is written in the form of $m×10^{n}$, where $1 \leq m < 10,
 The order of magnitude of a number can be found by converting it to scientific notation and taking its power of 10.
 
 !!! example
-    - The order of magnitude of 212000, or $2.12×10^{5}$, is 5.
-    - The order of magnitude of 0.212, or $2.12×10^{-1}$, is -1.
+    - The order of magnitude of $212000$, or $2.12×10^{5}$, is 5.
+    - The order of magnitude of $0.212$, or $2.12×10^{-1}$, is -1.
 
 ## 1.2 - Uncertainties and errors
+
+### Random and systematic errors
+
+| Random error | Systematic error |
+| --- | --- |
+| Caused by imperfect measurements and is present in every measurement. | Caused by a flaw in experiment design or in the procedure. |
+| Can be reduced (but not avoided) by repeated trials or measurements. | Cannot be reduced by repeated measurements, but can be avoided completely. |
+| Error in precision. | Error in accuracy. |
+
+!!! example
+    - The failure to account for fluid evaporating at high temperatures is a systematic error, as it cannot be minimised by repeated measurements.
+    - The addition of slightly more solute due to uncertainty in instrument data is a random error, as it can be reduced by averaging the result of multiple trials.
+
+<img src="/resources/images/types-of-error.png" width=700>(Source: Kognity)</img>
+
+### Uncertainties
+
+Uncertainties are stated in the form of [value] ± [uncertainty]. A value is only as precise as its absolute uncertainty. Absolute uncertainty of **measurement** is usually represented to only 1 significant digit.
+
+!!! note
+    Variables with uncertainty use an uppercase delta for their uncertainty value: $a ± \Delta a$
+
+ - The absolute uncertainty of a number is written in the same unit as the value.
+ - The percentage uncertainty of a number is the written as a percentage of the value.
+
+!!! example
+    - Absolute uncertainty: 1.0 g ± 0.1 g
+    - Percentage uncertainty: 1.0 g ± 10%
+
+To determine a measurement's absolute uncertainty, if:
+
+ - the instrument states its uncertainty, use that.
+ - an analog instrument is used, the last digit is estimated and appended to the end of the reported value. The estimated digit is uncertain by 5 at its order of magnitude.
+ - a digital instrument is used, the last reported digit is uncertain by 1 at its order of magnitude.
+
+!!! example
+    - A ruler has millimetre markings. A pencil placed alongside the ruler has its tip just past 14 mm but before 15 mm. The pencil is 14.5 mm ± 0.5 mm long.
+    - A digital scale reads 0.66 kg for the mass of a human body. The human body has a mass of 0.66 kg ± 0.01 kg.
+
+!!! info
+    See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for how to perform operations with uncertainties.
+
+### Error bars
+
+Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical.
+
+<img src="/resources/images/error-bars.png" width=600>(Source: Kognity)</img>
+
+!!! note
+    On a graph, a data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
+
+### Uncertainty of gradient and intercepts
+
+!!! note "Definition"
+    - The **line of best fit** is the line that passes through **all error bars** while passing as closely as possible to all data points.
+    - The **minimum and maximum lines** are lines that minimise/maximise their slopes while still passing through **all error bars.**
+
+!!! warning
+    - Use solid lines for lines representing **continuous data** and dotted lines for **discrete data**.
+
+<img src="/resources/images/error-slopes.png" width=700>(Source: Kognity)</img>
+
+The uncertainty of the **slope** of the line of best fit is the difference between the maximum and minimum slopes.
+$$m_{best fit} ± m_{max}-m_{min}$$
+The uncertainty of the **intercepts** is the difference between the intercepts of the maximum and minimum lines.
+$$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
 
 
 ## 1.3 - Vectors and scalars
@@ -89,3 +155,4 @@ The order of magnitude of a number can be found by converting it to scientific n
  - [IB SL Physics Syllabus](/resources/g11/ib-physics-syllabus.pdf)
  - [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf)
  - [Linearising Data](/resources/g11/linearising-data.pdf)
+ - [External: IB Physics Notes](https://ibphysics.org)
