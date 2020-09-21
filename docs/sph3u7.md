@@ -119,8 +119,7 @@ To determine a measurement's absolute uncertainty, if:
     - A ruler has millimetre markings. A pencil placed alongside the ruler has its tip just past 14 mm but before 15 mm. The pencil is 14.5 mm ± 0.5 mm long.
     - A digital scale reads 0.66 kg for the mass of a human body. The human body has a mass of 0.66 kg ± 0.01 kg.
 
-!!! info
-    See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for how to perform operations with uncertainties.
+See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for how to perform **operations with uncertainties**.
 
 ### Error bars
 
