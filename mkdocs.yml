@@ -1,10 +1,10 @@
 site_name: Eifueo
 nav:
   - Home: index.md
-  - G11 SL Physics: sph3u7.md
-  - G11 HL Chemistry: sch3uz.md
-  - G11 SL Math - Advanced Functions: mhf4u7.md
-  - G11 HL English: eng3uz.md
+  - SL Physics A: sph3u7.md
+  - HL Chemistry A: sch3uz.md
+  - SL Math - Analysis and Approaches A: mhf4u7.md
+  - HL English A: eng3uz.md
   - IB Resources: resources.md
 
 theme:
