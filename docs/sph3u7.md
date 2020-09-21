@@ -151,6 +151,7 @@ $$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
 
 ## Resources
 
+ - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
  - [IB SL Physics Syllabus](/resources/g11/ib-physics-syllabus.pdf)
  - [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf)
  - [Linearising Data](/resources/g11/linearising-data.pdf)
