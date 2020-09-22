@@ -207,12 +207,6 @@ $$
 (a_{x}, a_{y}) - (b_{x}, b_{y}) = (a_{x} - b_{x}, a_{y} - b_{y})
 $$
 
-### Parallelogram rule
-
-The parallelogram rule states that the sum of two vectors that form two sides of a parallelogram is the diagonal of that parallelogram. The **sine** and **cosine laws** can be used to solve for the resultant vector.
-
-<img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
-
 ### Multiplying vectors and scalars
 
 The product of a vector multiplied by a scalar is a vector with a magnitude of the vector multiplied by the scalar with the same direction as the original vector.
