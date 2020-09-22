@@ -133,8 +133,8 @@ Error bars represent the uncertainty of the data, typically representing that da
 ### Uncertainty of gradient and intercepts
 
 !!! note "Definition"
-    - The **line of best fit** is the line that passes through **all error bars** while passing as closely as possible to all data points.
-    - The **minimum and maximum lines** are lines that minimise/maximise their slopes while still passing through **all error bars.**
+    - The **line of best fit** is the line that passes through **as many error bars as possible** while passing as closely as possible to all data points.
+    - The **minimum and maximum lines** are lines that minimise/maximise their slopes while passing through the first and last **error bars**.
 
 !!! warning
     - Use solid lines for lines representing **continuous data** and dotted lines for **discrete data**.
