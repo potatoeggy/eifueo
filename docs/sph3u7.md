@@ -157,29 +157,25 @@ $$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
     - Scalar quantities include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
     - Vector quantities include velocity, displacement, acceleration, force (e.g., weight), momentum, impulse, and more.
 
-Vectors are drawn as arrows whose length represents their scale/magnitude and their orientation refer to their direction.
+Vectors are drawn as arrows whose length represents their scale/magnitude and their orientation refer to their direction. A variable representing a vector is written with a right-pointing arrow above it.
 
-!!! info
-     - A variable representing a vector is written with a right-pointing arrow above it.
-     - The **standard form** of a vector is expressed as its magnitude followed by its unit followed by its direction in square brackets.
-     $$\vec{a} = 1\text{ m }[N 45° E]$$
-     - The **component form** of a vector is expressed as the location of its head on a cartesian plane if its tail were at $(0, 0)$.
-     $$\vec{a} = (1, 1)$$
-
-!!! example
-    The below shows a vector with a magnitude of 1, unit of metre, pointing north.
-    $$\vec{a} = 1\text{ m }[N]$$
+ - The **standard form** of a vector is expressed as its magnitude followed by its unit followed by its direction in square brackets.
+$$\vec{a} = 1\text{ m }[N 45° E]$$
+ - The **component form** of a vector is expressed as the location of its head on a cartesian plane if its tail were at $(0, 0)$.
+$$\vec{a} = (1, 1)$$
+ - The **magnitude** of a vector can be expressed as the absolute value of a vector.
+$$|\vec{a}| = 1 \text{ m}$$
 
 ### Adding/subtracting vectors diagrammatically
 
 1. Draw the first vector.
 2. Draw the second vector with its *tail* at the *head* of the first vector.
 3. Repeat step 2 as necessary for as many vectors as you want by attaching them to the *head* of the last vector.
-4. Draw a new vector from the *tail* of the first vector to the *head* of the last vector.
+4. Draw a new (**resultant**) vector from the *tail* of the first vector to the *head* of the last vector.
 
 <img src="/resources/images/vector-add-direction.png" width=700>(Source: Kognity)</img>
 
-When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction.
+When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction and then add the vectors.
 
 <img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
 
@@ -201,25 +197,25 @@ By breaking up a vector into lengths along the x- and y-axes, the sum of two vec
 
 <img src="/resources/images/vector-decomposition.png" width=700>(Source: Kognity)</img>
 
-For vector $\textbf{a}$ and vector $\textbf{b}$:
+For vector $\vec{a}$ and vector $\vec{b}$:
 
 $$
-a_{x} = a\cos\theta_{a} \\
-a_{y} = a\sin\theta_{a}
+\vec{a}_{x} = a\cos\theta_{a} \\
+\vec{a}_{y} = a\sin\theta_{a}
 $$
 
 Proof:  
-$a=\sqrt{a^{2}_{x}+a^{2}_{y}} \\$
-$=\sqrt{(a\cos\theta_{a})^2 + (a\sin\theta{a})^2} \\$
-$=\sqrt{a^2(\cos\theta_{a}^2 + \sin\theta_{a}^2)} \\$
-$=\sqrt{a^2} \\$
-$=a$
+$|\vec{a}| = \sqrt{a^{2}_{x}+a^{2}_{y}} \\$
+$= \sqrt{(|\vec{a}|\cos\theta_{a})^2 + (|\vec{a}|\sin\theta{a})^2} \\$
+$=\sqrt{|\vec{a}|^2(\cos\theta_{a}^2 + \sin\theta_{a}^2)} \\$
+$=\sqrt{|\vec{a}|^2} \\$
+$=|\vec{a}|$
 
 From the diagram above, we can figure out that:
 
 $$
-r_{magnitude}=\sqrt{(a\cos\theta_{a} + b\cos\theta_{b})^2 + (a\sin\theta_{a} + b\cos\theta_{b})^2} \\
-r_{direction}=\tan^{-1}(\frac{a\sin\theta_{a} + b\sin\theta_{b}}{a\cos\theta_{a} + b\cos\theta_{b}})
+|\vec{r}|=\sqrt{(|\vec{a}|\cos\theta_{a} + |\vec{b}|\cos\theta_{b})^2 + (|\vec{a}|\sin\theta_{a} + |\vec{b}|\cos\theta_{b})^2} \\
+\theta_{r}=\tan^{-1}(\frac{|\vec{a}|\sin\theta_{a} + |\vec{b}|\sin\theta_{b}}{|\vec{a}|\cos\theta_{a} + |\vec{b}|\cos\theta_{b}})
 $$
 
 ## Resources
