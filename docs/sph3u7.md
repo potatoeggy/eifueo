@@ -179,9 +179,37 @@ When subtracting a vector, **negate** the vector being subtracted by giving it a
 
 <img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
 
+### Adding/subtracting vectors algebraically
+
+Vectors can be broken up into two vectors (**"components"**) laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
+$$\vec{F}_x + \vec{F}_y = \vec{F}$$
+
+!!! info "Reminder"
+    The **component form** of a vector is expressed as $(|\vec{a}_x|, |\vec{a}_y|)$
+
+<img src="/resources/images/vector-simple-adding.png" width=700>(Source: Kognity)</img>
+
+By using the primary trignometric identities:
+$$
+|\vec{a}_{x}| = |\vec{a}|\cos\theta_{a} \\
+|\vec{a}_{y}| = |\vec{a}|\sin\theta_{a}
+$$
+
+<img src="/resources/images/vector-decomposition.png" width=700>(Source: Kognity)</img>
+
+Using their component forms, to:
+
+ - add two vectors, add their x- and y-coordinates together.
+ - subtract two vectors, subtract their x- and y-coordinates together.
+
+$$
+(a_{x}, a_{y}) + (b_{x}, b_{y}) = (a_{x} + b_{x}, a_{y} + b_{y}) \\
+(a_{x}, a_{y}) - (b_{x}, b_{y}) = (a_{x} - b_{x}, a_{y} - b_{y})
+$$
+
 ### Parallelogram rule
 
-The parallelogram rule states that the sum of two vectors that form two sides of a parallelogram is the diagonal of that parallelogram.
+The parallelogram rule states that the sum of two vectors that form two sides of a parallelogram is the diagonal of that parallelogram. The **sine** and **cosine laws** can be used to solve for the resultant vector.
 
 <img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
 
@@ -189,34 +217,10 @@ The parallelogram rule states that the sum of two vectors that form two sides of
 
 The product of a vector multiplied by a scalar is a vector with a magnitude of the vector multiplied by the scalar with the same direction as the original vector.
 
-$$v[direction] × s = (v×s)[direction]$$
+$$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
 
-### Vector decomposition
-
-By breaking up a vector into lengths along the x- and y-axes, the sum of two vectors can be calculated algebraically.
-
-<img src="/resources/images/vector-decomposition.png" width=700>(Source: Kognity)</img>
-
-For vector $\vec{a}$ and vector $\vec{b}$:
-
-$$
-\vec{a}_{x} = a\cos\theta_{a} \\
-\vec{a}_{y} = a\sin\theta_{a}
-$$
-
-Proof:  
-$|\vec{a}| = \sqrt{a^{2}_{x}+a^{2}_{y}} \\$
-$= \sqrt{(|\vec{a}|\cos\theta_{a})^2 + (|\vec{a}|\sin\theta{a})^2} \\$
-$=\sqrt{|\vec{a}|^2(\cos\theta_{a}^2 + \sin\theta_{a}^2)} \\$
-$=\sqrt{|\vec{a}|^2} \\$
-$=|\vec{a}|$
-
-From the diagram above, we can figure out that:
-
-$$
-|\vec{r}|=\sqrt{(|\vec{a}|\cos\theta_{a} + |\vec{b}|\cos\theta_{b})^2 + (|\vec{a}|\sin\theta_{a} + |\vec{b}|\cos\theta_{b})^2} \\
-\theta_{r}=\tan^{-1}(\frac{|\vec{a}|\sin\theta_{a} + |\vec{b}|\sin\theta_{b}}{|\vec{a}|\cos\theta_{a} + |\vec{b}|\cos\theta_{b}})
-$$
+!!! example
+    $$3 \text{ m} · 47 \text{ ms}^{-1}[N20°E] = 141 \text{ ms}^{-1}[N20°E]$$
 
 ## Resources
 
