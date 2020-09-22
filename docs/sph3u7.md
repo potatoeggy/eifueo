@@ -149,6 +149,68 @@ $$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
 
 ## 1.3 - Vectors and scalars
 
+!!! note "Definition"
+    - **Scalar:** A physical quantity with a numerical value and unit.
+    - **Vector:** A physical quantity with a numerical value, unit, and **direction.**
+
+??? example
+    - Physical quantities represented by scalars include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
+    - Physical quantities represented by vectors include velocity, displacement, acceleration, force (e.g., weight), momentum, impulse, and more.
+
+Vectors are represented as arrows whose length represents their scale/magnitude and their orientation refer to their direction.
+
+### Adding/subtracting vectors diagrammatically
+
+1. Draw the first vector.
+2. Draw the second vector with its *tail* at the *head* of the first vector.
+3. Repeat step 2 as necessary for as many vectors as you want by attaching them to the *head* of the last vector.
+4. Draw a new vector from the *tail* of the first vector to the *head* of the last vector.
+
+<img src="/resources/images/vector-add-direction.png" width=700>(Source: Kognity)</img>
+
+When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction.
+
+<img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
+
+### Parallelogram rule
+
+The parallelogram rule states that the sum of two vectors that form two sides of a parallelogram is the diagonal of that parallelogram.
+
+<img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
+
+### Multiplying vectors and scalars
+
+The product of a vector multiplied by a scalar is a vector with a magnitude of the vector multiplied by the scalar with the same direction as the original vector.
+
+$$v[direction] × s = (v×s)[direction]$$
+
+### Vector decomposition
+
+By breaking up a vector into lengths along the x- and y-axes, the sum of two vectors can be calculated algebraically.
+
+<img src="/resources/images/vector-decomposition.png" width=700>(Source: Kognity)</img>
+
+For vector $\textbf{a}$ and vector $\textbf{b}$:
+
+$$
+a_{x} = a\cos\theta_{a} \\
+a_{y} = a\sin\theta_{a}
+$$
+
+Proof:  
+$a=\sqrt{a^{2}_{x}+a^{2}_{y}} \\$
+$=\sqrt{(a\cos\theta_{a})^2 + (a\sin\theta{a})^2} \\$
+$=\sqrt{a^2(\cos\theta_{a}^2 + \sin\theta_{a}^2)} \\$
+$=\sqrt{a^2} \\$
+$=a$
+
+From the diagram above, we can figure out that:
+
+$$
+r_{magnitude}=\sqrt{(a\cos\theta_{a} + b\cos\theta_{b})^2 + (a\sin\theta_{a} + b\cos\theta_{b})^2} \\
+r_{direction}=\tan^{-1}(\frac{a\sin\theta_{a} + b\sin\theta_{b}}{a\cos\theta_{a} + b\cos\theta_{b}})
+$$
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
