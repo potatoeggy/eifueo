@@ -149,6 +149,79 @@ $$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
 
 ## 1.3 - Vectors and scalars
 
+!!! note "Definition"
+    - **Scalar:** A physical quantity with a numerical value (magnitude) and a unit.
+    - **Vector:** A physical quantity with a numerical value (magnitude), a unit, and a **direction.**
+
+??? example
+    - Scalar quantities include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
+    - Vector quantities include velocity, displacement, acceleration, force (e.g., weight), momentum, impulse, and more.
+
+Vectors are drawn as arrows whose length represents their scale/magnitude and their orientation refer to their direction. A variable representing a vector is written with a right-pointing arrow above it.
+
+ - The **standard form** of a vector is expressed as its magnitude followed by its unit followed by its direction in square brackets.
+$$\vec{a} = 1\text{ m }[N 45° E]$$
+ - The **component form** of a vector is expressed as the location of its head on a cartesian plane if its tail were at $(0, 0)$.
+$$\vec{a} = (1, 1)$$
+ - The **magnitude** of a vector can be expressed as the absolute value of a vector.
+$$|\vec{a}| = 1 \text{ m}$$
+
+### Adding/subtracting vectors diagrammatically
+
+1. Draw the first vector.
+2. Draw the second vector with its *tail* at the *head* of the first vector.
+3. Repeat step 2 as necessary for as many vectors as you want by attaching them to the *head* of the last vector.
+4. Draw a new (**resultant**) vector from the *tail* of the first vector to the *head* of the last vector.
+
+<img src="/resources/images/vector-add-direction.png" width=700>(Source: Kognity)</img>
+
+When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction and then add the vectors.
+
+<img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
+
+### Adding/subtracting vectors algebraically
+
+Vectors can be broken up into two vectors (**"components"**) laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
+$$\vec{F}_x + \vec{F}_y = \vec{F}$$
+
+!!! info "Reminder"
+    The **component form** of a vector is expressed as $(|\vec{a}_x|, |\vec{a}_y|)$
+
+<img src="/resources/images/vector-simple-adding.png" width=700>(Source: Kognity)</img>
+
+By using the primary trignometric identities:
+$$
+|\vec{a}_{x}| = |\vec{a}|\cos\theta_{a} \\
+|\vec{a}_{y}| = |\vec{a}|\sin\theta_{a}
+$$
+
+<img src="/resources/images/vector-decomposition.png" width=700>(Source: Kognity)</img>
+
+Using their component forms, to:
+
+ - add two vectors, add their x- and y-coordinates together.
+ - subtract two vectors, subtract their x- and y-coordinates together.
+
+$$
+(a_{x}, a_{y}) + (b_{x}, b_{y}) = (a_{x} + b_{x}, a_{y} + b_{y}) \\
+(a_{x}, a_{y}) - (b_{x}, b_{y}) = (a_{x} - b_{x}, a_{y} - b_{y})
+$$
+
+### Parallelogram rule
+
+The parallelogram rule states that the sum of two vectors that form two sides of a parallelogram is the diagonal of that parallelogram. The **sine** and **cosine laws** can be used to solve for the resultant vector.
+
+<img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
+
+### Multiplying vectors and scalars
+
+The product of a vector multiplied by a scalar is a vector with a magnitude of the vector multiplied by the scalar with the same direction as the original vector.
+
+$$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
+
+!!! example
+    $$3 \text{ m} · 47 \text{ ms}^{-1}[N20°E] = 141 \text{ ms}^{-1}[N20°E]$$
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
