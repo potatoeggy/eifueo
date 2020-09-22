@@ -150,14 +150,25 @@ $$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
 ## 1.3 - Vectors and scalars
 
 !!! note "Definition"
-    - **Scalar:** A physical quantity with a numerical value and unit.
-    - **Vector:** A physical quantity with a numerical value, unit, and **direction.**
+    - **Scalar:** A physical quantity with a numerical value (magnitude) and a unit.
+    - **Vector:** A physical quantity with a numerical value (magnitude), a unit, and a **direction.**
 
 ??? example
-    - Physical quantities represented by scalars include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
-    - Physical quantities represented by vectors include velocity, displacement, acceleration, force (e.g., weight), momentum, impulse, and more.
+    - Scalar quantities include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
+    - Vector quantities include velocity, displacement, acceleration, force (e.g., weight), momentum, impulse, and more.
 
-Vectors are represented as arrows whose length represents their scale/magnitude and their orientation refer to their direction.
+Vectors are drawn as arrows whose length represents their scale/magnitude and their orientation refer to their direction.
+
+!!! info
+     - A variable representing a vector is written with a right-pointing arrow above it.
+     - The **standard form** of a vector is expressed as its magnitude followed by its unit followed by its direction in square brackets.
+     $$\vec{a} = 1\text{ m }[N 45° E]$$
+     - The **component form** of a vector is expressed as the location of its head on a cartesian plane if its tail were at $(0, 0)$.
+     $$\vec{a} = (1, 1)$$
+
+!!! example
+    The below shows a vector with a magnitude of 1, unit of metre, pointing north.
+    $$\vec{a} = 1\text{ m }[N]$$
 
 ### Adding/subtracting vectors diagrammatically
 
