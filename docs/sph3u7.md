@@ -207,6 +207,18 @@ $$
 (a_{x}, a_{y}) - (b_{x}, b_{y}) = (a_{x} - b_{x}, a_{y} - b_{y})
 $$
 
+The length of resultant vector can then be found using the Pythagorean theorem.
+
+$$
+|\vec{c}|=\sqrt{(a_{x}+b_{x})^2 + (a_{y}+b_{y})^2}
+$$
+
+To find the resultant direction, use inverse tan to calculate the angle of the vector using the lengths of its components.
+
+$$
+\vec{c}_{direction} = \tan^{-1} \frac{c_y}{c_x}
+$$
+
 ### Multiplying vectors and scalars
 
 The product of a vector multiplied by a scalar is a vector with a magnitude of the vector multiplied by the scalar with the same direction as the original vector.
