@@ -210,7 +210,7 @@ $$
 The length of resultant vector can then be found using the Pythagorean theorem.
 
 $$
-|\vec{c}|=\sqrt{(a_{x}+b_{x})^2 + (a_{y}+b_{y})^2}
+|\vec{c}|=\sqrt{(c_{x})^2 + (c_{y})^2}
 $$
 
 To find the resultant direction, use inverse tan to calculate the angle of the vector using the lengths of its components.
