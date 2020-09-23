@@ -71,6 +71,53 @@ A frequency distribution table includes:
 For a given class $i$, the midpoint of that class is as follows:
 $$x_{i} = \frac{\text{lower bound} + \text{upper bound}}{2}$$
 
+### Quartiles
+
+A **percentile** is a value indicates the percentage of a data set that is below it. To find the location of a given percentile, $P_k = \frac{kn}{100}$, where $k$ denotes the percentile number and $n$ represents the sample size.
+
+A **decile** indicates that $n×10$% of data in the data set is below it.
+
+!!! example
+    A score equal to or greater than 97% of all scores in a test is said to be in the *97th percentile*, or in the *9th decile*.
+
+Quartiles split a data set into four equal sections.
+
+ - The **minimum** is the lowest value of a data set.
+ - The **first quartile** ($Q_1$) is at the 25th percentile.
+ - The **median** is at the 50th percentile.
+ - The **third quartile** ($Q_3$) is at the 75th percentile.
+ - The **maximum** is the highest value of a data set.
+
+The first and third quartiles are the median of the **[minimum, median)** and **(median, maximum]** respectively.
+
+!!! warning
+    When the median is equal to a data point in a set, it *cannot* be used to find $Q_1$ or $Q_3$. Only use the data below or above the median.
+
+!!! warning
+    When working with grouped data given in ranges, the actual data is unavailable. The five numbers above are instead:
+
+    - The minimum value is now the lower class boundary of the lowest class.
+    - The first quartile is the midpoint of the class it resides in.
+    - The median is the midpoint of the class it resides in.
+    - The third quartile is the midpoint of the class it resides in.
+    - The maximum value is now the upper class boundary of the highest class. If the highest value is excluded (e.g., $90≤x<100$), it also must be excluded when representing data (e.g., open dot instead of filled dot).
+
+The **interquartile range (IQR)** is equal to $Q_3 - Q_1$ and represents the range where 50% of the data lies.
+
+### Outliers
+
+Outliers are data values that significantly differ from the rest of the data set. They may be because of:
+
+ - a random natural occurrence, or
+ - abnormal circumstances
+
+Outliers can be ignored once identified.
+
+There are various methods to identify outliers. For **single-variable** data sets, the **lower and upper fences** may be used. Any data below the lower fence or above the upper fence can be considered outliers.
+
+ - The lower fence is equal to $Q_1 - 1.5×\text{IQR}$
+ - The upper fence is equal to $Q_3 + 1.5×\text{IQR}$
+
 ### Representing frequency
 
 A **stem and leaf plot** can list out all the data points while grouping them simultaneously.
@@ -90,15 +137,18 @@ A **cumulative frequency table** can be used to find the number of data values b
     | $1≤h<10$ | 2 | 2 |
     | $10≤h<19$ | 5 | 7 |
 
+A **cumulative frequency curve** consists of an independent variable on the x-axis, and the cumulative frequency on the y-axis. In grouped data, the values on the x-axis correspond to the upper bound of a given class. This graph is useful for interpolation (e.g., the value of a given percentile).
 
-### Outliers
+<img src="/resources/images/cumulative-frequency-curve.png" width=700>(Source: Kognity)</img> 
 
-Outliers are data values that significantly differs from the rest of the data set. They may be because of:
+A **box-and-whisker plot** is a visual representation of the **"5-number summary"** of a data set. These five numbers are the minimum and maximum values, the median, and the first and third quartiles.
 
- - a random natural occurrence, or
- - abnormal circumstances
+<img src="/resources/images/box-and-whisker.png" width=700>(Source: Kognity)</img>
 
-Outliers can be ignored once identified.
+!!! warning
+    In the image above, the maximum and minimum dots are filled. If these values were to be excluded (e.g., the upper class boundary in grouped data is excluded), they should be unfilled instead.
+
+### Measures of central tendency
 
 ## Resources
 
