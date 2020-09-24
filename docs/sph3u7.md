@@ -97,7 +97,7 @@ The order of magnitude of a number can be found by converting it to scientific n
 
 ### Uncertainties
 
-Uncertainties are stated in the form of [value] ± [uncertainty]. A value is only as precise as its absolute uncertainty. Absolute uncertainty of **measurement** is usually represented to only 1 significant digit.
+Uncertainties are stated in the form of [value] ± [uncertainty]. A value is only as precise as its absolute uncertainty. Absolute uncertainty of a **measurement** is usually represented to only 1 significant digit.
 
 !!! note
     Variables with uncertainty use an uppercase delta for their uncertainty value: $a ± \Delta a$
