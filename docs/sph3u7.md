@@ -216,7 +216,7 @@ $$
 To find the resultant direction, use inverse tan to calculate the angle of the vector using the lengths of its components.
 
 $$
-\vec{c}_{direction} = \tan^{-1} \frac{c_y}{c_x}
+\theta_{c} = \tan^{-1}(\frac{c_y}{c_x})
 $$
 
 ### Multiplying vectors and scalars
@@ -227,6 +227,43 @@ $$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
 
 !!! example
     $$3 \text{ m} · 47 \text{ ms}^{-1}[N20°E] = 141 \text{ ms}^{-1}[N20°E]$$
+
+## 2.1 - Motion
+
+### Models
+
+A **scientific model** is a simplification of a system based on assumptions used to explain or make predictions for that system.
+
+!!! note "Definition"
+    - **System**: An object or a connected group of objects.
+    - **Point particle assumption**: An assumption that models a system as a blob of matter. It is more reliable if the size and shape of the object(s) do not matter much.
+    - **Uniform motion**: The type of motion in which the speed of an object is constant.
+
+### Displaying motion
+
+Motion can be expressed visually using a **motion diagram** or a **position-time graph**.
+
+// TODO: insert motion diagram here because kognity bad
+
+A **position-time graph** expands on the motion diagram by specifying a precise **position** value on the vertical axis in addition to time on the horizontal axis. The line of best fit indicates the object's speed, as well as if it is accelerating or decelerating.
+
+<img src="/resources/images/position-time-graph.png" width=700>(Source: Kognity)</img>
+
+When the slope is:
+
+ - linear, the object is moving at a constant speed.
+ - exponential, the object is accelerating.
+ - logarithmic, the object is decelerating.
+
+## 2.2 - Forces
+
+## 2.3 - Work, energy, and power
+
+## 2.4 - Momentum and impulse
+
+## 3.1 - Thermal concepts
+
+## 3.2 - Modelling a gas
 
 ## Resources
 
