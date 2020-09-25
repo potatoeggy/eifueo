@@ -172,13 +172,18 @@ $$|\vec{a}| = 1 \text{ m}$$
 ### Adding/subtracting vectors diagrammatically
 
 1. Draw the first vector.
-2. Draw the second vector with its *tail* at the *head* of the first vector.
+2. Draw the second vector with its tail at the head of the first vector.
 3. Repeat step 2 as necessary for as many vectors as you want by attaching them to the *head* of the last vector.
-4. Draw a new (**resultant**) vector from the *tail* of the first vector to the *head* of the last vector.
+4. Draw a new ("resultant") vector from the tail of the first vector to the head of the last vector.
 
 <img src="/resources/images/vector-add-direction.png" width=700>(Source: Kognity)</img>
 
-When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction and then add the vectors.
+When subtracting exactly one vector from another, repeat the steps above, but instead place the second vector at the **tail** of the first, then draw the resultant vector from the head of the second vector to the head of the first vector. Note that this only applies when subtracting exactly one vector from another.
+
+!!! example
+    In the diagram above, $\vec{b}=\vec{a+b}-\vec{a}$.
+
+Alternatively, for any number of vectors, negate the vector(s) being subtracted by **giving it an opposite direction** and then add the negative vectors.
 
 <img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
 
