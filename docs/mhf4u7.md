@@ -55,7 +55,7 @@ A frequency distribution table includes:
 
  - A number of classes, all of the same width.
 	- This number is arbitrarily chosen, but a commonly used formula is $\lceil\sqrt{\text{# of elements}}\rceil$.
-	- The width (size) of each class is $\lceil\frac{\text{max value} - \text{min value}}{\text{number of classes}}\rceil$.
+	- The width (size) of each class is $\lceil\frac{\text{max} - \text{min}}{\text{# of classes}}\rceil$.
 	- Each class includes its lower bound and excludes its upper bound ($\text{lower} ≤ x < \text{upper}$)
 	- The **relative frequency** of a data set is the percentage of the whole data set present in that class in decimal form.
  - The number of values that fall under each class.
