@@ -186,7 +186,7 @@ Alternatively, for any number of vectors, negate the vector(s) being subtracted 
 Vectors can be broken up into two **component vectors** laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
 $$\vec{F}_x + \vec{F}_y = \vec{F}$$
 
-!!! info "Reminder"
+!!! reminder
     The **component form** of a vector is expressed as $(|\vec{a}_x|, |\vec{a}_y|)$
 
 <img src="/resources/images/vector-simple-adding.png" width=700>(Source: Kognity)</img>
@@ -232,6 +232,14 @@ $$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
 
 ## 2.1 - Motion
 
+!!! definition
+    - **Uniform motion**: Constant speed.
+    - **Position**: The location of an object relative to an origin (typically the position of the object at time zero).
+    - **Distance**: The scalar of the exact path taken by an object from an initial to a final position.
+    - **Displacement**: The vector of the shortest path from an initial to a final position.
+    - **Velocity**: The vector of the rate of change of *displacement* over time.
+    - **Acceleration**: The vector of the rate of change of *velocity* over time.
+
 ### Models
 
 A **scientific model** is a simplification of a system based on assumptions used to explain or make predictions for that system.
@@ -239,23 +247,34 @@ A **scientific model** is a simplification of a system based on assumptions used
 !!! note "Definition"
     - **System**: An object or a connected group of objects.
     - **Point particle assumption**: An assumption that models a system as a blob of matter. It is more reliable if the size and shape of the object(s) do not matter much.
-    - **Uniform motion**: The type of motion in which the speed of an object is constant.
 
 ### Displaying motion
 
-Motion can be expressed visually using a **motion diagram** or a **position-time graph**.
-
-// TODO: insert motion diagram here because kognity bad
+Motion can be expressed visually in many different ways.
 
 A **position-time graph** expands on the motion diagram by specifying a precise **position** value on the vertical axis in addition to time on the horizontal axis. The line of best fit indicates the object's speed, as well as if it is accelerating or decelerating.
 
-<img src="/resources/images/position-time-graph.png" width=700>(Source: Kognity)</img>
+$s$ is commonly used in IB to represent displacement and $s_{0}$ represents the initial position (when $t=0$).
 
-When the slope is:
+<img src="/resources/images/position-time-graph.png" width=700>(Source: Kognity)</img>.
 
- - linear, the object is moving at a constant speed.
- - exponential, the object is accelerating.
- - logarithmic, the object is decelerating.
+On a position-time or displacement-time graph:
+
+ - The object is not moving if the slope is zero.
+ - The object is moving at a constant *velocity* if the slope is linear.
+ - The object is moving with constant acceleration if the slope increases exponentially.
+ - The object is moving with constant deceleration if the slope decreases exponentially.
+ - The gradient of the graph at any time is the object's *instantaneous velocity* at that exact time.
+
+A **velocity-time graph** is similar to a position-time graph but replaces the position on the vertical axis with an object's velocity instead.
+
+<img src="/resources/images/velocity-time-graph.png" width=700>(Source: Kognity)</img>
+
+On a velocity-time graph, the object is moving with constant acceleration/deceleration if the slope is linear.
+
+The area below a velocity-time graph at a given time is equal to the displacement (change in position) at that time, since $ms^{-1}×s=m$. When finding the displacement of an object when it is accelerating, breaking up the graph into a rectangle and a triangle then adding their areas will give their resultant displacement.
+
+<img src="/resources/images/velocity-time-displacement.png" width=700>(Source: Kognity)</img>
 
 ## 2.2 - Forces
 
