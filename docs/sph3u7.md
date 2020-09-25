@@ -112,7 +112,7 @@ Uncertainties are stated in the form of [value] ± [uncertainty]. A value is onl
 To determine a measurement's absolute uncertainty, if:
 
  - the instrument states its uncertainty, use that.
- - an analog instrument is used, the last digit is estimated and appended to the end of the reported value. The estimated digit is uncertain by 5 at its order of magnitude.
+ - an analog instrument is used, half of the most precise reading is uncertain.
  - a digital instrument is used, the last reported digit is uncertain by 1 at its order of magnitude.
 
 !!! example
@@ -142,16 +142,16 @@ Error bars represent the uncertainty of the data, typically representing that da
 <img src="/resources/images/error-slopes.png" width=700>(Source: Kognity)</img>
 
 The uncertainty of the **slope** of the line of best fit is the difference between the maximum and minimum slopes.
-$$m_{best fit} ± m_{max}-m_{min}$$
+$$m_{best fit} ± \frac{m_{max}-m_{min}}{2}$$
 The uncertainty of the **intercepts** is the difference between the intercepts of the maximum and minimum lines.
-$$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
+$$intercept_{best fit} ± \frac{intercept_{max} - intercept_{min}}{2}$$
 
 
 ## 1.3 - Vectors and scalars
 
 !!! note "Definition"
     - **Scalar:** A physical quantity with a numerical value (magnitude) and a unit.
-    - **Vector:** A physical quantity with a numerical value (magnitude), a unit, and a **direction.**
+    - **Vector:** A physical quantity with a **non-negative** numerical value (magnitude), a unit, and a **direction.**
 
 ??? example
     - Scalar quantities include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
