@@ -4,6 +4,9 @@ The course code for this page is **SPH3U7**.
 
 ## 1.1 - Measurements in physics
 
+!!! reminder
+    All physical quantities must be expressed as a **product** of a magnitude and a unit. For example, ten metres should be written as $10 \text{ m}$.
+
 ### Fundamental units
 
 Every other SI unit is derived from the fundamental SI units. Memorise these!
@@ -20,7 +23,7 @@ Every other SI unit is derived from the fundamental SI units. Memorise these!
 
 ### Metric prefixes
 
-Every SI unit can be expanded with metric prefixes.
+Every SI unit can be expanded with metric prefixes. Note that the difference between many of these prefixes is $10^3$.
 
 !!! example
     milli + metre = millimetre ($10^{-3}$) m
