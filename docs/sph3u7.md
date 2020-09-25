@@ -142,9 +142,9 @@ Error bars represent the uncertainty of the data, typically representing that da
 <img src="/resources/images/error-slopes.png" width=700>(Source: Kognity)</img>
 
 The uncertainty of the **slope** of the line of best fit is the difference between the maximum and minimum slopes.
-$$m_{best fit} ± \frac{m_{max}-m_{min}}{2}$$
+$$m_{\text{best fit}} ± \frac{m_{\max}-m_{\min}}{2}$$
 The uncertainty of the **intercepts** is the difference between the intercepts of the maximum and minimum lines.
-$$intercept_{best fit} ± \frac{intercept_{max} - intercept_{min}}{2}$$
+$$\text{intercept}_{\text{best fit}} ± \frac{\text{intercept}_{\max} - \text{intercept}_{\min}}{2}$$
 
 
 ## 1.3 - Vectors and scalars
