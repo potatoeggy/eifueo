@@ -100,10 +100,7 @@ The order of magnitude of a number can be found by converting it to scientific n
 
 ### Uncertainties
 
-Uncertainties are stated in the form of [value] ± [uncertainty]. A value is only as precise as its absolute uncertainty. Absolute uncertainty of a **measurement** is usually represented to only 1 significant digit.
-
-!!! note
-    Variables with uncertainty use an uppercase delta for their uncertainty value: $a ± \Delta a$
+Uncertainties are stated in the form of $a±\Delta a$. A value is only as precise as its absolute uncertainty. Absolute uncertainty of a **measurement** is usually represented to only 1 significant digit.
 
  - The absolute uncertainty of a number is written in the same unit as the value.
  - The percentage uncertainty of a number is the written as a percentage of the value.
@@ -126,12 +123,9 @@ See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for h
 
 ### Error bars
 
-Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical.
+Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical. A data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
 
 <img src="/resources/images/error-bars.png" width=600>(Source: Kognity)</img>
-
-!!! note
-    On a graph, a data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
 
 ### Uncertainty of gradient and intercepts
 
@@ -189,7 +183,7 @@ Alternatively, for any number of vectors, negate the vector(s) being subtracted 
 
 ### Adding/subtracting vectors algebraically
 
-Vectors can be broken up into two vectors (**"components"**) laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
+Vectors can be broken up into two **component vectors** laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
 $$\vec{F}_x + \vec{F}_y = \vec{F}$$
 
 !!! info "Reminder"
