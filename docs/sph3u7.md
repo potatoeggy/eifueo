@@ -4,6 +4,9 @@ The course code for this page is **SPH3U7**.
 
 ## 1.1 - Measurements in physics
 
+!!! reminder
+    All physical quantities must be expressed as a **product** of a magnitude and a unit. For example, ten metres should be written as $10 \text{ m}$.
+
 ### Fundamental units
 
 Every other SI unit is derived from the fundamental SI units. Memorise these!
@@ -20,7 +23,7 @@ Every other SI unit is derived from the fundamental SI units. Memorise these!
 
 ### Metric prefixes
 
-Every SI unit can be expanded with metric prefixes.
+Every SI unit can be expanded with metric prefixes. Note that the difference between many of these prefixes is $10^3$.
 
 !!! example
     milli + metre = millimetre ($10^{-3}$) m
@@ -97,10 +100,7 @@ The order of magnitude of a number can be found by converting it to scientific n
 
 ### Uncertainties
 
-Uncertainties are stated in the form of [value] ± [uncertainty]. A value is only as precise as its absolute uncertainty. Absolute uncertainty of a **measurement** is usually represented to only 1 significant digit.
-
-!!! note
-    Variables with uncertainty use an uppercase delta for their uncertainty value: $a ± \Delta a$
+Uncertainties are stated in the form of $a±\Delta a$. A value is only as precise as its absolute uncertainty. Absolute uncertainty of a **measurement** is usually represented to only 1 significant digit.
 
  - The absolute uncertainty of a number is written in the same unit as the value.
  - The percentage uncertainty of a number is the written as a percentage of the value.
@@ -112,7 +112,7 @@ Uncertainties are stated in the form of [value] ± [uncertainty]. A value is onl
 To determine a measurement's absolute uncertainty, if:
 
  - the instrument states its uncertainty, use that.
- - an analog instrument is used, the last digit is estimated and appended to the end of the reported value. The estimated digit is uncertain by 5 at its order of magnitude.
+ - an analog instrument is used, half of the most precise reading is uncertain.
  - a digital instrument is used, the last reported digit is uncertain by 1 at its order of magnitude.
 
 !!! example
@@ -123,12 +123,9 @@ See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for h
 
 ### Error bars
 
-Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical.
+Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical. A data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
 
 <img src="/resources/images/error-bars.png" width=600>(Source: Kognity)</img>
-
-!!! note
-    On a graph, a data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
 
 ### Uncertainty of gradient and intercepts
 
@@ -142,16 +139,16 @@ Error bars represent the uncertainty of the data, typically representing that da
 <img src="/resources/images/error-slopes.png" width=700>(Source: Kognity)</img>
 
 The uncertainty of the **slope** of the line of best fit is the difference between the maximum and minimum slopes.
-$$m_{best fit} ± m_{max}-m_{min}$$
+$$m_{\text{best fit}} ± \frac{m_{\max}-m_{\min}}{2}$$
 The uncertainty of the **intercepts** is the difference between the intercepts of the maximum and minimum lines.
-$$intercept_{best fit} ± intercept_{max} - intercept_{min}$$
+$$\text{intercept}_{\text{best fit}} ± \frac{\text{intercept}_{\max} - \text{intercept}_{\min}}{2}$$
 
 
 ## 1.3 - Vectors and scalars
 
 !!! note "Definition"
     - **Scalar:** A physical quantity with a numerical value (magnitude) and a unit.
-    - **Vector:** A physical quantity with a numerical value (magnitude), a unit, and a **direction.**
+    - **Vector:** A physical quantity with a **non-negative** numerical value (magnitude), a unit, and a **direction.**
 
 ??? example
     - Scalar quantities include speed, distance, mass, temperature, pressure, time, frequency, current, voltage, and more.
@@ -169,19 +166,24 @@ $$|\vec{a}| = 1 \text{ m}$$
 ### Adding/subtracting vectors diagrammatically
 
 1. Draw the first vector.
-2. Draw the second vector with its *tail* at the *head* of the first vector.
+2. Draw the second vector with its tail at the head of the first vector.
 3. Repeat step 2 as necessary for as many vectors as you want by attaching them to the *head* of the last vector.
-4. Draw a new (**resultant**) vector from the *tail* of the first vector to the *head* of the last vector.
+4. Draw a new ("resultant") vector from the tail of the first vector to the head of the last vector.
 
 <img src="/resources/images/vector-add-direction.png" width=700>(Source: Kognity)</img>
 
-When subtracting a vector, **negate** the vector being subtracted by giving it an opposite direction and then add the vectors.
+When subtracting exactly one vector from another, repeat the steps above, but instead place the second vector at the **tail** of the first, then draw the resultant vector from the head of the second vector to the head of the first vector. Note that this only applies when subtracting exactly one vector from another.
+
+!!! example
+    In the diagram above, $\vec{b}=\vec{a+b}-\vec{a}$.
+
+Alternatively, for any number of vectors, negate the vector(s) being subtracted by **giving it an opposite direction** and then add the negative vectors.
 
 <img src="/resources/images/vector-subtract-direction.png" width=700>(Source: Kognity)</img>
 
 ### Adding/subtracting vectors algebraically
 
-Vectors can be broken up into two vectors (**"components"**) laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
+Vectors can be broken up into two **component vectors** laying on the x- and y-axes via trigonometry such that the resultant of the two components is the original vector. This is especially helpful when adding larger (3+) numbers of vectors.
 $$\vec{F}_x + \vec{F}_y = \vec{F}$$
 
 !!! info "Reminder"
