@@ -133,7 +133,7 @@ If the error bars of a data point are too small to see, note at the bottom of th
 
 !!! note "Definition"
     - The **line of best fit** is the line that passes through **as many error bars as possible** while passing as closely as possible to all data points.
-    - The **minimum and maximum lines** are lines that minimise/maximise their slopes while passing through the first and last **error bars**.
+    - The **minimum and maximum lines** are lines that minimise/maximise their slopes while passing through as many **error bars** as possible.
 
 !!! warning
     - Use solid lines for lines representing **continuous data** and dotted lines for **discrete data**.
