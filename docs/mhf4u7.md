@@ -156,3 +156,4 @@ A **box-and-whisker plot** is a visual representation of the **"5-number summary
  - [IB Math Analysis and Approaches Formula Booklet](/resources/g11/ib-math-data-booklet.pdf)
  - [Calculus and Vectors 12 Textbook](/resources/g11/calculus-vectors-textbook.pdf)
  - [Course Pack Unit 1: Descriptive Statistics](/resources/g11/s1cp1.pdf)
+ - [TI-84 Plus Basic Calculator Functions](/resources/g11/ti-84-plus.pdf)
