@@ -137,6 +137,9 @@ If the error bars of a data point are too small to see, note at the bottom of th
 
 !!! warning
     - Use solid lines for lines representing **continuous data** and dotted lines for **discrete data**.
+    - The line of best fit may not be a straight line.
+    - Be wary and verify the results of a best fit line from software, as outliers and data trends may not be recognised by a computer.
+    - It is better to leave a data point in the graph compared to removing it entirely, when possible.
 
 <img src="/resources/images/error-slopes.png" width=700>(Source: Kognity)</img>
 
