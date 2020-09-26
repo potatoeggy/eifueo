@@ -123,9 +123,11 @@ See [Dealing with Uncertainties](/resources/g11/physics-uncertainties.pdf) for h
 
 ### Error bars
 
-Error bars represent the uncertainty of the data, typically representing that data point's standard deviation, and can be both horizontal or vertical. A data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
+Error bars represent the uncertainty of the data and can be both horizontal or vertical. They are almost always required for both the independent and dependent variables. A data point with uncertain values is written as $(x ± \Delta x, y ± \Delta y)$
 
 <img src="/resources/images/error-bars.png" width=600>(Source: Kognity)</img>
+
+If the error bars of a data point are too small to see, note at the bottom of the graph that error bars are too small to see.
 
 ### Uncertainty of gradient and intercepts
 
