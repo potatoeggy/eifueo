@@ -150,6 +150,62 @@ A **box-and-whisker plot** is a visual representation of the **"5-number summary
 
 ### Measures of central tendency
 
+The **mean** is the sum of all values divided by the total number of values. $\bar{x}$ represents the mean of a sample while $µ$ represents the mean of a population.
+
+$$\bar{x}=\frac{\Sigma x}{n}$$ where $n$ is equal to the number of values in the data set.
+
+In grouped data, the mean can only be estimated, and is equal to the average of the sum of midpoint of all classes multiplied by their class frequency.
+
+$$\bar{x} = \frac{\Sigma x_i f_i}{\Sigma f_i}$$ where $x_i$ is the midpoint of the $i$th class and $f_i$ is the frequency of the $i$th class.
+
+The **median** is the middle value when the data set is sorted. If the data set has an even number of values, the median is the mean of the two centre-most values.
+
+In grouped data, the median class is the class of the median value.
+
+The **mode** is the value that appears most often.
+
+!!! definition
+    - **Unimodal**: A data set with one mode.
+    - **Bimodal**: A data set with two modes.
+    - **Multimodal**: A data set with more than two modes.
+    - **No mode**: A data set with no values occurring more than once.
+
+In grouped data, the **modal class** is the class with the greatest frequency.
+
+### Measures of dispersion
+
+These are used to quantify the variability or spread of the data set.
+
+The **range** of a data set is simple to calculate but is easily thrown off by outliers.
+
+$$R = \max - \min$$
+
+The **variance** ($\sigma^2$) and **standard deviation** ($\sigma$) of a data set are more useful. The standard deviation indicates how closely the values of a data set are clustered around the mean.
+
+$$\sigma = \sqrt{\frac{\Sigma f_i (x_i - \bar{x})^2}{n}}$$ where $f_i$ is the frequency of the $i$th class, $x_i$ is the midpoint of the $i$th class, $\bar{x}$ is the mean of the whole data set, and $n$ is the number of values in the data set.
+
+For ungrouped data, assume $f_i = 1$.
+
+In a typical bell-shaped distribution:
+
+ - 68% of data lie within 1 standard deviation of the mean ($\bar{x} ± \sigma$)
+ - 95% of data lie within 2 standard deviations of the mean ($\bar{x} ± 2\sigma$)
+ - 99.7% of data lie within 3 standard deviations of the mean ($\bar{x} ± 3\sigma$)
+ - any data outside 3 standard deviations of the mean can be considered outliers
+
+!!! info
+    The **points of inflection** (when the curve changes direction) of a normal bell curve occur at $\bar{x} ± \sigma$.
+
+### Constant operations on mean and standard deviation
+
+When adding or subtracting a constant to a whole data set, the mean is increased/decreased by that constant, but the standard deviation **does not change**.
+
+When multiplying or dividing a constant to a whole data set, both the mean and the standard deviation are multiplied or divided by that constant, respectively.
+
+### Linear correlation and regression
+
+**Correlation does not imply causation**.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
