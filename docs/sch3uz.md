@@ -38,7 +38,7 @@ When plotting a graph:
 
 ### Titles
 
-The title of a graph should clearly indicate what the graph represents under what conditions in **title case**, so that any onlooker should be able to identify the experiment. It should not include "vs.". Any legends present should be located under the graph.
+The title of a graph should clearly indicate what the graph represents under what conditions in **title case**, so that any onlooker should be able to identify the experiment. It should not include "vs." Any legends present should be located under the graph.
 
 ??? example
     "Effect of Cat Deaths on Suicides in New Zealand"
