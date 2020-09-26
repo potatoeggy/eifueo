@@ -247,7 +247,7 @@ $$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
 
 ### Models
 
-A **scientific model** is a simplification of a system based on assumptions used to explain or make predictions for that system.
+A **scientific model** is a simplification of a system based on assumptions that predicts and/or explain observations for that system.
 
 !!! note "Definition"
     - **System**: An object or a connected group of objects.
