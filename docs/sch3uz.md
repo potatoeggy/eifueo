@@ -77,9 +77,14 @@ Isotopes are atoms of the same element but with different masses, or alternative
 
 ### Atomic mass
 
-The mass of every atom is represented relative to 1/12th of a carbon-12 atom. This mass is either unitless or expressed in terms of **atomic mass units (amu or u)**. On the periodic table, the **relative atomic mass** ($A_r$) is shown, which is a weighted average of each the mass of each natural isotope combined with their natural abundance (%occurence).
+The mass of every atom is represented relative to 1/12th of a carbon-12 atom. This mass is either unitless or expressed in terms of **atomic mass units (amu or u)**. On the periodic table, the **relative atomic mass** ($A_r$) is shown, which is the sum of the masses of each isotope combined with their natural abundance (%abundance).
 
-$$A_r = \text{%occurrence}×\text{mass number of isotope}$$
+$$A_r = \text{%abundance}×\text{mass number of isotope}$$
+$$m_a = \Sigma A_r$$
+
+When calculating the atomic mass from the graph from a **mass spectrometer**, the sum of the natural abundances of each isotope may not equal 100 or 1 (not in %abundance). In this case, calculation of %abundance will need to be done before solving for $m_a$.
+
+A mass spectrometer may also provide mass in the form of $M/Z$, which represents mass over charge. For the sake of simplicity, $Z=1$, so $M/Z$ represents the mass of a particle.
 
 ### Atomic radius
 
