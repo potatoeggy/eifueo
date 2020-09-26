@@ -64,7 +64,7 @@ Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertai
 !!! example
     - $^1_1 \text{H}^{+}$ is the atomic notation for the most common hydrogen ion.
     - $^{16}_8 \text{O}^{2-}$ is the atomic notation for the most common oxygen ion.
-    - $^{20}_{10} \text{Ne}$ is the atomic notation for a neon atom.
+    - $^{20}_{10} \text{Ne}$ is the atomic notation for the most common neon atom.
 
 ### Isotopes
 
