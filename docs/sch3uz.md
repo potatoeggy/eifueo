@@ -2,26 +2,93 @@
 
 The course code for this page is **SCH3UZ**.
 
-## Designing an experiment
+## Designing a scientific investigation
 
 ### Scope
 
-### Background information
+The scope of an experiment goes at the very beginning of it. It includes a general introduction to the topic of investigation as well as personal interest.
 
 ### Research question
 
-### Hypothesis
+The research question of an experiment is a hyper-focused and specific question related to the topic. It contains and asks about the effect of an **independent variable** on a **dependent variable**.
+
+### Background information and hypothesis
+
+!!! note
+    This section can instead be placed immediately before the research question depending on the experiment.
+
+In this section, scientific theories are provided to help the reader understand the rationale of the question, the design of the experiment, and data processing measures. If any theoretical/literature values are used, they should be introduced here.
+
+A hypothesis consists of a justified prediction of the expected outcome and should be integrated with any background information.
 
 ### Variables
 
+!!! definition
+    - The **independent** variable is the variable that is explicitly changed to attempt to affect the dependent variable.
+    - The **dependent** variable is the variable that is directly monitored and measured in the experiment and is expected to change if the independent variable changes.
+    - **Controlled** variables (also known as "control variables") are variables that should be kept constant so they do not affect the dependent variable.
+
+The independent variable, dependent variable, and any controlled variables should be listed under this section.
+
 ### Materials
+
+A list of materials and equipment should be listed here, as well as their precision. If a controlled variable needs to be measured, any instruments that would be used to do so should also be listed here.
 
 ### Procedure
 
+A clear, detailed, and concise set of instructions written in *past tense* should be placed in this section as either a numbered list or descriptive paragraph. To reduce confusion, if a numbered list is used, referring directly to numbers should be avoided, and referring to numbers recursively must *never* happen. A procedure must include:
+
+ - a clear, titled, labelled, and annotated diagram
+ - instructions for recording data (including for controlled variables)
+
+If necessary, a "setup" section can be added as preparatory steps should not be listed in the main procedure.
+
 ### Data collection
+
+Data should be collected in an organised and titled table that should be prepared before the experiment. To reduce plagiarism, the data table must be verified by a teacher before leaving the lab space. After verification, **no new data** can be added. During an experiment that spans multiple days, this data must be verified every day. The data table must include:
+
+ - units with uncertainty, typically in the table header
+ - *qualitative* data (quantitative data can be optional in some experiments)
+ - repeated data/controlled variables, typically in the title
+
+Only **raw data** prior to any processing or calculations, with the exception of averages, should be present in the data table.
+
+A data table should be as concise as possible, and redundancy should be minimised. In that vein, trial numbers should *not* be recorded unless that data is relevant.
+
+!!! example
+    **Effect of Fat Content on Sugar Content in Ice Cream**
+    
+    | Fat Content (g ± 0.1 g) | Sugar Content (g ± 0.1 g) | Notes |
+    | --- | --- | --- |
+    | 2.0 | 5.1 | - strawberry ice cream |
+    | 0.1 | 2.3 | - mint chocolate chip ice cream |
 
 ### Data processing
 
+A single sample calculation showing all steps should be present and clearly explained. The rest of the data can be processed without describing any steps. A **single** graph may be included if needed.
+
+Some general rules include:
+
+ - units and uncertainties must be present in all calculations
+ - simple operations such as averages and conversions (e.g., g to kg) do not need to be explained
+ - the graph, if any, should span a full page and should directly answer the research question
+
+A final, reorganised, and processed data table should be present here, showing only relevant information.
+
+### Conclusion and evaluation
+
+This section should be free of any new background information or calculations. It should, in sequence:
+
+ - summarise the results of the experiment without connecting it to the hypothesis
+ - identify whether the results of the experiment agree or disagree with the hypothesis
+ - evaluate 3–5 systematic errors (usually) present in the experiment, both in the procedure and in data collection/processing, in **decreasing** order of impact to the experiment
+
+The evaluation of systematic errors should include:
+
+ - a description of the error
+ - how the error affected the data
+ - how the error affected the final result
+ - how the error can be remedied with available school resources
 ## 11.1 - Uncertainties and errors in measurement and results
 
 Please see [SL Physics#Uncertainties and errors](/sph3u7/#12-uncertainties-and-errors) for more information.
