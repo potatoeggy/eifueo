@@ -202,8 +202,8 @@ When performing an operation with a constant value to a whole data set:
 
 | Operation | Effect on mean | Effect on standard deviation |
 | --- | --- | --- |
-| Addition/Subtraction | Increased/decreased by constant | No change |
-| Multiplication/Division | Multiplied/divided by constant | Multiplied/divided by constant |
+| Addition/subtraction | Increased/decreased by constant | No change |
+| Multiplication/division | Multiplied/divided by constant | Multiplied/divided by constant |
 
 
 ### Linear correlation and regression
