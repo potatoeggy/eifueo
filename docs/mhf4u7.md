@@ -212,4 +212,5 @@ When multiplying or dividing a constant to a whole data set, both the mean and t
  - [IB Math Analysis and Approaches Formula Booklet](/resources/g11/ib-math-data-booklet.pdf)
  - [Calculus and Vectors 12 Textbook](/resources/g11/calculus-vectors-textbook.pdf)
  - [Course Pack Unit 1: Descriptive Statistics](/resources/g11/s1cp1.pdf)
+ - [Course Pack Unit 2: Limits and Rate of Change](/resources/g11/s1cp2.pdf)
  - [TI-84 Plus Basic Calculator Functions](/resources/g11/ti-84-plus.pdf)
