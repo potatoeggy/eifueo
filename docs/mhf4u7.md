@@ -196,11 +196,15 @@ In a typical bell-shaped distribution:
 !!! info
     The **points of inflection** (when the curve changes direction) of a normal bell curve occur at $\bar{x} ± \sigma$.
 
-### Constant operations on mean and standard deviation
+### Data transformation
 
-When adding or subtracting a constant to a whole data set, the mean is increased/decreased by that constant, but the standard deviation **does not change**.
+When performing an operation with a constant value to a whole data set:
 
-When multiplying or dividing a constant to a whole data set, both the mean and the standard deviation are multiplied or divided by that constant, respectively.
+| Operation | Effect on mean | Effect on standard deviation |
+| --- | --- | --- |
+| Addition/Subtraction | Increased/decreased by constant | No change |
+| Multiplication/Division | Multiplied/divided by constant | Multiplied/divided by constant |
+
 
 ### Linear correlation and regression
 
