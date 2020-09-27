@@ -156,11 +156,11 @@ $$\bar{x}=\frac{\Sigma x}{n}$$ where $n$ is equal to the number of values in the
 
 In grouped data, the mean can only be estimated, and is equal to the average of the sum of midpoint of all classes multiplied by their class frequency.
 
-$$\bar{x} = \frac{\Sigma x_i f_i}{\Sigma f_i}$$ where $x_i$ is the midpoint of the $i$th class and $f_i$ is the frequency of the $i$th class.
+$$\bar{x} = \frac{\Sigma x_i f_i}{n}$$ where $x_i$ is the midpoint of the $i$th class and $f_i$ is the frequency of the $i$th class.
 
 The **median** is the middle value when the data set is sorted. If the data set has an even number of values, the median is the mean of the two centre-most values.
 
-In grouped data, the median class is the class of the median value.
+In grouped data, the median class is the class of the $\frac{n+1}{2}$th value if the number of values in the class is odd or the $\frac{n}{2}$th value otherwise.
 
 The **mode** is the value that appears most often.
 
@@ -186,6 +186,9 @@ $$\sigma = \sqrt{\frac{\Sigma f_i (x_i - \bar{x})^2}{n}}$$ where $f_i$ is the fr
 
 For ungrouped data, assume $f_i = 1$.
 
+Alternatively, the above equation can be arranged to form the following equation, which is better remembered as **the means of the squares minus the square of the mean**.
+
+$$\sigma = \sqrt{\frac{\Sigma f_i x_i^2}{n}} - \bar{x}^2$$
 In a typical bell-shaped distribution:
 
  - 68% of data lie within 1 standard deviation of the mean ($\bar{x} ± \sigma$)
