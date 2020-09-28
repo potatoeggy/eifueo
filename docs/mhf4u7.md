@@ -101,6 +101,7 @@ The first and third quartiles are the median of the **[minimum, median)** and **
     - The median is the midpoint of the class it resides in.
     - The third quartile is the midpoint of the class it resides in.
     - The maximum value is now the upper class boundary of the highest class. If the highest value is excluded (e.g., $90≤x<100$), it also must be excluded when representing data (e.g., open dot instead of filled dot).
+    - A specific percentile can be found by guesstimating the value on a cumulative frequency curve.
 
 The **interquartile range (IQR)** is equal to $Q_3 - Q_1$ and represents the range where 50% of the data lies.
 
