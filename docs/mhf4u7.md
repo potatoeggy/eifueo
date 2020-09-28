@@ -209,9 +209,40 @@ When performing an operation with a constant value to a whole data set:
 
 ### Linear correlation and regression
 
+!!! definition
+    - **Interpolation**: The prediction of values within the range of a data set.
+    - **Extrapolation**: The prediction of values outside the range of a data set. This tends to be less reliable than interpolation as it is unknown if the model is accurate outside of the range of the data set..
 
+A scatter plot is used to help find trends and relationships between variables, which is primarily used to predict results not in the data set.
 
-**Correlation does not imply causation**.
+If there is a clear trend in the data, there is said to be a **correlation** between the independent and dependent variables.
+
+ - If the line has an upward trend, it has a positive correlation.
+ - If the line has a downward trend, it has a negative correlation.
+
+The strength of the correlation ranges from none, weak, moderate, strong, and perfect, where the latter shows a line passing through all data points.
+
+The line of best fit may not be linear. It may be quadratic, exponential, logarithmic, or there might not be a line of best fit at all. In the latter case, there is **no correlation**.
+
+**Correlation does not imply causation**. There may be an external **confounding factor** which causes both trends, instead.
+
+!!! example
+    If ice cream consumption increases as deaths from drowning increase, it does not mean that drowning causes people to eat more ice cream. The confounding factor of summer increases ice cream consumption and frequency of swimming, which leads to more people drowning.
+
+To find the **regression line** (line of best fit), a mean data point is required. The mean data point is a new point located at the mean of all x- and y-coordinates, or $M = (\bar{x}, \bar{y})$. The regression line then is the line that passes through the mean point while minimising the *vertical* distance from every data point. This is most easily performed on a graphing display calculator (GDC), but can be calculated manually if needed.
+
+The **least squares regression** is used to find the equation of a line that passes through the mean point for which the *square* of the vertical distance between the line and all data points (the residuals) is minimised for each point. It involves forming a line such that the sum of all residuals is $0$, and the sum of all residuals squared is minimised.
+
+Alternatively, to manually guesstimate a linear line of best fit, a line can be drawn from the mean point to a point that best appears to lie on the line of best fit.
+
+The **Pearson product-moment correlation coefficient** (more commonly known as *Pearson's $r$* or the *$r$-value*) quantifies the **correlation strength** of a line of best fit, or how well the line of best fit fits. This value is such that $-1≤r≤1$, where
+
+ - $r>0$ is a positive correlation
+ - $r<0$ is a negative correlation
+ - $|r|=1$ is a perfect correlation
+ - $0.7≤|r|<1$ is a strong correlation
+ - $0.3≤|r|<0.7$ is a weak to moderate correlation
+ - $0≤|r|<0.3$ is no correlation, so that no line of best fit can be drawn.
 
 ## Resources
 
