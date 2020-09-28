@@ -187,9 +187,6 @@ $$\sigma = \sqrt{\frac{\Sigma f_i (x_i - \bar{x})^2}{n}}$$ where $f_i$ is the fr
 
 For ungrouped data, assume $f_i = 1$.
 
-Alternatively, the above equation can be arranged to form the following equation, which is better remembered as **the means of the squares minus the square of the mean**.
-
-$$\sigma = \sqrt{\frac{\Sigma f_i x_i^2}{n}} - \bar{x}^2$$
 In a typical bell-shaped distribution:
 
  - 68% of data lie within 1 standard deviation of the mean ($\bar{x} ± \sigma$)
@@ -211,6 +208,8 @@ When performing an operation with a constant value to a whole data set:
 
 
 ### Linear correlation and regression
+
+
 
 **Correlation does not imply causation**.
 
