@@ -263,23 +263,21 @@ $s$ is commonly used in IB to represent displacement and $s_{0}$ represents the 
 
 <img src="/resources/images/position-time-graph.png" width=700>(Source: Kognity)</img>.
 
-On a position-time or displacement-time graph:
-
- - The object is not moving if the slope is zero.
- - The object is moving at a constant *velocity* if the slope is linear.
- - The object is moving with constant acceleration if the slope increases exponentially.
- - The object is moving with constant deceleration if the slope decreases exponentially.
- - The gradient of the graph at any time is the object's *instantaneous velocity* at that exact time.
+The slope of the line in a position-time graph represents that object's velocity. If the slope is not linear, the object is not moving uniformly (at a constant speed).
 
 A **velocity-time graph** is similar to a position-time graph but replaces the position on the vertical axis with an object's velocity instead.
 
 <img src="/resources/images/velocity-time-graph.png" width=700>(Source: Kognity)</img>
 
-On a velocity-time graph, the object is moving with constant acceleration/deceleration if the slope is linear.
+On a velocity-time graph, the slope represents that object's acceleration. If the slope is not linear, the object is not accelerating uniformly (accelerating at a constant rate)
 
-The area below a velocity-time graph at a given time is equal to the displacement (change in position) at that time, since $ms^{-1}×s=m$. When finding the displacement of an object when it is accelerating, breaking up the graph into a rectangle and a triangle then adding their areas will give their resultant displacement.
+The area below a velocity-time graph at a given time is equal to the displacement (change in position) at that time, since $ms^{-1}×s=m$. When finding the displacement of an object when it is accelerating, breaking up the graph into a rectangle and a triangle then adding their areas will give the displacement.
 
 <img src="/resources/images/velocity-time-displacement.png" width=700>(Source: Kognity)</img>
+
+An **acceleration-time graph** is similar to a velocity-time graph but replaces the velocity on the vertical axis with an object's acceleration instead.
+
+The area below an acceleration-time graph at a given time is equal to the velocity at that time.
 
 ## 2.2 - Forces
 
