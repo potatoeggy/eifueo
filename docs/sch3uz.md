@@ -174,7 +174,6 @@ Some trends in the periodic table include:
  - ionisation energy increases when going across a period
  - ionisation energy decreases when going down a group
 
-
 When explaining these trends in the periodic table, it is best to use basic concepts to build on to larger points.
 
 !!! example
