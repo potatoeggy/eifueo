@@ -157,6 +157,18 @@ A mass spectrometer may also provide mass in the form of $M/Z$, which represents
 
 The atomic radius of an atom is the distance from the centre of the nucleus to approximately the outer boundary of the electron shell. This cannot be directly measured by scientists.
 
+### Ionisation energy
+
+The first ionisation energy of an element is the minimum amount of energy required to remove one mole of electrons from one mole of *gaseous* atoms to form a mole of gaseous ions, so that
+$$Q_{(g)} \rightarrow Q_{(g)}^+ + e^-$$
+
+Any subsequent ionisation energies of an element are the minimum amount of energy required to remove one *additional* mole of electrons. For example, the second ionisation energy would involve
+$$Q_{(g)}^- \rightarrow Q_{(g)}^{2+} + e^-$$
+
+It requires vastly more energy to remove an electron from a filled valence shell compared to an unfilled valence shell.
+
+When 
+
 ### Models
 
 Please see [SL Physics#Models](/sph3u7/#models) for more information.
@@ -165,16 +177,23 @@ Please see [SL Physics#Models](/sph3u7/#models) for more information.
 
 Some trends in the periodic table include:
 
- - atomic radius decreases when going across a period
- - atomic radius increases when going down a group
- - ionic radius decreases when going across a period for groups 1–13, then sharply increases and then increases for groups 15–17
- - ionic radius increases when going down a group
- - electron affinity increases when going across a period
- - electron affinity decreases when going down a group
- - ionisation energy increases when going across a period
- - ionisation energy decreases when going down a group
+ - atomic radius decreases when going across a period and increases when going down a group
+ - ionic radius decreases when going across a period for groups 1–13, then sharply increases and then increases for groups 15–17; it increases when going down a group
+ - electron affinity increases when going across a period and decreases when going down a group
+ - ionisation energy increases when going across a period and decreases when going down a group
+ - electronegativity increases when going across a period and decreases when going down a group
 
-When explaining these trends in the periodic table, it is best to use basic concepts to build on to larger points.
+When explaining these trends in the periodic table, it is best to use the following basic concepts to build on to larger points.
+
+Across a period, the number of shells occupied by the electrons is the same but the number of protons in the nucleus increases. Therefore,
+
+ - the attraction of each electron to the nucleus (effective nuclear charge) increases as the number of protons increases
+ - shielding is unchanged as the number of electrons between the valence electrons and the nucleus is the same
+
+Down a period, the number of shells occupied by the electrons increases, so valence electrons are further from the nucleus. Therefore,
+
+ - the attraction of valence electrons to the nucleus decreases due to the increasing distance
+ - shielding increases due to the increasing number of electrons between the valence electrons and the nucleus
 
 !!! example
     To explain why there is a trend of decreasing atomic radius across a period:
