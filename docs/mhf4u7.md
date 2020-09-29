@@ -97,9 +97,7 @@ The first and third quartiles are the median of the **[minimum, median)** and **
     When working with grouped data given in ranges, the actual data is unavailable. The five numbers above are instead:
 
     - The minimum value is now the lower class boundary of the lowest class.
-    - The first quartile is the midpoint of the class it resides in.
-    - The median is the midpoint of the class it resides in.
-    - The third quartile is the midpoint of the class it resides in.
+    - The first and third quartiles, as well as the median, are now found by guesstimating the value on a cumulative frequency curve.
     - The maximum value is now the upper class boundary of the highest class. If the highest value is excluded (e.g., $90≤x<100$), it also must be excluded when representing data (e.g., open dot instead of filled dot).
     - A specific percentile can be found by guesstimating the value on a cumulative frequency curve.
 
