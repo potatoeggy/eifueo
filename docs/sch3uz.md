@@ -160,10 +160,10 @@ The atomic radius of an atom is the distance from the centre of the nucleus to a
 ### Ionisation energy
 
 The first ionisation energy of an element is the minimum amount of energy required to remove one mole of electrons from one mole of *gaseous* atoms to form a mole of gaseous ions, so that
-$$Q_{(g)} \rightarrow Q_{(g)}^+ + e^-$$
+$$\text{Q}_\text{(g)} \rightarrow \text{Q}_\text{(g)}^+ + \text{e}^-$$
 
 Any subsequent ionisation energies of an element are the minimum amount of energy required to remove one *additional* mole of electrons. For example, the second ionisation energy would involve
-$$Q_{(g)}^- \rightarrow Q_{(g)}^{2+} + e^-$$
+$$\text{Q}_\text{(g)}^- \rightarrow \text{Q}_\text{(g)}^{2+} + \text{e}^-$$
 
 It requires vastly more energy to remove an electron from a filled valence shell compared to an unfilled valence shell.
 
