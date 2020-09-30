@@ -242,7 +242,6 @@ $$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
     - **Position**: The location of an object relative to an origin (typically the position of the object at time zero).
     - **Distance**: The scalar of the exact path taken by an object from an initial to a final position.
     - **Displacement**: The vector of the shortest path from an initial to a final position.
-    - **Velocity**: The vector of the rate of change of *displacement* over time.
     - **Acceleration**: The vector of the rate of change of *velocity* over time.
 
 ### Models
