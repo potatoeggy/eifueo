@@ -242,6 +242,15 @@ The **Pearson product-moment correlation coefficient** (more commonly known as *
  - $0.3≤|r|<0.7$ is a weak to moderate correlation
  - $0≤|r|<0.3$ is no correlation, so that no line of best fit can be drawn.
 
+## 5 - Calculus
+
+### Rate of change
+
+The **average rate of change (ARoC)** between points $P(a, f(a))$ and $Q(a + h, f(a+h))$ is represented by the slope of the **secant line ($m_s$)**. Therefore, as slope is the difference in rise over the difference of run ($\frac{\Delta y}{\Delta x}$), the slope of the secant line can be expressed as
+$$m_s = \frac{f(a+h)-f(a)}{h}, h ≠ 0$$
+
+This is known as the **difference quotient**.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
