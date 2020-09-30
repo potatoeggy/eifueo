@@ -253,6 +253,18 @@ A **scientific model** is a simplification of a system based on assumptions that
     - **System**: An object or a connected group of objects.
     - **Point particle assumption**: An assumption that models a system as a blob of matter. It is more reliable if the size and shape of the object(s) do not matter much.
 
+### Velocity
+
+Velocity is the vector of the rate of change of *displacement* over time.
+
+The *average* velocity of an object is the velocity over an interval in time, calculated by finding the slope of the **secant** from the start and end position on a position-time graph.
+
+The *instantaneous velocity of an object is the velocity at a specific moment in time, calculated by finding the slope of the **tangent** at that moment on a position-time graph.
+
+!!! definition
+    - A **secant** is a straight line which intersects two points on a curve.
+    - A **tangent** is a straight line that does not intersect a curve but "touches" it at exactly one point.
+
 ### Displaying motion
 
 Motion can be expressed visually in many different ways.
