@@ -180,7 +180,17 @@ If energy is required, the atom has a **positive** electron affinity, and will f
 
 The electronegativity of an atom represents the ability of that atom to attract a pair of electrons in a **covalent bond**. It ranges from $0$ to $4$ on the Pauling scale. As electronegativity increases, the atom more strongly holds on to the electrons in its covalent bond, so the pair of electrons in that bond spend more time around the atom with the higher electronegativity.
 
-### Models
+### Reactivity
+
+The reactivity of an element is how "willing" it is to give up or gain electrons to fill its valence shell.
+
+The reaction of an **alkali metal** with water always forms a hydroxide and hydrogen gas. For example, lithium reacts with water such that:
+$$2\text{Li}_\text{(s)} + 2\text{H}_2\text{O}_\text{(l)} \rightarrow 2\text{LiOH}_\text{(aq)} + \text{H}_{2 (g)}$$
+
+The reaction of a **halogen** with hydrogen gas always forms a hydride. For example, fluorine reacts with hydrogen gas such that:
+$$\text{Fl}_\text{(g)} + \text{H}_\text{2 (g)} \rightarrow 2\text{HFl}_\text{(g)}$$
+
+###Models
 
 Please see [SL Physics#Models](/sph3u7/#models) for more information.
 
@@ -193,6 +203,8 @@ Some trends in the periodic table include:
  - electron affinity increases when going across a period and decreases when going down a group
  - ionisation energy increases when going across a period and decreases when going down a group
  - electronegativity increases when going across a period and decreases when going down a group
+ - reactivity of alkali metals increases when going down the group
+ - reactivity of halogens decreases when going down the group
 
 When explaining these trends in the periodic table, it is best to use the following basic concepts to build on to larger points.
 
