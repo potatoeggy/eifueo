@@ -279,7 +279,28 @@ An **acceleration-time graph** is similar to a velocity-time graph but replaces 
 
 The area below an acceleration-time graph at a given time is equal to the velocity at that time.
 
-## 2.2 - Forces
+### Uniformly accelerated motion
+
+**Uniformly accelerated motion** is the constant acceleration in a **straight line**, or the constant increase in velocity over equal time intervals. The five key $suvat$ variables can be used to represent the various information in uniformly accelerated motion.
+
+ - $s=$ change in displacement during time interval $t$ (i.e., from $t=0$ to $t$)
+ - $u=$ initial velocity at time $t=0$
+ - $v=$ final velocity at time $t$
+ - $a=$ constant acceleration
+ - $t=$ time elapsed since $t=0$
+
+By the formula of the gradient and the formula for the area underneath an acceleration time graph, the following formulas can be derived and are in the data booklet:
+
+ - $s=ut + \frac{1}{2}at^2$
+ - $v = u + at$
+ - $s = \frac{1}{2}(u+v)t$
+ - $v^2 = u^2 + 2as$
+
+### Projectile motion
+
+**Projectile motion** is uniformly accelerated motion that does not leave the vertical plane (is two-dimensional). Note that the two directions (horizontal and vertical) that the projectile moves in are independent of one another.
+
+##2.2 - Forces
 
 ## 2.3 - Work, energy, and power
 
