@@ -151,11 +151,11 @@ A **box-and-whisker plot** is a visual representation of the **"5-number summary
 
 The **mean** is the sum of all values divided by the total number of values. $\bar{x}$ represents the mean of a sample while $µ$ represents the mean of a population.
 
-$$\bar{x}=\frac{\Sigma x}{n}$$ where $n$ is equal to the number of values in the data set.
+$$\bar{x}=\frac{\sum x}{n}$$ where $n$ is equal to the number of values in the data set.
 
 In grouped data, the mean can only be estimated, and is equal to the average of the sum of midpoint of all classes multiplied by their class frequency.
 
-$$\bar{x} = \frac{\Sigma x_i f_i}{n}$$ where $x_i$ is the midpoint of the $i$th class and $f_i$ is the frequency of the $i$th class.
+$$\bar{x} = \frac{\sum x_i f_i}{n}$$ where $x_i$ is the midpoint of the $i$th class and $f_i$ is the frequency of the $i$th class.
 
 The **median** is the middle value when the data set is sorted. If the data set has an even number of values, the median is the mean of the two centre-most values.
 
@@ -181,7 +181,7 @@ $$R = \max - \min$$
 
 The **variance** ($\sigma^2$) and **standard deviation** ($\sigma$) of a data set are more useful. The standard deviation indicates how closely the values of a data set are clustered around the mean.
 
-$$\sigma = \sqrt{\frac{\Sigma f_i (x_i - \bar{x})^2}{n}}$$ where $f_i$ is the frequency of the $i$th class, $x_i$ is the midpoint of the $i$th class, $\bar{x}$ is the mean of the whole data set, and $n$ is the number of values in the data set.
+$$\sigma = \sqrt{\frac{\sum f_i (x_i - \bar{x})^2}{n}}$$ where $f_i$ is the frequency of the $i$th class, $x_i$ is the midpoint of the $i$th class, $\bar{x}$ is the mean of the whole data set, and $n$ is the number of values in the data set.
 
 For ungrouped data, assume $f_i = 1$.
 
