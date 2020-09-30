@@ -163,11 +163,22 @@ The first ionisation energy of an element is the minimum amount of energy requir
 $$\text{Q}_\text{(g)} \rightarrow \text{Q}_\text{(g)}^+ + \text{e}^-$$
 
 Any subsequent ionisation energies of an element are the minimum amount of energy required to remove one *additional* mole of electrons. For example, the second ionisation energy would involve
-$$\text{Q}_\text{(g)}^- \rightarrow \text{Q}_\text{(g)}^{2+} + \text{e}^-$$
+$$\text{Q}_\text{(g)}^+ \rightarrow \text{Q}_\text{(g)}^{2+} + \text{e}^-$$
 
 It requires vastly more energy to remove an electron from a filled valence shell compared to an unfilled valence shell.
 
-When 
+### Electron affinity
+
+The electron affinity of an atom is the amount of energy **required** or **released** to *add* an electron to a neutral *gaseous* atom to form a negative ion, such that
+$$\text{Q}_\text{(g)} + \text{e}^- \rightarrow \text{Q}^-_\text{(g)}$$ 
+
+If energy is released, the atom has a **negative** electron affinity, and will form a stable ion.
+
+If energy is required, the atom has a **positive** electron affinity, and will form an unstable ion (the ion will spontaneously decay).
+
+### Electronegativity
+
+The electronegativity of an atom represents the ability of that atom to attract a pair of electrons in a **covalent bond**. It ranges from $0$ to $4$ on the Pauling scale. As electronegativity increases, the atom more strongly holds on to the electrons in its covalent bond, so the pair of electrons in that bond spend more time around the atom with the higher electronegativity.
 
 ### Models
 
