@@ -240,7 +240,7 @@ $$\vec{v} × s = (|\vec{v}|×s)[\theta_{v}]$$
 !!! definition
     - **Uniform motion**: Constant speed.
     - **Position**: The location of an object relative to an origin (typically the position of the object at time zero).
-    - **Distance**: The scalar of the exact path taken by an object from an initial to a final position.
+    - **Distance**: The scalar of the magnitude of the exact path taken by an object from an initial to a final position.
     - **Displacement**: The vector of the shortest path from an initial to a final position.
     - **Acceleration**: The vector of the rate of change of *velocity* over time.
 
@@ -254,19 +254,17 @@ A **scientific model** is a simplification of a system based on assumptions that
 
 ### Velocity
 
-Velocity is the vector of the rate of change of *displacement* over time.
+Velocity is the vector of the rate of change of *displacement* over time, and can be represented as $\frac{\Delta d}{\Delta t}$.
 
 The *average* velocity of an object is the velocity over an interval in time, calculated by finding the slope of the **secant** from the start and end position on a position-time graph.
 
-The *instantaneous velocity of an object is the velocity at a specific moment in time, calculated by finding the slope of the **tangent** at that moment on a position-time graph.
+The *instantaneous velocity* of an object is the velocity at a specific moment in time, calculated by finding the slope of the **tangent** at that moment on a position-time graph.
 
 !!! definition
     - A **secant** is a straight line which intersects two points on a curve.
     - A **tangent** is a straight line that does not intersect a curve but "touches" it at exactly one point.
 
 ### Displaying motion
-
-Motion can be expressed visually in many different ways.
 
 A **position-time graph** expands on the motion diagram by specifying a precise **position** value on the vertical axis in addition to time on the horizontal axis. The line of best fit indicates the object's speed, as well as if it is accelerating or decelerating.
 
