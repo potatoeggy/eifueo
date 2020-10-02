@@ -2,7 +2,7 @@
 
 The course code for this page is **ENG3UZ**.
 
-## Literary Techniques/Devices
+## Literary techniques/devices
 
 ### Description
 
@@ -133,6 +133,12 @@ The course code for this page is **ENG3UZ**.
 	- e.g., *"I don't want to! That candy is MINE, and no one is going to take it from ME! Mine, mine, MINE!"*
  - Theme: The "main idea" or underlying meaning of a literary work, which can be given directly or indirectly.
 	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (*Eon Fable*, ScytheRider)
+
+## Commentary
+
+ - Present tense all the time
+ - Use numbers in parentheses for sources
+ - Quotes everywhere
 
 ## Resources
 
