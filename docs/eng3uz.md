@@ -140,6 +140,10 @@ The course code for this page is **ENG3UZ**.
  - Use numbers in parentheses for sources
  - Quotes everywhere
 
+ - Topic sentence 
+ - Introduce what was used by Neruda
+ - Evidence of where they were used and why/how they were used 
+
 ## Resources
 
  - [Analysis of a Poem](/resources/g11/central-asserion-1.pdf)
