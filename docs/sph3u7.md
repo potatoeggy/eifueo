@@ -286,7 +286,7 @@ The area below a velocity-time graph at a given time is equal to the displacemen
 
 An **acceleration-time graph** is similar to a velocity-time graph but replaces the velocity on the vertical axis with an object's acceleration instead.
 
-The area below an acceleration-time graph at a given time is equal to the velocity at that time.
+The area below an acceleration-time graph at a given time is equal to the change in velocity at that time.
 
 !!! note
     If there is any instantaneous jump on a position-, velocity-, or acceleration-time graph (which is impossible in reality but may be used to simplify matters), a dashed line must be used to connect the two sides to ensure that the line remains a function.
