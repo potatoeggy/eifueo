@@ -280,13 +280,13 @@ A **velocity-time graph** is similar to a position-time graph but replaces the p
 
 On a velocity-time graph, the slope represents that object's acceleration. If the slope is not linear, the object is not accelerating uniformly (accelerating at a constant rate).
 
-The area below a velocity-time graph at a given time is equal to the displacement (change in position) at that time, since $ms^{-1}×s=m$. When finding the displacement of an object when it is accelerating, breaking up the graph into a rectangle and a triangle then adding their areas will give the displacement.
+The area below a velocity-time graph at a given time is equal to the displacement (change in position, $\Delta d$) at that time, since $ms^{-1}×s=m$. When finding the displacement of an object when it is accelerating, breaking up the graph into a rectangle and a triangle then adding their areas will give the displacement.
 
 <img src="/resources/images/velocity-time-displacement.png" width=700>(Source: Kognity)</img>
 
 An **acceleration-time graph** is similar to a velocity-time graph but replaces the velocity on the vertical axis with an object's acceleration instead.
 
-The area below an acceleration-time graph at a given time is equal to the change in velocity at that time.
+The area below an acceleration-time graph at a given time is equal to the change in velocity ($\Delta v$) at that time.
 
 !!! note
     If there is any instantaneous jump on a position-, velocity-, or acceleration-time graph (which is impossible in reality but may be used to simplify matters), a dashed line must be used to connect the two sides to ensure that the line remains a function.
