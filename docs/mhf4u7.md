@@ -251,6 +251,16 @@ $$m_s = \frac{f(a+h)-f(a)}{h}, h ≠ 0$$
 
 This is known as the **difference quotient**.
 
+The **instantaneous rate of change (IRoC)** at point $P(a, f(a))$ is represented by the slope of the **tangent line ($m_T$)**. The slope of the tangent line can be found by finding the difference quotient with $h$ as a very small value, e.g., $0.001$.
+
+### Sequences
+
+A sequence is a **function** with a domain of all positive integers in sequence, but uses subscript notation ($t_n$) instead of function notation ($f(x)$).
+
+### Limits
+
+### Evaluating limits
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
