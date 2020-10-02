@@ -134,6 +134,10 @@ The course code for this page is **ENG3UZ**.
  - Theme: The "main idea" or underlying meaning of a literary work, which can be given directly or indirectly.
 	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (*Eon Fable*, ScytheRider)
 
+## Central assertion
+
+ - "Purpose" of the poem
+
 ## Commentary
 
  - Present tense all the time
