@@ -295,6 +295,8 @@ The area below an acceleration-time graph at a given time is equal to the change
 
 **Uniformly accelerated motion** is the constant acceleration in a **straight line**, or the constant increase in velocity over equal time intervals. The five key $suvat$ variables can be used to represent the various information in uniformly accelerated motion.
 
+### Kinematic equations
+
 <img src="/resources/images/constant-acceleration.png" width=700>(Source: Kognity)</img>
 
  - $s=$ change in displacement during time interval $t$ (i.e., from $t=0$ to $t$)
