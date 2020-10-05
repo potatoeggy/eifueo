@@ -299,11 +299,11 @@ The area below an acceleration-time graph at a given time is equal to the change
 
 <img src="/resources/images/constant-acceleration.png" width=700>(Source: Kognity)</img>
 
- - $s=$ change in displacement during time interval $t$ (i.e., from $t=0$ to $t$)
- - $u=$ initial velocity at time $t=0$
- - $v=$ final velocity at time $t$
+ - $s=$ change in displacement during time interval $t$ ($\Delta d$)
+ - $u=$ initial velocity ($v_1$)
+ - $v=$ final velocity ($v_2$)
  - $a=$ constant acceleration
- - $t=$ time elapsed since $t=0$
+ - $t=$ time elapsed ($\Delta t$)
 
 By the formula of the gradient and the formula for the area underneath an acceleration time graph, the following formulas can be derived and are in the data booklet:
 
