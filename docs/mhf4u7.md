@@ -261,10 +261,111 @@ A sequence is a **function** with a domain of all positive integers in sequence,
     - The **recursive** formula for a sequence is $t_n = t_{n-1} + 2$ where $t_1 = 1$.
     - The **arithmetic** formula for a sequence is $t_n = 2n-1$.
 
+If the sequence is infinite, as $n$ becomes very large:
+
+ - If the sequence continuously grows, it **tends to infinity**. (E.g., $a_n = n^2, n ≥ 1$)
+ - If the sequence gets closer to a real number and converges on it, it **converges to a real limit**, or is convergent**. (E.g., $a_n = \frac{1}{n}, n ≥ 1$)
+ - If the sequence never approaches a number, it **does not tend to a limit**, or is **divergent**. (E.g., $a_n = \sin(n \pi)$)
+
 ### Limits
 
+A **limit** to a function is the behaviour of that function as a variable approaches, **but does not equal**, another variable.
+
+!!! example
+    $$\lim_{x \to c} f(x) = L$$
+    "The limit of $f(x)$ as $x$ approaches $c$ is $L$."
+
+If the lines on both sides of a limit do not converge at the same point, that limit *does not exist*.
+
+If the lines on both sides of a limit become arbitrarily large as $x$ approaches $a$, it approaches infinity.
+$$\lim_{x \to a} f(x) = ∞$$
+
+### One-sided limits
+
+A positive or negative sign is used at the top-right corner of the value approached to denote if that limit applies only to the negative or positive side, respectively. A limit without this sign applies to both sides.
+
+!!! example
+    - $\lim_{x \to 3^-} f(x) = 2$ shows that as $x$ approaches $3$ from the negative (usually left) side, $f(x)$ approaches $2$.
+    - $\lim_{x \to 3^+} f(x) = 2$ shows that as $x$ approaches $3$ from the positive (usually right) side, $f(x)$ approaches $2$.
+    - $\lim_{x \to 3} f(x) = 2$ shows that as $x$ approaches $3$ from either side, $f(x)$ approaches $2$.
+
+If $\lim_{x \to c^-} f(x) ≠ \lim_{x \to c^+} f(x)$, $\lim_{x \to c} f(x)$ **does not exist**.
+
+### Properties of limits
+
+The following properties assume that $f(x)$ and $g(x)$ have limits at $x = a$, and that $a$, $c$, and $k$ are all real numbers.
+
+ - $\lim_{x \to a} k = k$
+ - $\lim_{x \to a} x = a$ 
+ - $\lim_{x \to a} [f(x) ± g(x)] = \lim_{x \to a} f(x) ± \lim_{x \to a} g(x)$
+ - $\lim_{x \to a} [f(x) \cdot g(x)] = [\lim_{x \to a} f(x)] [\lim_{x \to a} g(x)]$
+ - $\lim_{x \to a} [k \cdot f(x)] = k \cdot \lim_{x \to a} f(x)$
+ - $\lim_{x \to a} [f(x)]^2 = [\lim_{x \to a} f(x)]^2$
 
 ### Evaluating limits
+
+When solving for limits, there are five central strategies used, typically in this order if possible:
+
+#### Direct substitution
+
+Substitute $x$ as $a$ and solve.
+
+??? example
+    $$
+    \lim_{x \to 5} (x^2 + 4x + 3) \\
+    = 5^2 + 4(5) + 3 \\
+    = 48
+    $$
+
+If **only** direct substitution fails and returns $\frac{0}{0}$, continue on with the following steps. If **only** the denominator is $0$, the limit **does not exist**.
+
+#### Factorisation, expansion, and simplification
+
+Attempt to factor out the variable as much as possible so that the result is not $\frac{0}{0}$, and then perform direct substitution.
+
+??? example
+    $$
+    \lim_{x \to 1} \frac{x^2 - 1}{x-1} \\
+    = \lim_{x \to 1} \frac{(x + 1) (x - 1)}{x-1} \\
+    = \lim_{x \to 1} (x+1) \\
+    = 1 + 1 \\
+    = 2
+    $$
+
+#### Rationalisation
+
+If there is a square root, multiplying both sides of a fraction by the conjugate may allow direct substitution or factorisation.
+
+??? example
+    $$
+    \lim_{x \to 0} \frac{\sqrt{1-x}-1}{x} \\
+    = \lim_{x \to 0} \frac{\sqrt{1-x}-1}{x} \cdot \frac{\sqrt{1-x}+1}{\sqrt{1-x}+1} \\
+    = \lim_{x \to 0} \frac{1-x - 1}{x\sqrt{1-x} + x} \\
+    = \frac{1}{\sqrt{1-x} + 1} \\
+    = \frac{1}{\sqrt{1-0} + 1} \\
+    = \frac{1}{2}
+    $$
+
+#### One-sided limits
+
+There may only be one-sided limits. In this case, breaking the limit up into its two one-sided limits can confirm if the two-sided limit does not exist when looked at together.
+
+#### Change in variable
+
+Substituting a variable in for the variable to be solved and then solving in terms of that variable may help.
+
+??? example
+    $$
+    \lim_{x \to 0} \frac{x}{(x+1^\frac{1}{3}-1} \\
+    \text{let } (x+1)^\frac{1}{3} \text{ be } y \\
+    x + 8 = y^3 \\
+    x = y^3 - 8, \text{as } x \to 0, y \to 2 \\
+    \lim_{y \to 2} \frac{y-2}{y^3 - 8} \\
+    = \frac{(y-2)(y^2 + 4y + 4)}{(y^3-8)(y^2 + 4y + 4)} \\
+    = \frac{1}{y^2 + 4y + 4} \\
+    = \frac{1}{1^2 + 4(1) + 4} \\
+    = \frac{1}{12}
+    $$
 
 ## Resources
 
