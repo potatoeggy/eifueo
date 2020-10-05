@@ -352,7 +352,7 @@ There may only be one-sided limits. In this case, breaking the limit up into its
 
 #### Change in variable
 
-Substituting a variable in for the variable to be solved and then solving in terms of that variable may help.
+Substituting a variable in for the variable to be solved and then solving in terms of that variable may remove a problem variable.
 
 ??? example
     $$
@@ -366,6 +366,28 @@ Substituting a variable in for the variable to be solved and then solving in ter
     = \frac{1}{1^2 + 4(1) + 4} \\
     = \frac{1}{12}
     $$
+
+### Limits and continuity
+
+If a function has holes or gaps or jumps (i.e., if it cannot be drawn with a writing utensil held down all the time), it is **discontinuous**. Otherwise, it is a **continuous** function. A function discontinuous at $x=a$ is "discontinuous at $a$", where $a$ is the "point of discontinuity".
+
+A **removable discontinuity** occurs when there is a hole in a function. It can be expressed as when either
+$$
+f(a) = \text{DNE  or} \\
+\lim_{x \to a} f(x) ≠ f(a)
+$$
+
+A **jump discontinuity** occurs when both one-sided limits have different values. It is common in piecewise functions. It can be expressed as when
+$$\lim_{x \to a^-} f(x) ≠ \lim_{x \to a^+} f(x)$$
+
+An **infinite discontinuity** occurs when both one-sided limits are infinite. It is common when functions have vertical asymptotes. It can be expressed as when
+$$\lim_{x \to a} f(x) = ± ∞$$
+
+Therefore, a function is only continuous if all of the following are true:
+
+ - $f(a)$ exists
+ - $\lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x)$
+ - $\lim_{x \to a} f(x) = f(a)$
 
 ## Resources
 
