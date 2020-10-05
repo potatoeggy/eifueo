@@ -257,7 +257,12 @@ The **instantaneous rate of change (IRoC)** at point $P(a, f(a))$ is represented
 
 A sequence is a **function** with a domain of all positive integers in sequence, but uses subscript notation ($t_n$) instead of function notation ($f(x)$).
 
+!!! reminder
+    - The **recursive** formula for a sequence is $t_n = t_{n-1} + 2$ where $t_1 = 1$.
+    - The **arithmetic** formula for a sequence is $t_n = 2n-1$.
+
 ### Limits
+
 
 ### Evaluating limits
 
