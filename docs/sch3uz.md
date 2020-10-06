@@ -245,10 +245,10 @@ If ΔEN is:
 
 ## 4.1 - Ionic bonding and structure
 
-Ionic bonds are the interaction of **oppositely charged ions**. Electrons are transferred first, and then the bond forms via the attraction of the now-positive and negative ions. This reduces the potential energy of the ions and therefore increases their stability.
+Ionic bonds are the interaction of **oppositely charged ions** that attract ions to one another. Electrons are transferred first, and then the bond forms via the attraction of the now-positive and negative ions. This reduces the potential energy of the ions and therefore increases their stability.
 
 !!! warning
-    When expressing ionic bonds in a Lewis dot diagram, the oppositely-charged ions must *never* be placed next to one another.
+    When expressing ionic bonds in a Lewis dot diagram, ions with charges of the same sign must *never* be placed next to one another.
 
 ## 4.2 - Covalent bonding
 
