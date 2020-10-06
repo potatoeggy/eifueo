@@ -45,23 +45,26 @@ If necessary, a "setup" section can be added as preparatory steps should not be 
 
 ### Data collection
 
-Data should be collected in an organised and titled table that should be prepared before the experiment. To reduce plagiarism, the data table must be verified by a teacher before leaving the lab space. After verification, **no new data** can be added. During an experiment that spans multiple days, this data must be verified every day. The data table must include:
+Data should be collected in an organised and titled table that should be prepared before the experiment. The data table must include:
 
  - units with uncertainty, typically in the table header
  - *qualitative* data (quantitative data can be optional in some experiments)
  - repeated data/controlled variables, typically in the title
+ - any relevant information should be listed under the title
 
 Only **raw data** prior to any processing or calculations, with the exception of averages, should be present in the data table.
 
 A data table should be as concise as possible, and redundancy should be minimised. In that vein, trial numbers should *not* be recorded unless that data is relevant.
 
 !!! example
-    **Effect of Fat Content on Sugar Content in Ice Cream**
+    **Table 1: Effect of Fat Content on Sugar Content in Ice Cream**
     
     | Fat Content (g ± 0.1 g) | Sugar Content (g ± 0.1 g) | Notes |
     | --- | --- | --- |
     | 2.0 | 5.1 | - strawberry ice cream |
     | 0.1 | 2.3 | - mint chocolate chip ice cream |
+
+Whenever possible, data tables should *not* span multiple pages. If that is unavoidable, a new title with "…continued" and new column headers must be present at the top of each new page.
 
 ### Data processing
 
@@ -71,7 +74,7 @@ Some general rules include:
 
  - units and uncertainties must be present in all calculations
  - simple operations such as averages and conversions (e.g., g to kg) do not need to be explained
- - the graph, if any, should span a full page and should directly answer the research question
+ - the graph, if any, should span at least half of the page (ideally the full page) and should directly answer the research question
 
 A final, reorganised, and processed data table should be present here, showing only relevant information.
 
@@ -100,8 +103,10 @@ When plotting a graph:
  - plot the independent variable on the horizontal axis and the dependent variable on the vertical axis
  - label the axes, ensuring that the labels include units
  - choose an appropriate scale for each axis
- - give the graph an appropriate title
+ - give the graph an appropriate title at the **bottom** in **title case**
  - draw a line of best fit
+ - include all uncertainties in the form of error bars
+	- if the error bars are too small to see, it should be noted explanation below
 
 ### Titles
 
