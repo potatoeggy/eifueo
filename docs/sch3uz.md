@@ -190,7 +190,7 @@ $$2\text{Li}_\text{(s)} + 2\text{H}_2\text{O}_\text{(l)} \rightarrow 2\text{LiOH
 The reaction of a **halogen** with hydrogen gas always forms a hydride. For example, fluorine reacts with hydrogen gas such that:
 $$\text{Fl}_\text{(g)} + \text{H}_\text{2 (g)} \rightarrow 2\text{HFl}_\text{(g)}$$
 
-###Models
+### Models
 
 Please see [SL Physics#Models](/sph3u7/#models) for more information.
 
@@ -223,6 +223,20 @@ Down a period, the number of shells occupied by the electrons increases, so vale
 
     - As the number of protons and electrons increase together, but the number of electron shells does not change, the effective nuclear charge of each electron increases, while the effect of shielding remains unchanged.
     - This increased effective nuclear charge reduces the atomic radius compared to other atoms before it.
+
+## 4.0 - Chemical bonding and structure
+
+## 4.1 - Ionic bonding and structure
+
+
+
+## 4.2 - Covalent bonding
+
+## 4.3 - Covalent structures
+
+## 4.4 - Intermolecular forces
+
+## 4.5 - Metallic bonding
 
 ## Resources
 
