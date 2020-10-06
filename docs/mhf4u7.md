@@ -383,7 +383,7 @@ $$\lim_{x \to a^-} f(x) ≠ \lim_{x \to a^+} f(x)$$
 An **infinite discontinuity** occurs when both one-sided limits are infinite. It is common when functions have vertical asymptotes. It can be expressed as when
 $$\lim_{x \to a} f(x) = ± ∞$$
 
-Therefore, a function is only continuous if all of the following are true:
+Therefore, a function is only continuous at $a$ if all of the following are true:
 
  - $f(a)$ exists
  - $\lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x)$
