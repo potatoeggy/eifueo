@@ -341,7 +341,7 @@ If there is a square root, multiplying both sides of a fraction by the conjugate
     \lim_{x \to 0} \frac{\sqrt{1-x}-1}{x} \\
     = \lim_{x \to 0} \frac{\sqrt{1-x}-1}{x} \cdot \frac{\sqrt{1-x}+1}{\sqrt{1-x}+1} \\
     = \lim_{x \to 0} \frac{1-x - 1}{x\sqrt{1-x} + x} \\
-    = \frac{1}{\sqrt{1-x} + 1} \\
+    = \lim_{x \to 0} \frac{1}{\sqrt{1-x} + 1} \\
     = \frac{1}{\sqrt{1-0} + 1} \\
     = \frac{1}{2}
     $$
@@ -361,10 +361,10 @@ Substituting a variable in for the variable to be solved and then solving in ter
     x + 8 = y^3 \\
     x = y^3 - 8, \text{as } x \to 0, y \to 2 \\
     \lim_{y \to 2} \frac{y-2}{y^3 - 8} \\
-    = \frac{(y-2)(y^2 + 4y + 4)}{(y^3-8)(y^2 + 4y + 4)} \\
-    = \frac{1}{y^2 + 4y + 4} \\
-    = \frac{1}{1^2 + 4(1) + 4} \\
-    = \frac{1}{12}
+    = \lim_{y \to 2} \frac{(y-2)(y^2 + 4y + 4)}{(y^3-8)(y^2 + 4y + 4)} \\
+    = \lim_{y \to 2} \frac{1}{y^2 + 4y + 4} \\
+    = \frac{1}{2^2 + 4(2) + 4} \\
+    = \frac{1}{16}
     $$
 
 ### Limits and continuity
