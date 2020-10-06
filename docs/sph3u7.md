@@ -316,7 +316,7 @@ By the formula of the gradient and the formula for the area underneath an accele
 
 **Projectile motion** is uniformly accelerated motion that does not leave the vertical plane (is two-dimensional). Note that the two directions (horizontal and vertical) that the projectile moves in are independent of one another. This means that variables such as average velocity can be calculated by breaking up the motion into the horizontal and vertical axes, then recombined using the Pythagorean theorem such that $v^2 = v_x^2 + v_y^2$.
 
-##2.2 - Forces
+## 2.2 - Forces
 
 ## 2.3 - Work, energy, and power
 
