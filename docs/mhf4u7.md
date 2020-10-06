@@ -389,6 +389,17 @@ Therefore, a function is only continuous at $a$ if all of the following are true
  - $\lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x)$
  - $\lim_{x \to a} f(x) = f(a)$
 
+### Limits approaching infinity
+
+As $x$ approaches infinity, $\lim_{x \to ∞} f(x)$ has only three possible answers.
+
+By dividing both sides of a fraction by the $x$ variable of the highest degree, if $m$ is the degree of the denominator and $n$ is the degree of the numerator:
+
+ - If $m > n$, $\lim_{x \to ∞} f(x) = 0$
+ - If $m < n$, $\lim_{x \to ∞} f(x) = ± ∞$
+	- The sign of infinity can be found by evaluating the limit
+ - If $m = n$, $\lim_{x \to ∞} f(x) = \frac{a}{b}$, where $a$ and $b$ are the coefficients of the degree of the numerator and the denominator, respectively.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
