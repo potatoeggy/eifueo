@@ -226,9 +226,29 @@ Down a period, the number of shells occupied by the electrons increases, so vale
 
 ## 4.0 - Chemical bonding and structure
 
+A chemical bond consists of the strong electronic interactions of the **valence** electrons between atoms that hold the atoms closer together. This only occurs if the atoms would reduce their potential energy by bonding.
+
+!!! reminder
+    - Metal + metal = metallic bond
+    - Metal + non-metal = ionic bond
+    - Non-metal + non-metal = covalent bond
+
+### Percentage ionic character
+
+Bonding is a spectrum. The percentage ionic character of a chemical bond shows roughly the amount of time valence electrons spend near an atom or ion in a bond. The difference between two elements' electronegativity (ΔEN) indicates how covalent and how ionic the bond **behaves**.
+
+If ΔEN is:
+
+ - less than 0.5, it behaves like a **pure covalent** bond
+ - between 0.5 and 1.7, it behaves like a **polar covalent** bond
+ - greater than 1.7, it behaves like an **ionic** bond
+
 ## 4.1 - Ionic bonding and structure
 
+Ionic bonds are the interaction of **oppositely charged ions**. Electrons are transferred first, and then the bond forms via the attraction of the now-positive and negative ions. This reduces the potential energy of the ions and therefore increases their stability.
 
+!!! warning
+    When expressing ionic bonds in a Lewis dot diagram, the oppositely-charged ions must *never* be placed next to one another.
 
 ## 4.2 - Covalent bonding
 
