@@ -250,12 +250,51 @@ If ΔEN is:
 
 ## 4.1 - Ionic bonding and structure
 
-Ionic bonds are the interaction of **oppositely charged ions** that attract ions to one another. Electrons are transferred first, and then the bond forms via the attraction of the now-positive and negative ions. This reduces the potential energy of the ions and therefore increases their stability.
+An ionic bond is the electrostatic attraction between oppositely charged **ions**. Electrons are transferred first, and then the bond forms via the attraction of the now-positive and negative ions. This reduces the potential energy of the ions and therefore increases their stability.
+
+!!! definition
+    **Electrostatic attraction** is the force of attraction between opposite charges.
 
 !!! warning
     When expressing ionic bonds in a Lewis dot diagram, ions with charges of the same sign must *never* be placed next to one another.
 
+### Structure of ionic compounds
+
+Ionic compounds are composed of a **lattice structure** (crystalline structure) of ions of alternating charges. A **formula unit** is the lowest ratio of positive to negative ions.
+
+<img src="/resources/images/nacl-lattice.jpeg" width=700>(Source: Kognity)</img>
+
+!!! example
+    In sodium chloride, the ratio of positive sodium ions to negative chloride ions is always 1:1, so its formula is NaCl.
+
+In an ionic compound, the number of ions that each ion can touch is referred to as the **coordination number**. It is stated as "(cation)(anion) is (coordination number of cation):(coordination number of anion) coordinated".
+
+!!! example
+    In the diagram above, each sodium ion touches six chloride ions, and each chloride ion touches six sodium ions. Therefore, "NaCl is 6:6 coordinated".
+
 ## 4.2 - Covalent bonding
+
+A covalent bond is the electrostatic attraction between pairs of valence electrons and nuclei. This causes atoms to "share" electrons instead of gaining or losing them. Covalent bonds form molecules, which in turn form molecular compounds (not covalent compounds).
+
+<img src="/resources/images/covalent-bond.png" width=700>(Source: Kognity)</img>
+
+Whether a covalent bond is **pure** or **polar** indicates how evenly the shared electrons are shared between the atoms.
+
+ - A pure covalent bond has both nuclei attracting the valence electrons fairly evenly, so the difference in electronegativity (ΔEN) is low.
+ - A polar covalent bond has both nuclei attracting the valence electrons unevenly, so the ΔEN is high.
+
+### Bonding capacity
+
+The **bonding capacity** of a non-metal describes the number of covalent bonds it can form. This can be calculated via:
+
+1. Finding the number of needed electrons by taking the sum of 8 times the number of atoms. Hydrogen should be multiplied by 2 instead.
+2. Finding the number of electrons present by taking the sum of the valence electrons present. Any ions should have electrons added equal to their positive charge as well.
+
+The number of covalent bonds required is then:
+$$\frac{\text{needed} - \text{have}}{2}$$
+
+The number of lone pairs left over is:
+$$\frac{\text{have} - 2 × \text{bonds required}}{2}$$
 
 ## 4.3 - Covalent structures
 
