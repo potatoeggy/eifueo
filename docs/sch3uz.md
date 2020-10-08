@@ -238,6 +238,15 @@ A chemical bond consists of the strong electronic interactions of the **valence*
     - Metal + non-metal = ionic bond
     - Non-metal + non-metal = covalent bond
 
+!!! reminder
+    When drawing a Lewis **dot diagram**, covalent bonds must be represented as two adjacent dots. When drawing a Lewis **structure**, covalent bonds must be represented as lines connecting the atoms. 
+
+    If the process stage is required:
+
+    - Electrons destined to be shared must be encircled.
+    - Electrons to be transferred must have arrows pointing to their destination.
+    - x'es are used to represent additional electrons that have an unknown source.
+
 ### Percentage ionic character
 
 Bonding is a spectrum. The percentage ionic character of a chemical bond shows roughly the amount of time valence electrons spend near an atom or ion in a bond. The difference between two elements' electronegativity (ΔEN) indicates how covalent and how ionic the bond **behaves**.
@@ -293,8 +302,12 @@ The **bonding capacity** of a non-metal describes the number of covalent bonds i
 The number of covalent bonds required is then:
 $$\frac{\text{needed} - \text{have}}{2}$$
 
-The number of lone pairs left over is:
+The number of lone pairs (pairs of un-bonded electrons) left over is:
 $$\frac{\text{have} - 2 × \text{bonds required}}{2}$$
+
+### Dative covalent bonds
+
+Sometimes, one atom in a covalent bond may contribute both electrons in a shared pair.
 
 ## 4.3 - Covalent structures
 
