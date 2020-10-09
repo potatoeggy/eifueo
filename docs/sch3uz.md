@@ -129,7 +129,7 @@ Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertai
 
 !!! definition
     - The **effective nuclear charge** ($Z_\text{eff}$) is the net positive charge (attraction to the nucleus) experienced by an electron in an atom.
-    - **Electron shielding** describes the decrease in the effective nuclear charge of an electron because of the repulsion of other electrons in lower-energy shells.
+    - **Electron shielding** is decrease in the effective nuclear charge of an electron because of the repulsion of other electrons in lower-energy shells.
 
 **Atomic notation** is used to represent individual atoms or ions. It is written in the form $^M_Z \text{Symbol}^\text{Charge}$, where $M$ is the mass number of the particle and $Z$ is the atomic number of the particle.
 
