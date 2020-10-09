@@ -318,10 +318,10 @@ There may be several correct ways to draw covalent bonds in Lewis structures and
 The formal charge of an atom can be calculated using the following equation:
 $$\text{Formal charge} = \text{# of valence electrons of element} - \text{# of unpaired electrons} - \text{# of covalent bonds}$$
 
-To find the best structure for a covalently bonded compound, the formal charge of all atoms in that compound should be **minimised**.
+To find the best structure for a covalently bonded compound, the **absolute value** of the formal charge of all atoms in that compound should be **minimised**. Positively charged atoms will even accept **dative covalent bonds** from other atoms with negative formal charges.
 
 !!! warning
-    Some elements want formal charges of zero so much that they break the octet rule. These elements are $\text{P, S, Cl, Br, I, and Xe}$. To do so, they will accept **dative covalent bonds** from other atoms with opposite formal charges. This brings the formal charges of both atoms closer to zero by one.
+    Some elements want formal charges of zero so much that they break the octet rule. These elements are $\text{P, S, Cl, Br, I, and Xe}$.
 
 ### Resonance structures
 
