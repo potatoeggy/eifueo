@@ -400,6 +400,52 @@ By dividing both sides of a fraction by the $x$ variable of the highest degree, 
 	- The sign of infinity can be found by evaluating the limit
  - If $m = n$, $\lim_{x \to ∞} f(x) = \frac{a}{b}$, where $a$ and $b$ are the coefficients of the degree of the numerator and the denominator, respectively.
 
+### Derivatives
+
+A derivative function is a function of all **tangent slopes** in the original function. It can either be expressed in function notation as $f´(x)$ ("f prime of x") or in Leibniz notation as $\frac{dy}{dx}$. The process of finding a derivative of a function is known as **differentiation**.
+
+!!! note
+    Although evaluating a derivative function in function notation is the usual $f´(5)$ to solve for when $x = 5$, Leibniz notation is stupid and requires the following (the vertical bar shown should be solid):
+    $$\frac{dy}{dx} \biggr|_{x=5}$$
+
+If $f´(a)$ exists, the function is "differentiable at $a$" such that $f´(a^-) = f´(a^+)$. Functions are only differentiable at $a$ if the function is **continuous at $a$** and the tangent at $a$ is not vertical.
+
+!!! example
+    Some examples of issues that can cause $f´(a)=\text{DNE}$ are vertical asymptotes and other discontinuities, vertical tangents, cusps, and corners. The last two cause $f´(a^-) ≠ f´(a^+)$.
+
+### Finding derivatives using first principles
+
+The first principles method of finding derivatives involves using simple algebra and limits. Taking the difference quotient and adding a limit of $h \to 0$:
+$$f´(x)=\lim_{h \to 0} \frac{f(x+h)-f(x)}{h}$$
+
+results in the equation of the derivative function. Direct substitution of $h$ will result in an indeterminate form, so the equation should be manipulated to remove $h$ from the denominator typically via factoring.
+
+??? example
+    Differentiating $f(x)=2x^2 + 6$ using first principles:
+    $$
+    f´(x)=\lim_{h \to 0} \frac{f(x+h)-f(x)}{h} \\
+    = \lim_{h \to 0} \frac{2(x+h)^2 + 6 - (2x^2 - 6)}{h} \\
+    = \lim_{h \to 0} \frac{4xh+2h^2}{h} \\
+    = \lim_{h \to 0} 4x+2h \\
+    f´(x)=4x
+    $$
+
+### Derivative rules
+
+The degree of a derivative is always the degree of the original function$-1$.
+
+The power rule applies to all functions of the form $f(x)=x^n,x \in \mathbb{R}$, such that:
+$$f´(x) = nx^{n-1}$$
+
+### Drawing derivative functions
+
+If the slope of a tangent is:
+
+ - positive/negative, that value on the derivative graph is also positive/negative, respectively
+ - zero (e.g., linear equations), that value on the derivative graph is on the x-axis 
+
+Points of inflection on the original function become maximum/minimum points on the derivative graph.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
