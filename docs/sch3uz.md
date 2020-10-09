@@ -311,6 +311,20 @@ Sometimes, one atom in a covalent bond may contribute both electrons in a shared
 
 ## 4.3 - Covalent structures
 
+### Formal charge
+
+There may be several correct ways to draw covalent bonds in Lewis structures and dot diagrams. Solving for the **formal charge** of each atom involved in a covalent bond can help identify the **best** structure to construct. The formal charge of an atom in a covalent bond represents the charge that that atom has. The sum of all formal charges in a covalently bonded compound is equal to the charge of the overall compound.
+
+The formal charge of an atom can be calculated using the following equation:
+$$\text{Formal charge} = \text{# of valence electrons of element} - \text{# of unpaired electrons} - \text{# of covalent bonds}$$
+
+To find the best structure for a covalently bonded compound, the formal charge of all atoms in that compound should be **minimised**.
+
+!!! warning
+    Some elements want formal charges of zero so much that they break the octet rule. These elements are $\text{P, S, Cl, Br, I, and Xe}$. To do so, they will accept **dative covalent bonds** from other atoms with opposite formal charges. This brings the formal charges of both atoms closer to zero by one.
+
+### Resonance structures
+
 ## 4.4 - Intermolecular forces
 
 ## 4.5 - Metallic bonding
