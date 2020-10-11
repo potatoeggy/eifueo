@@ -325,6 +325,43 @@ To find the best structure for a covalently bonded compound, the **absolute valu
 
 ### Resonance structures
 
+Even when considering formal charges, there may still be multiple best Lewis structures when molecules or polyatomic ions contain double or triple bonds. These equivalent structures are known as resonance structures, and the number of possible resonance structures is equal to the number of different positions for the double/triple bond. Double-sided arrows are used to show that the forms are resonant.
+
+<img src="/resources/images/resonance-structure.png" width=700>(Source: Kognity)</img>
+
+The resonance structures of a compound show that none of the models is truly correct but instead the actual structure is somewhere **in between all of them**, and is **not** "flipping" between the various resonance structures.
+
+!!! warning
+    Even molecules such as $\text{SO}_2$ have resonance structures as the possible naive structures prior to involving formal charges are also considered to be resonant.
+
+The **resonance-hybrid** structure shows that the actual strength of all three bonds is equal and somewhere between a single and double bond.
+
+<img src="/resources/images/carbonate-delocalised.png" width=400>(Source: Wikipedia)</img>
+
+### Exceptions to the octet rule
+
+Atoms such as boron and beryllium ($\text{B}$ and $\text{Be}$) may form **incomplete octets** (less than 8 electrons) in their valence shell due to their status as **small metalloids** that form covalent bonds. In total, boron can sometimes need only 6 electrons while beryllium may have only 4 in their valence shells.
+
+<img src="/resources/images/bb-octet-exceptions.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    $\text{BeCl}_2$ and $\text{BCl}_3$ exist.>
+
+Some elements in period 3 and beyond follow the formal charge exception above and may form **expanded octets** (more than 8 electrons and up to 12) in their valence shell. These include the aforementioned $\text{P, S, Cl, Br, I, Xe}$, as well as $\text{Si}$.
+
+**Free radicals** are molecules that end up with an odd number of electrons in their valence shell and are *very* reactive. Because one electron can never pair up with another, it remains forever alone.
+
+??? example
+    $\text{NO}_2$ is a free radical as one of nitrogen's atoms cannot pair with anything even after the formation of a dative covalent bond from oxygen.
+
+### Factors affecting bond strength
+
+The strength of a bond is determined by the amount of energy required to break that bond (**bond energy**).
+
+The length of a bond (**bond length**) has an inverse relationship with the strength of that bond, as the attraction of electrons to nuclei decreases with distance.
+
+Multiple (double/triple) bonds are shorter than single bonds (a higher **bond order**) and are therefore stronger.
+
 ## 4.4 - Intermolecular forces
 
 ## 4.5 - Metallic bonding
