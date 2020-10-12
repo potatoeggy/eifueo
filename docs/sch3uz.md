@@ -347,7 +347,7 @@ Atoms such as boron and beryllium ($\text{B}$ and $\text{Be}$) may form **incomp
 !!! example
     $\text{BeCl}_2$ and $\text{BCl}_3$ exist.
 
-Some elements in period 3 and beyond follow the formal charge exception above and may form **expanded octets** (more than 8 electrons and up to 12) in their valence shell. These include the aforementioned $\text{P, S, Cl, Br, I, Xe}$, as well as $\text{Si}$.
+Some elements in period 3 and beyond follow the formal charge exception above and may form **expanded octets** (more than 8 electrons and up to 12) in their valence shell. These include the aforementioned $\text{P, S, Cl, Br, I, Xe}$, as well as metalloids.
 
 **Free radicals** are molecules that end up with an odd number of electrons in their valence shell and are *very* reactive. Because one electron can never pair up with another, it remains forever alone.
 
