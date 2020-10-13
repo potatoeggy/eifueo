@@ -313,7 +313,7 @@ Sometimes, one atom in a covalent bond may contribute both electrons in a shared
 
 ### Formal charge
 
-There may be several correct ways to draw covalent bonds in Lewis structures and dot diagrams. Solving for the **formal charge** of each atom involved in a covalent bond can help identify the **best** structure to construct. The formal charge of an atom in a covalent bond represents the charge that that atom has. The sum of all formal charges in a covalently bonded compound is equal to the charge of the overall compound.
+There may be several correct ways to draw covalent bonds in Lewis structures and dot diagrams. Solving for the **formal charge** of each atom involved in a covalent bond can help identify the **best** structure to construct. The formal charge of an atom in a covalent bond represents the charge that that atom has. The sum of all formal charges in a covalently bonded compound is equal to the charge of the overall compound. **The element with the lowest electronegativity is almost always in the centre.**
 
 The formal charge of an atom can be calculated using the following equation:
 $$\text{Formal charge} = \text{# of valence electrons of element} - \text{# of unpaired electrons} - \text{# of covalent bonds}$$
