@@ -226,8 +226,8 @@ Down a period, the number of shells occupied by the electrons increases, so vale
 !!! example
     To explain why there is a trend of decreasing atomic radius across a period:
 
-    - As the number of protons and electrons increase together, but the number of electron shells does not change, the effective nuclear charge of each electron increases, while the effect of shielding remains unchanged.
-    - This increased effective nuclear charge reduces the atomic radius compared to other atoms before it.
+    - As the number of protons and electrons increase together, but the number of electron shells does not change, the effect of shielding remains unchanged while effective nuclear charge increases.
+    - This increased attraction to the nucleus reduces the atomic radius compared to other atoms before it.
 
 ## 4.0 - Chemical bonding and structure
 
