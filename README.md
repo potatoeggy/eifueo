@@ -2,7 +2,7 @@
 
 A "competitor" of sorts to magicalsoup/highschool.
 
-Please see [/CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and formatting information.
+Please see [CONTRIBUTING.md](/eifueo/src/branch/master/CONTRIBUTING.md) for guidelines and formatting information.
 
 ## Dependencies
 

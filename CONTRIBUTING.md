@@ -86,3 +86,5 @@ This repository uses, unfortunately, my own personal style of English that is a 
 
 
 Most areas should be written in paragraphs, when possible, using a mostly formal tone.
+
+The primary focus of this project is organisation and brevity. This is not a textbook; there should not be unnecessary fluff nor examples in the main body text if it can be avoided. Examples should go in admonitions instead. Especially long admonitions should use `???` to make them collapsable.
