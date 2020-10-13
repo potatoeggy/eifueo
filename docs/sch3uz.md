@@ -332,7 +332,7 @@ Even when considering formal charges, there may still be multiple best Lewis str
 The resonance structures of a compound show that none of the models is truly correct but instead the actual structure is somewhere **in between all of them**, and is **not** "flipping" between the various resonance structures.
 
 !!! warning
-    Even molecules such as $\text{SO}_2$ have resonance structures as the possible naive structures prior to involving formal charges are also considered to be resonant.
+    Molecules such as $\text{SO}_2$ have resonance structures as the possible naive structures prior to involving formal charges are *not* considered to be resonant.
 
 The **resonance-hybrid** structure shows that the actual strength of all three bonds is equal and somewhere between a single and double bond.
 
