@@ -320,6 +320,38 @@ Projectiles move at a constant horizontal velocity and move at a uniformly accel
 
 ## 2.2 - Forces
 
+A force is a "push" or "pull" exerted by one object acting on another object and is always represented in the form of a vector. The SI unit for force is the newton ($\text{N}$), equivalent to $\text{kg} \cdot \text{m} \cdot \text{s}^{-2}$.
+
+Forces do not cause motion but instead cause *changes* in motion; therefore a constant force on an object results in uniformly acceleration motion**.
+
+A force must have:
+
+ - A magnitude and direction
+ - An object on which it acts and a location on that object where it acts
+ - An object providing the force
+ - An object acting and an object acted upon that are *not* the same
+
+### Free body diagrams
+
+<img src="/resources/images/free-body-diagram.png" width=700>(Source: Kognity)</img>
+
+### Types of forces
+
+A force must be classified as one of the following types of forces:
+
+Contact (the two objects are touching) forces:
+
+ - **Tension** ($\vec{F_T}$) is the pulling force from one object on another. Note that tension goes both ways: whichever object is pulling is also being pulled in the opposite direction.
+ - **Normal force** ($\vec{F_N}$) is the "resistance" or "pushback" force from one object on another pushing on it. It is always perpendicular to the surfaces of the objects.
+ - **Kinetic and static friction** ($\vec{F_{fK}}$ and $\vec{F_{fS}}$, respectively) is the force resisting the motion of two surfaces sliding against each other. Kinetic friction opposes an object in motion while static friction opposes an object from moving in the first place. The vector of friction is parallel to the surface and opposite the direction of motion.
+ - **Drag** ($\vec{F_D}$) is the resistive force caused by fluids in the path of an object. Its vector is always pointing in the opposite direction of the object's *instantaneous* velocity.
+ - **Thrust** ($\vec{F_T}$) is the propulsive force caused by mass (usually fluids) being ejected from an object. The force vector always points opposite the direction of the ejected mass.
+
+Non-contact forces:
+
+ - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet.
+ - **Electromagnetic forces** ($\vec{F_M}$ and $\vec{F_E}$) are not covered in this course.
+
 ## 2.3 - Work, energy, and power
 
 ## 2.4 - Momentum and impulse
