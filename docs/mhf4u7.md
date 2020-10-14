@@ -253,6 +253,9 @@ This is known as the **difference quotient**.
 
 The **instantaneous rate of change (IRoC)** at point $P(a, f(a))$ is represented by the slope of the **tangent line ($m_T$)**. The slope of the tangent line can be found by finding the difference quotient with $h$ as a very small value, e.g., $0.001$.
 
+!!! warning
+    The above method of finding the IRoC should be disregarded in favour of finding the derivative.
+
 ### Sequences
 
 A sequence is a **function** with a domain of all positive integers in sequence, but uses subscript notation ($t_n$) instead of function notation ($f(x)$).
