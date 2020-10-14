@@ -367,6 +367,9 @@ Substituting a variable in for the variable to be solved and then solving in ter
     = \frac{1}{16}
     $$
 
+!!! note
+    If $lim_{x \to a} \frac{f(x)}{g(x)}$ exists, $x - a$ *must* be a factor of both $f(x)$ and $g(x)$. Therefore, $f(a) = 0$ and $g(a) = 0$.
+
 ### Limits and continuity
 
 If a function has holes or gaps or jumps (i.e., if it cannot be drawn with a writing utensil held down all the time), it is **discontinuous**. Otherwise, it is a **continuous** function. A function discontinuous at $x=a$ is "discontinuous at $a$", where $a$ is the "point of discontinuity".
