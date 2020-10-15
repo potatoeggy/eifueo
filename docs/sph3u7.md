@@ -350,7 +350,7 @@ Contact (the two objects are touching) forces:
 
 Non-contact forces:
 
- - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet.
+ - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet. The magnitude of weight is equal to the mass of the object times the acceleration due to gravity ($mg#).
  - **Electromagnetic forces** ($\vec{F_M}$ and $\vec{F_E}$) are not covered in this course.
 
 The origin and target of a force are placed in the subscript of that force.
