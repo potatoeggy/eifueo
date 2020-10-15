@@ -316,7 +316,9 @@ By the formula of the gradient and the formula for the area underneath an accele
 
 **Projectile motion** is uniformly accelerated motion that does not leave the vertical plane (is two-dimensional). Note that the two directions (horizontal and vertical) that the projectile moves in are independent of one another. This means that variables such as average velocity can be calculated by breaking up the motion into vector **components**, then finding the resultant vector.
 
-Projectiles move at a constant horizontal velocity and move at a uniformly accelerated velocity (usually $9.81 \text{ ms}^2 \text{ [down]}$).
+Projectiles move at a **constant** horizontal velocity and move at a uniformly accelerated velocity (usually $9.81 \text{ ms}^2 \text{ [down]}$).
+
+Therefore the horizontal velocity of a projectile ($v_x$) is constant and is equal to $v \cos \theta$ and the vertical velocity ($v_y$) is equal to $v \sin \theta$ where $\theta$ is the direction of $\vec{v}$ above the horizontal axis.
 
 ## 2.2 - Forces
 
