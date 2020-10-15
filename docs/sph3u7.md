@@ -358,10 +358,10 @@ The origin and target of a force are placed in the subscript of that force.
 !!! example
     If a rock is pushed across the ground by a hand at a constant velocity, the forces acting on the rock would include:
 
-    - the normal force from the hand, or $F_{T \text{ h on R}}$
-    - the kinetic friction from the ground, or $F_{fK \text{ g on R}}$
-    - the weight of the rock from the planet, or $W_\text{ E on R}$
-    - the normal force from the ground pushing against the rock's weight, or $F_{N \text{ g on R}}$
+    - the normal force from the hand, or $F_{T \text{ h-R}}$
+    - the kinetic friction from the ground, or $F_{fK \text{ g-R}}$
+    - the weight of the rock from the planet, or $W_\text{ E-R}$
+    - the normal force from the ground pushing against the rock's weight, or $F_{N \text{ g-R}}$
 
 ### Force diagrams
 
