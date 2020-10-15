@@ -372,6 +372,17 @@ Also known as **free body diagrams**, force diagrams are used to list the forces
 !!! warning
     The labels of the vectors in the graphs provided by Kognity are not the same given by teachers.
 
+Force diagrams must include:
+
+ - The object as a point
+ - Either $\vec{a}=0$ or a squiggly arrow labeled $\vec{a}$ in the direction of acceleration
+ - All contact forces with their **subscript-labeled** vectors pointing away from the object and their lengths representative of their magnitude relative to the other vectors
+ - Weight as a vector following the rules above
+
+### Balanced and unbalanced forces
+
+If an object as a **zero net force** in all dimensions, the forces acting on it are **balanced** and motion does not change. Otherwise, there is a change in motion and the forces acting on the object are **unbalanced**.
+
 ## 2.3 - Work, energy, and power
 
 ## 2.4 - Momentum and impulse
