@@ -342,7 +342,7 @@ A force must be classified as one of the following types of forces:
 Contact (the two objects are touching) forces:
 
  - **Tension** ($\vec{F_T}$) is the pulling force from one object on another. Note that tension goes both ways: whichever object is pulling is also being pulled in the opposite direction.
- - **Normal force** ($\vec{F_N}$) is the "resistance" or "pushback" force from one object on another pushing on it. It is always perpendicular to the surfaces of the objects.
+ - **Normal force** ($\vec{F_N}$) is the "resistance" or "pushback" force from one object on another pushing on it and occurs because of Newton's third law of motion. It is always perpendicular to the surfaces of the objects.
  - **Kinetic and static friction** ($\vec{F_{fK}}$ and $\vec{F_{fS}}$, respectively) is the force resisting the motion of two surfaces sliding against each other. Kinetic friction opposes an object in motion while static friction opposes an object from moving in the first place. The vector of friction is parallel to the surface and opposite the direction of motion.
  - **Drag** ($\vec{F_D}$) is the resistive force caused by fluids in the path of an object. Its vector is always pointing in the opposite direction of the object's *instantaneous* velocity.
  - **Thrust** ($\vec{F_T}$) is the propulsive force caused by mass (usually fluids) being ejected from an object. The force vector always points opposite the direction of the ejected mass.
