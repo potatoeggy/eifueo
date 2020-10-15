@@ -377,6 +377,7 @@ Force diagrams must include:
  - The object as a point
  - Either $\vec{a}=0$ or a squiggly arrow labeled $\vec{a}$ in the direction of acceleration
  - All contact forces with their **subscript-labeled** vectors pointing away from the object and their lengths representative of their magnitude relative to the other vectors
+	- If there are multiple forces acting on an object in the same direction, those vectors should be stacked
  - Weight as a vector following the rules above
 
 ### Balanced and unbalanced forces
