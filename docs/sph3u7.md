@@ -384,6 +384,8 @@ Force diagrams must include:
 
 If an object as a **zero net force** in all dimensions, the forces acting on it are **balanced** and motion does not change. Otherwise, there is a change in motion and the forces acting on the object are **unbalanced**.
 
+An object in motion stays in constant motion in a straight line unless acted upon by an outside force. An object at rest stays at rest unless acted upon by an outside force.
+
 ## 2.3 - Work, energy, and power
 
 ## 2.4 - Momentum and impulse
