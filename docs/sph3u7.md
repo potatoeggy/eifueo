@@ -331,10 +331,6 @@ A force must have:
  - An object providing the force
  - An object acting and an object acted upon that are *not* the same
 
-### Free body diagrams
-
-<img src="/resources/images/free-body-diagram.png" width=700>(Source: Kognity)</img>
-
 ### Types of forces
 
 A force must be classified as one of the following types of forces:
@@ -343,14 +339,38 @@ Contact (the two objects are touching) forces:
 
  - **Tension** ($\vec{F_T}$) is the pulling force from one object on another. Note that tension goes both ways: whichever object is pulling is also being pulled in the opposite direction.
  - **Normal force** ($\vec{F_N}$) is the "resistance" or "pushback" force from one object on another pushing on it and occurs because of Newton's third law of motion. It is always perpendicular to the surfaces of the objects.
- - **Kinetic and static friction** ($\vec{F_{fK}}$ and $\vec{F_{fS}}$, respectively) is the force resisting the motion of two surfaces sliding against each other. Kinetic friction opposes an object in motion while static friction opposes an object from moving in the first place. The vector of friction is parallel to the surface and opposite the direction of motion.
+ - **Kinetic and static friction** ($\vec{F_{fK}}$ and $\vec{F_{fS}}$, respectively) is the force resisting the motion of two surfaces sliding against each other. Kinetic friction opposes an object in motion while static friction opposes an object from moving in the first place and is equal to the force applied that would cause the object to move. The vector of friction is parallel to the surface and opposite the direction of motion.
  - **Drag** ($\vec{F_D}$) is the resistive force caused by fluids in the path of an object. Its vector is always pointing in the opposite direction of the object's *instantaneous* velocity.
  - **Thrust** ($\vec{F_T}$) is the propulsive force caused by mass (usually fluids) being ejected from an object. The force vector always points opposite the direction of the ejected mass.
+
+!!! note
+    Static friction is always equal to the force applied by another object until an object begins to slip, at which point kinetic/dynamic friction applies. Kinetic friction is a constant force that is lower than the peak force of static friction. 
+    
+    <img src="/resources/images/static-kinetic-friction.png" width=500>(Source: Kognity)</img>
 
 Non-contact forces:
 
  - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet.
  - **Electromagnetic forces** ($\vec{F_M}$ and $\vec{F_E}$) are not covered in this course.
+
+The origin and target of a force are placed in the subscript of that force.
+
+!!! example
+    If a rock is pushed across the ground by a hand at a constant velocity, the forces acting on the rock would include:
+
+    - the normal force from the hand, or $F_{T \text{ h on R}}$
+    - the kinetic friction from the ground, or $F_{fK \text{ g on R}}$
+    - the weight of the rock from the planet, or $W_\text{ E on R}$
+    - the normal force from the ground pushing against the rock's weight, or $F_{N \text{ g on R}}$
+
+### Force diagrams
+
+Also known as **free body diagrams**, force diagrams are used to list the forces acting on a single object represented as a point.
+
+<img src="/resources/images/free-body-diagram.png" width=700>(Source: Kognity)</img>
+
+!!! warning
+    The labels of the vectors in the graphs provided by Kognity are not the same given by teachers.
 
 ## 2.3 - Work, energy, and power
 
