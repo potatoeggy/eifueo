@@ -459,4 +459,5 @@ Points of inflection on the original function become maximum/minimum points on t
  - [Calculus and Vectors 12 Textbook](/resources/g11/calculus-vectors-textbook.pdf)
  - [Course Pack Unit 1: Descriptive Statistics](/resources/g11/s1cp1.pdf)
  - [Course Pack Unit 2: Limits and Rate of Change](/resources/g11/s1cp2.pdf)
+ - [Course Pack Unit 3: Derivatives and Applications](/resources/g11/s1cp3.pdf)
  - [TI-84 Plus Basic Calculator Functions](/resources/g11/ti-84-plus.pdf)
