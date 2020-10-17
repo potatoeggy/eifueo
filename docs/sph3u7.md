@@ -386,14 +386,11 @@ Force diagrams must include:
 
 If an object as a **zero net force** in all dimensions, the forces acting on it are **balanced** and motion does not change. Otherwise, there is a change in motion and the forces acting on the object are **unbalanced**.
 
-An object in motion stays in constant motion in a straight line unless acted upon by an outside force. An object at rest stays at rest unless acted upon by an outside force.
-
 ### Newton's laws of motion
 
 Newton's first law of motion (also known as the **law of inertia**) states that every object will remain at rest or at constant velocity unless acted upon by an unbalanced force.
 
 Newton's second law of motion states that the force on an object is equal to its mass multiplied by its acceleration, such that $F = ma$.
-
 
 ## 2.3 - Work, energy, and power
 
