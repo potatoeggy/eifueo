@@ -294,16 +294,7 @@ Whether a covalent bond is **pure** or **polar** indicates how evenly the shared
 
 ### Bonding capacity
 
-The **bonding capacity** of a non-metal describes the number of covalent bonds it can form. This can be calculated via:
-
-1. Finding the number of needed electrons by taking the sum of 8 times the number of atoms. Hydrogen should be multiplied by 2 instead.
-2. Finding the number of electrons present by taking the sum of the valence electrons present. Any ions should have electrons added equal to their positive charge as well.
-
-The number of covalent bonds required is then:
-$$\frac{\text{needed} - \text{have}}{2}$$
-
-The number of lone pairs (pairs of un-bonded electrons) left over is:
-$$\frac{\text{have} - 2 × \text{bonds required}}{2}$$
+The **bonding capacity** of a non-metal describes the number of covalent bonds it can form.
 
 ### Dative covalent bonds
 
