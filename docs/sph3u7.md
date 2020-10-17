@@ -382,6 +382,12 @@ Force diagrams must include:
 	- If there are multiple forces acting on an object in the same direction, those vectors should be stacked
  - Weight as a vector following the rules above
 
+When dealing with forces on an **inclined plane**, it can be easier to work with if the axes are rotated such that the horizontal axis is parallel to the surface between the objects. The force of weight always points downward even in this scenario, and can be broken up into its vector **components**.
+
+<img src="/resources/images/rotated-fbd.png" width=700>(Source: Kognity)</img>
+
+<img src="/resources/images/rotated-fbd-explanation.png" width=700>(Source: Kognity)</img>
+
 ### Balanced and unbalanced forces
 
 If an object as a **zero net force** in all dimensions, the forces acting on it are **balanced** and motion does not change. Otherwise, there is a change in motion and the forces acting on the object are **unbalanced**.
