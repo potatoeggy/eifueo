@@ -371,7 +371,7 @@ Substituting a variable in for the variable to be solved and then solving in ter
     $$
 
 !!! note
-    If $lim_{x \to a} \frac{f(x)}{g(x)}$ exists, $x - a$ *must* be a factor of both $f(x)$ and $g(x)$. Therefore, $f(a) = 0$ and $g(a) = 0$.
+    If $\lim_{x \to a} \frac{f(x)}{g(x)}$ exists and direct substitution is not possible, $x - a$ *must* be a factor of both $f(x)$ and $g(x)$ so that the discontinuity can be removed. Therefore, $f(a) = 0$ and $g(a) = 0$.
 
 ### Limits and continuity
 
