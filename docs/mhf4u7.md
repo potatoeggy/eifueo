@@ -267,7 +267,7 @@ A sequence is a **function** with a domain of all positive integers in sequence,
 If the sequence is infinite, as $n$ becomes very large:
 
  - If the sequence continuously grows, it **tends to infinity**. (E.g., $a_n = n^2, n ≥ 1$)
- - If the sequence gets closer to a real number and converges on it, it **converges to a real limit**, or is convergent**. (E.g., $a_n = \frac{1}{n}, n ≥ 1$)
+ - If the sequence gets closer to a real number and converges on it, it **converges to a real limit**, or is **convergent**. (E.g., $a_n = \frac{1}{n}, n ≥ 1$)
  - If the sequence never approaches a number, it **does not tend to a limit**, or is **divergent**. (E.g., $a_n = \sin(n \pi)$)
 
 ### Limits
