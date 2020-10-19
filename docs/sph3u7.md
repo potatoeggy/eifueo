@@ -396,7 +396,7 @@ If an object as a **zero net force** in all dimensions, the forces acting on it 
 
 Newton's first law of motion (also known as the **law of inertia**) states that every object will remain at rest or at constant velocity unless acted upon by an unbalanced force.
 
-Newton's second law of motion states that the force on an object is equal to its mass multiplied by its acceleration, such that $F = ma$.
+Newton's second law of motion states that the force on an object is equal to its mass multiplied by its acceleration, such that $\sum \vec{F} = m\vec{a}$.
 
 ## 2.3 - Work, energy, and power
 
