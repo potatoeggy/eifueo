@@ -448,9 +448,11 @@ $$f´(x) = nx^{n-1}$$
 If the slope of a tangent is:
 
  - positive/negative, that value on the derivative graph is also positive/negative, respectively
- - zero (e.g., linear equations), that value on the derivative graph is on the x-axis 
+ - zero, that value on the derivative graph is on the x-axis 
 
 Points of inflection on the original function become maximum/minimum points on the derivative graph.
+
+The derivative of a linear equation is always constant.
 
 ## Resources
 
