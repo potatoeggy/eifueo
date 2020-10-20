@@ -440,8 +440,27 @@ results in the equation of the derivative function. Direct substitution of $h$ w
 
 The degree of a derivative is always the degree of the original function$-1$.
 
-The power rule applies to all functions of the form $f(x)=x^n,x \in \mathbb{R}$, such that:
+The **power rule** applies to all functions of the form $f(x)=x^n,x \in \mathbb{R}$, such that:
 $$f´(x) = nx^{n-1}$$
+
+??? example
+    $$f(x) = x^5$$
+    $$f´(x) = 5x^4$$
+
+The **constant multiple rule** applies to all functions of the form $f(x) = k·g(x)$, where $k$ is any real number, such that:
+$$f´(x) = k·g(x)$$
+
+??? example
+    $$f(x) = 2x^2$$
+    $$f´(x) = 2·2x$$
+    $$f´(x) = 4x$$
+
+The **sum rule** applies to all functions of the form $f(x) = g(x) + h(x)$, where $g(x)$ and $h(x)$ are known to be differentiable, such that:
+$$f´(x) = g´(x) + h´(x)$$
+
+??? example
+    $$f(x) = 2x^2 + 3x$$
+    $$f´(x) = 4x + 3$$
 
 ### Drawing derivative functions
 
@@ -452,7 +471,7 @@ If the slope of a tangent is:
 
 Points of inflection on the original function become maximum/minimum points on the derivative graph.
 
-The derivative of a linear equation is always constant.
+The derivative of a linear equation is always constant, and the derivative of a constant value is $0$..
 
 ## Resources
 
