@@ -436,7 +436,20 @@ results in the equation of the derivative function. Direct substitution of $h$ w
     f´(x)=4x
     $$
 
+### Drawing derivative functions
+
+If the slope of a tangent is:
+
+ - positive/negative, that value on the derivative graph is also positive/negative, respectively
+ - zero, that value on the derivative graph is on the x-axis 
+
+Points of inflection on the original function become maximum/minimum points on the derivative graph.
+
+The derivative of a linear equation is always constant, and the derivative of a constant value is $0$..
+
 ### Derivative rules
+
+These rules can be used in place of/to supplement finding derivative functions using first principles and are usually much faster to calculate.
 
 The degree of a derivative is always the degree of the original function$-1$.
 
@@ -461,17 +474,6 @@ $$f´(x) = g´(x) + h´(x)$$
 ??? example
     $$f(x) = 2x^2 + 3x$$
     $$f´(x) = 4x + 3$$
-
-### Drawing derivative functions
-
-If the slope of a tangent is:
-
- - positive/negative, that value on the derivative graph is also positive/negative, respectively
- - zero, that value on the derivative graph is on the x-axis 
-
-Points of inflection on the original function become maximum/minimum points on the derivative graph.
-
-The derivative of a linear equation is always constant, and the derivative of a constant value is $0$..
 
 ## Resources
 
