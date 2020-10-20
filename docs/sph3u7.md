@@ -324,7 +324,7 @@ Therefore the horizontal velocity of a projectile ($v_x$) is constant and is equ
 
 A force is a "push" or "pull" exerted by one object acting on another object and is always represented in the form of a vector. The SI unit for force is the newton ($\text{N}$), equivalent to $\text{kg} \cdot \text{m} \cdot \text{s}^{-2}$.
 
-Forces do not cause motion but instead cause *changes* in motion; therefore a constant force on an object results in uniformly acceleration motion**.
+Forces do not cause motion but instead cause *changes* in motion; therefore a constant force on an object results in **uniformly accelerated motion**.
 
 A force must have:
 
@@ -352,7 +352,7 @@ Contact (the two objects are touching) forces:
 
 Non-contact forces:
 
- - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet. The magnitude of weight is equal to the mass of the object times the acceleration due to gravity ($mg#).
+ - **Weight** ($\vec{W}$) is the attraction between a mass and a planet. Its vector always points toward the planet. The magnitude of weight is equal to the mass of the object times the acceleration due to gravity ($mg$).
  - **Electromagnetic forces** ($\vec{F_M}$ and $\vec{F_E}$) are not covered in this course.
 
 The origin and target of a force are placed in the subscript of that force.
@@ -360,10 +360,10 @@ The origin and target of a force are placed in the subscript of that force.
 !!! example
     If a rock is pushed across the ground by a hand at a constant velocity, the forces acting on the rock would include:
 
-    - the normal force from the hand, or $F_{T \text{ h-R}}$
-    - the kinetic friction from the ground, or $F_{fK \text{ g-R}}$
-    - the weight of the rock from the planet, or $W_\text{ E-R}$
-    - the normal force from the ground pushing against the rock's weight, or $F_{N \text{ g-R}}$
+    - the normal force from the hand, or $F_{T \text{ hR}}$
+    - the kinetic friction from the ground, or $F_{fK \text{ gR}}$
+    - the weight of the rock from the planet, or $W_\text{ ER}$
+    - the normal force from the ground pushing against the rock's weight, or $F_{N \text{ gR}}$
 
 ### Force diagrams
 
