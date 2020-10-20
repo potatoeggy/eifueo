@@ -402,6 +402,30 @@ Newton's second law of motion states that the force on an object is equal to its
 
 ## 2.4 - Momentum and impulse
 
+### Momentum
+
+The momentum of an object describes the difficulty of changing its motion. It is expressed mathematically as $\vec{P}$, and is equal to mass times initial velocity, or:
+$$\vec{P} = m\vec{v}$$
+
+### Impulse
+
+Impulse is the average net force $\Sigma F_{\text{avg}}$ applied over a time interval $\Delta t$. It is expressed mathematically as $\vec{J}$, and is represented in **Newton seconds** ($\text{Ns}$). It is equal to:
+$$\vec{J} = \Sigma \vec{F}_\text{avg} · \Delta t$$
+
+This can be rearranged and combined with other formulas, if the mass of the object is **constant**, so that impulse is equal to the difference in linear momentum.
+$$
+\vec{J} = m\vec{a_\text{avg}} · \Delta t \\
+\vec{J} = mt (\frac{\vec{v_2} - \vec{v_1}}{\Delta t}) \\
+\vec{J} = m\vec{v_2} - m\vec{v_1} \\
+\vec{J} = \vec{P}_2 - \vec{P}_1 \\
+\vec{J} = \Delta \vec{P}
+$$
+
+Using the above, the net average force on an object can also be written as the rate of change of its momentum with respect to time.
+$$
+\Sigma \vec{F}_\text{avg} = \frac{\Delta \vec{P}}{\Delta t}
+$$
+
 ## 3.1 - Thermal concepts
 
 ## 3.2 - Modelling a gas
