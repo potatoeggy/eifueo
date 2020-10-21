@@ -125,7 +125,7 @@ Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertai
 
 ## 11.3 - Spectroscopic identification of organic compounds
 
-## 12 - Atomic structure
+## 2 - Atomic structure
 
 !!! definition
     - The **effective nuclear charge** ($Z_\text{eff}$) is the net positive charge (attraction to the nucleus) experienced by an electron in an atom.
@@ -246,6 +246,12 @@ A chemical bond consists of the strong electronic interactions of the **valence*
     - Electrons destined to be shared must be encircled.
     - Electrons to be transferred must have arrows pointing to their destination.
     - x'es are used to represent additional electrons that have an unknown source.
+
+### Nomenclature
+
+### Types of reactions
+
+### Total and net ionic equations
 
 ### Percentage ionic character
 

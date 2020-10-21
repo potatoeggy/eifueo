@@ -394,9 +394,22 @@ If an object as a **zero net force** in all dimensions, the forces acting on it 
 
 ### Newton's laws of motion
 
-Newton's first law of motion (also known as the **law of inertia**) states that every object will remain at rest or at constant velocity unless acted upon by an unbalanced force.
+Newton's first law, also known as the **law of inertia**) states that every object will remain at rest or at constant velocity unless acted upon by an unbalanced force.
 
-Newton's second law of motion states that the **net** force on an object is equal to its mass multiplied by its acceleration, such that $\Sigma \vec{F} = m\vec{a}$.
+Newton's second law states that the **net** force on an object is equal to its mass multiplied by its acceleration, such that $\Sigma \vec{F} = m\vec{a}$.
+
+Newton's third law states that every force applied on an object as an equal and opposite reaction force on another object. These pairs of forces are known as **action/reaction pairs**. Forces are *only* part of the same pair when they:
+
+ - have the same magnitude but opposite directions
+ - are of the same type (e.g., both are weight or normal force)
+ - start and stop at the same time
+ - act on **two different objects**, thus requiring **two** force diagrams to show both of them
+
+!!! example
+    If a block is lying on the ground, the force from the weight of the Earth on the block is the same as the force of the block on the Earth.
+
+!!! warning
+    The weight of an object and the normal force resisting that weight is *not* an action/reaction pair as they appear on the *same* force diagram and act on the *same* object.
 
 ## 2.3 - Work, energy, and power
 
