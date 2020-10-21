@@ -404,27 +404,27 @@ Newton's second law of motion states that the **net** force on an object is equa
 
 ### Momentum
 
-The momentum of an object describes the difficulty of changing its motion. It is expressed mathematically as $\vec{P}$, and is equal to mass times initial velocity, or:
+The momentum of an object describes the difficulty of changing its motion. Its unit is **Newton seconds** ($\text{Ns}$) and it is expressed mathematically as $\vec{P}$ such that $\vec{P}$ is equal to mass times velocity, or:
 $$\vec{P} = m\vec{v}$$
+
+Newton's second law can be manipulated so that momentum of an object — if its mass is constant — is equal to the net average force on that object multiplied by time.
+$$
+\Sigma \vec{F}_\text{avg} = m\vec{a} \\
+ = m(\frac{\vec{v_2}-\vec{v_1}}{\Delta t}) \\
+ = \frac{m \vec{v_2} - m \vec{v_1}}{\Delta t}) \\
+ = \frac{\vec{P_2} - \vec{P_1}}{\Delta t} \\
+\Sigma \vec{F}_\text{avg} = \frac{\Delta \vec{P}}{\Delta t} \\
+\Delta \vec{P} = \Sigma \vec{F}_\text{avg} · \Delta t
+$$
+
+This means that to achieve the *same momentum*, a smaller force can be applied for a longer period of time or a larger force can be applied in a smaller period of time.
 
 ### Impulse
 
-Impulse is the average net force $\Sigma F_{\text{avg}}$ applied over a time interval $\Delta t$. It is expressed mathematically as $\vec{J}$, and is represented in **Newton seconds** ($\text{Ns}$). It is equal to:
+Impulse is the change in momentum of an object because of a force. It is expressed mathematically as $\vec{J}$, and is also represented in Newton seconds.
 $$\vec{J} = \Sigma \vec{F}_\text{avg} · \Delta t$$
 
-This can be rearranged and combined with other formulas, if the mass of the object is **constant**, so that impulse is equal to the difference in linear momentum.
-$$
-\vec{J} = m\vec{a_\text{avg}} · \Delta t \\
-\vec{J} = mt (\frac{\vec{v_2} - \vec{v_1}}{\Delta t}) \\
-\vec{J} = m\vec{v_2} - m\vec{v_1} \\
-\vec{J} = \vec{P}_2 - \vec{P}_1 \\
-\vec{J} = \Delta \vec{P}
-$$
-
-Using the above, the net average force on an object can also be written as the rate of change of its momentum with respect to time.
-$$
-\Sigma \vec{F}_\text{avg} = \frac{\Delta \vec{P}}{\Delta t}
-$$
+Note that that is also equal to $\Delta \vec{P}$ above.
 
 ## 3.1 - Thermal concepts
 
