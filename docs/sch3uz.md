@@ -112,11 +112,100 @@ Hydrates are ionic compounds with water associated with them, but the water mole
 $$\text{ion} \bullet x\text{H}_2\text{O}$$
 
 !!! example
-    - $\text{Na}_3\text{PO}_3 \bullet 4\text{H}_2\text{O}$: sodium phosphite tetrahydrate
+    $\text{Na}_3\text{PO}_3 \bullet 4\text{H}_2\text{O}$: sodium phosphite tetrahydrate
 
 Ionic compounds that have water are **hydrated**. Those that do not are **anhydrous**.
 
 ### Types of reactions
+
+#### Synthesis
+
+A synthesis reaction involves the combination of smaller atoms or molecules to form **larger** molecules.
+$$A + B → AB$$
+
+!!! example
+    - $2\text{H}_\text{2 (g)} + \text{O}_\text{2 (g)} → 2\text{H}_2\text{O}_\text{(g)}$
+    - $\text{HCl}_\text{(g)} + \text{NH}_\text{3 (g)} → \text{NH}_4\text{Cl}_\text{(aq)}$
+
+!!! warning
+    **Metal oxides** react with water to form bases while **non-metal oxides** form acids.
+
+#### Decomposition
+
+A decomposition reaction involves splitting a larger molecule into smaller molecules or elements.
+$$AB → A + B$$
+
+!!! example
+    - $2\text{H}_2\text{O}_\text{(l)} → 2\text{H}_\text{2 (g)} + \text{O}_\text{2 (g)}$
+    - $\text{CaCO}_\text{3 (s)} → \text{CaO}_\text{(s)} + \text{CO}_\text{2 (g)}$
+
+!!! warning
+    **Carbonic acid** and **ammonium hydroxide** decompose when formed as products of other reactions, so the results of this decomposition need to be considered (e.g., checking if double dispalcement reactions occur).
+    $$\text{H}_2\text{CO}_\text{3 (aq)} → \text{H}_2\text{O}_\text{(l)} + \text{CO}_\text{2 (g)}$$
+    $$\text{NH}_4\text{OH}_\text{(aq)} → \text{NH}_\text{3 (g)} + \text{H}_2\text{O}_\text{(l)}$$
+
+#### Combustion
+
+A combustion reaction involves the **rapid** reaction of a substance with **oxygen** to produce oxides and **heat**.
+$$A + \text{O}_\text{2 (g)} → \text{oxide}$$
+
+!!! example
+    $2\text{Mg}_\text{(s)} + \text{O}_\text{2 (g)} → 2\text{MgO}_\text{(s)}$
+
+!!! warning
+    Combustion reactions must be *rapid*. This means that reactions such as that of iron with oxygen gas to form iron oxide (rusting) are *not* combustion reactions.
+
+When combusting hydrocarbons, the quantity of oxygen present determines if the combustion will be **complete** or **incomplete**. The only products of complete combustion are carbon dioxide and water, while the products of incomplete combustion can also include carbon monoxide and carbon.
+$$\text{C}_x\text{H}_y + \text{O}_\text{2 (g)} → \text{CO}_\text{2 (g)} + \text{H}_2\text{O} + \text{CO}_\text{(g)} + \text{C}_\text{(s)}$$
+
+!!! example
+    - Complete: $\text{C}\text{H}_4 + 2\text{O}_\text{2 (g)} → \text{CO}_2 + 2\text{H}_2\text{O}$
+    - Incomplete: $\text{C}\text{H}_4 + \text{O}_\text{2 (g)} → \text{C} + 2\text{H}_2\text{O}$
+
+#### Single displacement
+
+A single displacement reaction involves a **more reactive** element reacting with a compound such that it displaces the **less reactive** element in the compound of the same type (metals + hydrogen or non-metals). The **activity series** is used to identify if a single displacement reaction takes place.
+
+If $A$ is a metal:
+$$A + BC → AC + B$$
+
+If $A$ is a non-metal:
+$$A + BC → BA + C$$
+
+!!! note
+    - The elemental forms of all metals are monatomic (just one atom) and are solids are room temperature, except for $\text{Hg}_\text{(l)}$.
+    - The elemental forms of phosphorus and sulfur are $\text{P}_4$ and $\text{S}_8$, respectively.
+    - The "-gens" (hydrogen, nitrogen, oxygen, halogens) are all diatomic in their elemental form.
+
+!!! example
+    - $\text{Zn}_\text{(s)} + 2\text{HCl}_\text{(aq)} → \text{ZnCl}_\text{2 (aq)} + \text{H}_\text{2 (g)}$
+    - $\text{Cl}_\text{2 (g)} + 2\text{NaBr}_\text{(aq)} → \text{Br}_\text{2 (g)} + 2\text{NaCl}_\text{(aq)}$
+    - $\text{Cu}_\text{(s)} + 2\text{AgNO}_\text{3 (aq)} → \text{Cu(NO}_3)_\text{2 (aq)} + 2\text{Ag}_\text{(s)}$
+
+#### Double displacement
+
+A double displacement reaction involves two compounds "exchanging" their components to form two new compounds. It can **only occur** if either a precipitate, a salt and water, or a gas and water are formed. Otherwise, there is **no reaction**.
+
+$$AB + CD → AD + BC$$
+
+To predict if a precipitate will form, the following solubility rules can be used (the insoluble compound is the precipitate):
+
+ - All nitrates are soluble
+ - All alkali metals are soluble
+ - Ammonium is soluble
+
+!!! example
+    $\text{BaCl}_\text{2 (aq)} + \text{K}_2\text{SO}_\text{4 (aq)} → 2\text{KCl}_\text{(aq)} + \text{BaSO}_\text{4 (s)}$
+
+To predict if a salt and water will form, the two factors must be an acid and a base.
+
+!!! example
+    $3\text{NaOH}_\text{(aq)} + \text{H}_3\text{PO}_\text{4 (aq)} → \text{Na}_3\text{PO}_\text{4 (aq)} + 3\text{H}_2\text{O}_\text{(l)}$
+
+To predict if a gas and water will form, either carbonic acid or ammonium hydroxide must be formed after the double displacement reaction as those two compounds will decompose.
+
+!!! example
+    $\text{MgCO}_\text{3 (s)} + 2\text{HCl}_\text{(aq)} → \text{CO}_\text{2 (g)} + \text{H}_2\text{O}_\text{(l)} + \text{MgCl}_\text{2 (aq)}$
 
 ### Total and net ionic equations
 
