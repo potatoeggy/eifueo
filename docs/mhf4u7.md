@@ -494,8 +494,8 @@ $$f´(x) = \frac{g´(x)h(x)-g(x)h´(x)}{[h(x)]^2}, h(x) ≠ 0$$
     $$f´(x) = \frac{2(x-1) - (2x+5)·1}{(x-1)^2}$$
     $$f´(x) = -\frac{7}{(x-1)^2}$$
 
-The **mini chain rule** (to be replaced by the actual chain rule) applies to all functions of the form $f(x) = [g(x)]^n$ such that:
-$$f´(x) = n[g(x)]^{n-1}·g´(x)$$
+The **chain rule** applies to all functions of the form $f(x) = g(h(x))$ such that:
+$$f´(x) = g´(h(x)) · h´(x)$$
 
 ??? example
     $$f(x) = (4x^2-3x+1)^7$$
