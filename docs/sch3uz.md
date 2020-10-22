@@ -364,12 +364,6 @@ A chemical bond consists of the strong electronic interactions of the **valence*
     - Electrons to be transferred must have arrows pointing to their destination.
     - x'es are used to represent additional electrons that have an unknown source.
 
-### Nomenclature
-
-### Types of reactions
-
-### Total and net ionic equations
-
 ### Percentage ionic character
 
 Bonding is a spectrum. The percentage ionic character of a chemical bond shows roughly the amount of time valence electrons spend near an atom or ion in a bond. The difference between two elements' electronegativity (ΔEN) indicates how covalent and how ionic the bond **behaves**.
