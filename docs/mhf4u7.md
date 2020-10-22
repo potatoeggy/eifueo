@@ -449,7 +449,7 @@ The derivative of a linear equation is always constant, and the derivative of a 
 
 ### Derivative rules
 
-These rules can be used in place of/to supplement finding derivative functions using first principles and are usually much faster to calculate.
+These rules can be used in place of/to supplement finding derivative functions using first principles and are usually much faster to calculate. These rules assume that all of the functions involved are differentiable.
 
 The degree of a derivative is always the degree of the original function$-1$.
 
@@ -468,12 +468,38 @@ $$f´(x) = k·g(x)$$
     $$f´(x) = 2·2x$$
     $$f´(x) = 4x$$
 
-The **sum rule** applies to all functions of the form $f(x) = g(x) + h(x)$, where $g(x)$ and $h(x)$ are known to be differentiable, such that:
+The **sum rule** applies to all functions of the form $f(x) = g(x) + h(x)$ such that:
 $$f´(x) = g´(x) + h´(x)$$
 
 ??? example
     $$f(x) = 2x^2 + 3x$$
     $$f´(x) = 4x + 3$$
+
+The **product rule** applies to all functions of the form $f(x) = g(x)h(x)$ such that:
+$$f´(x) = g´(x)h(x) + g(x)h´(x)$$
+
+??? example
+    $$f(x) = (2x+5)(x-1)$$
+    $$f´(x) = 2(x-1) + (2x+5)·1$$
+    $$f´(x) = 4x + 1$$
+
+The **extended product rule** applies to all functions of the form $f(x) = g(x)h(x)j(x)$ such that:
+$$f´(x) = g´(x)h(x)j(x) + g(x)h´(x)j(x) + g(x)h(x)j´(x)$$
+
+The **quotient rule** applies to all functions of the form $f(x) = \frac{g(x)}{h(x)}$ such that:
+$$f´(x) = \frac{g´(x)h(x)-g(x)h´(x)}{[h(x)]^2}, h(x) ≠ 0$$
+
+??? example
+    $$f(x) = \frac{2x+5}{x-1}$$
+    $$f´(x) = \frac{2(x-1) - (2x+5)·1}{(x-1)^2}$$
+    $$f´(x) = -\frac{7}{(x-1)^2}$$
+
+The **mini chain rule** (to be replaced by the actual chain rule) applies to all functions of the form $f(x) = [g(x)]^n$ such that:
+$$f´(x) = n[g(x)]^{n-1}·g´(x)$$
+
+??? example
+    $$f(x) = (4x^2-3x+1)^7$$
+    $$f´(x) = 7(4x^2-3x+1)^6 (8x-3)$$
 
 ## Resources
 
