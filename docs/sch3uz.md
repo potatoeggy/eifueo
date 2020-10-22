@@ -35,6 +35,48 @@ $$\text{prefix–element prefix–element–ide}$$
 
 ### Polyatomic ions
 
+A polyatomic ion consists of an element covalently bonded to oxygen atoms, ending up with a non-neutral charge. The parent form of these compounds is written as the non-oxygen element with the "-ate" suffix.
+$$\text{element–ate}$$
+
+!!! example
+    - $\text{CO}_3 {}^{2-}$: carbonate
+    - $\text{NO}_3 {}^-$: nitrate
+
+However, the number of oxygen atoms in the ion can change while the **charge remains the same**. In this case, the following prefixes and suffixes are applied based on the difference in oxygen atoms from its parent:
+
+ - +1 $\text{O}$: per…ate
+ - +0 $\text{O}$: …ate
+ - -1 $\text{O}$: …ite
+ - -2 $\text{O}$: hypo…ite
+
+Polyatomic ions in the **same group** on the periodic table form similar polyatomic ions.
+
+!!! example
+    Chlorate ($\text{ClO}_3{}^-$) and bromate ($\text{BrO}_3{}^-$) have the same base forms and thus the same extended forms.
+
+To remember the charges and number of oxygen atoms in **some** polyatomic ions, the below mnemonic can be used:
+$$\text{Nick Borate the Camel had a Clam Supper in Phoenix}$$
+
+The first letter(s) of each capitalised word is the non-oxygen component, the number of consonants in that word is equal to the number of oxygen atoms, and the number of vowels indicates its charge.
+
+Alternatively/complimentarily, memorise the following table:
+
+| Name | Formula | Name | Formula |
+| --- | --- | --- | --- |
+| Ammonium | $\text{NH}_4{}^+$ | Sulfate | $\text{SO}_4{}^{2-}$ |
+| Hydroxide | $\text{OH}^-$ | Chlorate | $\text{ClO}_3{}^-$ |
+| Cyanide | $\text{CN}^-$ | Chromate | $\text{CrO}_4{}^-$ |
+| Borate | $\text{BO}_3{}^{3-}$ | Dichromate | $\text{Cr}_2\text{O}_7{}^{2-}$ |
+| Carbonate | $\text{CO}_3{}^{2-}$ | Permanganate | $\text{MnO}_4{}^-$ 
+| Nitrate | $\text{NO}_3{}^-$ | Acetate | $\text{CH}_3\text{COO}^-$ |
+| Phosphate | $\text{PO}_4{}^{3-}$ | | |
+
+Hydrogen ions can be added to polyatomic ions, reducing the compound's negative charge by 1. "Hydrogen" is prefixed with its Greek numerical prefix (except "mono", usually) and placed before the oxyanion until the compound becomes an acid.
+
+!!! example
+    - $\text{HPO}_4{}^{2-}$: hydrogen phosphate
+    - $\text{H}_2\text{PO}_3{}^{-}$: dihydrogen phosphite
+
 ### Acids
 
 All acids must be **aqueous**.
@@ -57,7 +99,22 @@ $$\text{prefix-element-suffix acid}$$
     - $\text{HClO}_2$: chlorous acid
     - $\text{HClO}$: hypochlorous acid
 
-### Hydrated salts
+### Bases
+
+There are two types of bases in this course:
+
+ - Hydroxides ($\text{OH}^-$)
+ - Ammonia ($\text{NH}_3$)
+
+### Hydrates
+
+Hydrates are ionic compounds with water associated with them, but the water molecules are held loosely and are not actually part of the compound. There is a specific number of water molecules per formula unit of ionic compound, so the formula is written as exactly one of the ionic compound followed by a dot and $\text{H}_2\text{O}$ with a coefficient denoting the number of water molecules associated with the salt. Hydrates are named as per their ionic compound followed by "hydrate" with Greek prefixes.
+$$\text{ion} \bullet x\text{H}_2\text{O}$$
+
+!!! example
+    - $\text{Na}_3\text{PO}_3 \bullet 4\text{H}_2\text{O}$: sodium phosphite tetrahydrate
+
+Ionic compounds that have water are known as **hydrated**. Those that do not are **anhydrous**.
 
 ### Types of reactions
 
