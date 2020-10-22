@@ -22,6 +22,7 @@ $$\text{prefix–element prefix–element–ide}$$
     - $\text{N}_2\text{O}_5$: dinitrogen pentoxide
     - $\text{CO}$: carbon monoxide
     - $\text{PI}_3$: phosphorous triiodide.
+    - $\text{HCl}$: hydrogen chloride
 
 !!! warning
     The following common molecular compounds do not follow the rules above and have the following names instead:
