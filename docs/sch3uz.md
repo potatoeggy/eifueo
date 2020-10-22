@@ -38,15 +38,15 @@ $$\text{prefix–element prefix–element–ide}$$
 
 All acids must be **aqueous**.
 
-A **binary acid** consists of hydrogen atoms bonded to exactly one other non-metal element **dissolved in water**. It is written as the non-metal element prefixed by "hydro-" and suffixed with "-ic acid". If the compound begins with a hydrogen atom but *is not aqueous*, it is a binary covalent molecule.
+A **binary acid** consists of hydrogen atoms bonded to exactly one other non-metal element **dissolved in water**. If the compound begins with a hydrogen atom but *is not aqueous*, it is a binary covalent molecule. Binary acids are written as their non-metal element prefixed by "hydro-" and suffixed with "-ic acid".
 $$\text{hydro–element–ic acid}$$
 
 !!! example
     - $\text{HCl}_\text{(aq)}$: hydrochloric acid
     - $\text{HCl}$: hydrogen chloride
-    - $\text{H}_2{S}_\text{(aq)}$: hydrosulfuric acid
+    - $\text{H}_2\text{S}_\text{(aq)}$: hydrosulfuric acid
 
-An **oxyacid** consists of a polyatomic ion bonded to hydrogen ions equal to its charge. It is written as the oxyacid with "-ate" replaced with "-ic", "-ite" replaced with "-ous", and with the suffix "acid".
+An **oxyacid** consists of a polyatomic ion bonded to hydrogen ions equal to its charge. As their chemical structure can only exist while aqueous, $\text{(aq)}$ is not required. Oxyacids are written as per their polyatomic ion with "-ate" replaced with "-ic", "-ite" replaced with "-ous", and with the suffix "acid".
 $$\text{prefix-element-suffix acid}$$
 
 !!! example
