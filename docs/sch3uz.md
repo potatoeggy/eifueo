@@ -4,6 +4,64 @@ The course code for this page is **SCH3UZ**.
 
 ## 1.1 - Review and base knowledge
 
+### Binary ionic and molecular compound nomenclature
+
+An **ionic bond** is a bond formed between a metal cation and a non-metal anion. The compound name is written as the cation followed by the anion with the "-ide" ending. If the cation is multivalent (all transition metals aside from $\text{Si}$ and $\text{Co}$), the charge of the cation should be written in parentheses in roman numerals between the two ions.
+$$\text{cation anion-ide || cation (roman charge) anion-ide}$$
+
+!!! example
+    - $\text{NaCl}$: sodium chloride
+    - $\text{Al}_2\text{O}_3$: aluminium oxide
+    - $\text{CuO}$: copper (II) oxide
+    - $\text{Cu}_2\text{O}$: copper (I) oxide
+
+A **covalent bond** is a bond formed between two non-metals. The compound name is written as the non-metal that appears first followed by the non-metal that appears second with the -ide ending, prefixing both with Greek prefixes to represent the number of atoms of that element. If there is only one atom of the first element, or if it would be unambiguous otherwise, "mono" is excluded for that element. The final vowel of the prefix is excluded if it ends with a vowel and the element following it starts with a vowel, except for the letter "i".
+$$\text{prefix–element prefix–element–ide}$$
+
+!!! example
+    - $\text{N}_2\text{O}_5$: dinitrogen pentoxide
+    - $\text{CO}$: carbon monoxide
+    - $\text{PI}_3$: phosphorous triiodide.
+
+!!! warning
+    The following common molecular compounds do not follow the rules above and have the following names instead:
+    
+    - $\text{H}_2\text{O}_2$: hydrogen peroxide
+    - $\text{O}_3$: ozone
+    - $\text{H}_2\text{O}_\text{(l)}$: water
+    - $\text{CH}_4$: methane
+    - $\text{NH}_3$: ammonia
+
+### Polyatomic ions
+
+### Acids
+
+All acids must be **aqueous**.
+
+A **binary acid** consists of hydrogen atoms bonded to exactly one other non-metal element **dissolved in water**. It is written as the non-metal element prefixed by "hydro-" and suffixed with "-ic acid". If the compound begins with a hydrogen atom but *is not aqueous*, it is a binary covalent molecule.
+$$\text{hydro–element–ic acid}$$
+
+!!! example
+    - $\text{HCl}_\text{(aq)}$: hydrochloric acid
+    - $\text{HCl}$: hydrogen chloride
+    - $\text{H}_2{S}_\text{(aq)}$: hydrosulfuric acid
+
+An **oxyacid** consists of a polyatomic ion bonded to hydrogen ions equal to its charge. It is written as the oxyacid with "-ate" replaced with "-ic", "-ite" replaced with "-ous", and with the suffix "acid".
+$$\text{prefix-element-suffix acid}$$
+
+!!! example
+    - $\text{H}_2\text{CO}_3$: carbonic acid
+    - $\text{HIO}_4$: periodic acid
+    - $\text{HIO}_3$: iodic acid
+    - $\text{HClO}_2$: chlorous acid
+    - $\text{HClO}$: hypochlorous acid
+
+### Hydrated salts
+
+### Types of reactions
+
+### Total and net ionic equations
+
 ## 2 - Atomic structure
 
 !!! definition
@@ -137,11 +195,6 @@ The halogens are a family of highly reactive non-metals in group 17. They occur 
 ## 4.0 - Chemical bonding and structure
 
 A chemical bond consists of the strong electronic interactions of the **valence** electrons between atoms that hold the atoms closer together. This only occurs if the atoms would reduce their potential energy by bonding.
-
-!!! reminder
-    - Metal + metal = metallic bond
-    - Metal + non-metal = ionic bond
-    - Non-metal + non-metal = covalent bond
 
 !!! reminder
     When drawing a Lewis **dot diagram**, covalent bonds must be represented as two adjacent dots. When drawing a Lewis **structure**, covalent bonds must be represented as lines connecting the atoms. 
