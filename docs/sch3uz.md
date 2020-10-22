@@ -114,7 +114,7 @@ $$\text{ion} \bullet x\text{H}_2\text{O}$$
 !!! example
     - $\text{Na}_3\text{PO}_3 \bullet 4\text{H}_2\text{O}$: sodium phosphite tetrahydrate
 
-Ionic compounds that have water are known as **hydrated**. Those that do not are **anhydrous**.
+Ionic compounds that have water are **hydrated**. Those that do not are **anhydrous**.
 
 ### Types of reactions
 
