@@ -2,128 +2,7 @@
 
 The course code for this page is **SCH3UZ**.
 
-## Designing a scientific investigation
-
-### Scope
-
-The scope of an experiment goes at the very beginning of it. It includes a general introduction to the topic of investigation as well as personal interest.
-
-### Research question
-
-The research question of an experiment is a hyper-focused and specific question related to the topic. It contains and asks about the effect of an **independent variable** on a **dependent variable**.
-
-### Background information and hypothesis
-
-!!! note
-    This section can instead be placed immediately before the research question depending on the experiment.
-
-In this section, scientific theories are provided to help the reader understand the rationale of the question, the design of the experiment, and data processing measures. If any theoretical/literature values are used, they should be introduced here.
-
-A hypothesis consists of a justified prediction of the expected outcome and should be integrated with any background information.
-
-### Variables
-
-!!! definition
-    - The **independent** variable is the variable that is explicitly changed to attempt to affect the dependent variable.
-    - The **dependent** variable is the variable that is directly monitored and measured in the experiment and is expected to change if the independent variable changes.
-    - **Controlled** variables (also known as "control variables") are variables that should be kept constant so they do not affect the dependent variable.
-
-The independent variable, dependent variable, and any controlled variables should be listed under this section.
-
-### Materials
-
-A list of materials and equipment should be listed here, as well as their precision. If a controlled variable needs to be measured, any instruments that would be used to do so should also be listed here.
-
-### Procedure
-
-A clear, detailed, and concise set of instructions written in *past tense* should be placed in this section as either a numbered list or descriptive paragraph. To reduce confusion, if a numbered list is used, referring directly to numbers should be avoided, and referring to numbers recursively must *never* happen. A procedure must include:
-
- - a clear, titled, labelled, and annotated diagram
- - instructions for recording data (including for controlled variables)
-
-If necessary, a "setup" section can be added as preparatory steps should not be listed in the main procedure.
-
-### Data collection
-
-Data should be collected in an organised and titled table that should be prepared before the experiment. The data table must include:
-
- - units with uncertainty, typically in the table header
- - *qualitative* data (quantitative data can be optional in some experiments)
- - repeated data/controlled variables, typically in the title
- - any relevant information should be listed under the title
-
-Only **raw data** prior to any processing or calculations, with the exception of averages, should be present in the data table.
-
-A data table should be as concise as possible, and redundancy should be minimised. In that vein, trial numbers should *not* be recorded unless that data is relevant.
-
-!!! example
-    **Table 1: Effect of Fat Content on Sugar Content in Ice Cream**
-    
-    | Fat Content (g ± 0.1 g) | Sugar Content (g ± 0.1 g) | Notes |
-    | --- | --- | --- |
-    | 2.0 | 5.1 | - strawberry ice cream |
-    | 0.1 | 2.3 | - mint chocolate chip ice cream |
-
-Whenever possible, data tables should *not* span multiple pages. If that is unavoidable, a new title with "…continued" and new column headers must be present at the top of each new page.
-
-### Data processing
-
-A single sample calculation showing all steps should be present and clearly explained. The rest of the data can be processed without describing any steps. A **single** graph may be included if needed.
-
-Some general rules include:
-
- - units and uncertainties must be present in all calculations
- - simple operations such as averages and conversions (e.g., g to kg) do not need to be explained
- - the graph, if any, should span at least half of the page (ideally the full page) and should directly answer the research question
-
-A final, reorganised, and processed data table should be present here, showing only relevant information.
-
-### Conclusion and evaluation
-
-This section should be free of any new background information or calculations. It should, in sequence:
-
- - summarise the results of the experiment without connecting it to the hypothesis
- - identify whether the results of the experiment agree or disagree with the hypothesis
- - evaluate 3–5 systematic errors (usually) present in the experiment, both in the procedure and in data collection/processing, in **decreasing** order of impact to the experiment
-
-The evaluation of systematic errors should include:
-
- - a description of the error
- - how the error affected the data
- - how the error affected the final result
- - how the error can be remedied with available school resources
-## 11.1 - Uncertainties and errors in measurement and results
-
-Please see [SL Physics#Uncertainties and errors](/sph3u7/#12-uncertainties-and-errors) for more information.
-
-## 11.2 - Graphical techniques
-
-When plotting a graph:
-
- - plot the independent variable on the horizontal axis and the dependent variable on the vertical axis
- - label the axes, ensuring that the labels include units
- - choose an appropriate scale for each axis
- - give the graph an appropriate title at the **bottom** in **title case**
- - draw a line of best fit
- - include all uncertainties in the form of error bars
-	- if the error bars are too small to see, it should be noted explanation below
-
-### Titles
-
-The title of a graph should clearly indicate what the graph represents under what conditions in **title case**, so that any onlooker should be able to identify the experiment. It should not include "vs." Any legends present should be located under the graph.
-
-??? example
-    "Effect of Cat Deaths on Suicides in New Zealand"
-
-### Error bars
-
-Please see [SL Physics#Error bars](/sph3u7/#error-bars) for more information.
-
-### Line of best fit
-
-Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertainty-of-gradient-and-intercepts) for more information.
-
-## 11.3 - Spectroscopic identification of organic compounds
+## 1.1 - Review and base knowledge
 
 ## 2 - Atomic structure
 
@@ -195,6 +74,8 @@ $$2\text{Li}_\text{(s)} + 2\text{H}_2\text{O}_\text{(l)} \rightarrow 2\text{LiOH
 The reaction of a **halogen** with hydrogen gas always forms a hydride. For example, fluorine reacts with hydrogen gas such that:
 $$\text{Fl}_\text{(g)} + \text{H}_\text{2 (g)} \rightarrow 2\text{HFl}_\text{(g)}$$
 
+## 3 - Periodicity
+
 ### Models
 
 Please see [SL Physics#Models](/sph3u7/#models) for more information.
@@ -228,6 +109,30 @@ Down a period, the number of shells occupied by the electrons increases, so vale
 
     - As the number of protons and electrons increase together, but the number of electron shells does not change, the effect of shielding remains unchanged while effective nuclear charge increases.
     - This increased attraction to the nucleus reduces the atomic radius compared to other atoms before it.
+
+### Period 3 oxides
+
+Metal oxides (oxides of $\text{Na}$ to $\text{Al}$) all form "giant ionic lattices" (alternatively just "lattices") as an ionic bond is formed between a metal and a non-metal. These are typically solids because of their strong **electrostatic attraction**.
+
+Metal oxides, except silicon (oxides of $\text{P}$ to $\text{Cl}$) all form molecular compounds that exist as individual molecules as a covalent bond is formed between two non-metals. These are typically liquids or gases because of their weak **intermolecular forces**.
+
+Period 3 oxides start basic but become more acidic when going across the period, with aluminium oxide being the turning point as an **amphoteric** substance (can be both an acid or a base). Basic oxides dissolve in water to form hydroxides while acidic oxides dissolve in water to form their respective oxyacids.
+
+!!! example
+    The following equations should be known by heart and are examples of period 3 oxides reacting with water.
+    $$
+    \text{Na}_2\text{O}_\text{(s)} + \text{H}_2\text{O}_\text{(l)} → 2\text{NaOH}_\text{(aq)} \\
+    \text{MgO}_\text{(s)} + \text{H}_2\text{O}_\text{(l)} → \text{Mg(OH)}_\text{2 (aq)} \\
+    \text{P}_4\text{O}_\text{10 (s)} + 6\text{H}_2\text{O}_\text{(l)} → 4\text{H}_3\text{PO}_\text{4 (aq)} \\
+    \text{SO}_\text{3 (g)} + \text{H}_2\text{O}_\text{(l)} → \text{H}_2\text{SO}_\text{4 (aq)} \\
+    3\text{NO}_\text{2 (g)} + \text{H}_2\text{O}_\text{(l)} → 2\text{HNO}_\text{3 (aq)} + \text{NO}_\text{(g)}
+    $$
+
+### Alkali metals and halogens
+
+The alkali metals are a family of highly reactive metals in group 1. They are very soft, and their melting and boiling points are relatively low, decreasing more when going down the group due to their weaker attraction. When reacted with water, they form **hydrogen gas and metal hydroxides** that have a high pH, hence the name "alkali" metals.
+
+The halogens are a family of highly reactive non-metals in group 17. They occur diatomically (in molecules composed of two of the same element) and start as gases but become solids when going down the group due to stronger intermolecular forces. A single displacement reaction involving halogens only occurs if the more reactive halogen is not already bonded to the cation. Halogens are also very strong oxidising agents with their effectiveness increasing going up the group.
 
 ## 4.0 - Chemical bonding and structure
 
@@ -362,6 +267,130 @@ Multiple (double/triple) bonds are shorter than single bonds (a higher **bond or
 ## 4.4 - Intermolecular forces
 
 ## 4.5 - Metallic bonding
+
+## 11.1 - Uncertainties and errors in measurement and results
+
+Please see [SL Physics#Uncertainties and errors](/sph3u7/#12-uncertainties-and-errors) for more information.
+
+## 11.2 - Graphical techniques
+
+When plotting a graph:
+
+ - plot the independent variable on the horizontal axis and the dependent variable on the vertical axis
+ - label the axes, ensuring that the labels include units
+ - choose an appropriate scale for each axis
+ - give the graph an appropriate title at the **bottom** in **title case**
+ - draw a line of best fit
+ - include all uncertainties in the form of error bars
+	- if the error bars are too small to see, it should be noted explanation below
+
+### Titles
+
+The title of a graph should clearly indicate what the graph represents under what conditions in **title case**, so that any onlooker should be able to identify the experiment. It should not include "vs." Any legends present should be located under the graph.
+
+??? example
+    "Effect of Cat Deaths on Suicides in New Zealand"
+
+### Error bars
+
+Please see [SL Physics#Error bars](/sph3u7/#error-bars) for more information.
+
+### Line of best fit
+
+Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertainty-of-gradient-and-intercepts) for more information.
+
+## 11.3 - Spectroscopic identification of organic compounds
+
+## Designing a scientific investigation
+
+### Scope
+
+The scope of an experiment goes at the very beginning of it. It includes a general introduction to the topic of investigation as well as personal interest.
+
+### Research question
+
+The research question of an experiment is a hyper-focused and specific question related to the topic. It contains and asks about the effect of an **independent variable** on a **dependent variable**.
+
+### Background information and hypothesis
+
+!!! note
+    This section can instead be placed immediately before the research question depending on the experiment.
+
+In this section, scientific theories are provided to help the reader understand the rationale of the question, the design of the experiment, and data processing measures. If any theoretical/literature values are used, they should be introduced here.
+
+A hypothesis consists of a justified prediction of the expected outcome and should be integrated with any background information.
+
+### Variables
+
+!!! definition
+    - The **independent** variable is the variable that is explicitly changed to attempt to affect the dependent variable.
+    - The **dependent** variable is the variable that is directly monitored and measured in the experiment and is expected to change if the independent variable changes.
+    - **Controlled** variables (also known as "control variables") are variables that should be kept constant so they do not affect the dependent variable.
+
+The independent variable, dependent variable, and any controlled variables should be listed under this section.
+
+### Materials
+
+A list of materials and equipment should be listed here, as well as their precision. If a controlled variable needs to be measured, any instruments that would be used to do so should also be listed here.
+
+### Procedure
+
+A clear, detailed, and concise set of instructions written in *past tense* should be placed in this section as either a numbered list or descriptive paragraph. To reduce confusion, if a numbered list is used, referring directly to numbers should be avoided, and referring to numbers recursively must *never* happen. A procedure must include:
+
+ - a clear, titled, labelled, and annotated diagram
+ - instructions for recording data (including for controlled variables)
+
+If necessary, a "setup" section can be added as preparatory steps should not be listed in the main procedure.
+
+### Data collection
+
+Data should be collected in an organised and titled table that should be prepared before the experiment. The data table must include:
+
+ - units with uncertainty, typically in the table header
+ - *qualitative* data (quantitative data can be optional in some experiments)
+ - repeated data/controlled variables, typically in the title
+ - any relevant information should be listed under the title
+
+Only **raw data** prior to any processing or calculations, with the exception of averages, should be present in the data table.
+
+A data table should be as concise as possible, and redundancy should be minimised. In that vein, trial numbers should *not* be recorded unless that data is relevant.
+
+!!! example
+    **Table 1: Effect of Fat Content on Sugar Content in Ice Cream**
+    
+    | Fat Content (g ± 0.1 g) | Sugar Content (g ± 0.1 g) | Notes |
+    | --- | --- | --- |
+    | 2.0 | 5.1 | - strawberry ice cream |
+    | 0.1 | 2.3 | - mint chocolate chip ice cream |
+
+Whenever possible, data tables should *not* span multiple pages. If that is unavoidable, a new title with "…continued" and new column headers must be present at the top of each new page.
+
+### Data processing
+
+A single sample calculation showing all steps should be present and clearly explained. The rest of the data can be processed without describing any steps. A **single** graph may be included if needed.
+
+Some general rules include:
+
+ - units and uncertainties must be present in all calculations
+ - simple operations such as averages and conversions (e.g., g to kg) do not need to be explained
+ - the graph, if any, should span at least half of the page (ideally the full page) and should directly answer the research question
+
+A final, reorganised, and processed data table should be present here, showing only relevant information.
+
+### Conclusion and evaluation
+
+This section should be free of any new background information or calculations. It should, in sequence:
+
+ - summarise the results of the experiment without connecting it to the hypothesis
+ - identify whether the results of the experiment agree or disagree with the hypothesis
+ - evaluate 3–5 systematic errors (usually) present in the experiment, both in the procedure and in data collection/processing, in **decreasing** order of impact to the experiment
+
+The evaluation of systematic errors should include:
+
+ - a description of the error
+ - how the error affected the data
+ - how the error affected the final result
+ - how the error can be remedied with available school resources
 
 ## Resources
 
