@@ -188,7 +188,7 @@ A double displacement reaction involves two compounds "exchanging" their compone
 
 $$AB + CD → AD + BC$$
 
-To predict if a precipitate will form, the following solubility rules can be used (the insoluble compound is the precipitate):
+To predict if a precipitate will form, a solubility table or the following solubility rules can be used (the insoluble compound is the precipitate):
 
  - All nitrates are soluble
  - All alkali metals are soluble
