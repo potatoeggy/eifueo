@@ -461,7 +461,7 @@ $$f´(x) = nx^{n-1}$$
     $$f´(x) = 5x^4$$
 
 The **constant multiple rule** applies to all functions of the form $f(x) = k·g(x)$, where $k$ is any real number, such that:
-$$f´(x) = k·g(x)$$
+$$f´(x) = k·g´(x)$$
 
 ??? example
     $$f(x) = 2x^2$$
