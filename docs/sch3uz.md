@@ -208,6 +208,18 @@ To predict if a gas and water will form, either carbonic acid or ammonium hydrox
     $\text{MgCO}_\text{3 (s)} + 2\text{HCl}_\text{(aq)} → \text{CO}_\text{2 (g)} + \text{H}_2\text{O}_\text{(l)} + \text{MgCl}_\text{2 (aq)}$
 
 ### Total and net ionic equations
+A total ionic equation shows the **dissociation** (separation) of soluble ionic compounds into their respective ions as well as reactants and products. Each ion is shown separately, so coefficients are used if there is more than one of that ion.
+
+!!! example
+    $\text{Na}_2\text{SO}_\text{4 (aq)} + \text{CaCl}_\text{2 (aq)} → \text{CaSO}_\text{4 (s)} + 2\text{NaCl}_\text{(aq)}$ <br>
+    Total ionic equation: $2\text{Na}^+{}_\text{(aq)} + \text{SO}_4{}^{2-}{}_\text{(aq)} + \text{Ca}^{2+}{}_\text{(aq)} + 2\text{Cl}^-{}_\text{(aq)} → \text{CaSO}_\text{4 (s)} + 2\text{Na}^+{}_\text{(aq)} + 2\text{Cl}^-{}_\text{(aq)}$
+
+A net ionic equation is similar to a total ionic equation but only shows the ions involved in the chemical reaction by eliminating all ions that do not participate in the reaction (are the same on both sides), or **spectator ions**.
+
+!!! example
+    $\text{SO}_4{}^{2-}{}_\text{(aq)} + \text{Ca}^{2+}{}_\text{(aq)} → \text{CaSO}_{4 (s)}$
+
+If there is no reaction, there is no net ionic equation but there is a total ionic equation.
 
 ## 2 - Atomic structure
 
