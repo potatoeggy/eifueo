@@ -345,10 +345,13 @@ Contact (the two objects are touching) forces:
  - **Drag** ($\vec{F_D}$) is the resistive force caused by fluids in the path of an object. Its vector is always pointing in the opposite direction of the object's *instantaneous* velocity.
  - **Thrust** ($\vec{F_T}$) is the propulsive force caused by mass (usually fluids) being ejected from an object. The force vector always points opposite the direction of the ejected mass.
 
-!!! note
-    Static friction is always equal to the force applied by another object until an object begins to slip, at which point kinetic/dynamic friction applies. Kinetic friction is a constant force that is lower than the peak force of static friction. 
-    
-    <img src="/resources/images/static-kinetic-friction.png" width=500>(Source: Kognity)</img>
+### Friction
+
+Static friction is always equal to the force applied by another object until an object begins to slip, at which point kinetic/dynamic friction applies. Kinetic friction, also known as **dynamic friction**, is a constant force that is lower than the peak force of static friction. 
+
+The **coefficient of friction** ($\mu$) represents the ratio between friction force and normal force, and has a different value for kinetic and static friction. The **maximum** force of static friction is equal to its coefficient multiplied by the normal force ($|F_{fS}|_{\max} = \mu_s F_N$), while the force of kinetic friction is equal to its coefficient multiplied by the normal force ($F_{fK} = \mu_k F_N$).
+
+<img src="/resources/images/static-kinetic-friction.png" width=500>(Source: Kognity)</img>
 
 Non-contact forces:
 
