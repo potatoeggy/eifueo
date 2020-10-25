@@ -134,9 +134,66 @@ The course code for this page is **ENG3UZ**.
  - Theme: The "main idea" or underlying meaning of a literary work, which can be given directly or indirectly.
 	- e.g., *"Never forget that* you are royalty, *and that hundreds of thousands of souls have suffered and perished so you could become what you are. By their sacrifices, you have been given the comforts you take for granted. Always remember them, so that their sacrifices shall never be without meaning."* (*Eon Fable*, ScytheRider)
 
-## Essay analysis
+## General writing
+
+### Active and passive voice
+
+Active writing involves having the subject of a sentence perform the action, while passive writing involves the subject receiving the action.
+
+!!! example
+    Active: *Joey mangled the teacher.*<br>
+    Passive: *The teacher was mangled by Joey.*
+
+### Redundancy
+
+When possible, any words that do not add meaning should not be present.
+
+## Essay writing
 
 An essay is a relatively brief non-fiction piece of writing (can be read in one sitting) that is focused on one subject.
+
+### Types of essays
+
+**Compare and contrast** essays look for similarities and differences between two concepts, objects, or ideas. Arguments are either structured **subject by subject** or **point by point**.
+
+**Cause and effect** essays attempt to establish a causal connection between ideas or events, in essence explaining why something happens/ed.
+
+**Definitional** essays focus on defining a term, idea, or concept.
+
+**Narrative** essays make a point by telling a non-fictional event in the structure of a short story in first person.
+
+ - They are usually told chronologically.
+ - They usually have a purpose/thesis that is stated in the opening sentence.
+ - Dialogue is permitted in narrative essays.
+ - They are written with vivid imagery and descriptions to involve the reader with the goal of relating in some way to the thesis.
+ - Much like fictional stories, they should have conflicts and events.
+ - They are usually written in first person.
+
+## Essay analysis
+
+### Thesis statement
+
+The thesis statement of an essay is effectively the central assertion, and may appear in different places:
+
+ - An **initial** thesis appears within the first paragraph or so.
+ - A **delayed** thesis appears anywhere else, but often appears at the end of the essay.
+ - An **inferred** thesis is one that does not appear in the essay at all. It is instead up to the reader to glean an inferred thesis via inference.
+
+### Purpose
+
+Essays may be classified under two general categories — persuasive/argumentative or expository/informative. Persuasive essays argue to convince a reader to take their position, while expository essays aim to explain a topic without bias.
+
+### Audience
+
+The target audience of an essay and those that it would appeal to are useful in determining the point of an essay. Some factors that may indicate the audience include,
+
+ - the topic of the essay
+ - bias of the author
+ - diction/language used in the essay
+ - the use of jargon or slang
+ - the formality of the essay — formal essays are typically more organised and appeal to logic more than informal essays
+ - literary techniques
+ - the tone/attitude of the author of the essay via the use of emotionally charged words
 
 ## Resources
 
