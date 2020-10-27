@@ -173,7 +173,7 @@ An essay is a relatively brief non-fiction piece of writing (can be read in one 
 
 ### Thesis statement
 
-The thesis statement of an essay is effectively the central assertion, and may appear in different places:
+The thesis statement of an essay is effectively its central assertion, and may appear in different places:
 
  - An **initial** thesis appears within the first paragraph or so.
  - A **delayed** thesis appears anywhere else, but often appears at the end of the essay.
@@ -199,3 +199,4 @@ The target audience of an essay and those that it would appeal to are useful in 
 
  - [Analysis of a Poem](/resources/g11/central-assertion-1.pdf)
  - [Essay Analysis](/resources/g11/essay-analysis.pdf)
+ - [Literary Criticism Overview](/resources/g11/literary-criticism.pdf)
