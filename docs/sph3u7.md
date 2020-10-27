@@ -72,7 +72,7 @@ Every SI unit can be expanded with metric prefixes. Note that the difference bet
 Scientific notation is written in the form of $m×10^{n}$, where $1 \leq m < 10, n \in \mathbb{Z}$. All digits before the multiplication sign in scientific notation are significant.<br>
 
 !!! example
-    The speed of light is 300 000 000 ms<sup>-1</sup>, or $3×10^8$ ms<sup>-1</sup>.
+    The speed of light in a vacuum ($c$) is effectively 300 000 000 ms<sup>-1</sup>, or $3×10^8$ ms<sup>-1</sup>.
 
 ### Orders of magnitude
 
