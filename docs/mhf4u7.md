@@ -501,6 +501,15 @@ $$f´(x) = g´(h(x)) · h´(x)$$
     $$f(x) = (4x^2-3x+1)^7$$
     $$f´(x) = 7(4x^2-3x+1)^6 (8x-3)$$
 
+### Higher order derivatives
+
+The **second derivative** of $f(x)$ is the derivative of the first derivative of $f(x)$, that is, $f´´(x)$.
+
+The $n$th derivative of $f(x)$ is $f^{(n)}(x)$, and is the derivative of the $n-1$th derivative. It is written as $\frac{d^ny}{dx^n}$ in Leibniz notation.
+
+!!! example
+    The second derivative of an object's position with respect to time is its acceleration. See [SL Physics A#Displaying motion](/sph3u7/#displaying-motion) for more information.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
