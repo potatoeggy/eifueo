@@ -409,13 +409,11 @@ Whether a covalent bond is **pure** or **polar** indicates how evenly the shared
  - A pure covalent bond has both nuclei attracting the valence electrons fairly evenly, so the difference in electronegativity (ΔEN) is low.
  - A polar covalent bond has both nuclei attracting the valence electrons unevenly, so the ΔEN is high.
 
+Sometimes, one atom in a covalent bond may contribute both electrons in a shared pair. This bond is called a **dative** bond, and is represented in Lewis structures as a double bond.
+
 ### Bonding capacity
 
 The **bonding capacity** of a non-metal describes the number of covalent bonds it can form.
-
-### Dative covalent bonds
-
-Sometimes, one atom in a covalent bond may contribute both electrons in a shared pair.
 
 ## 4.3 - Covalent structures
 
