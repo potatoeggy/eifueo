@@ -414,7 +414,14 @@ Newton's third law states that every force applied on an object as an equal and 
 !!! warning
     The weight of an object and the normal force resisting that weight is *not* an action/reaction pair as they appear on the *same* force diagram and act on the *same* object.
 
-## 2.3 - Work, energy, and power
+### Pulleys
+
+An ideal pulley changes the **direction** of force without affecting its magnitude. The tension on and acceleration of both objects on either end of pulley are always **equal**.
+
+If both objects on both sides of a pulley have the same mass, Newton's third law applies and tension is equal to one of the objects' weight. Otherwise, two free body diagrams can be drawn to represent the forces on both objects. As pulleys only change the direction of force, one pulley system can be straightened out and axes set relative to the direction of acceleration.
+
+!!! example
+    The direction $\text{[clockwise]}$ is often used for this purpose.
 
 ## 2.4 - Momentum and impulse
 
