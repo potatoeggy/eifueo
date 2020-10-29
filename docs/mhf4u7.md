@@ -516,7 +516,7 @@ To identify the positive or negative regions of an equation, an interval line or
 
 1. Factor the equation as much as possible and identify the x-intercepts.
 2. Place the x-intercepts on a line.
-3. Solve for any value in between two x-intercepts. That region is the sign of the solved value.
+3. Find the sign of the end behaviour by taking the sign of the leading coefficient.
 4. When crossing an x-intercept, if the degree of that factor is even, the sign stays the same; otherwise, it alternates.
 5. Repeat for every other region.
 
