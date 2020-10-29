@@ -423,6 +423,8 @@ If both objects on both sides of a pulley have the same mass, Newton's third law
 !!! example
     The direction $\text{[clockwise]}$ is often used for this purpose.
 
+## 2.3 - Work, energy, and power
+
 ## 2.4 - Momentum and impulse
 
 ### Momentum
