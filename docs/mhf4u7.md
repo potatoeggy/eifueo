@@ -510,6 +510,16 @@ The $n$th derivative of $f(x)$ is $f^{(n)}(x)$, and is the derivative of the $n-
 !!! example
     The second derivative of an object's position with respect to time is its acceleration. See [SL Physics A#Displaying motion](/sph3u7/#displaying-motion) for more information.
 
+### Interval charts
+
+To identify the positive or negative regions of an equation, an interval line or chart can be used. To do so:
+
+1. Factor the equation as much as possible and identify the x-intercepts.
+2. Place the x-intercepts on a line.
+3. Solve for any value in between two x-intercepts. That region is the sign of the solved value.
+4. When crossing an x-intercept, if the degree of that factor is even, the sign stays the same; otherwise, it alternates.
+5. Repeat for every other region.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
