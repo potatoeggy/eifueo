@@ -221,7 +221,7 @@ A net ionic equation is similar to a total ionic equation but only shows the ion
 
 If there is no reaction, there is no net ionic equation but there is a total ionic equation.
 
-## 2 - Atomic structure
+## 2.1 - Atoms
 
 !!! definition
     - The **effective nuclear charge** ($Z_\text{eff}$) is the net positive charge (attraction to the nucleus) experienced by an electron in an atom.
@@ -290,6 +290,66 @@ $$2\text{Li}_\text{(s)} + 2\text{H}_2\text{O}_\text{(l)} \rightarrow 2\text{LiOH
 
 The reaction of a **halogen** with hydrogen gas always forms a hydride. For example, fluorine reacts with hydrogen gas such that:
 $$\text{Fl}_\text{(g)} + \text{H}_\text{2 (g)} \rightarrow 2\text{HFl}_\text{(g)}$$
+
+## 2.2 - Electrons in atoms
+
+### The electromagnetic spectrum
+
+**Electromagnetic radiation** is energy that travels in oscillating waves at the speed of light, having both an electric and a magnetic field.
+
+!!! reminder
+    $c$ is the standard symbol for the speed of light in a vacuum (~$3×10^8$ m/s).
+
+**Wavelength ($\lambda$)** is the distance between two identical areas on the pattern of the wave (e.g., crest to crest), and is measured in **nanometres**. The **frequency ($f$)** of a wave is the number of times it oscillates in a second, and is measured in **hertz**.
+
+The wavelength and frequency of a wave are inversely proportional, and the more energy of electromagnetic radiation, the smaller the frequency, and vice versa.
+
+$$\lambda f = c$$
+
+The visible spectrum contains all of the wavelengths that the human eye can detect, and ranges from **400 to 700 nm**.
+
+<img src="/resources/images/em-spectrum.png" width=700>(Source: Kognity)</img>
+
+### Continuous and line spectra
+
+A **continuous** spectrum shows all wavelengths in a particular range or region, while line spectra have gaps between a particular range.
+
+There are two types of line spectra: **absorption** line spectra and **emission** line spectra. For a given element, all lines will be in the same position as the two spectra are two different ways of representing the same data.
+
+<img src="/resources/images/spectra.png" width=700>(Source: Kognity)</img>
+
+To create an absorption line spectrum, white light is shone on the element and reflected and the resulting spectrum is captured.
+
+To create an emission line spectrum, a different type of energy, typically electricity, is forced on the element. Atoms re-emit this energy in the form of electromagnetic radiation and the resulting spectrum is captured.
+
+In both cases, a slit to focus the beam and a prism to separate the wavelengths are used.
+
+### Line spectra but complicated
+
+When an atom is **excited** (energy is added), its electrons absorb it and become excited and transition to higher energy levels. As they fall back down to lower energy levels, the transitions are accompanied by an **emission** of energy.
+
+**Absorption** line spectra are produced when electrons absorb energy and move to higher energy levels, while **emission** line spectra are produced when electrons release energy.
+
+!!! definition
+    - An **energy level** is a possible area where electrons can occupy and is synonymous with "shell".
+    - The **ground state** of an electron is its energy level if no energy is added.
+
+**Energy level diagrams** can be used to demonstrate this movement. The lines get closer together, or converge, as energy level increases, similar to the spectra.
+
+!!! example
+    The below line spectra and energy level diagrams are representative of the formation visible light absorption/emission spectrum for hydrogen.
+
+<img src="/resources/images/h-low-to-high.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/h-high-to-low.png" width=700>(Source: Kognity)</img>
+
+As electrons move **down** energy levels, they emit,
+
+ - ultraviolet light if they move down to $n=1$
+ - visible light if they move down to $n=2$ (the wavelength depends on the quantity of emitted energy)
+ - infrared light if they move down to $n=3$
+
+!!! warning
+    Electrons may not directly move down to their original energy levels. To form the full line spectra of hydrogen, some electrons transition to energy levels above 2 and then eventually go down to $n=2$.
 
 ## 3 - Periodicity
 
@@ -409,7 +469,7 @@ Whether a covalent bond is **pure** or **polar** indicates how evenly the shared
  - A pure covalent bond has both nuclei attracting the valence electrons fairly evenly, so the difference in electronegativity (ΔEN) is low.
  - A polar covalent bond has both nuclei attracting the valence electrons unevenly, so the ΔEN is high.
 
-Sometimes, one atom in a covalent bond may contribute both electrons in a shared pair. This bond is called a **dative** bond, and is represented in Lewis structures as a double bond.
+Sometimes, one atom in a covalent bond may contribute both electrons in a shared pair. This bond is called a **dative** bond, and is represented in Lewis structures as a double bond. Dative covalent bonds may be used to form bonds when a conventional single or double bond is infeasible, such as in **ozone**.
 
 ### Bonding capacity
 
