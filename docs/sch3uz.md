@@ -351,6 +351,60 @@ As electrons move **down** energy levels, they emit,
 !!! warning
     Electrons may not directly move down to their original energy levels. To form the full line spectra of hydrogen, some electrons transition to energy levels above 2 and then eventually go down to $n=2$.
 
+### Convergence and first ionisation energy
+
+At higher energy levels, the distance between each consecutive energy level becomes smaller until there is no change at all. This highest line is known as the **convergence limit**, and is known as $n=∞$. Electrons in the $n=∞$ energy level are no longer attracted by the nucleus, resulting in the formation of a positve ion. The energy required for this can be calculated using the following equation, where $E$ is energy required in joules, $h$ is Planck's constant:
+$$E=\text{convergence limit} · h$$
+
+To find the first ionisation energy of an element, the amount of energy required is equal to the difference in frequency of the **ground state** of the first valence electron and $n=∞$ multiplied by Planck's constant. This returns the first ionisation energy of one atom, or in electronvolts (eV).
+
+To find the convergence limit **graphically**, graph the difference of frequencies in the spectrum ($\Delta f$) against each each frequency ($f$) and extrapolate to $\Delta f=0$.
+
+### Schrödinger model
+
+According to **Heisenberg's uncertainty principle**, the more precisely the position of an electron is known, the less precisely its momentum is known and vice versa. Since the Bohr-Rutherford model, like most models, is an egregious lie, this principle is used to develop the Schrödinger model.
+
+The Schrödinger model asserts that electrons are now **three-dimensional waveforms** instead of particles. As such, the position of each electron is represented as a **3D probability cloud** around the nucleus, also known as an **orbital**.
+
+### Orbitals
+
+Orbitals have different shapes, sizes, and distances from the nucleus. Each main energy level has one or more orbitals depending the maximum number of electrons in the orbital. Each orbital can contain **up to 2** electrons and is associated with a specific region of space in the atom. The electrons contained in the orbital may be found anywhere in that space.
+
+The four types of orbitals currently known are: *s*, *p*, *d*, and *f*.
+
+The group of orbitals of the same type in the same energy level are known as the **sublevel** of that type. A coefficient is given to indicate the energy level of that sublevel.
+
+!!! example
+    The *p* sublevel consists of 3 *p*-orbitals at a given energy level. The *p* sublevel of energy level 2 is written as **2*****p***.
+
+| Main energy level | Types of orbitals | Number of orbitals | Maximum number of electrons |
+| --- | --- | --- | --- |
+| $n=1$ | 1 *s* | 1 | 2 |
+| $n=2$ | 1 *s*, 3 *p* | 4 | 8 |
+| $n=3$ | 1 *s*, 3 *p*, 5 *d* | 9 | 18 |
+| $n=4$ | 1 *s*, 3 *p*, 5 *d*, 7 *f* | 16 | 32 |
+| $n$ | | $n^2$ | $2n^2$ |
+
+Orbitals of the same type but in higher energy levels are simply larger, so any electrons in the higher energy level may be found in those lower orbitals (and maybe even in the space of other orbital types, too). However, electrons already occupying the other orbitals repel the higher electrons, causing them to spend *on average* more time in their orbital, outside of lower ones.
+
+<img src="/resources/images/s-p-orbitals.png" width=700>(Source: Kognity)</img>
+
+*s*-orbitals are spherical in shape and are centred on the nucleus. There is one on each energy level.
+
+*p*-orbitals are dumbbell-shaped and centred on the nucleus. Each orbital is aligned on a different axis. There are three on each energy level starting from $n=2$.
+
+*d*-orbitals have complex shapes. There are 5 in each energy level starting from $n=3$.
+
+*f*-orbitals have more complex shapes. There are 7 in each energy level starting from $n=4$.
+
+Orbitals are filled up in order of increasing energy, which is shown in the image below.
+
+<img src="/resources/images/orbital-energy.png" width=700>(Source: Kognity)</img>
+
+As such, the orbitals are filled in the order shown in the arrow below:
+
+<img src="/resources/images/orbital-order.png" width=700>(Source: Kognity)</img>
+
 ## 3 - Periodicity
 
 ### Models
