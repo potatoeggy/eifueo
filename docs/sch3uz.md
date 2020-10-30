@@ -368,7 +368,7 @@ The Schrödinger model asserts that electrons are now **three-dimensional wavefo
 
 ### Orbitals
 
-Orbitals have different shapes, sizes, and distances from the nucleus. Each main energy level has one or more orbitals depending the maximum number of electrons in the orbital. Each orbital can contain **up to 2** electrons and is associated with a specific region of space in the atom. The electrons contained in the orbital may be found anywhere in that space.
+Orbitals have different shapes, sizes, and distances from the nucleus. Each main energy level has one or more orbitals depending the maximum number of electrons in the energy level. Each orbital can contain **up to 2** electrons and is associated with a specific region of space in the atom. The electrons contained in the orbital may be found anywhere in that space.
 
 The four types of orbitals currently known are: *s*, *p*, *d*, and *f*.
 
