@@ -364,7 +364,7 @@ To find the convergence limit **graphically**, graph the difference of frequenci
 
 According to **Heisenberg's uncertainty principle**, the more precisely the position of an electron is known, the less precisely its momentum is known and vice versa. Since the Bohr-Rutherford model, like most models, is an egregious lie, this principle is used to develop the Schrödinger model.
 
-The Schrödinger model asserts that electrons are now **three-dimensional waveforms** instead of particles. As such, the position of each electron is represented as a **3D probability cloud** around the nucleus, also known as an **orbital**.
+The Schrödinger model asserts that electrons are now **three-dimensional waveforms** instead of particles and relates the wave to the electron's energy and position. As such, the position of each electron is represented as a **3D probability cloud** around the nucleus, also known as an **orbital**.
 
 ### Orbitals
 
