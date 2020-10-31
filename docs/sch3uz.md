@@ -397,13 +397,13 @@ Orbitals of the same type but in higher energy levels are simply larger, so any 
 
 *f*-orbitals have more complex shapes. There are 7 in each energy level starting from $n=4$.
 
-Orbitals are filled up in order of increasing energy, which is shown in the image below.
+The **Aufbau principle** states that orbitals are filled up in order of increasing energy, which is shown in the image below.
 
 <img src="/resources/images/orbital-energy.png" width=700>(Source: Kognity)</img>
 
-As such, the orbitals are filled in the order shown in the arrow below:
+### Orbital box diagrams
 
-<img src="/resources/images/orbital-order.png" width=700>(Source: Kognity)</img>
+According to **Hund's rule**, atoms fill all orbitals in the same sublevel before pairing up, similar to *Monopoly* house-building rules.
 
 ## 3 - Periodicity
 
