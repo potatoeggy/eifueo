@@ -520,6 +520,21 @@ To identify the positive or negative regions of an equation, an interval line or
 4. When crossing an x-intercept, if the degree of that factor is even, the sign stays the same; otherwise, it alternates.
 5. Repeat for every other region.
 
+### Implicit differentiation
+
+Implicit differentiation differentiates both sides of an equation with respect to $x$ and solves for $\frac{dy}{dx}$ ($y´$). Note that if $y$ is isolated, this is effectively the same as explicit differentiation.
+
+!!! warning
+    The **chain rule** must be applied when differentiating terms that contain $y$.
+
+!!! example
+    $$
+    \frac{x^2}{4} + y^2 = 1 \\
+    \frac{2x}{4} + 2y · \frac{dy}{dx} = 0 \\
+    \frac{dy}{dx} = -\frac{\frac{x}{2}}{2y} \\
+    \frac{dy}{dx} = -\frac{x}{4y}
+    $$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
