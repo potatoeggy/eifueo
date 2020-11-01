@@ -397,13 +397,21 @@ Orbitals of the same type but in higher energy levels are simply larger, so any 
 
 *f*-orbitals have more complex shapes. There are 7 in each energy level starting from $n=4$.
 
-The **Aufbau principle** states that orbitals are filled up in order of increasing energy, which is shown in the image below.
+The **Aufbau principle** states that orbitals are filled up in order of increasing energy (closest to farthest from nucleus), which is shown in the image below.
 
 <img src="/resources/images/orbital-energy.png" width=700>(Source: Kognity)</img>
 
-### Orbital box diagrams
+### Electron configuration
 
 According to **Hund's rule**, atoms fill all orbitals in the same sublevel before pairing up, similar to *Monopoly* house-building rules.
+
+Orbital box diagrams are one method of showing electron configuration by laying out the orbitals in increasing energy.
+
+<img src="/resources/images/orbital-diagram.png"></img>
+
+These diagrams must show that **energy increases** going up and that there are **spaces** for electrons in labelled orbital **sublevels**. Each electron is represented by an arrow.
+
+By convention, electrons are ordered with the first pointing up and the other pointing down in the same orbital.
 
 ### Quantum numbers
 
@@ -413,9 +421,9 @@ The **principal** quantum number ($n$) is the **main energy level** of the elect
 
 The **angular momentum** quantum number ($l$) is the type of orbital the electron resides in, zero-indexed:
 
- - $0$ means it is in an *s*-orbital
- - $1$ means it is in a *p*-orbital
- - $2$ means it is in a *d*-orbital
+ - $l=0$ means that the electron is in an *s*-orbital.
+ - $l=1$ means that the electron is in a *p*-orbital.
+ - $l=2$ means that the electron is in a *d*-orbital.
 
 ## 3 - Periodicity
 
