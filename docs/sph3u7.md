@@ -425,6 +425,10 @@ If both objects on both sides of a pulley have the same mass, Newton's third law
 
 ## 2.3 - Work, energy, and power
 
+### Energy
+
+Energy is the "ability to do work".
+
 ## 2.4 - Momentum and impulse
 
 ### Momentum
