@@ -405,6 +405,18 @@ The **Aufbau principle** states that orbitals are filled up in order of increasi
 
 According to **Hund's rule**, atoms fill all orbitals in the same sublevel before pairing up, similar to *Monopoly* house-building rules.
 
+### Quantum numbers
+
+Quantum numbers are a set of four numbers that are used to describe the specific location of an electron, similar to a coordinate system.
+
+The **principal** quantum number ($n$) is the **main energy level** of the electron.
+
+The **angular momentum** quantum number ($l$) is the type of orbital the electron resides in, zero-indexed:
+
+ - $0$ means it is in an *s*-orbital
+ - $1$ means it is in a *p*-orbital
+ - $2$ means it is in a *d*-orbital
+
 ## 3 - Periodicity
 
 ### Models
