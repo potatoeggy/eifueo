@@ -364,7 +364,7 @@ To find the convergence limit **graphically**, graph the difference of frequenci
 
 According to **Heisenberg's uncertainty principle**, the more precisely the position of an electron is known, the less precisely its momentum is known and vice versa. Since the Bohr-Rutherford model, like most models, is an egregious lie, this principle is used to develop the Schrödinger model.
 
-The Schrödinger model asserts that electrons are now **three-dimensional waveforms** instead of particles and relates the wave to the electron's energy and position. As such, the position of each electron is represented as a **3D probability cloud** around the nucleus, also known as an **orbital**.
+The Schrödinger model asserts that electrons are now **three-dimensional waveforms** instead of particles and relates the wave to the electron's energy and position. As such, the position of each electron is represented as a **3D probability cloud** around the nucleus where the electron is **most likely** to be found, also known as an **orbital**.
 
 ### Orbitals
 
@@ -401,7 +401,7 @@ The **Aufbau principle** states that orbitals are filled up in order of increasi
 
 <img src="/resources/images/orbital-energy.png" width=700>(Source: Kognity)</img>
 
-### Electron configuration
+### Orbital box diagrams
 
 According to **Hund's rule**, atoms fill all orbitals in the same sublevel before pairing up, similar to *Monopoly* house-building rules.
 
@@ -411,7 +411,23 @@ Orbital box diagrams are one method of showing electron configuration by laying 
 
 These diagrams must show that **energy increases** going up and that there are **spaces** for electrons in labelled orbital **sublevels**. Each electron is represented by an arrow.
 
-By convention, electrons are ordered with the first pointing up and the other pointing down in the same orbital.
+By convention, electrons are ordered with the first pointing up and the second pointing down in the same orbital. This is because the **Pauli exclusion principle** states that no two electrons have the same set of quantum numbers, so if one occupies an orbital with a clockwise spin (points up), the other must have an anti-clockwise spin (points down).
+
+### Electron configuration
+
+A **full** electron configuration of an element lists each of its orbital sublevels and the number of electrons in each sublevel, ordered in increasing energy.
+
+<img src="/resources/images/full-electron-configuration.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    The full electron configuration for bromine ($Z=35$) is:
+    $$\text{1s}^2\text{ 2s}^2\text{ 2p}^6\text{ 3s}^2\text{ 3p}^6\text{ 4s}^2\text{ 3d}^{10}\text{ 4p}^5$$
+
+A **condensed** electron configuration of an element replaces part of the full configuration with the closest noble gas with less electrons enclosed in square brackets.
+
+!!! example
+    The condensed electron configuration of bromine is:
+    $$\text{[Ar] 4s}^2\text{ 3d}^{10}\text{ 4p}^5$$
 
 ### Quantum numbers
 
@@ -419,11 +435,18 @@ Quantum numbers are a set of four numbers that are used to describe the specific
 
 The **principal** quantum number ($n$) is the **main energy level** of the electron.
 
-The **angular momentum** quantum number ($l$) is the type of orbital the electron resides in, zero-indexed:
+The **angular momentum** quantum number ($ℓ$) is the type of orbital the electron resides in, zero-indexed:
 
- - $l=0$ means that the electron is in an *s*-orbital.
- - $l=1$ means that the electron is in a *p*-orbital.
- - $l=2$ means that the electron is in a *d*-orbital.
+ - $ℓ=0$ means that the electron is in an *s*-orbital.
+ - $ℓ=1$ means that the electron is in a *p*-orbital.
+ - $ℓ=2$ means that the electron is in a *d*-orbital.
+
+The **magnetic** quantum number ($m_ℓ$) is contextualised by the angular momentum quantum number and identifies the specific orbital that the electron occupies in its sublevel. The centre orbital is $m_ℓ=0$ and is listed in ascending order.
+
+!!! example
+    If $ℓ=1$, $m_ℓ=-2$ indicates that the electron is located in the first *p*-orbital of the sublevel and $m_ℓ=2$ indicates that it is located on the fifth and last *p*-orbital of the sublevel.
+
+The **spin** quantum number ($m_s$) can either be $\frac{1}{2}$ or $-\frac{1}{2}$ and determines if the electron has a clockwise spin/is the first electron in its orbital or not, respectively.
 
 ## 3 - Periodicity
 
