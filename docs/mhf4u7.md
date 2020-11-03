@@ -535,6 +535,16 @@ Implicit differentiation differentiates both sides of an equation with respect t
     \frac{dy}{dx} = -\frac{x}{4y}
     $$
 
+### Related rates
+
+When solving for questions that ask for rate of change related to other rates of change, ensure that:
+
+ - variables are defined
+ - equations are written in terms of derivates
+ - the equations are differentiated **with respect to time**
+ - apply derivative rules (especially the chain rule) to every variable that is not time
+ - substitute values only at the end
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
