@@ -425,9 +425,15 @@ If both objects on both sides of a pulley have the same mass, Newton's third law
 
 ## 2.3 - Work, energy, and power
 
-### Energy
+### Work
 
-Energy is the "ability to do work".
+Work is a scalar value measured in **joules** ($\text{J}$) and is equal to the dot product (a special type of multiplication between vectors) of force and displacement, where $\theta$ is the **angle between the two vectors**, such that:
+$$W=\vec{F}\cdot\vec{d}\cdot\cos\theta$$
+
+When work is done **by** exactly one force, the above is formula is used. However, when calculating for work **on** an object, or **total work**, the sum of all forces ($\Sigma F$) should be used instead of $F$.
+
+The **work-energy theorem** states that work is also equal to the difference in kinetic energy of an object.
+$$W=\Delta E_k = \frac{1}{2}mv^2$$
 
 ## 2.4 - Momentum and impulse
 
