@@ -430,10 +430,28 @@ If both objects on both sides of a pulley have the same mass, Newton's third law
 Work is a scalar value measured in **joules** ($\text{J}$) and represents the energy transferred to an object or system. It is equal to the dot product (a special type of multiplication between vectors) of force and displacement, where $\theta$ is the **angle between the two vectors**, such that:
 $$W=\vec{F}\cdot\vec{d}\cdot\cos\theta$$
 
+<img src="/resources/images/work-equation.png" width=700>(Source: Kognity)</img>
+
 When work is done **by** exactly one force, the above is formula is used. However, when calculating for work **on** an object, or **total work**, the sum of all forces ($\Sigma F$) should be used instead of $F$.
 
 The **work-energy theorem** states that the **net work on** an object is also equal to the difference in kinetic energy of an object.
 $$W=\Delta E_k = \frac{1}{2}mv^2$$
+
+### Kinetic energy
+
+Kinetic energy is the energy of an object from its motion, or when its force is in the same direction as its displacement.
+$$E_k = \frac{1}{2}mv^2$$
+
+!!! warning
+    The above formula assumes that no work is transformed into potential energy (e.g., a spring).
+
+### Gravitational potential energy
+
+Gravitational potential energy is the **stored energy** from the movement of an object away from a body with a large gravitational attraction. It is equal to, where $g$ is the positive acceleration due to gravity, and $h$ is the vertical displacement from a **reference point**:
+$$E_g = mg\Delta h$$
+
+!!! warning
+    Whether an object has gravitational potential energy largely depends on the reference height. For example, by setting the reference height to be the same as the object's, its potential energy is $0$. If the reference height is above the object's, its potential energy is negative.
 
 ## 2.4 - Momentum and impulse
 
