@@ -432,7 +432,7 @@ $$W=\vec{F}\cdot\vec{d}\cdot\cos\theta$$
 
 When work is done **by** exactly one force, the above is formula is used. However, when calculating for work **on** an object, or **total work**, the sum of all forces ($\Sigma F$) should be used instead of $F$.
 
-The **work-energy theorem** states that work is also equal to the difference in kinetic energy of an object.
+The **work-energy theorem** states that the **net work on** an object is also equal to the difference in kinetic energy of an object.
 $$W=\Delta E_k = \frac{1}{2}mv^2$$
 
 ## 2.4 - Momentum and impulse
