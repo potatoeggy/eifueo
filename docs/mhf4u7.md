@@ -542,7 +542,7 @@ When solving for questions that ask for rate of change related to other rates of
  - variables are defined
  - equations are written in terms of derivates
  - the equations are differentiated **with respect to time**
- - apply derivative rules (especially the chain rule) to every variable that is not a constant
+ - apply derivative rules (especially the chain rule) to every variable that is not a constant (i.e., that changes with respect to time)
  - substitute values only at the end
 
 ## Resources
