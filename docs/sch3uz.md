@@ -425,6 +425,8 @@ A **full** electron configuration of an element lists each of its orbital sublev
 
 A **condensed/abbreviated** electron configuration of an element replaces part of the full configuration with the closest noble gas with **less but not equal** electrons enclosed in square brackets.
 
+The electron configurations of an ion may be the same as a noble gas or another ion. In this case, the two configurations are known as **isoelectronic**.
+
 !!! example
     The condensed electron configuration of bromine is:
     $$\text{[Ar] 4s}^2\text{ 3d}^{10}\text{ 4p}^5$$
