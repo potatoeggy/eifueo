@@ -423,7 +423,7 @@ A **full** electron configuration of an element lists each of its orbital sublev
     The full electron configuration for bromine ($Z=35$) is:
     $$\text{1s}^2\text{ 2s}^2\text{ 2p}^6\text{ 3s}^2\text{ 3p}^6\text{ 4s}^2\text{ 3d}^{10}\text{ 4p}^5$$
 
-A **condensed** electron configuration of an element replaces part of the full configuration with the closest noble gas with less electrons enclosed in square brackets.
+A **condensed/abbreviated** electron configuration of an element replaces part of the full configuration with the closest noble gas with **less but not equal** electrons enclosed in square brackets.
 
 !!! example
     The condensed electron configuration of bromine is:
