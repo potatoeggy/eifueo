@@ -375,7 +375,7 @@ Also known as **free body diagrams**, force diagrams are used to list the forces
 <img src="/resources/images/free-body-diagram.png" width=700>(Source: Kognity)</img>
 
 !!! warning
-    The labels of the vectors in the graphs provided by Kognity are not the same given by teachers.
+    The labels of the vectors in the graphs should use symbols and subscripts as per the example in [#Friction](./#friction).
 
 Force diagrams must include:
 
@@ -465,8 +465,10 @@ $$\Delta E_e = \frac{1}{2}k \Delta x^2$$
 
 ### Conservation of energy
 
-The law of conservation of energy states that energy cannot be created nor destroyed, but it can be transformed. Therefore, the net energy initially must be the same in the end.
+The law of conservation of energy states that mechanical energy in a **closed system** remains constant. Therefore, the net energy initially must be the same in the end.
 $$\Sigma E_i = \Sigma E_f$$
+
+The types of energy involved may have varying values as long as their sum is fixed. **Work** determines how energy is distributed among the types of energy.
 
 ## 2.4 - Momentum and impulse
 
