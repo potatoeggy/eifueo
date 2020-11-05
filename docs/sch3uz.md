@@ -186,7 +186,7 @@ $$A + BC → BA + C$$
 
 #### Double displacement
 
-A double displacement reaction involves two compounds "exchanging" their components to form two new compounds. It can **only occur** if either a precipitate, a salt and water, or a gas and water are formed. Otherwise, there is **no reaction**.
+A double displacement reaction involves two compounds "exchanging" their components to form two new compounds. It can **only occur** if either a precipitate, a salt and water, or a gas and water is formed. Otherwise, there is **no reaction**.
 
 $$AB + CD → AD + BC$$
 
@@ -281,7 +281,7 @@ If energy is required, the atom has a **positive** electron affinity, and will f
 
 ### Electronegativity
 
-The electronegativity of an atom represents the ability of that atom to attract a pair of electrons in a **covalent bond**. It ranges from $0$ to $4$ on the Pauling scale. As electronegativity increases, the atom more strongly holds on to the electrons in its covalent bond, so the pair of electrons in that bond spend more time around the atom with the higher electronegativity.
+The electronegativity of an atom represents the ability of that atom to attract a pair of electrons in a **covalent bond**, ranging from $0$ to $4$ on the Pauling scale. As electronegativity increases, the atom more strongly holds on to the electrons in its covalent bond, so the pair of electrons in that bond spend more time around the atom with the higher electronegativity.
 
 ### Reactivity
 
@@ -355,8 +355,8 @@ As electrons move **down** energy levels, they emit,
 
 ### Convergence and first ionisation energy
 
-At higher energy levels, the distance between each consecutive energy level becomes smaller until there is no change at all. This highest line is known as the **convergence limit**, and is known as $n=∞$. Electrons in the $n=∞$ energy level are no longer attracted by the nucleus, resulting in the formation of a positve ion. The energy required for this can be calculated using the following equation, where $E$ is energy required in joules, $h$ is Planck's constant:
-$$E=\text{convergence limit} · h$$
+At higher energy levels, the distance between each consecutive energy level becomes smaller until there is no change at all. This highest line is known as the **convergence limit**, and is known as $n=∞$. Electrons in the $n=∞$ energy level are no longer attracted by the nucleus, resulting in the formation of a positve ion. The energy required for this can be calculated using the following equation, where $E$ is energy required in joules and $h$ is Planck's constant:
+$$E=\text{convergence frequency} · h$$
 
 To find the first ionisation energy of an element, the amount of energy required is equal to the difference in frequency of the **ground state** of the first valence electron and $n=∞$ multiplied by Planck's constant. This returns the first ionisation energy of one atom, or in electronvolts (eV).
 
@@ -374,7 +374,7 @@ Orbitals have different shapes, sizes, and distances from the nucleus. Each main
 
 The four types of orbitals currently known are: *s*, *p*, *d*, and *f*.
 
-The group of orbitals of the same type in the same energy level are known as the **sublevel** of that type. A coefficient is given to indicate the energy level of that sublevel.
+The group of orbitals of the same type in the same energy level is known as the **sublevel**. A coefficient is given to indicate the energy level of that sublevel.
 
 !!! example
     The *p* sublevel consists of 3 *p*-orbitals at a given energy level. The *p* sublevel of energy level 2 is written as **2*****p***.
