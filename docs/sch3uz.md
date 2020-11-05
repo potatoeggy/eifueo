@@ -431,6 +431,11 @@ The electron configurations of an ion may be the same as a noble gas or another 
     The condensed electron configuration of bromine is:
     $$\text{[Ar] 4s}^2\text{ 3d}^{10}\text{ 4p}^5$$
 
+!!! warning
+    There is a slight energy advantage to **full/half-full** orbital sublevels. As such, there are two **exceptions** to electron configuration that differ from their predicted electron configuration:
+    $$\text{Cr: [Ar] 4s}^1 \text{ 3d}^5$$
+    $$\text{Cu: [Ar] 4s}^1 \text{ 3d}^{10}$$
+
 ### Quantum numbers
 
 Quantum numbers are a set of four numbers that are used to describe the specific location of an electron, similar to a coordinate system.
