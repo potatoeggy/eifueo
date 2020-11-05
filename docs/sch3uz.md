@@ -35,7 +35,9 @@ $$\text{prefix–element prefix–element–ide}$$
 
 ### Polyatomic ions
 
-A polyatomic ion consists of an element covalently bonded to oxygen atoms, ending up with a non-neutral charge. The parent form of these compounds is written as the non-oxygen element with the "-ate" suffix.
+A polyatomic ion is an ion formed only via covalent bonds. Most polyatomic ions are **oxyanions** and so contain oxygen and have negative charges.
+
+An oxyanion consists of an element covalently bonded to oxygen atoms, ending up with a non-neutral charge. The parent form of these compounds is written as the non-oxygen element with the "-ate" suffix.
 $$\text{element–ate}$$
 
 !!! example
