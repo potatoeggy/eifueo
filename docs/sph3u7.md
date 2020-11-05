@@ -463,6 +463,11 @@ The **spring constant** $k$ represents the "stiffness" of the spring. When retur
 The difference in elastic **potential** energy is the **negative** of the work done by elastic force, and is equal to:
 $$\Delta E_e = \frac{1}{2}k \Delta x^2$$
 
+### Conservation of energy
+
+The law of conservation of energy states that energy cannot be created nor destroyed, but it can be transformed. Therefore, the net energy initially must be the same in the end.
+$$\Sigma E_i = \Sigma E_f$$
+
 ## 2.4 - Momentum and impulse
 
 ### Momentum
