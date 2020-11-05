@@ -440,7 +440,7 @@ $$W=\Delta E_k = \frac{1}{2}mv^2$$
 ### Kinetic energy
 
 Kinetic energy is the energy of an object from its motion, or when its force is in the same direction as its displacement.
-$$E_k = \frac{1}{2}mv^2$$
+$$\Delta E_k = \frac{1}{2}mv^2$$
 
 !!! warning
     The above formula assumes that no work is transformed into potential energy (e.g., a spring).
@@ -452,6 +452,16 @@ $$E_g = mg\Delta h$$
 
 !!! warning
     Whether an object has gravitational potential energy largely depends on the reference height. For example, by setting the reference height to be the same as the object's, its potential energy is $0$. If the reference height is above the object's, its potential energy is negative.
+
+### Elastic potential energy
+
+Springs always want to return to equilibrium. In an ideal spring, Hooke's law states that the force needed to extend or compress a spring by distance $x$ from equilibrium scales linearly, such that:
+$$\vec{F}_s = k \Delta x$$
+
+The **spring constant** $k$ represents the "stiffness" of the spring. When returning to equilibrium, the **spring restoring force** is equal to the opposite of Hooke's law, or $\vec{F}_s = -k \Delta x$.
+
+The difference in elastic **potential** energy is the **negative** of the work done by elastic force, and is equal to:
+$$\Delta E_e = \frac{1}{2}k \Delta x^2$$
 
 ## 2.4 - Momentum and impulse
 
