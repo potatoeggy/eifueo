@@ -632,6 +632,43 @@ The length of a bond (**bond length**) has an inverse relationship with the stre
 
 Multiple (double/triple) bonds are shorter than single bonds (a higher **bond order**) and are therefore stronger.
 
+### VSEPR theory
+
+The valence shell electron pair repulsion theory (VSEPR theory) is a model used to predict the **electron distribution** and **molecular shape** of molecules. It states that **electron domains** around nuclei repel each other such that they end up as far away from each other as possible in **three dimensions** to minimise energy. The end location of these domains is used to predict molecular shape.
+
+Groups of electrons that repel other electrons together are known as **electron domains**. Single, double, and triple covalent bonds all qualify as exactly one electron domain, as well as lone pairs. Electron domains in bonds are known as **bonding domains** while lone pairs are known as **non-bonding domains**. Lone pairs have a slightly stronger repulsion than bonding domains as they spend more time in their own atom.
+
+!!! definition
+    - **Molecular shape/geometry** represents the general shape of a molecule's bonds around a central atom.
+    - **Electron distribution/geometry** represents the general shape of a molecule's *electrons* around a central atom. It is identical to molecular shape, but takes lone pairs into consideration.
+    - **Peripheral atoms** are atoms that are bonded to the central atom. For example, peripheral atoms in $\text{CCl}_4$ are all four chlorines.
+
+The AXE method of electron counting represents the electron pairs around a central atom with the formula $\text{AX}_n\text{E}_m$, where $A$ is the central atom, each $X$ represents a peripheral atom, and each $E$ represents a lone pair of electrons on the **central atom**. The total number of domains is equal to $X+E$. If $E=0$, the electron distribution and the molecular shape of a molecule are the same.
+
+| AXE | Electron distribution | Molecular shape |
+| --- | --- | --- |
+| $\text{AX}_4$ | tetrahedral | tetrahedral |
+| $\text{AX}_3\text{E}_1$ | tetrahedral | trigonal pyramidal |
+| $\text{AX}_2\text{E}_2$ | tetrahedral | bent |
+| $\text{AX}_3$ | trigonal planar | trigonal planar |
+| $\text{AX}_2\text{E}_1$ | trigonal planar | bent |
+| $\text{AX}_2$ | linear | linear |
+
+A **3D diagram** of a molecule is drawn similarly to three-dimensional Lewis structures, except for the following added rules:
+
+ - Bonds behind the current plane should be drawn with broken lines.
+ - Bonds in front of the current plane should be drawn with triangle lines.
+ - There should never be a 90° angle anywhere.
+ - The angle between the peripheral atoms should be labelled once for each distinct angle.
+	- for $\text{AX}_n\text{E}_m$ structures, where $n+m=4$, the angle between peripheral atoms is equal to $109.5° - 2.5m$.
+
+!!! example
+    The below 3D diagrams are for $\text{CH}_4$, $\text{NH}_3$, and $\text{H}_2\text{O}$, respectively. Note that the angle on $\text{NH}_3$ is supposed to be $107°$.
+    
+    <img src="/resources/images/vespr-diagram.png" width=700>(Source: Kognity)</img>
+
+#### 
+
 ## 4.4 - Intermolecular forces
 
 ## 4.5 - Metallic bonding
