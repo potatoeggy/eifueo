@@ -476,7 +476,7 @@ Power is a a scalar unit represented in **watts** ($\text{1 W}=\frac{\text{1 J}}
 $$P=\frac{\Delta E}{\Delta t}$$
 
 Also:
-$$P=\vec{F}v$$
+$$P=|\vec{F}|v$$
 
 ### Efficiency
 
