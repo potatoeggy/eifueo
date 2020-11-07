@@ -475,6 +475,9 @@ The types of energy involved may have varying values as long as their sum is fix
 Power is a a scalar unit represented in **watts** ($\text{1 W}=\frac{\text{1 J}}{\text{1 s}}$), and it is **not energy**, but instead the work done over a time interval, or the rate of doing work.
 $$P=\frac{\Delta E}{\Delta t}$$
 
+Also:
+$$P=\vec{F}v$$
+
 ### Efficiency
 
 Efficiency measures how much work, energy, or power is retained in a process, and is represented as a percentage ($1$ being 100% efficient, $0$ being 0% efficient).
