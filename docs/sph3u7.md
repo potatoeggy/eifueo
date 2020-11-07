@@ -470,6 +470,18 @@ $$\Sigma E_i = \Sigma E_f$$
 
 The types of energy involved may have varying values as long as their sum is fixed. **Work** determines how energy is distributed among the types of energy.
 
+### Power
+
+Power is a a scalar unit represented in **watts** ($\text{1 W}=\frac{\text{1 J}}{\text{1 s}}$), and it is **not energy**, but instead the work done over a time interval, or the rate of doing work.
+$$P=\frac{\Delta E}{\Delta t}$$
+
+### Efficiency
+
+Efficiency measures how much work, energy, or power is retained in a process, and is represented as a percentage ($1$ being 100% efficient, $0$ being 0% efficient).
+$$\text{Efficiency = }\frac{\text{useful work/energy/power output}}{\text{total work/energy/power input}}$$
+
+The second law of thermodynamics states that some energy is always lost to a non-useful form when converted, so the efficiency of a process is **always less than** $100%$.
+
 ## 2.4 - Momentum and impulse
 
 ### Momentum
