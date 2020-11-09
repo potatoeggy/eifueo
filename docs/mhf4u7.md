@@ -553,4 +553,5 @@ When solving for questions that ask for rate of change related to other rates of
  - [Course Pack Unit 1: Descriptive Statistics](/resources/g11/s1cp1.pdf)
  - [Course Pack Unit 2: Limits and Rate of Change](/resources/g11/s1cp2.pdf)
  - [Course Pack Unit 3: Derivatives and Applications](/resources/g11/s1cp3.pdf)
+ - [Course Pack Unit 4: Curve Sketching and Optimisation](/resources/g11/s1cp4.pdf)
  - [TI-84 Plus Basic Calculator Functions](/resources/g11/ti-84-plus.pdf)
