@@ -377,7 +377,7 @@ The four types of orbitals currently known are: *s*, *p*, *d*, and *f*.
 The group of orbitals of the same type in the same energy level is known as the **sublevel**. A coefficient is given to indicate the energy level of that sublevel.
 
 !!! example
-    The *p* sublevel consists of 3 *p*-orbitals at a given energy level. The *p* sublevel of energy level 2 is written as **2*****p***.
+    The *p* sublevel consists of 3 p orbitals at a given energy level. The *p* sublevel of energy level 2 is written as **2*****p***.
 
 | Main energy level | Types of orbitals | Number of orbitals | Maximum number of electrons |
 | --- | --- | --- | --- |
@@ -391,13 +391,13 @@ Orbitals of the same type but in higher energy levels are simply larger, so any 
 
 <img src="/resources/images/s-p-orbitals.png" width=700>(Source: Kognity)</img>
 
-*s*-orbitals are spherical in shape and are centred on the nucleus. There is one on each energy level.
+s orbitals are spherical in shape and are centred on the nucleus. There is one on each energy level.
 
-*p*-orbitals are dumbbell-shaped and centred on the nucleus. Each orbital is aligned on a different axis. There are three on each energy level starting from $n=2$.
+p orbitals are dumbbell-shaped and centred on the nucleus. Each orbital is aligned on a different axis. There are three on each energy level starting from $n=2$.
 
-*d*-orbitals have complex shapes. There are 5 in each energy level starting from $n=3$.
+d orbitals have complex shapes. There are 5 in each energy level starting from $n=3$.
 
-*f*-orbitals have more complex shapes. There are 7 in each energy level starting from $n=4$.
+f orbitals have more complex shapes. There are 7 in each energy level starting from $n=4$.
 
 The **Aufbau principle** states that orbitals are filled up in order of increasing energy (closest to farthest from nucleus), which is shown in the image below.
 
@@ -446,14 +446,14 @@ The **principal** quantum number ($n$) is the **main energy level** of the elect
 
 The **angular momentum** quantum number ($ℓ$) is the type of orbital the electron resides in, zero-indexed:
 
- - $ℓ=0$ means that the electron is in an *s*-orbital.
- - $ℓ=1$ means that the electron is in a *p*-orbital.
- - $ℓ=2$ means that the electron is in a *d*-orbital.
+ - $ℓ=0$ means that the electron is in an s orbital.
+ - $ℓ=1$ means that the electron is in a p orbital.
+ - $ℓ=2$ means that the electron is in a d orbital.
 
 The **magnetic** quantum number ($m_ℓ$) is contextualised by the angular momentum quantum number and identifies the specific orbital that the electron occupies in its sublevel. The centre orbital is $m_ℓ=0$ and is listed in ascending order.
 
 !!! example
-    If $ℓ=1$, $m_ℓ=-2$ indicates that the electron is located in the first *p*-orbital of the sublevel and $m_ℓ=2$ indicates that it is located on the fifth and last *p*-orbital of the sublevel.
+    If $ℓ=1$, $m_ℓ=-2$ indicates that the electron is located in the first p orbital of the sublevel and $m_ℓ=2$ indicates that it is located on the fifth and last p orbital of the sublevel.
 
 The **spin** quantum number ($m_s$) can either be $\frac{1}{2}$ or $-\frac{1}{2}$ and determines if the electron has a clockwise spin/is the first electron in its orbital or not, respectively.
 
@@ -643,24 +643,27 @@ Groups of electrons that repel other electrons together are known as **electron 
 !!! definition
     - **Molecular shape/geometry** represents the general shape of a molecule's bonds around a central atom.
     - **Electron distribution/geometry** represents the general shape of a molecule's *electrons* around a central atom. It is identical to molecular shape, but takes lone pairs into consideration.
+    - The **central atom** is the atom from which electron distribution is looked at from. It is typically the element with the lowest $\Delta$ EN, except for hydrogen.
     - **Peripheral atoms** are atoms that are bonded to the central atom. For example, peripheral atoms in $\text{CCl}_4$ are all four chlorines.
 
 The AXE method of electron counting represents the electron pairs around a central atom with the formula $\text{AX}_n\text{E}_m$, where $A$ is the central atom, each $X$ represents a peripheral atom, and each $E$ represents a lone pair of electrons on the **central atom**. The total number of domains is equal to $X+E$. If $E=0$, the electron distribution and the molecular shape of a molecule are the same.
 
-| AXE | Electron distribution | Molecular shape |
-| --- | --- | --- |
-| $\text{AX}_4$ | tetrahedral | tetrahedral |
-| $\text{AX}_3\text{E}_1$ | tetrahedral | trigonal pyramidal |
-| $\text{AX}_2\text{E}_2$ | tetrahedral | bent |
-| $\text{AX}_3$ | trigonal planar | trigonal planar |
-| $\text{AX}_2\text{E}_1$ | trigonal planar | bent |
-| $\text{AX}_2$ | linear | linear |
+| AXE | Electron distribution | Molecular shape | Bond angle |
+| --- | --- | --- | --- |
+| $\text{AX}_4$ | tetrahedral | tetrahedral | 109.5° |
+| $\text{AX}_3\text{E}$ | tetrahedral | trigonal pyramidal | 107° |
+| $\text{AX}_2\text{E}_2$ | tetrahedral | bent | 104.5° |
+| $\text{AXE}_3$ | trigonal planar | bent | DNE |
+| $\text{AX}_3$ | trigonal planar | trigonal planar | 120° |
+| $\text{AX}_2\text{E}_1$ | trigonal planar | bent | 117° |
+| $\text{AX}_2$ | linear | linear | 180° |
 
-A **3D diagram** of a molecule is drawn similarly to three-dimensional Lewis structures, except for the following added rules:
+A **3D diagram** of a molecule is drawn similarly to three-dimensional Lewis structures (ions must still be enclosed in square brackets), except for the following added rules:
 
+ - Only the lone pairs of the **central atom** should be drawn.
  - Bonds behind the current plane should be drawn with broken lines.
  - Bonds in front of the current plane should be drawn with triangle lines.
- - There should never be a 90° angle anywhere.
+ - 90° angles are only present in molecules with five electron domains, and should be avoided in all other scenarios.
  - The angle between the peripheral atoms should be labelled once for each distinct angle.
 	- for $\text{AX}_n\text{E}_m$ structures, where $n+m=4$, the angle between peripheral atoms is equal to $109.5° - 2.5m$.
 
@@ -669,7 +672,43 @@ A **3D diagram** of a molecule is drawn similarly to three-dimensional Lewis str
     
     <img src="/resources/images/vespr-diagram.png" width=700>(Source: Kognity)</img>
 
-#### 
+### VSEPR theory expanded
+
+Because of the addition of d orbitals beginning from $n=3$, elements in period 3 and beyond **with p orbitals** can make use of the space for d orbitals to form bonds such that they break the octet rule. 
+
+In molecules with 5 or 6 electron domains, their electron distribution is as follows, respectively:
+<img src="/resources/images/56-domains.png" width=700>(Source: Kognity)</img>
+
+In a trigonal bipyramid, the **equatorial** positions of domains refer to the position of the domains on the x- and z-dimensions (a trigonal plane). The domains along the y-dimension are have **axial** positions. The angle between the two is known as the **equatorial-axial** angle.
+
+| AXE | Electron distribution | Molecular shape | Bond angle |
+| --- | --- | --- | --- |
+| $\text{AX}_5$ | trigonal bipyramidal | trigonal bipyramidal | equatorial=120°, equatorial-axial=90° |
+| $\text{AX}_4\text{E}$ | trigonal bipyramidal | see-saw | |
+| $\text{AX}_3\text{E}_2$ | trigonal bipyramidal | t-shaped | |
+| $\text{AX}_2\text{E}_3$ | trigonal bipyramidal | linear | 180° |
+| $\text{AX}_6$ | octahedral | octahedral | 90° |
+| $\text{AX}_5\text{E}_6$ | octahedral | square pyramidal | |
+| $\text{AX}_4\text{E}_2$ | octahedral | square planar | 90° |
+
+!!! example
+    The following are some examples of 3D diagrams of molecules with five domains (Source: Kognity):
+
+    $\text{AX}_5$:
+    <img src="/resources/images/vsepr-ax5.png" width=700></img>
+    $\text{AX}_4\text{E}$:
+    <img src="/resources/images/vsepr-ax4e.png" width=700></img>
+    $\text{AX}_3\text{E}_2$:
+    <img src="/resources/images/vsepr-ax3e2.png" width=700></img>
+
+    The following are some examples of 3D diagrams of molecules with six domains (Source: Kognity):
+
+    $\text{AX}_6$:
+    <img src="/resources/images/vsepr-ax6.png" width=700></img>
+    $\text{AX}_5\text{E}$:
+    <img src="/resources/images/vsepr-ax5e.png" width=700></img>
+    $\text{AX}_4\text{E}_2$:
+    <img src="/resources/images/vsepr-ax4e2.png" width=700></img>
 
 ## 4.4 - Intermolecular forces
 
