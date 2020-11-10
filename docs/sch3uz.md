@@ -666,6 +666,7 @@ A **3D diagram** of a molecule is drawn similarly to three-dimensional Lewis str
  - 90° angles are only present in molecules with five electron domains, and should be avoided in all other scenarios.
  - The angle between the peripheral atoms should be labelled once for each distinct angle.
 	- for $\text{AX}_n\text{E}_m$ structures, where $n+m=4$, the angle between peripheral atoms is equal to $109.5° - 2.5m$.
+	- for $\text{AX}_n\text{E}_m$ structures, where $n+m=3$, the angle between peripheral atom is equal to $120°-3m$.
 
 !!! example
     The below 3D diagrams are for $\text{CH}_4$, $\text{NH}_3$, and $\text{H}_2\text{O}$, respectively. Note that the angle on $\text{NH}_3$ is supposed to be $107°$.
@@ -679,16 +680,16 @@ Because of the addition of d orbitals beginning from $n=3$, elements in period 3
 In molecules with 5 or 6 electron domains, their electron distribution is as follows, respectively:
 <img src="/resources/images/56-domains.png" width=700>(Source: Kognity)</img>
 
-In a trigonal bipyramid, the **equatorial** positions of domains refer to the position of the domains on the x- and z-dimensions (a trigonal plane). The domains along the y-dimension are have **axial** positions. The angle between the two is known as the **equatorial-axial** angle. Lone pairs are always placed in equatorial positions.
+In a trigonal bipyramidal, the **equatorial** positions of domains refer to the position of the domains on the x- and z-dimensions (a trigonal plane). The domains along the y-dimension are have **axial** positions. The angle between the two is known as the **equatorial-axial** angle. Lone pairs are always placed in equatorial positions.
 
 | AXE | Electron distribution | Molecular shape | Bond angle |
 | --- | --- | --- | --- |
 | $\text{AX}_5$ | trigonal bipyramidal | trigonal bipyramidal | equatorial=120°, equatorial-axial=90° |
-| $\text{AX}_4\text{E}$ | trigonal bipyramidal | see-saw | |
-| $\text{AX}_3\text{E}_2$ | trigonal bipyramidal | t-shaped | |
+| $\text{AX}_4\text{E}$ | trigonal bipyramidal | see-saw | equatorial=117°, equatorial-axial=90° |
+| $\text{AX}_3\text{E}_2$ | trigonal bipyramidal | t-shaped | equatorial-axial=90° |
 | $\text{AX}_2\text{E}_3$ | trigonal bipyramidal | linear | 180° |
 | $\text{AX}_6$ | octahedral | octahedral | 90° |
-| $\text{AX}_5\text{E}_6$ | octahedral | square pyramidal | |
+| $\text{AX}_5\text{E}_6$ | octahedral | square-based pyramidal | 88.5° |
 | $\text{AX}_4\text{E}_2$ | octahedral | square planar | 90° |
 
 !!! example
