@@ -499,7 +499,6 @@ $$
  = \frac{m \vec{v_2} - m \vec{v_1}}{\Delta t}) \\
  = \frac{\vec{P_2} - \vec{P_1}}{\Delta t} \\
 \Sigma \vec{F}_\text{avg} = \frac{\Delta \vec{P}}{\Delta t} \\
-\Delta \vec{P} = \Sigma \vec{F}_\text{avg} · \Delta t
 $$
 
 This means that to achieve the *same momentum*, a smaller force can be applied for a longer period of time or a larger force can be applied in a smaller period of time.
