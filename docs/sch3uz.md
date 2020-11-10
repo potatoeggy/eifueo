@@ -679,7 +679,7 @@ Because of the addition of d orbitals beginning from $n=3$, elements in period 3
 In molecules with 5 or 6 electron domains, their electron distribution is as follows, respectively:
 <img src="/resources/images/56-domains.png" width=700>(Source: Kognity)</img>
 
-In a trigonal bipyramid, the **equatorial** positions of domains refer to the position of the domains on the x- and z-dimensions (a trigonal plane). The domains along the y-dimension are have **axial** positions. The angle between the two is known as the **equatorial-axial** angle.
+In a trigonal bipyramid, the **equatorial** positions of domains refer to the position of the domains on the x- and z-dimensions (a trigonal plane). The domains along the y-dimension are have **axial** positions. The angle between the two is known as the **equatorial-axial** angle. Lone pairs are always placed in equatorial positions.
 
 | AXE | Electron distribution | Molecular shape | Bond angle |
 | --- | --- | --- | --- |
