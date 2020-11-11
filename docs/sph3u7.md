@@ -508,6 +508,14 @@ As momentum is a **vector**, it must have a direction, and these differences in 
 !!! example
     Bouncing balls change direction, so one of the velocities is in a direction opposite of the other.
 
+### Conservation of momentum
+
+Assuming there are no external forces, or if they are negligible, momentum between two objects must be conserved:
+$$\Sigma\vec{P}_i=\Sigma\vec{P}_f$$
+
+When two objects collide, their momentums must be equal and opposite if they travel in opposite directions:
+$$-\Delta\vec{P}_A = \Delta\vec{P}_B$$
+
 ### Impulse
 
 Impulse is the change in momentum of an object because of a force. It is expressed mathematically as $\vec{J}$, and is also represented in Newton seconds.
