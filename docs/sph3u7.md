@@ -513,8 +513,24 @@ As momentum is a **vector**, it must have a direction, and these differences in 
 Assuming there are no external forces, or if they are negligible, momentum between two objects must be conserved:
 $$\Sigma\vec{P}_i=\Sigma\vec{P}_f$$
 
-When two objects collide, their momentums must be equal and opposite if they travel in opposite directions:
-$$-\Delta\vec{P}_A = \Delta\vec{P}_B$$
+In all collisions, momentum is conserved **only** if external forces are zero or are negligible.
+
+**Perfectly elastic** collisions conserve all kinetic energy and transform it into potential energy. These do not exist in reality because of the second law of thermodynamics.
+
+!!! example
+    A ball bouncing infinitely.
+
+**Inelastic** collisions lose kinetic energy ($E_f < E_i$).
+
+!!! example
+    Most collisions, e.g., a car pushing another car.
+
+**Completely inelastic collisions** lose the maximum amount of kinetic energy while still conserving momentum.
+
+!!! example
+    Two cars hitting each other and stopping.
+
+Conservation of momentum applies even across dimensions. As it is a vector, it can be split up into components, which are independent of each other and can be acted on separately.
 
 ### Impulse
 
@@ -528,6 +544,41 @@ Note that that is also equal to $\Delta \vec{P}$ above.
 ## 3.2 - Modelling a gas
 
 ## 6.1 - Circular motion
+
+Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
+
+!!! definition
+    - An object is in **uniform circular motion** when all instantaneous velocities are equal in magnitude or when all accelerations are equal in magnitude.
+    - **Period** ($T$) represents the time required to complete one revolution ($360°$ or $2\pi$ radians).
+    - **Frequency** ($f$) represents the revolutions per second represented in hertz ($\text{1 Hz=1s^{-1}}$), and is the inverse of period.
+
+!!! warning
+    As velocity and acceleration are vectors, direction must be considered when manipulating them. This means that the **kinematic equations** cannot be used.
+
+### Angular thingies
+
+**Angular displacement** ($\Delta \theta$) is the change in angle an object has rotated relative to a reference position. By convention, angular displacement anti-clockwise is positive.
+
+**Angular speed** ($\omega$) is the rate of angular displacement, and is expressed in radians per second. It is also known as angular frequency.
+$$\omega=\frac{\Delta \theta}{\Delta t}$$
+
+An object in uniform circular motion has an angular speed of $2\pi f$. Since distance travelled in one period is the circumference of a circle, the **speed** of an object is:
+$$v=\omega r$$
+$$v=\frac{2\pi r}{T}$$
+
+### Centripetal force/acceleration
+
+Centripetal acceleration ($\vec{a}_c$) is the acceleration causing an object to move in a circle. An object with uniform circular motion has a centripetal acceleration with constant **magnitude**.
+$$|\vec{a}_c|=\frac{v^2}{r}$$
+
+Therefore, the acceleration of an object in uniform circular motion is:
+$$|\vec{a}_c|=\frac{4\pi^2r}{T^2}$$
+
+The centripetal **force** on an object is the net force on that object causing it to move in a circle. In some cases, only some **components** of forces are included as part of centripetal force.
+$$\Sigma \vec{F}_c=m\vec{a}_c$$
+
+!!! example
+   When a car turns in a circle, static friction is one factor in centripetal force. When riding a roller coaster, weight and normal force are included as centripetal force. When spinning around on the *WindSeeker* at an amusement park, only the horizontal component of tension ($\vec{F}_{Tx}$) is responsible for centripetal force.
 
 ## 6.2 - Newton's law of gravitation
 
