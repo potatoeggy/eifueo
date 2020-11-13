@@ -527,6 +527,10 @@ Note that that is also equal to $\Delta \vec{P}$ above.
 
 ## 3.2 - Modelling a gas
 
+## 6.1 - Circular motion
+
+## 6.2 - Newton's law of gravitation
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
