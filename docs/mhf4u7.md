@@ -545,6 +545,23 @@ When solving for questions that ask for rate of change related to other rates of
  - apply derivative rules (especially the chain rule) to every variable that is not a constant (i.e., that changes with respect to time)
  - substitute values only at the end
 
+## 5.2 - Increasing and decreasing functions
+
+ - If $f´(x) > 0$ in the interval $[a,b]$, $f$ is **increasing** on $[a,b]$.
+ - If $f´(x) < 0$ in the interval $[a,b]$, $f$ is **decreasing** on $[a,b]$.
+ - If $f´(x) = 0$ in the interval $[a,b]$, $f$ is **constant** on $[a,b]$.
+ - The points where $f´(x)=0$ are the **critical**/maximum/minimum points.
+
+Function only change whether they are increasing/decreasing/constant at the **critical points**/"relative extrema".
+
+These points and whether the intervals between them increase/decrease can be found by using an **interval chart/line** using the first derivative.
+
+!!! example
+    If $f(x)=\frac{2x-3}{x^2+2x-3}$:
+    
+    - $f$ is decreasing on $(-∞, -3) \cup (-3, 0) \cup (3, ∞)$.
+    - $f$ is increasing on $(0, 1) \cup (1, 3)$.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
