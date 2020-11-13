@@ -748,6 +748,40 @@ Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertai
 
 ## 11.3 - Spectroscopic identification of organic compounds
 
+## 14.2 - Hybridisation
+
+Covalent bonds are formed by overlapping orbitals of different atoms. To do so, atoms may need to recombine/mix orbitals at the highest main energy level and redistribute electrons when forming these **hybrid orbitals**. This process is known as hybridisation. Orbitals of the same atom of different energies can overlap to form hybrid orbitals of **equal energy** between the energies of the atomic orbitals used, and the number of hybrid orbitals is equal to the number of atomic orbitals used.
+
+The resulting hybrid orbitals arrange themselves such that they follow the electron distributions and molecular shapes predicted by VSEPR.
+
+<img src="/resources/images/hybridisation.png" width=700>(Source: Kognity)</img>
+
+Hybrid orbitals all must have exactly one electron in them.
+
+At the highest energy level, the order of orbitals used for hybridisation are s, p, and then d. As such, hybrid orbitals are named $s^np^nd^n$. The number of electron domains is equal to the number of hybrid orbitals.
+
+### sp<sup>3</sup> hybridisation
+
+One s orbital and three p orbitals mix to form four sp<sup>3</sup> orbitals, which will adopt a tetrahedral arrangement.
+
+<img src="/resources/images/methane-hybrid.png" width=700>(Source: Kognity)</img>
+
+### sp<sup>2</sup> hybridisation
+
+One s orbital and two p orbitals mix to form three sp<sup>2</sup> orbitals, which will adopt a trigonal planar configuration. Note that the remaining p orbital remains unhybridised and is perpendicular to the planar shape.
+
+<img src="/resources/images/sp2-hybrid.png" width=700>(Source: Kognity)</img>
+
+<img src="/resources/images/ethene-hybrid.png" width=700>(Source: Kognity)</img>
+
+### Other hybridisations
+
+One s orbital and one p orbital mix to form two sp orbitals, which will arrange themselves in a linear configuration perpendicular to the unhybridised p orbitals.
+
+One s orbital, three p orbitals, and one d orbital mix to form five sp<sup>3</sup>d orbitals, which will arrange themselves in a trigonal bipyramidal configuration.
+
+One s orbital, three p orbitals, and two d orbitals mix to form six sp<sup>3</sup>d<sup>2</sup> hybrid orbitals, which will arrange themselves in an octahedral configuration.
+
 ## Designing a scientific investigation
 
 ### Scope
