@@ -465,7 +465,7 @@ $$\Delta E_e = \frac{1}{2}k \Delta x^2$$
 
 ### Conservation of energy
 
-The law of conservation of energy states that mechanical energy in a **closed system** remains constant. Therefore, the net energy initially must be the same in the end.
+The law of conservation of energy states that mechanical energy (the total kinetic and potential energies) in a **closed system** remains constant unless any dissipative forces (such as friction) are present. Therefore, the net energy initially must be the same in the end.
 $$\Sigma E_i = \Sigma E_f$$
 
 The types of energy involved may have varying values as long as their sum is fixed. **Work** determines how energy is distributed among the types of energy.
