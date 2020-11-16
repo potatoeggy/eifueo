@@ -552,7 +552,7 @@ When solving for questions that ask for rate of change related to other rates of
  - If $f´(x) = 0$ in the interval $[a,b]$, $f$ is **constant** on $[a,b]$.
  - The points where $f´(x)=0$ are the **critical**/maximum/minimum points.
 
-Function only change whether they are increasing/decreasing/constant at the **critical points**/"relative extrema".
+Functions only change whether they are increasing/decreasing/constant at the **critical points**/"relative extrema".
 
 These points and whether the intervals between them increase/decrease can be found by using an **interval chart/line** using the first derivative.
 
@@ -561,6 +561,30 @@ These points and whether the intervals between them increase/decrease can be fou
     
     - $f$ is decreasing on $(-∞, -3) \cup (-3, 0) \cup (3, ∞)$.
     - $f$ is increasing on $(0, 1) \cup (1, 3)$.
+
+### Extrema
+
+Extrema are the maximum and minimum points in a function or an interval of a function. They must be at **critical points**—where $f(x)=0$ or $f(x)=\text{DNE}$, and may include the **boundary points** if looking for extrema in a given interval.
+
+The highest and lowest point(s) of $f(x)$ are known as the **absolute** maximum/minimum of $f(x)$.
+
+Any other **relative/local** maxima or minima are such that all of the points around that point are higher or lower.
+
+**Fermat's theorem** states that if $f(c)$ is a local extremum, $c$ must be a critical number of $f$. Therefore, if $f$ is continuous in the closed interval $[a,b]$, the absolute extrema of $f$ must occur at $a$, $b$, or a critical number.
+
+To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critical value, the **first derivative test** may be used with the assistance of an interval chart/line. If only an interval of a function is under consideration, the boundary points must be taken under consideration as well.
+
+ - If $f´(a)$ changes from positive to negative, there is a relative/local minimum at $x=a$.
+ - If $f´(a)$ changes from negative to positive, there is a relative/local maximum at $x=a$.
+ - If the sign is the same on both sides, there is no extrema at $x=a$.
+ - The greatest/least relative/local maximum/minimum is the absolute maximum/minimum.
+
+!!! example
+    The absolute minimum of $f(x)=x^2$ is at $(0,0)$. There is no absolute maximum nor are there any other relative/local maximum/minimum points.
+
+!!! warning
+    - There can be multiple absolute maxima/minima if there are multiple points that are both highest/lowest.
+    - If a function is a horizontal line, the absolute maximum and minimum for $x \in \text{domain} is $y$.
 
 ## Resources
 
