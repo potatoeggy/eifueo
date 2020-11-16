@@ -748,6 +748,39 @@ Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertai
 
 ## 11.3 - Spectroscopic identification of organic compounds
 
+## 14.1 - More covalent bonding
+
+To form bonds, orbitals overlap to form new **molecular orbitals** where electrons spend most of their time in.
+
+### Sigma bonds
+
+Sigma ($\sigma$) bonds are the strongest type of covalent bond, and are formed by **end-on interactions** of atomic orbitals **along** the bond axis of two atoms. All single bonds are sigma bonds, and one sigma bond is present in double and triple bonds. Only one sigma bond can ever exist between two atoms, and they can be formed between any combination of two hybrid/unhybridised orbitals.
+
+<img src="/resources/images/sigma-demo.png" width=700>(Source: Kognity)</img>
+
+Electrons are most commonly found in the area directly between the nuclei of the bonding atoms, permitting movement around the bond.
+
+<img src="/resources/images/sigma-density.png" width=700>(Source: Kognity)</img>
+
+### Pi bonds
+
+Pi ($\pi$) bonds are not as strong as sigma bonds, and formed by the **side-by-side** overlap of unhybridised p orbitals. In a bonding electron domain, only one bond is a sigma bond; the rest are all pi bonds.
+
+<img src="/resources/images/pi-demo.png" width=700>(Source: Kognity)</img>
+
+Electrons are most commonly found **above and below** the plane of the nuclei of the bonding atoms, thus not permitting rotation around a pi bond.
+
+### Delocalised pi bonds
+
+Delocalised pi electrons are electrons that are shared between more than two nuclei, and exist in molecules and polyatomic ions that have resonance. When multiple pi orbitals overlap
+
+<img src="/resources/images/carbonate-pi-graphic.png" width=700>(Source: Kognity)</img>
+
+Dashed lines are used in resonance hybrid structures to show that delocalised pi bonds exist between atoms. Bonds that change between resonance structures are all actually delocalised pi bonds.
+
+!!! example
+    <img src="/resources/images/resonance-pi.png" width=700>(Source: Kognity)</img>
+
 ## 14.2 - Hybridisation
 
 Covalent bonds are formed by overlapping orbitals of different atoms. To do so, atoms may need to recombine/mix orbitals at the highest main energy level and redistribute electrons when forming these **hybrid orbitals**. This process is known as hybridisation. Orbitals of the same atom of different energies can overlap to form hybrid orbitals of **equal energy** between the energies of the atomic orbitals used, and the number of hybrid orbitals is equal to the number of atomic orbitals used.
