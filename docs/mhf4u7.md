@@ -586,6 +586,16 @@ To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critic
     - There can be multiple absolute maxima/minima if there are multiple points that are both highest/lowest.
     - If a function is a horizontal line, the absolute maximum and minimum for $x \in \text{domain} is $y$.
 
+### Concavity
+
+!!! definition
+    A **point of inflection** on a curve is such that $f´´(x)=0 \text{ or DNE}$ and the signs around the point change (e.g., positive to negative).
+
+ - An interval is **concave up** if it increases from left to right and tangent lines are drawn below the curve, so $f´´(x)>0$. It is shaped like a smile.
+ - An interval is **concave down** if it increases from left to right and tangent lines are drawn **above** the curve, and $f´´(x)<0$. It is shaped like a frown.
+
+Changes in concavity only occur at points of inflection, and their specific points can be identified using the **second derivative test**, which follows many of the same steps as the first derivative test but with the second derivative.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
