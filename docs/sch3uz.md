@@ -772,14 +772,19 @@ Electrons are most commonly found **above and below** the plane of the nuclei of
 
 ### Delocalised pi bonds
 
-Delocalised pi electrons are electrons that are shared between more than two nuclei, and exist in molecules and polyatomic ions that have resonance. When multiple pi orbitals overlap
+Delocalised pi electrons are electrons that are shared between more than two nuclei, and exist in molecules and polyatomic ions that have resonance. When multiple pi orbitals overlap, they form a space that electrons can exist in, thus forming bonds with each atom of equal strength — effectively splitting the charge of the electrons evenly between all nuclei involved.
 
 <img src="/resources/images/carbonate-pi-graphic.png" width=700>(Source: Kognity)</img>
 
 Dashed lines are used in resonance hybrid structures to show that delocalised pi bonds exist between atoms. Bonds that change between resonance structures are all actually delocalised pi bonds.
 
 !!! example
-    <img src="/resources/images/resonance-pi.png" width=700>(Source: Kognity)</img>
+    The bonds that the carbon in carbonate has with the oxygens is stronger than a single bond but weaker than a double bond.
+    <img src="/resources/images/carbonate-pi.png" width=300>(Source: Kognity)</img>
+
+!!! example
+    In a resonance hybrid structure, a dashed line would connect the hexagon in place of the rings.
+    <img src="/resources/images/delocalised-examples.png" width=700>(Source: Kognity)</img>
 
 ## 14.2 - Hybridisation
 
