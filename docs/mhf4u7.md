@@ -594,7 +594,7 @@ To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critic
  - An interval is **concave up** if it increases from left to right and tangent lines are drawn below the curve, so $f´´(x)>0$. It is shaped like a smile.
  - An interval is **concave down** if it increases from left to right and tangent lines are drawn **above** the curve, and $f´´(x)<0$. It is shaped like a frown.
 
-Changes in concavity only occur at points of inflection, and their specific points can be identified using the **second derivative test**, which follows many of the same steps as the first derivative test but with the second derivative.
+Changes in concavity only occur at points of inflection.
 
 ## Resources
 
