@@ -568,6 +568,9 @@ $$v=\frac{2\pi r}{T}$$
 
 ### Centripetal force/acceleration
 
+!!! warning
+    **Centrifugal** force is a **fictitious** (psuedo) force used to explain movement opposite the predicted acceleration in a circular frame of reference. The phenomenon is clearly explained from an external field of reference by Newton's first law of motion.
+
 Centripetal acceleration ($\vec{a}_c$) is the acceleration causing an object to move in a circle. An object with uniform circular motion has a centripetal acceleration with constant **magnitude**.
 $$|\vec{a}_c|=\frac{v^2}{r}$$
 
