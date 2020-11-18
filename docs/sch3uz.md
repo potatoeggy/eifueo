@@ -653,7 +653,7 @@ The AXE method of electron counting represents the electron pairs around a centr
 | $\text{AX}_4$ | tetrahedral | tetrahedral | 109.5° |
 | $\text{AX}_3\text{E}$ | tetrahedral | trigonal pyramidal | 107° |
 | $\text{AX}_2\text{E}_2$ | tetrahedral | bent | 104.5° |
-| $\text{AXE}_3$ | trigonal planar | bent | DNE |
+| $\text{AXE}_3$ | trigonal planar | linear | DNE |
 | $\text{AX}_3$ | trigonal planar | trigonal planar | 120° |
 | $\text{AX}_2\text{E}_1$ | trigonal planar | bent | 117° |
 | $\text{AX}_2$ | linear | linear | 180° |
