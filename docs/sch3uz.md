@@ -689,7 +689,7 @@ In a trigonal bipyramidal, the **equatorial** positions of domains refer to the 
 | $\text{AX}_3\text{E}_2$ | trigonal bipyramidal | t-shaped | equatorial-axial=90° |
 | $\text{AX}_2\text{E}_3$ | trigonal bipyramidal | linear | 180° |
 | $\text{AX}_6$ | octahedral | octahedral | 90° |
-| $\text{AX}_5\text{E}_6$ | octahedral | square-based pyramidal | 88.5° |
+| $\text{AX}_5\text{E}$ | octahedral | square-based pyramidal | 88.5° |
 | $\text{AX}_4\text{E}_2$ | octahedral | square planar | 90° |
 
 !!! example
