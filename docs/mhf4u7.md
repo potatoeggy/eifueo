@@ -579,6 +579,8 @@ To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critic
  - If the sign is the same on both sides, there is no extrema at $x=a$.
  - The greatest/least relative/local maximum/minimum is the absolute maximum/minimum.
 
+Alternatively, the second derivative test may be used instead. At the critical point where $x=a$, a positive $f´´(a)$ indicates a **local minimum** while a negative $f´´(a)$ indicates a **local maximum**. If $f´´(x)=0$, the test is inconclusive and the first derivative test must be used.
+
 !!! example
     The absolute minimum of $f(x)=x^2$ is at $(0,0)$. There is no absolute maximum nor are there any other relative/local maximum/minimum points.
 
@@ -589,12 +591,16 @@ To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critic
 ### Concavity
 
 !!! definition
-    A **point of inflection** on a curve is such that $f´´(x)=0 \text{ or DNE}$ and the signs around the point change (e.g., positive to negative).
+    A **point of inflection** on a curve is such that $f´´(x)=0 \text{ or DNE}$ and the signs of $f´´(x)$ around the point change (e.g., positive to negative).
 
  - An interval is **concave up** if it increases from left to right and tangent lines are drawn below the curve, so $f´´(x)>0$. It is shaped like a smile.
  - An interval is **concave down** if it increases from left to right and tangent lines are drawn **above** the curve, and $f´´(x)<0$. It is shaped like a frown.
 
 Changes in concavity only occur at points of inflection.
+
+### Cusps
+
+A cusp is a point on a continuous function that is not differentiable as the slopes on both sides approach -∞ and ∞. Concavity does not change at a cusp, but they may be considered for local extrema.
 
 ## Resources
 
