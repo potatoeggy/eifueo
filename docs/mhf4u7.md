@@ -584,7 +584,7 @@ To find the extrema of a **continuous** function $f(x)$, where $x=a$ is a critic
 
 !!! warning
     - There can be multiple absolute maxima/minima if there are multiple points that are both highest/lowest.
-    - If a function is a horizontal line, the absolute maximum and minimum for $x \in \text{domain} is $y$.
+    - If a function is a horizontal line, the absolute maximum and minimum for $x \in \text{domain}$ is $y$.
 
 ### Concavity
 
