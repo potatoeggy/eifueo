@@ -360,7 +360,7 @@ $$E=\text{convergence frequency} · h$$
 
 To find the first ionisation energy of an element, the amount of energy required is equal to the difference in frequency of the **ground state** of the first valence electron and $n=∞$ multiplied by Planck's constant. This returns the first ionisation energy of one atom, or in electronvolts (eV).
 
-To find the convergence limit **graphically**, graph the difference of frequencies in the spectrum ($\Delta f$) against each each frequency ($f$) and extrapolate to $\Delta f=0$.
+To find the convergence limit **graphically**, graph the difference of frequencies ($\Delta f$) against each frequency in the series ($f$) and extrapolate to $\Delta f=0$.
 
 ### Schrödinger model
 
