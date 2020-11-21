@@ -585,6 +585,11 @@ $$\Sigma \vec{F}_c=m\vec{a}_c$$
 
 ## 6.2 - Newton's law of gravitation
 
+The universal law of gravitation states that the gravitational force, $F_G$ between any two objects is attractive along the line joining them and equal to:
+$$F_G=G\frac{mM}{r^2}$$
+
+where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
