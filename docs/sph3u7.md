@@ -590,6 +590,8 @@ $$F_G=G\frac{mM}{r^2}$$
 
 where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively.
 
+The net gravitational force acting on an object is equal to the resultant vector formed by components of each force acting on it.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
