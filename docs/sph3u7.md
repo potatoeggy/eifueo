@@ -596,6 +596,11 @@ The net gravitational force acting on an object is equal to the resultant vector
 
 A **force field** is a model representing a region of space where a mass or charge experiences a **non-contact** force. Its units are newtons per kilogram (for mass) or newtons per coulomb (for charge). A gravitational field surrounds every mass and exerts a force equal to that given by Newton's law of gravitation, extending infinitely into space.
 
+The **gravitational field strength** at any point in the field represents the force per unit of mass experienced by any mass—it is constant for any mass at the same distance $r$.
+$$|\vec{g}|=G\frac{M}{r^2}$$
+
+Its units also make it equivalent to the acceleration experienced by that mass.
+$$F_G=m\vec{g}$$
 
 ## Resources
 
