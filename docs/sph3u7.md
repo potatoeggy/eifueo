@@ -585,12 +585,17 @@ $$\Sigma \vec{F}_c=m\vec{a}_c$$
 
 ## 6.2 - Newton's law of gravitation
 
-The universal law of gravitation states that the gravitational force, $F_G$ between any two objects is attractive along the line joining them and equal to:
+All masses exert gravitational force on each other. The universal law of gravitation states that the gravitational force, $F_G$ between any two objects is attractive along the line joining them and equal to:
 $$F_G=G\frac{mM}{r^2}$$
 
 where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively.
 
 The net gravitational force acting on an object is equal to the resultant vector formed by components of each force acting on it.
+
+### Gravitational fields
+
+A **force field** is a model representing a region of space where a mass or charge experiences a **non-contact** force. Its units are newtons per kilogram (for mass) or newtons per coulomb (for charge). A gravitational field surrounds every mass and exerts a force equal to that given by Newton's law of gravitation, extending infinitely into space.
+
 
 ## Resources
 
