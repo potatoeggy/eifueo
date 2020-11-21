@@ -586,9 +586,9 @@ $$\Sigma \vec{F}_c=m\vec{a}_c$$
 ## 6.2 - Newton's law of gravitation
 
 All masses exert gravitational force on each other. The universal law of gravitation states that the gravitational force, $F_G$ between any two objects is attractive along the line joining them and equal to:
-$$F_G=G\frac{mM}{r^2}$$
+$$\vec{F}_G=G\frac{mM}{r^2}$$
 
-where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively.
+where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively. This indicates that the force on a given mass is proportional to its distance: $F_G \propto \frac{1}{r^2}$.
 
 The net gravitational force acting on an object is equal to the resultant vector formed by components of each force acting on it.
 
@@ -599,8 +599,23 @@ A **force field** is a model representing a region of space where a mass or char
 The **gravitational field strength** at any point in the field represents the force per unit of mass experienced by any mass—it is constant for any mass at the same distance $r$.
 $$|\vec{g}|=G\frac{M}{r^2}$$
 
-Its units also make it equivalent to the acceleration experienced by that mass.
-$$F_G=m\vec{g}$$
+Its units also make it equivalent to the acceleration experienced by that mass. On Earth, $\vec{g}=9.81 \text{ N/kg [down]}$.
+$$\vec{g}=\frac{\vec{F}_G}{m}$$
+
+!!! note
+    Only the distance between objects and the mass of the **body acting** on another affect gravitational field strength of the acting body.
+
+<img src="/resources/images/grav-radial-lines.png" width=700>(Source: Kognity)</img>
+
+Gravitational field lines equidistantly point radially to the centre of a mass to indicate strength—a greater density of field lines in a given area indicates greater strength.
+
+### Orbital motion
+
+In space, only gravity acts on **satellites**—objects that orbit around another object, effectively as if in constant free fall. As gravity is the only force, it is also the only force contributing to centripetal force.
+$$\vec{F}_G=\Sigma\vec{F}_c$$
+
+So the orbital speed of a satellite must be independent of its own mass, such that:
+$$v=\sqrt{\frac{GM}{r}}$$
 
 ## Resources
 
