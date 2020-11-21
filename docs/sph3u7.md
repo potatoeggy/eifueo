@@ -617,6 +617,10 @@ $$\vec{F}_G=\Sigma\vec{F}_c$$
 So the orbital speed of a satellite must be independent of its own mass, such that:
 $$v=\sqrt{\frac{GM}{r}}$$
 
+A **geosynchronous** orbit is one that returns to its original position relative to the orbitee after one rotation of the orbitee.
+
+A **geostationary** orbit is a geosynchronous orbit that always remains in the same position relative to the orbitee.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
