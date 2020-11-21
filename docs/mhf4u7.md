@@ -602,6 +602,17 @@ Changes in concavity only occur at points of inflection.
 
 A cusp is a point on a continuous function that is not differentiable as the slopes on both sides approach -∞ and ∞. Concavity does not change at a cusp, but they may be considered for local extrema.
 
+### Optimisation
+
+To optimise for a maximum or minimum of a variable:
+
+ - Identify an equation with only one variable dependent on another
+ - Find the first derivative and identify critical points
+ - Use the second derivative test to identify if the critical point is a maximum or minimum
+ - Check constraints and throw away any inadmissible results
+
+Diagrams with labelled variables may be helpful.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
