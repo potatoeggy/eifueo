@@ -711,6 +711,30 @@ In a trigonal bipyramidal, the **equatorial** positions of domains refer to the 
     $\text{AX}_4\text{E}_2$:
     <img src="/resources/images/vsepr-ax4e2.png" width=700></img>
 
+### Molecular polarity
+
+The polarity of a molecule refers to how even the distribution of electrons **overall** throughout the molecule (not to be confused with the electron distribution in VSEPR) and affects only the physical properties of the compound.
+
+The polarity of a molecule depends on the presence of polar bonds and the molecular shape of the molecule. In this course, if a molecule is **symmetrical** in three dimensions or does not contain any polar covalent bonds, it is non-polar. The shape of the molecule affects the directions that dipoles act in in their three-dimensional forms and can cause dipoles to cancel out.
+
+!!! definition
+    The **net dipole moment** of a molecule is the vector sum of all bond dipoles in a molecule. Only polar molecules have net dipole moments.
+
+Bond dipoles can be represented as vectors pointing in the direction of the atom with greater electronegativity with one line across it.
+
+!!! example
+    <img src="/resources/images/equal-dipoles.png" width=700>(Source: Kognity)</img>
+
+Generally, tetrahedral and trigonal planar molecules with the same atoms bonding to the central atom are non-polar molecules as their bond dipoles cancel out. Trigonal pyramidal and linear diatomic molecules with polar bonds typically are polar because their bond dipoles do not cancel each other out.
+
+!!! example
+    <img src="/resources/images/uneven-dipoles.png" width=700>(Source: Kognity)</img>
+
+By convention and missing in the examples above, the lowercase delta ($\delta$) is used to indicate polarity. The less electronegative atom/side of a molecule is marked as $\delta^+$ while the atom/side where electrons spend more time around on average is labelled $\delta^-$, indicating **partial** positive/negative charges, respectively.
+
+!!! example
+    <img src="/resources/images/dipole-sign.png" width=300>(Source: Kognity)</img>
+
 ## 4.4 - Intermolecular forces
 
 ## 4.5 - Metallic bonding
