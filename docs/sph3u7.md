@@ -617,6 +617,9 @@ $$\vec{F}_G=\Sigma\vec{F}_c$$
 So the orbital speed of a satellite must be independent of its own mass, such that:
 $$v=\sqrt{\frac{GM}{r}}$$
 
+Additiionally, Kepler's third law, derived from centripetal force and the universal law of gravitation,  states that the square of the period of an orbit is proportioanl to the cube of the radius.
+$$T^2 \propto r^3$$
+
 A **geosynchronous** orbit is one that returns to its original position relative to the orbitee after one rotation of the orbitee.
 
 A **geostationary** orbit is a geosynchronous orbit that always remains in the same position relative to the orbitee.
