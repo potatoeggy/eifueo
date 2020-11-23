@@ -588,7 +588,7 @@ $$\Sigma \vec{F}_c=m\vec{a}_c$$
 All masses exert gravitational force on each other. The universal law of gravitation states that the gravitational force, $F_G$ between any two objects is attractive along the line joining them and equal to:
 $$\vec{F}_G=G\frac{mM}{r^2}$$
 
-where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively. This indicates that the force on a given mass is proportional to its distance: $F_G \propto \frac{1}{r^2}$.
+where $G=6.67×10^{-11} \text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2}$ is Newton's constant of universal gravitation, the **orbital radius** $r$ is the distance between the objects' **centre of mass**, and $m$ and $M$ are the masses of the objects acted on and acting, respectively. This indicates that the force on a given mass is proportional to its distance: $F_G \propto \frac{1}{r^2}$.
 
 The net gravitational force acting on an object is equal to the resultant vector formed by components of each force acting on it.
 
@@ -603,7 +603,7 @@ Its units also make it equivalent to the acceleration experienced by that mass. 
 $$\vec{g}=\frac{\vec{F}_G}{m}$$
 
 !!! note
-    Only the distance between objects and the mass of the **body acting** on another affect gravitational field strength of the acting body.
+    Only the distance between the centre of mass of the objects and the mass of the **body acting** on another affect gravitational field strength of the acting body.
 
 <img src="/resources/images/grav-radial-lines.png" width=700>(Source: Kognity)</img>
 
