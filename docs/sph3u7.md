@@ -559,8 +559,8 @@ Circular motion is any motion along a circular path. The instantaneous velocity 
 
 **Angular displacement** ($\Delta \theta$) is the change in angle an object has rotated relative to a reference position. By convention, angular displacement anti-clockwise is positive.
 
-**Angular speed** ($\omega$) is the rate of angular displacement, and is expressed in radians per second. It is also known as angular frequency.
-$$\omega=\frac{\Delta \theta}{\Delta t}$$
+**Angular speed/velocity** ($\omega$) is the rate of angular displacement, and is expressed in radians per second. It is also known as angular frequency.
+$$\omega=\frac{\Delta \theta}{\Delta t}=\frac{2\pi}{\Delta T}$$
 
 An object in uniform circular motion has an angular speed of $2\pi f$. Since distance travelled in one period is the circumference of a circle, the **speed** of an object is:
 $$v=\omega r$$
