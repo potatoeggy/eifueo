@@ -766,6 +766,11 @@ Hydrogen bonding is similar to a very extreme form of dipole-dipole attraction. 
 
 When hydrogen is bonded to a FON, the the electron density is concentrated by the FON, leaving it relatively positive. This allows it to become attracted to a lone pair on a different FON.
 
+Hydrogen bonds are drawn as dashed lines.
+
+!!! example
+    <img src="/resources/images/hydrogen-bond-draw.png" width=700>(Source: Kognity)</img>
+
 ## 4.5 - Metallic bonding
 
 ## 11.1 - Uncertainties and errors in measurement and results
