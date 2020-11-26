@@ -737,6 +737,35 @@ By convention and missing in the examples above, the lowercase delta ($\delta$) 
 
 ## 4.4 - Intermolecular forces
 
+**Intra**molecular forces are forces that act *within* the molecule, such as covalent bonds.
+
+**Inter**molecular forces are forces that act *between* molecules, and are responsible for the physical properties of an **aggregate**/substance. London dispersion forces and dipole-dipole dorces are known collectively as **van der Waal's** forces. They are all weaker than ionic bonds, covalent bonds, and metallic bonds.
+
+### London forces
+
+London forces are attractive forces that exist between all atoms and molecules. They are the weakest type of force and are caused by **instantaneous** and **induced** dipoles. An instantaneous dipole is a **temporary** dipole formed when electron density randomly shifts, causing an electron imbalance for a brief moment. Molecules with these temporary dipoles affect neighbouring molecules by inducing a dipole, which induce more dipoles on and on.
+
+<img src="/resources/images/induced-charge-separation.png" width=700>(Source: Kognity)</img>
+
+The two factors that affect the strength of London forces are their surface area and the number of electrons in the molecule, the former of which is influenced by the mass and shape of the molecule.
+
+ - A greater number of electrons means that more of them can be influenced to form stronger induced dipoles.
+ - A greater surface area increases the chances that an instantaneous dipole is formed due to a greater space for it to happen.
+
+### Dipole-dipole forces
+
+The $\delta^-$ and $\delta^+$ of **different** polar molecules with **permanent** dipoles attract each other, thus holding the molecules together.
+
+<img src="/resources/images/dipole-dipole-force.png" width=700>(Source: Kognity)</img>
+
+### Hydrogen bonding
+
+Hydrogen bonding is similar to a very extreme form of dipole-dipole attraction. They form between a **lone pair** on elements of high electronegativities (only $\text{F}$, $\text{O}$, or $\text{N}$) and a hydrogen atom on a **different** molecule bonded covalently to one $\text{F}$, $\text{O}$, or $\text{N}$.
+
+<img src="/resources/images/hydrogen-bonding.png" width=700>(Source: Kognity)</img>
+
+When hydrogen is bonded to a FON, the the electron density is concentrated by the FON, leaving it relatively positive. This allows it to become attracted to a lone pair on a different FON.
+
 ## 4.5 - Metallic bonding
 
 ## 11.1 - Uncertainties and errors in measurement and results
