@@ -543,6 +543,27 @@ Note that that is also equal to $\Delta \vec{P}$ above.
 
 ## 3.2 - Modelling a gas
 
+## 4.1 - Oscillations
+
+!!! definition
+    - Oscillation is defined as a cyclical motion of an object around a central point.
+    - The **amplitude** ($A$) of an oscillation is the greatest displacement from its equilibrium ($\Delta x$).
+    - An object at an **equilibrium position** is at rest.
+
+### Simple hormonic motion
+
+In **simple harmonic motion** (SHM), an object oscillates in a fixed time interval around a central **equilibrium point** with a **linear restoring force** directed toward that equilibrium point.
+$$\vec{F} \propto -\Delta \vec{x}$$
+
+Alternatively, simple harmonic motion can be motion from a linear restoring force always directed to a fixed equilibrium point.
+
+!!! example
+    A spring has a restoring force equal to $\vec{F}=-k\vec{x}$.
+
+The position/velocity/acceleration-time graphs of an object in this type of motion are all **sinusoidal**.
+
+<img src="/resources/images/shm-graphs.png" width=700>(Source: Kognity)</img>
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
