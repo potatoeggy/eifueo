@@ -613,6 +613,21 @@ To optimise for a maximum or minimum of a variable:
 
 Diagrams with labelled variables may be helpful.
 
+### Asymptote behaviour
+
+The vertical asymptotes of a function are at values of $x$ that make the denominator of the simplified function $0$. The behaviour near them can be found using limits as $x$ approaches those points.
+
+The horizontal asymptotes of a function can be found as $x$ approaches positive and negative infinity. To determine behaviour near them, the sign of $\lim_{xs \to ±∞} f(x) - L$, where $L$ is the y-coordinate of the asymptote. A positive limit indicates that $f(x)$ is above the asymptote while a negative limit indicates that $f(x)$ is below the asymptote.
+
+### Curve sketching
+
+ - Determine the domain of the function and consider discontinuities (holes and asymptotes)
+ - Determine the y-intercept and if easy, x-intercepts
+ - Determine the behaviour near vertical and horizontal asymptotes
+ - Identify critical points by solving $f´(x)=0$ or $f´(x)=\text{DNE}$
+ - Use the first or second derivative tests to test critical points
+ - Identify points of inflection by solving $f´´(x)=0$ or $f´´(x)=\text{DNE}$ and test concavity on both sides of possible points
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
