@@ -842,6 +842,15 @@ The **maximum** oxidatation state of a transition metal is equal to the number o
 !!! warning
     Copper can form $1+$ ions by losing its singular 4s electron and such is the only transition metal that can have a possible oxidation state of $+1$.
 
+### Physical properties of transition elements
+
+The spin of electrons is the cause behind an element's magnetism.
+
+**Diamagnetic** substances only have paired electrons in their d orbitals. The opposite spins of the electrons cancel each other out so the magnetic effect is very weak (negligible), so they are known as being non-magnetic.
+
+**Paramagnetic** substances have unpaired electrons in their d orbitals. Their unpaired electrons are aligned under the effect of an external magnetic field **temporarily** until the field is removed. An increase in the number of unpaired electrons increases the strength of the magnetic effect.
+
+**Ferromagnetic** substances have the largest magnetic effect and also have unpaired electrons in their d orbitals. These electrons in a **large number** of atoms are aligned by an external magnetic field and stay sligned after the field is removed, permanently magnetising the object. Only **iron, cobalt, and nickel** among other rare earth elements are ferromagnetic.
 ## 14.1 - More covalent bonding
 
 To form bonds, orbitals overlap to form new **molecular orbitals** where electrons spend most of their time in.
