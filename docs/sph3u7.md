@@ -564,6 +564,11 @@ The position/velocity/acceleration-time graphs of an object in this type of moti
 
 <img src="/resources/images/shm-graphs.png" width=700>(Source: Kognity)</img>
 
+According to the law of conservation of energy, the total amount of energy in the system during simple harmonic motion remains constant, so graphing kinetic and potential energy against displacement from equilibrium returns two opposite parabolas centred on the equilibrium position.
+$$\Sigma E \propto x^2$$
+
+The only factor that affects the amplitude of SHM is the energy provided. The only factor that affects the period/frequency of SHM is the mass of the object and the restoring force.
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
