@@ -773,6 +773,20 @@ Hydrogen bonds are drawn as dashed lines.
 
 ## 4.5 - Metallic bonding
 
+## 9.1 - Oxidation and reduction
+
+### Oxidation states
+
+The oxidation state of an atom or ion assumes that atoms gain or lose electrons according to their electronegativity, effectively assuming that all bonds are ionic. It is equal to the charge it would have if the compound was an ion. As such, the oxidation state of an ion is equal to its charge, and in a atom, the charge it **would** have if it were an ion.
+
+!!! warning
+    The oxidation **number** of an atom is the **magnitude** of its oxidation state.
+
+Oxidation states are written as their charge followed by the number of electrons "lost" or "gained", opposite the notation used for charge. All elements in their elemental form have oxidation states of $0$.
+
+!!! example
+    The oxidation state of oxygen in water is $+2$ and the oxidation state of a single chromium atom in dichromate ($\text{Cr}_2\text{O}_7{}^{2-}$) is $+6$).
+
 ## 11.1 - Uncertainties and errors in measurement and results
 
 Please see [SL Physics#Uncertainties and errors](/sph3u7/#12-uncertainties-and-errors) for more information.
@@ -805,6 +819,28 @@ Please see [SL Physics#Error bars](/sph3u7/#error-bars) for more information.
 Please see [SL Physics#Uncertainty of gradient and intercepts](/sph3u7/#uncertainty-of-gradient-and-intercepts) for more information.
 
 ## 11.3 - Spectroscopic identification of organic compounds
+
+## 13.1 - Transition elements
+
+!!! definition
+    A **transition element** is an element that has an **incomplete** d sublevel in its atom or in any of its ions. This means that while $\text{Zn}$ is not considered a transition element, $\text{Cu}$ is.
+
+### Variable oxidation states
+
+All transition metals can in theory form molecules with different oxidation states, although practically they form the most common ones.
+
+Since the d and s sublevels are so close to each other and the s sublevel has a higher **main energy level**, all transition metals lose the electrons in the s sublevel first, meaning that all transition metals are capable of a $2+$ oxidation state.
+
+!!! example
+    Scandium ($\text{[Ar] 4s}^2\text{ 3d}^1$) loses its 4s electrons first, resulting in an electron configuration of $\text{[Ar] 3d}^1$.
+
+The **maximum** oxidatation state of a transition metal is equal to the number of electrons in its outermost s orbital **plus** the number of **unpaired** electrons in its outer d orbital in its **predicted** electron configuration. They can take on oxidation states anywhere between $2+$ and their maximum by giving up more of their unpaired electrons.
+
+!!! example
+    Titanium ($\text{[Ar] 4s}^2\text{ 3d}^2$) and nickel ($\text{[Ar] 4s}^2\text{ 3d}^8$) both have a maximum oxidation state of $+4$ as they both only have two unpaired d sublevel electrons and two 4s electrons.
+
+!!! warning
+    Copper can form $1+$ ions by losing its singular 4s electron and such is the only transition metal that can have a possible oxidation state of $+1$.
 
 ## 14.1 - More covalent bonding
 
