@@ -848,7 +848,7 @@ The spin of electrons is the cause behind an element's magnetism.
 
 **Diamagnetic** substances only have paired electrons in their d orbitals. The opposite spins of the electrons cancel each other out so the magnetic effect is very weak (negligible), so they are known as being non-magnetic.
 
-**Paramagnetic** substances have unpaired electrons in their d orbitals. Their unpaired electrons are aligned under the effect of an external magnetic field **temporarily** until the field is removed. An increase in the number of unpaired electrons increases the strength of the magnetic effect.
+**Paramagnetic** substances have unpaired electrons in their d orbitals. Their unpaired electrons are aligned under the effect of an external magnetic field **temporarily** until the field is removed. An increase in the number of unpaired electrons increases the strength of the magnetic effect. These are metals that respond to magnets but do not generate their own magnetic field.
 
 **Ferromagnetic** substances have the largest magnetic effect and also have unpaired electrons in their d orbitals. These electrons in a **large number** of atoms are aligned by an external magnetic field and stay sligned after the field is removed, permanently magnetising the object. Only **iron, cobalt, and nickel** among other rare earth elements are ferromagnetic.
 ## 14.1 - More covalent bonding
