@@ -637,4 +637,5 @@ The horizontal asymptotes of a function can be found as $x$ approaches positive 
  - [Course Pack Unit 2: Limits and Rate of Change](/resources/g11/s1cp2.pdf)
  - [Course Pack Unit 3: Derivatives and Applications](/resources/g11/s1cp3.pdf)
  - [Course Pack Unit 4: Curve Sketching and Optimisation](/resources/g11/s1cp4.pdf)
+ - [Course Pack Unit 5: Trigonometric, Exponential, and Logarithmic Functions](/resources/g11/s1cp5.pdf)
  - [TI-84 Plus Basic Calculator Functions](/resources/g11/ti-84-plus.pdf)
