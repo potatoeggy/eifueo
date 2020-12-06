@@ -851,6 +851,42 @@ The spin of electrons is the cause behind an element's magnetism.
 **Paramagnetic** substances have unpaired electrons in their d orbitals. Their unpaired electrons are aligned under the effect of an external magnetic field **temporarily** until the field is removed. An increase in the number of unpaired electrons increases the strength of the magnetic effect. These are metals that respond to magnets but do not generate their own magnetic field.
 
 **Ferromagnetic** substances have the largest magnetic effect and also have unpaired electrons in their d orbitals. These electrons in a **large number** of atoms are aligned by an external magnetic field and stay sligned after the field is removed, permanently magnetising the object. Only **iron, cobalt, and nickel** among other rare earth elements are ferromagnetic.
+
+### Catalytic properties of transition elements
+
+!!! definition
+    A **catalyst** increases the rate of a chemical reaction by providing an *alternate* reaction pathway with a lower activation energy and is not consumed as part of the reaction.
+
+Transition metals are effective **heterogeneous** catalysts — they are of a different state to that of the reactants.
+
+!!! example
+    Iron providing a surface for the reactant to **adsorb** — to gather on — to orient them correctly in the Haber process to produce ammonia: $\text{N}_\text{2 (g)} + \text{3H}_\text{2 (g)} ⇌ \text{2NH}_\text{3 (g)}$
+    
+    <img src="/resources/images/haber-process.jpg" width=400>(Source: Kognity)</img>
+
+!!! example
+    Nickel in the conversion of alkene to alkanes via hydrogenation:
+    
+    <img src="/resources/images/hydrogenation.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    Vanadium(V) oxide in the Contact process to increase the oxidisation of $\text{SO}_2$ to $\text{SO}_3$ in the first step to make sulfuric acid:
+    $$\text{2SO}_\text{2 (g)} + \text{O}_\text{2 (g)} ⇌ \text{2SO}_\text{3 (g)}$$
+
+!!! example
+    Manganese(IV) oxide in decomposing hydrogen peroxide into water and oxygen:
+    $$\text{2H}_2\text{O}_\text{2 (aq)} → \text{2H}_2\text{O}_\text{(l)} + \text{O}_\text{2 (g)}$$
+
+**Homogeneous** catalysts share the same physical state as the reactants. Transition metals are also effective homogeneous catalysts in **redox** reactions (where electrons are transferred between reactants) due to their ability to have variable oxidation states.
+
+!!! example
+    - The iron(II) ion is temporarily oxidised to iron(III) when oxygen binds to heme to form a complex ion.
+    - Cobalt(III) ions are found in vitamin B12.
+
+### Complex ions
+
+
+
 ## 14.1 - More covalent bonding
 
 To form bonds, orbitals overlap to form new **molecular orbitals** where electrons spend most of their time in.
