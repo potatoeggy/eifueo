@@ -569,6 +569,92 @@ $$\Sigma E \propto x^2$$
 
 The only factor that affects the amplitude of SHM is the energy provided. The only factor that affects the period/frequency of SHM is the mass of the object and the restoring force.
 
+## 4.2 - Travelling waves
+
+!!! definition
+    - A **wave** is a disturbance that propagates energy but does not transfer matter.
+    - **Vibration** is the oscillation around a central equilibrium point.
+
+A travelling wave is a wave transmits energy without transmitting physical material. Waves are generally periodic in both time and space. A wave is **in phase** if the displacement from equilibrium at any point is the same after each period. A (discrete) pulse is energy sent not as part of simple harmonic motion while a continuous wave causes particles to move in simple harmonic motion.
+
+ - **Transverse** waves have their particles move **perpendicular** to the propagation of energy.
+ - **Longitudinal** waves have their particles move **parallel** to the propagation of energy.
+
+!!! example
+    - A slinky stretched horizontally and being shaken up and down sends transverse waves down its length.
+    - A slinky stretched horizontally and being pushed back and forth sends longitudinal waves down its length.
+
+!!! example
+    A longitudinal wave travelling through gas:
+    
+    <img src="/resources/images/longitudinal-wave.gif">(Source: Kognity)</img>
+
+### Graphing travelling waves
+
+A **displacement-time** graph shows the displacement *from equilibrium*  of **one** particle in simple harmonic motion. It can be used to identify the frequency of a wave as all particles oscillate at the same frequency in a wave.
+
+<img src="/resources/images/dt-wave-graph.png" width=700>(Source: Kognity)</img>
+
+A **displacement-distance** graph shows the displacement *from equilibrium* of **each** particle at a given time and can be used to find the wavelength ($\lambda$) of a wave.
+
+<img src="/resources/images/dd-wave-graph.png" width=700>(Source: Kognity)</img>
+
+The speed of a wave, or the speed at which energy propagates, in a medium is related to its frequency ($f$) and wavelength ($\lambda$) by the universal wave equation.
+$$v=f\lambda$$
+
+As all electromagnetic waves travel at the same speed — the speed of light — only either frequency or wavelength are needed to find the other property.
+$$c=f\lambda$$
+
+The only factor that affects the frequency of a wave is the source of energy, so changes in media do not change the frequency of a wave.
+
+The only factor that affects the speed of the wave is the media it is travelling in.
+
+## 4.3 - Wave characteristics
+
+A **wavefront** is a line that connects different waves at points with the same phase. The distance between wavefronts is the wavelength. Straight wavefronts indicate waves that travel in the same direction at every point on the wavefront. **Rays** are arrows that indicate the direction of motion of the **wavefront**.
+
+<img src="/resources/images/wavefront.gif">(Source: Kognity)</img>
+
+!!! example
+    Wavefronts of waves emanating from a point in the centre:
+    
+    <img src="/resources/images/radial-wave.png">(Source: Kognity)</img>
+
+The **energy** of a wave is proportional to the square of its amplitude.
+$$E \propto A^2$$
+
+If a wave reflects off a **fixed** boundary it changes phase by inverting due to Newton's third law.
+
+### Superposition and interference
+
+The **superposition principle** states that the displacement of a particle of more than one wave at any time is the **sum** of the displacements caused by each individual wave. After superposition, waves continue on as if the other was not present. The result of combining waves via superposition is known as **interference**.
+
+ - If the waves have displacements in the same direction, the interference is **constructive**.
+ - If the waves have displacements in opposite directions, the interference is **destructive**.
+
+<img src="/resources/images/superposition.png" width=700>(Source: Kognity)</img>
+
+When waves of the same frequency meet, if their crests or troughs overlap, a **supercrest** or **supertrough** is formed, respectively. Waves that result in a net displacement of particles of zero form a **node**.
+
+## 4.4 - Wave behaviour
+
+### Diffraction
+
+!!! definition
+    An **aperture** is a small opening in a barrier.
+
+Diffraction is the bending of waves around an opening or obstacle.
+
+<img src="/resources/images/diffraction.png" width=700>(Source: Kognity)</img>
+
+Huygen's wave theory says that every point on a wavefront is a source of circular waves/wavelets that move outward from that point.
+
+<img src="/resources/images/huygen-wavelets.png" width=700>(Source: Kognity)</img>
+
+As a wavefront passes an aperture, there are fewer points beside it and the wavefront becomes rounder.
+
+For observable diffraction, the wavelength must be greater than or equal to the width of the aperture.
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
