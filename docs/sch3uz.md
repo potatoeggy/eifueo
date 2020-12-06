@@ -891,7 +891,7 @@ Dashed lines are used in resonance hybrid structures to show that delocalised pi
 
 ## 14.2 - Hybridisation
 
-Covalent bonds are formed by overlapping orbitals of different atoms. To do so, atoms may need to recombine/mix orbitals at the highest main energy level and redistribute electrons when forming these **hybrid orbitals**. This process is known as hybridisation. Orbitals of the same atom of different energies can overlap to form hybrid orbitals of **equal energy** between the energies of the atomic orbitals used, and the number of hybrid orbitals is equal to the number of atomic orbitals used.
+Covalent bonds are formed by overlapping orbitals of different atoms. To do so, atoms may need to recombine/mix orbitals at the highest main energy level and redistribute electrons when forming these **hybrid orbitals**. This process is known as hybridisation. Orbitals of the same atom of different energies can overlap to form hybrid orbitals of **equal energy** between the energies of the atomic orbitals used, and the number of hybrid orbitals is equal to the number of atomic orbitals used which is equal to the number of domains predicted by VSEPR.
 
 The resulting hybrid orbitals arrange themselves such that they follow the electron distributions and molecular shapes predicted by VSEPR.
 
