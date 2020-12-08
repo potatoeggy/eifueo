@@ -210,6 +210,7 @@ To predict if a gas and water will form, either carbonic acid or ammonium hydrox
     $\text{MgCO}_\text{3 (s)} + 2\text{HCl}_\text{(aq)} → \text{CO}_\text{2 (g)} + \text{H}_2\text{O}_\text{(l)} + \text{MgCl}_\text{2 (aq)}$
 
 ### Total and net ionic equations
+
 A total ionic equation shows the **dissociation** (separation) of soluble ionic compounds into their respective ions as well as reactants and products. Each ion is shown separately, so coefficients are used if there is more than one of that ion.
 
 !!! example
@@ -222,6 +223,31 @@ A net ionic equation is similar to a total ionic equation but only shows the ion
     $\text{SO}_4{}^{2-}{}_\text{(aq)} + \text{Ca}^{2+}{}_\text{(aq)} → \text{CaSO}_{4 (s)}$
 
 If there is no reaction, there is no net ionic equation but there is a total ionic equation.
+
+## 1.2 - The mole concept
+
+A **mole** (mol) is a unit representing $6.02…×10^{23}$ countable objects.
+
+!!! example
+    A mole of cups is equal to $6.02…×10^{23}$ cups.
+
+The **Avagadro constant** ($L$), or the number of particles in the mole of a substance, is equal to $6.02×10^{23}$ (to **three significant figures**).
+
+The "amount" of a particle is written as $N$ while the amount of moles of a substance is written as $n$.
+
+!!! example
+    - 12 molecules of carbon dioxide can be written as $N_{\text{CO}_2} = 12$.
+    - 1 mole of carbon dioxide ($6.02×10^{23}$ molecules) can be written as $n_{\text{CO}_2} = 1$.
+
+### Molar mass
+
+The mass of one mole of a substance is its **molar mass** ($M$), and has the units of grams per mole ($\text{g/mol}$). This conversion factor can be used to convert between the amount of a substance in moles and its mass in grams.
+
+!!! example
+    - Carbon has a relative atomic mass of $12.01$ so its molar mass is $12.01 \text{ g/mol}$.
+    - Water has a relative molecular mass of $18.02$ so its molar mass is $18.02 \text{ g/mol}$.>
+
+$$\text{Mass of one particle}=\frac{\text{molar mass of substance}}{\text{Avogadro constant}}$$
 
 ## 2.1 - Atoms
 
