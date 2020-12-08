@@ -655,6 +655,22 @@ As a wavefront passes an aperture, there are fewer points beside it and the wave
 
 For observable diffraction, the wavelength must be greater than or equal to the width of the aperture.
 
+## 4.4 - Standing waves
+
+A standing wave does not travel, so no energy is transferred. They are caused by the interference of symmetrical travelling waves moving in opposite directions.
+
+<img src="/resources/images/standing-wave.gif" width=700></img>
+
+The locations of zero amplitude are called **nodes** and the locations of maximum amplitude are **anti-nodes**. Adjacent nodes are separated by $\frac{\lambda}{2}$. The wave speed is determined by the medium and the wavelengths of standing waves that fit on the medium are determined by the length of the medium.
+
+<img src="/resources/images/harmonic-waves.png" width=700>(Source: Kognity)</img>
+
+In a stretched string, the frequencies that would produce standing waves are known as **natural frequencies**, and are individually known as **harmonics** The image above shows the first four harmonics. The first harmonic is also known as the **fundamental frequency**. The wavelength and frequency of the $n$th harmonic is equal to, here $L$ is the string length:
+$$
+\lambda_n=\frac{2}{n}L \\
+f_n=\frac{nv}{2L}
+$$
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
