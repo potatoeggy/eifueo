@@ -2,6 +2,36 @@
 
 The course code for this page is **MHF4U7**.
 
+## 3 - Geometry and trigonometry
+
+To find the result of a primary trig ratio, the related acute angle (RAA) should first be found before referring to the CAST rule to determine quadrants before identifying all correct answers in the domain.
+
+### Circles
+
+The equation below is true for every point on a circle with radius $r$.
+$$x^2+y^2=r^2$$
+
+The area of a **sector** requires knowledge of the radius and angle in **radians** that the sector encompasses.
+$$A=\frac{r^2\theta}{2}$$
+<img src="/resources/images/sector.png" width=500>(Source: Kognity)</img>
+
+### Trigonometric identities
+
+The **Pythagorean identity** relates the radius of a circle to its x and y components.
+$$\sin^2\theta+\cos^2\theta=\tan^2\theta$$
+
+The **quotient identity** relates the side lengths of a right-angled triangle.
+$$\tan\theta=\frac{\sin\theta}{\cos\theta}$$
+
+The **double angle identities** can be used to convert one trig ratio to another.
+$$
+\sin 2\theta = 2\sin\theta\cos\theta \\
+\cos 2\theta = 2\cos^2\theta-1 \\
+\cos 2\theta = \cos^2\theta-\sin^2\theta \\
+\cos 2\theta = 1-2\sin^2\theta \\
+\tan 2\theta = \frac{2\tan\theta}{1-\tan^2\theta}
+$$
+
 ## 4 - Statistics and probability
 
 !!! note "Definition"
