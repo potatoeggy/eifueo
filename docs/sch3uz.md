@@ -787,6 +787,14 @@ Oxidation states are written as their charge followed by the number of electrons
 !!! example
     The oxidation state of oxygen in water is $+2$ and the oxidation state of a single chromium atom in dichromate ($\text{Cr}_2\text{O}_7{}^{2-}$) is $+6$).
 
+## 10.1 - Organic chemistry fundamentals
+
+### Structural isomerism
+
+Structural isomers are compounds with the same molecular formula but with different arrangements of atoms (different structural formulae).
+
+<img src="/resources/images/chain-structural-isomer.png" width=700>(Source: Kognity)</img>
+
 ## 11.1 - Uncertainties and errors in measurement and results
 
 Please see [SL Physics#Uncertainties and errors](/sph3u7/#12-uncertainties-and-errors) for more information.
@@ -885,7 +893,36 @@ Transition metals are effective **heterogeneous** catalysts — they are of a di
 
 ### Complex ions
 
+The unfilled d orbitals in transition ions can accept **dative covalent bonds** from other atoms, molecules, or ions to form complex ions. Any species with lone pairs act as **Lewis bases** by donating their lone pair to the **central metal ion** is a **ligand**, and the number of ligands around a central ion is known as the **coordination number**.
 
+The charge on a complex ion is equal to the sum of the charges of the ligands and the central metal ion. Charged complex ions are attracted to ions of their opposite charge and behave like ionic compounds — they are soluble in water and will conduct electricity while aqueous. Neutral ions (without a charge) act like non-polar molecular compounds.
+
+!!! example
+    A hexaaquacopper(II) ion, with six water molecules as ligands surrounding a central copper(II) ion:
+    <img src="/resources/images/hexaaquacopper.png" width=700>(Source: Kognity)</img>
+
+Most ligands form one dative bond and thus are known as **monodentate ligands**. Ligands that form two bonds are known as **bidentate ligands**, and those that form more than that are **polydentate**.
+
+In this course, generally, complex ions have coordination numbers of 4 and 6 and are tetrahedral and octahedral, respectively.
+
+<img src="/resources/images/ligand-shapes.png" width=700>(Source: Kognity)</img>
+
+### Colour of complex ions
+
+The colour of a complex ion solution is determined by the ligands surrounding them and how they affect the unfilled d sublevel. Transition metal ions without d electrons are colourless.
+
+When ligands bond to the central metal ion, their electrons repulse those in the d orbitals of the transition metal, causing the five d orbitals to **subdivide** into two sets of different energy. Octahedral complex ions split them into two orbitals of higher energy and three of lower energy while tetrahedral complex ions split into three high, two low.
+
+<img src="/resources/images/orbital-split.jpeg" width=700>(Source: Kognity)</img>
+
+Similar to an emission spectrum, the colour of a complex ion is from the difference in energy between the two sets of d orbitals. The **complementary** colour of the one **absorbed** is the one seen.
+
+Any change in a complex ion that changes the gap between the d energy levels — changing ligands, changing geometry, changing the central ion, changing the oxidation state of the central ion — all will change the colour of the complex ion.
+
+In an **octahedral** complex, the effect of different ligands on the degree of d orbital splitting is given in the **spectrochemical series**. **Stronger field** ligands higher up in the series cause greater splitting of d orbitals and will **replace** weaker field ligands in solution.
+
+!!! example
+    If aqueous ammonia is added to an aqueous copper(II) sulfate solution (light blue), the ammonia molecules will replace the water molecules, increasing the $\Delta E$ of the complex, shifting the colour absorbed from yellow to a little more green, thus shifting the colour **transmitted** from a light blue to a darker blue.
 
 ## 14.1 - More covalent bonding
 
@@ -958,6 +995,10 @@ One s orbital and one p orbital mix to form two sp orbitals, which will arrange 
 One s orbital, three p orbitals, and one d orbital mix to form five sp<sup>3</sup>d orbitals, which will arrange themselves in a trigonal bipyramidal configuration.
 
 One s orbital, three p orbitals, and two d orbitals mix to form six sp<sup>3</sup>d<sup>2</sup> hybrid orbitals, which will arrange themselves in an octahedral configuration.
+
+## 20.3 - Stereoisomerism
+
+Stereoisomers are compounds with the same molecular and structural formulae but with a different arrangement of atoms.
 
 ## Designing a scientific investigation
 
