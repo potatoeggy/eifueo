@@ -659,6 +659,9 @@ For observable diffraction, the wavelength must be greater than or equal to the 
 
 A standing wave does not travel, so no energy is transferred. They are caused by the interference of symmetrical travelling waves moving in opposite directions.
 
+!!! definition
+    **Resonance** is when an external driver oscillating at a system's natural frequency transfers energy into the system, in this case a standing wave.
+
 <img src="/resources/images/standing-wave.gif" width=700></img>
 
 The locations of zero amplitude are called **nodes** and the locations of maximum amplitude are **anti-nodes**. Adjacent nodes are separated by $\frac{\lambda}{2}$. The wave speed is determined by the medium and the wavelengths of standing waves that fit on the medium are determined by the length of the medium.
@@ -670,6 +673,12 @@ $$
 \lambda_n=\frac{2}{n}L \\
 f_n=\frac{nv}{2L}
 $$
+
+Inside an **air column**, the difference in pressure allows for the formation of standing waves as waves reflect off of the interface where air changes pressure. A closed end must have nodes while open ends must have antinodes.
+
+<img src="/resources/images/standing-tubes.png" width=700>(Source: Kognity)</img>
+
+Resonance occurs in an air column when the length of the open tube is a multiple of half the wavelength of the sound. **Resonant lengths** occur at each antinode.
 
 ## 6.1 - Circular motion
 
