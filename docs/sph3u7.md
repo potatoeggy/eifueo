@@ -676,7 +676,7 @@ $$
 
 Inside an **air column**, the difference in pressure allows for the formation of standing waves as waves reflect off of the interface where air changes pressure. A closed end must have nodes while open ends must have antinodes.
 
-<img src="/resources/images/standing-tubes.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/standing-tube.png" width=700>(Source: Kognity)</img>
 
 Resonance occurs in an air column when the length of the open tube is a multiple of half the wavelength of the sound. **Resonant lengths** occur at each antinode.
 
