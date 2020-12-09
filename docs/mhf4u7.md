@@ -18,7 +18,7 @@ $$A=\frac{r^2\theta}{2}$$
 ### Trigonometric identities
 
 The **Pythagorean identity** relates the radius of a circle to its x and y components.
-$$\sin^2\theta+\cos^2\theta=\tan^2\theta$$
+$$\sin^2\theta+\cos^2\theta=1$$
 
 The **quotient identity** relates the side lengths of a right-angled triangle.
 $$\tan\theta=\frac{\sin\theta}{\cos\theta}$$
