@@ -868,7 +868,7 @@ Since the d and s sublevels are so close to each other and the s sublevel has a 
 !!! example
     Scandium ($\text{[Ar] 4s}^2\text{ 3d}^1$) loses its 4s electrons first, resulting in an electron configuration of $\text{[Ar] 3d}^1$.
 
-The **maximum** oxidatation state of a transition metal is equal to the number of electrons in its outermost s orbital **plus** the number of **unpaired** electrons in its outer d orbital in its **predicted** electron configuration. They can take on oxidation states anywhere between $2+$ and their maximum by giving up more of their unpaired electrons.
+The **maximum** oxidation state of a transition metal is equal to the number of electrons in its outermost s orbital **plus** the number of **unpaired** electrons in its outer d orbital in its **predicted** electron configuration. They can take on oxidation states anywhere between $2+$ and their maximum by giving up more of their unpaired electrons.
 
 !!! example
     Titanium ($\text{[Ar] 4s}^2\text{ 3d}^2$) and nickel ($\text{[Ar] 4s}^2\text{ 3d}^8$) both have a maximum oxidation state of $+4$ as they both only have two unpaired d sublevel electrons and two 4s electrons.
