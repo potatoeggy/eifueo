@@ -638,6 +638,46 @@ When waves of the same frequency meet, if their crests or troughs overlap, a **s
 
 ## 4.4 - Wave behaviour
 
+### Reflection
+
+When waves meet a flat surface and are not diffused or refracted, they are reflected at the same angle they entered relative to the **normal**.
+
+!!! definition
+    - The **incident** wave/angle refers to the wave hitting the surface.
+    - The **reflected** wave/angle refers to the wave moving away from the surface.
+    - The **normal** is an imaginary line perpendicular to the surface at the arrival point of the incident ray.
+
+<img src="/resources/images/reflection.png" width=700>(Source: Kognity)</img>
+
+### Refraction
+
+When light travels between two media that have different **optical densities**, it refracts and changes its direction as well as its speed. The **frequency** of the wave does not change but its speed does, therefore the **wavelength** changes as well.
+
+!!! definition
+    **Refraction** is the change in the direction and speed of light from a change in the optical density of the medium it travels through.
+
+When a ray travels from a **less** optically dense to **more** optically dense medium (fast to slow), the ray bends **toward** the normal and its wavelength decreases.
+
+<img src="/resources/images/refraction.gif" width=700>(Source: Kognity)</img>
+
+### Snell's law and total internal reflection
+
+The **refractive index** of a medium represents the ratio of wave speeds in the media, where $v$ is the speed of light in the medium:
+$$n=\frac{c}{v}$$
+
+Air has an index of refraction of $1$.
+
+Snell's law states that the incident and refracted angles are related by the index of refraction of the media.
+$$\frac{n_1}{n_2}=\frac{\sin\theta_2}{\sin\theta_1}=\frac{v_2}{v_1}$$
+
+or
+$$n_1\sin\theta_1=n_2\sin\theta_2$$
+
+If a ray travels from a **slower** to a **faster** medium, the ray bends away from the normal. If the ray would refract so much that it does not leave the incident medium at all, **total internal reflection** (TIR) occurs and the ray follows the rules of **reflection**. The critical angle denotes the incident angle required for the refracted angle to be exactly $90°$, and any angle greater than it results in TIR.
+$$\sin\theta_c = \frac{n_2}{n_1}$$
+
+<img src="/resources/images/total-internal-reflection.png" width=700>(Source: Kognity)</img>
+
 ### Diffraction
 
 !!! definition
@@ -655,7 +695,7 @@ As a wavefront passes an aperture, there are fewer points beside it and the wave
 
 For observable diffraction, the wavelength must be greater than or equal to the width of the aperture.
 
-## 4.4 - Standing waves
+## 4.5 - Standing waves
 
 A standing wave does not travel, so no energy is transferred. They are caused by the interference of symmetrical travelling waves moving in opposite directions.
 
