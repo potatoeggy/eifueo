@@ -244,8 +244,8 @@ The "amount" of a particle is written as $N$ while the amount of moles of a subs
 The mass of one mole of a substance is its **molar mass** ($M$), and has the units of grams per mole ($\text{g/mol}$). This conversion factor can be used to convert between the amount of a substance in moles and its mass in grams.
 
 !!! example
-    - Carbon has a relative atomic mass of $12.01$ so its molar mass is $12.01 \text{ g/mol}$.
-    - Water has a relative molecular mass of $18.02$ so its molar mass is $18.02 \text{ g/mol}$.>
+    - Carbon has a relative atomic mass of $12.01$ so $M_\text{C} = 12.01 \text{ g/mol}$.
+    - Water has a relative molecular mass of $18.02$ so $M_{\text{H}_2\text{O}} = 18.02 \text{ g/mol}$.>
 
 $$\text{Mass of one particle}=\frac{\text{molar mass of substance}}{\text{Avogadro constant}}$$
 
