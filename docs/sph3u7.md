@@ -695,6 +695,35 @@ As a wavefront passes an aperture, there are fewer points beside it and the wave
 
 For observable diffraction, the wavelength must be greater than or equal to the width of the aperture.
 
+### Interference
+
+When two points create waves, their wavefronts spread out in all directions. If waves are emanated from two points at the same speed and frequency, they form **nodal** and **anti-nodal** lines.
+
+!!! definition
+    - A **nodal** line is a set of points where waves interfere **destructively** and remain at equilibrium while other parts of the medium vibrate.
+    - An **anti-nodal** line is a set of points where waves interfere **constructively** and have the maximum vibration in the medium.
+
+<img src="/resources/images/point-interference.png" width=700>(Source: Kognity)</img>
+
+For all points on **anti-nodal** lines, the path difference between the point sources is $n\lambda$, where $n$ is an integer indicating the number of anti-nodal lines away from the central anti-nodal line ($n=0$).
+
+For all points on **nodal** lines, the path difference between the point sources is $(n+\frac{1}{2}\lambda$, where $n$ is an integer indicating the number of nodal lines away from the nodal lines ($n=0$) adjacent the central anti-nodal line (the diagram below mistakenly has one- instead of zero-indexed nodal line numbers).
+
+<img src="/resources/images/point-interference-busy.png" width=700>(Source: Kognity)</img>
+
+### Double slit interference of electromagnetic waves
+
+A light wave that is **coherent** is **monochromatic** (of the same wavelength) with a constant phase difference. Because light from different sources is incredibly difficult to ensure constant phase differences, a double-slit test can be performed by using a point source at $S_0$ to ensure that coherent waves pass at $S_1$ and $S_2$. The darker and brighter **fringes** are due to anti-nodal and nodal lines from wave interference.
+
+<img src="/resources/images/double-slit.png" width=700>(Source: Kognity)</img>
+
+By using mafs involving rays along a nodal line, the separation, $s$ between **bright fringes** can be related to the distance from the slits to the screen, $D$, the separation between the slits, $d$, and the wavelength $\lambda$.
+$$s=\frac{\lambda D}{d}$$
+
+**Dark fringe** positions on the screen are equally spaced at the same separation $s$ between the bright fringes. The perpendicular bisector with a length of $D$ is a **bright fringe**.
+
+<img src="/resources/images/fringe-slit-derive.png" width=700>(Source: Kognity)</img>
+
 ## 4.5 - Standing waves
 
 A standing wave does not travel, so no energy is transferred. They are caused by the interference of symmetrical travelling waves moving in opposite directions.
