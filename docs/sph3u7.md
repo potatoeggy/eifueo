@@ -717,7 +717,7 @@ A light wave that is **coherent** is **monochromatic** (of the same wavelength) 
 
 <img src="/resources/images/double-slit.png" width=700>(Source: Kognity)</img>
 
-By using mafs involving rays along a nodal line, the separation, $s$ between **bright fringes** can be related to the distance from the slits to the screen, $D$, the separation between the slits, $d$, and the wavelength $\lambda$.
+By using mafs involving rays along a nodal line, the separation, $s$ between **nodal/anti-nodal** lines on the distant surface can be related to the distance from the slits to the screen, $D$, the separation between the slits, $d$, and the wavelength $\lambda$.
 $$s=\frac{\lambda D}{d}$$
 
 **Dark fringe** positions on the screen are equally spaced at the same separation $s$ between the bright fringes. The perpendicular bisector with a length of $D$ is a **bright fringe**.
