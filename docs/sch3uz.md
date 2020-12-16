@@ -249,6 +249,38 @@ The mass of one mole of a substance is its **molar mass** ($M$), and has the uni
 
 $$\text{Mass of one particle}=\frac{\text{molar mass of substance}}{\text{Avogadro constant}}$$
 
+### Empirical and molecular formulae
+
+An empirical formula is the lowest whole number ratios of atoms and/or ions in a compound, while a molecular formula is the actual formula of the compound.
+
+!!! example
+    Hydrogen peroxide has a molecular formula of $\text{H}_2\text{O}_2$ but an empirical formula of $\text{HO}$.
+
+All elements in a compound are always in the same proportion by mass, so its empirical formula can be determined via the **percentage composition by mass** of a compound. To do so, the percentage should be converted to the theoretical mass of each element of 100 g of the compound, then converted to moles via its molar mass. The lowest whole number ratio represents the empirical formula of the compound. If a whole number ratio is not present, round if the difference is acceptably small (one guideline is 0.1), otherwise introduce a multiplication factor to make the ratios whole numbers.
+
+$$\text{Percentage composition} = \frac{\text{mass of element in compound}}{\text{molar mass of compound}}×100\%$$
+
+<img src="/resources/images/percentage-composition-by-mass.jpg" width=700>(Source: Kognity)</img>
+
+!!! example
+    The empirical formula of a compound consisting of 43.64% $\text{P}$ and 56.36% $\text{O}$ by mass:  
+    $m_\text{P} = 43.64\text{ g}$  
+    $m_\text{O} = 56.36\text{ g}$  
+    $n_\text{P} = 43.64\text{ g} ÷ 30.97\text{ g mol}^{-1} = 1.409\text{ mol}$  
+    $n_\text{O} = 56.36\text{ g} ÷ 16.00\text{ g mol}^{-1} = 3.523\text{ mol}$  
+    $\text{P}: 1.409÷1.409=1 × 2 = 2$  
+    $\text{O}:3.523÷ 1.409=2.500 × 2 = 5$  
+    Therefore the empirical formula is $\text{P}_2\text{O}_5$.
+
+If the both the molecular mass/molar mass and the empirical mass/molar mass of a compound is given, the molecular formula can be identified by finding the multiplication factor needed to turn the empirical mass to the molecular mass.
+
+The empirical formula of an **organic compound** (containing only carbon, hydrogen, and oxygen) can be determined via analysing the complete combustion of the sample and collecting the products. If the sample's mass is known, the percentage composition of carbon and hydrogen can be identified using the products of carbon dioxide and water, respectively. If their masses do not add up to the mass of the sample, the **remaining mass is oxygen**.
+
+Similarly, the ratio of salts to water molecules in hydrates can be determined by **gently** heating the hydrate until the salt becomes anhydrous and then identifying the mass of the water that has evaporated.
+
+!!! warning
+    Hydrates only have one salt per one or more water molecules.
+
 ## 2.1 - Atoms
 
 !!! definition
