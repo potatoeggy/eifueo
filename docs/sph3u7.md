@@ -695,7 +695,7 @@ As a wavefront passes an aperture, there are fewer points beside it and the wave
 
 For observable diffraction, the wavelength must be greater than or equal to the width of the aperture.
 
-### Interference
+### Two-point interference
 
 When two points create waves, their wavefronts spread out in all directions. If waves are emanated from two points at the same speed and frequency, they form **nodal** and **anti-nodal** lines.
 
