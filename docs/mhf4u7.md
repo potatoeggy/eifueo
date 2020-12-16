@@ -531,6 +531,27 @@ $$f´(x) = g´(h(x)) · h´(x)$$
     $$f(x) = (4x^2-3x+1)^7$$
     $$f´(x) = 7(4x^2-3x+1)^6 (8x-3)$$
 
+### Trigonometric derivative rules
+
+$$
+\frac{d}{dx}\sin x = \cos x \\
+\frac{d}{dx}\cos x = -\sin x \\
+$$
+
+These primary derived rules can be used to further derive the derivatives of the other trignometric ratios:
+$$
+\frac{d}{dx}\tan x = \sec^2 x \\
+\frac{d}{dx}\csc x = -\csc x\cdot\cot x \\
+\frac{d}{dx}\sec x = \sec x\cdot\tan x
+$$
+
+The **chain rule** applies to trigonometric functions and will be applied recursively if needed.
+
+!!! example
+    $$\frac{d}{dx}[\sin g(x)]^n = n[\sin g(x)]^{n-1}\cdot\cos x\cdot g´(x)$$
+
+Trigonometric identities are not polynomial so values on an interval need to be determined by substituting values between vertical asymptotes and critical points.
+
 ### Higher order derivatives
 
 The **second derivative** of $f(x)$ is the derivative of the first derivative of $f(x)$, that is, $f´´(x)$.
