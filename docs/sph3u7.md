@@ -737,10 +737,18 @@ The locations of zero amplitude are called **nodes** and the locations of maximu
 
 <img src="/resources/images/harmonic-waves.png" width=700>(Source: Kognity)</img>
 
-In a stretched string or a **half-open** air column, the frequencies that would produce standing waves are known as **natural frequencies**, and are individually known as **harmonics** The image above shows the first four harmonics. The first harmonic is also known as the **fundamental frequency**. The wavelength and frequency of the $n$th harmonic is equal to, where $L$ is the string length:
-$$\lambda_n=\frac{2}{n}L$$
+The frequencies that would produce standing waves are known as **natural frequencies**, and are individually known as **harmonics** The image above shows the first four harmonics. The first harmonic is also known as the **fundamental frequency**.
 
 Inside an **air column**, the difference in pressure allows for the formation of standing waves as waves reflect off of the interface where air changes pressure. A closed end must have nodes while open ends must have antinodes.
+
+Therefore:
+
+ - In a stretched string or a **closed-ended** air column, both ends must be **nodes**.
+ - In an open-ended air column, both ends must be **anti-nodes**.
+ - In a half-open air column, the closed end must be a node while the open end must be an anti-node.
+
+!!! example
+    The wavelength of any half-open air column is $\lambda=\frac{L}{4}$, and $\lambda=\frac{L}{2}$ in a stretched string.
 
 <img src="/resources/images/standing-tube.png" width=700>(Source: Kognity)</img>
 
