@@ -550,7 +550,7 @@ Note that that is also equal to $\Delta \vec{P}$ above.
     - The **amplitude** ($A$) of an oscillation is the greatest displacement from its equilibrium ($\Delta x$).
     - An object at an **equilibrium position** is at rest.
 
-### Simple hormonic motion
+### Simple harmonic motion
 
 In **simple harmonic motion** (SHM), an object oscillates in a fixed time interval around a central **equilibrium point** with a **linear restoring force** directed toward that equilibrium point.
 $$\vec{F} \propto -\Delta \vec{x}$$
@@ -635,6 +635,33 @@ The **superposition principle** states that the displacement of a particle of mo
 <img src="/resources/images/superposition.png" width=700>(Source: Kognity)</img>
 
 When waves of the same frequency meet, if their crests or troughs overlap, a **supercrest** or **supertrough** is formed, respectively. Waves that result in a net displacement of particles of zero form a **node**.
+
+### Polarisation
+
+**Unpolarised** waves are those that oscillate in every direction **perpendicular** to the direction of energy propagation, while those that are polarised only do so in one plane. Only **transverse** waves can be polarised.
+
+<img src="/resources/images/polarise-head-on.png" width=700>(Source: Kognity)</img>
+
+Waves are polarised by a **polariser**: a material that only allows charged particles to oscillate in one plane. When unpolarised light passes through a polariser, only one plane can progagate fully. The other directions of oscillation have their amplitudes reduced. **Linearly polarised** electromagnetic waves have a single plane of polarisation.
+
+A **polarising filter** can be used to polarise light, and an **analyser** is a second polariser used to determine if light is polarised.
+
+<img src="/resources/images/polariser.png" width=700>(Source: Kognity)</img>
+
+The energy of a wave is proportional to its intensity which is proportional to the square of the amplitude.
+$$E\propto I\propto A^2$$
+
+**Malus's law** states that for a polarised wave of energy $E_0$, the amplitude from the second filter, where $\theta$ is the angle between the polariser and the analyser, such that:
+$$E=E_0\cos\theta$$
+
+And so:
+$$I=I_0\cos\theta$$
+
+When **unpolarised light** passes through a polariser, the average result of $I\cos\theta$ is $\frac{1}{2}$, so the intensity of polarised light is **half** of the intensity of unpolarised light.
+
+When unpolarised light reflects off of a **smooth non-metallic** surface it will be at least partially polarised.
+
+<img src="/resources/images/reflect-polarise.png" width=700>(Source: Kognity)</img>
 
 ## 4.4 - Wave behaviour
 
