@@ -541,6 +541,25 @@ Note that that is also equal to $\Delta \vec{P}$ above.
 
 ## 3.1 - Thermal concepts
 
+**Heat** is the transfer of thermal energy due to a difference in temperature between two objects.
+
+The main postulates of **kinetic molecular theory** state that,
+
+ - matter is made of constantly moving particles,
+ - particles exert repulsive and attractive forces when too close or too far to other particles, respectively, and,
+ - the interparticular distances and forces account for the three states of matter
+
+<img src="/resources/images/states-of-matter.png" width=700>(Source: Kognity)</img>
+
+The **temperature** of an object is the **average** kinetic energy of particles in that object, and is linearly related to the **pressure** of its container $p$. Kelvin ($K$) is used to represent temperature, which starts at **absolute zero** — the point at which the pressure, and thus the vibration and movement of particles, is zero — and increases at equal intervals as the Celsius scale ($-273°\text{C}=0\text{ K}$).
+
+$$T(K)=T(°C)+273$$
+
+The **internal energy** of a substance is the sum of the kinetic energy of the particles (temperature) and the potential energy of the particles due to their changing attractive/repulsive forces. The potential energy of an object is highly dependent on its state. A more solid state results in lesser potential energy as the particle and closer and have weaker intermolecular forces.
+
+!!! note
+    This is why when boiling water at 100°C, its temperature does not change until all of it has changed state to a gas as the thermal energy is used to increase the potential energy of the object instead of its temperature.
+
 ## 3.2 - Modelling a gas
 
 ## 4.1 - Oscillations
