@@ -224,7 +224,7 @@ A net ionic equation is similar to a total ionic equation but only shows the ion
 
 If there is no reaction, there is no net ionic equation but there is a total ionic equation.
 
-## 1.2 - The mole concept
+## 1.2 - Stoichiometry - the mole concept
 
 A **mole** (mol) is a unit representing $6.02…×10^{23}$ countable objects.
 
@@ -261,6 +261,8 @@ All elements in a compound are always in the same proportion by mass, so its emp
 $$\text{Percentage composition} = \frac{\text{mass of element in compound}}{\text{molar mass of compound}}×100\%$$
 
 <img src="/resources/images/percentage-composition-by-mass.jpg" width=700>(Source: Kognity)</img>
+
+When calculating empirical formulae, uncertainties, unless they are large, can be reasonably discarded because they will not affect the final result significantly.
 
 !!! example
     The empirical formula of a compound consisting of 43.64% $\text{P}$ and 56.36% $\text{O}$ by mass:  
