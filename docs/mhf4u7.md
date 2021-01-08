@@ -2,6 +2,27 @@
 
 The course code for this page is **MHF4U7**.
 
+## Basic math — move later
+
+### Logarithm rules
+
+The logarithm of a product can be rewritten as the sum of two logarithms.
+$$\log_c(ab)=\log_c(a)+\log_c(b)$$
+
+The logarithm of a quotient can be rewritten as the difference of two logarithms.
+$$\log_c\biggr(\frac{a}{b}\biggr)=\log_c(a)-\log_c(b)$$
+
+The exponentials of a logarithm can be brought down to be coefficients.
+$$\log_c(a^n)=n\log_c(a)$$
+
+Some simple values can be easily found.
+
+$$
+a^{\log_a(x)}=x \\
+\log_a(a)=1 \\
+\log_a(1)=0
+$$
+
 ## 3 - Geometry and trigonometry
 
 To find the result of a primary trig ratio, the related acute angle (RAA) should first be found before referring to the CAST rule to determine quadrants before identifying all correct answers in the domain.
@@ -31,6 +52,13 @@ $$
 \cos 2\theta = 1-2\sin^2\theta \\
 \tan 2\theta = \frac{2\tan\theta}{1-\tan^2\theta}
 $$
+
+### Euler's number
+
+Euler's number $e$ is a constant irrational number represented as a special limit in calculus.
+$$e=\lim_{x\to ∞}\biggr(1+\frac{1}{x}\biggr)^x$$
+
+The inverse of $e^x$ is $\log_e(x)$, which is known as the **natural logarithm** and can be rewritten as $\ln(x)$ ("lawn x").
 
 ## 4 - Statistics and probability
 
@@ -551,6 +579,31 @@ The **chain rule** applies to trigonometric functions and will be applied recurs
     $$\frac{d}{dx}[\sin g(x)]^n = n[\sin g(x)]^{n-1}\cdot\cos x\cdot g´(x)$$
 
 Trigonometric identities are not polynomial so values on an interval need to be determined by substituting values between vertical asymptotes and critical points.
+
+### Extended derivative rules
+
+For an **exponential function** where $f(x)=b^x,b≠0$ or $f(x)=b^{g(x)}$, respectively:
+
+$$
+f´(x)=b^x\cdot\ln(b) \\
+f´(g(x))=b^{g(x)}\cdot\ln(b)\cdot g´(x)
+$$
+
+For a **logarithmic function** where $f(x)=\log_b(x)$ or $f(x)=\log_b(g(x))$, respectively:
+
+$$
+f´(x)=\frac{1}{\ln(b)\cdot x} \\
+f´(x)=\frac{g´(x)}{\ln(b)\cdot g(x)}
+$$
+
+From the above base derivatives the derivatives for functions involving $e$ and the **natural logarithm** can be found:
+
+$$
+\frac{d}{dx}e^x=e^x \\
+\frac{d}{dx}e^{g(x)}=e^{g(x)}\cdot g´(x) \\
+\frac{d}{dx}\ln(x)=\frac{1}{x} \\
+\frac{d}{dx}\ln(g(x))=\frac{g´(x)}{g(x)}
+$$
 
 ### Higher order derivatives
 
