@@ -283,6 +283,77 @@ Similarly, the ratio of salts to water molecules in hydrates can be determined b
 !!! warning
     Hydrates only have one salt per one or more water molecules.
 
+## 1.3 - Reacting masses and volumes
+
+### Yield
+
+The yield of a reaction is the amount of product obtained.
+
+The **theoretical yield** is the maximum amount of product predicted to be produced using a balanced chemical equation. The actual yield is the amount of product measured from an actual chemical reaction.
+$$\text{Percentage yield} = \frac{\text{actual yield}}{\text{theoretical yield}}×100\%$$
+
+An actual yield greater than the theoretical yield is not possible and is a clear indication of systematic or measurement error. Generally, the actual yield is different from the theoretical yield for many possible reasons:
+
+ - Imperfect collection techniques may have not measured some of the product
+ - Competing reactions may have used a reactant and formed other products
+ - The reactants may be impure
+
+The percentage yield and percentage error should add up to 100%.
+
+### Limiting and excess reactants/reagents
+
+When there is not enough reactant to use up all of them evenly, there will be reactants that are used up first known as **limiting reactants**. The remaining reactants are known as **excess reactants**.
+
+To find limiting/excess reactants:
+
+ - Find the amount of each substance on hand
+ - Divide each amount by its coefficient in the balanced equation
+ - The lowest value is the limiting reactant
+
+### Solutions
+
+!!! definition
+    - An **alloy** is a homogeneous mixture of two or more solid metals.
+    - An **aqueous** solution is such that water is the solvent.
+    - Two substances are **miscible** when one can be dissolved in the other in any proportion.
+    - Two substances are **immiscible** when neither can be dissolved in the other in any proportion.
+
+A **solution** is a homogeneous mixture produced when a **solute** dissolves in a **solvent**.
+
+<img src="/resources/images/solution-formation.png" width=700>(Source: Kognity)</img>
+
+The **concentration** $c$ of a solution represents the quantity of a solute in a given quantity of solvent/solution and is represented via square brackets as a ratio between a quantity of solute and quantity of solution.
+
+!!! example
+    A solution with 0.1 mols of hydrochloric acid per decimetre of solution is written as $\text{[HCl]}=0.1\text{ mol/dm}^3$ or $c_\text{HCl}=0.1\text{ mol/dm}^3$
+
+The **solubility** of a particular solute in a particular solvent at a given temperature is its **molar concentration** when it is **saturated** — when no more solute will dissolve at that temperature. If a solution is cooled while saturated, it may become **supersaturated** temporarily until the solute condenses into crystals. Solubility varies by temperature — in general, it increases as temperature increases in solids while it always decreases as temperature decreases in gases.
+
+!!! example
+    The solubility of barium sulfate is at $\text{[BaSO]}_4=0.05\text{ mol/dm}^3$.
+
+A **solubility curve** shows the saturation point of a particular solute in a particular solvent at varying temperatures. A solution is saturated when above or at the curve and unsatured when below the curve. If above the curve, the solution is supersaturated or some of the solute has not dissolved.
+
+### Concentration of solutions
+
+**Molar concentration** is usually expressed as a ratio of amount of solute to the **total** volume of the solution with the units $\text{mol/dm}^3$.
+$$c=\frac{n}{v}=\frac{\text{amount of solute (mol)}}{\text{total volume of solution (dm}^3\text{)}}$$
+
+When a solution is **diluted** the moles of solute are the same before and after and so:
+$$c_iv_i=c_fv_f$$
+
+A mass/mass percentage concentration (%m/m) is such that:
+$$c\text{ (%m/m)}=\frac{\text{mass of solute (g)}}{\text{total mass of solution (g)}}×100\%$$
+
+A mass/volume percentage concentration (%m/v) is easy to measure, but may be unreliable as volume changes with temperature. It is such that:
+$$c\text{ (%m/v)}=\frac{\text{mass of solute (g)}}{\text{total volume of solution (100 cm}^3\text{)}}×100\%$$
+
+A volume/volume percentage concentration (%v/v) has the same properties as the above but also has the caveat that there is no guarantee that the total volume of the solution is equal to the sums of the volumes of the solute and solvent. It is such that:
+$$c\text{ (%v/v)}=\frac{\text{volume of solute (cm}^3\text{)}}{\text{total volume of solution (100 cm}^3\text{)}}×100\%$$
+
+When dealing with very small concentrations, smaller units such as **parts per million (ppm)** or parts per billion (ppb) are used.
+$$c\text{ (ppm)}=\frac{\text{mass of solute (g)}}{\text{mass of solution (g)}}×10^6$$
+
 ## 2.1 - Atoms
 
 !!! definition
