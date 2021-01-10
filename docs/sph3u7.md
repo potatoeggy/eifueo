@@ -552,13 +552,22 @@ The main postulates of **kinetic molecular theory** state that,
 <img src="/resources/images/states-of-matter.png" width=700>(Source: Kognity)</img>
 
 The **temperature** of an object is the **average** kinetic energy of particles in that object, and is linearly related to the **pressure** of its container $p$. Kelvin ($K$) is used to represent temperature, which starts at **absolute zero** — the point at which the pressure, and thus the vibration and movement of particles, is zero — and increases at equal intervals as the Celsius scale ($-273°\text{C}=0\text{ K}$).
-
 $$T(K)=T(°C)+273$$
+
+The average kinetic energy in joules of a gas can be found by relating the temperature of the object $T$ and the Boltzmann constant $k_B$:
+$$\frac{1}{2}m\overline{v^2}=\frac{3}{2}k_BT$$
 
 The **internal energy** of a substance is the sum of the kinetic energy of the particles (temperature) and the potential energy of the particles due to their changing attractive/repulsive forces. The potential energy of an object is highly dependent on its state. A more solid state results in lesser potential energy as the particle and closer and have weaker intermolecular forces.
 
 !!! note
     This is why when boiling water at 100°C, its temperature does not change until all of it has changed state to a gas as the thermal energy is used to increase the potential energy of the object instead of its temperature.
+
+### Specific heat capacity
+
+The amount of energy transferred to change the temperature of an object is **independent** on whether it increases or decreases. The **specific heat capacity** $c$ of a substance is the energy required to change 1 kg of that substance by 1 K and such has the units $\text{J}\cdot\text{kg}^{-1}\cdot\text{K}^{-1}$. Where $Q$ is the quantity of thermal energy needed (no idea why it's not $\Delta Q$) , $m$ is the mass of a substance, $c$ is the specific heat capacity of the substance, and $\Delta T$ is the difference in temperature:
+$$Q=mc\Delta T$$
+
+A **temperature-energy** graph shows the energy required to heat a mass. If its mass is 1 kg, the slope of the graph is equal to $\frac{1}{c}$.
 
 ## 3.2 - Modelling a gas
 
