@@ -1,6 +1,6 @@
 # Home
 
-This website is intended to be primarily for personal use, but is available publically online.
+This website is intended to be primarily for personal use, but is available publicly online.
 
 Testing math rendering: $a^2+b^2=c^2$
 
