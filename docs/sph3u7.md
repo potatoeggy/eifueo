@@ -567,6 +567,9 @@ The **internal energy** of a substance is the sum of the kinetic energy of the p
 The amount of energy transferred to change the temperature of an object is **independent** on whether it increases or decreases. The **specific heat capacity** $c$ of a substance is the energy required to change 1 kg of that substance by 1 K and such has the units $\text{J}\cdot\text{kg}^{-1}\cdot\text{K}^{-1}$. Where $Q$ is the quantity of thermal energy needed (no idea why it's not $\Delta Q$) , $m$ is the mass of a substance, $c$ is the specific heat capacity of the substance, and $\Delta T$ is the difference in temperature:
 $$Q=mc\Delta T$$
 
+When two objects reach thermal equilibrium together, the end temperature they reach is the same and the thermal energy one loses is equal to the one the other gains in a closed system.
+$$Q_\text{lost}+Q_\text{gained}=0$$
+
 A **temperature-energy** graph shows the energy required to heat a mass. If its mass is 1 kg, the slope of the graph is equal to $\frac{1}{c}$.
 
 ### Latent heat
