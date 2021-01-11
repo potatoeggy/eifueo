@@ -569,6 +569,19 @@ $$Q=mc\Delta T$$
 
 A **temperature-energy** graph shows the energy required to heat a mass. If its mass is 1 kg, the slope of the graph is equal to $\frac{1}{c}$.
 
+### Latent heat
+
+!!! definition
+    - **Boiling** occurs when liquid becomes a gas in the whole liquid at a temperature known as the boiling point.
+    - **Evaporation** occurs only at the surface of a liquid at any temperature and can be enhanced by increasing surface area, heat, or by increasing air movement at the surface.
+    
+    Both evaporation and boiling remove the same amount of energy for a given mass.
+
+When changing phase, a substance's temperature does not increase, but instead the energy goes toward expanding intermolecular spacing. As such, it can be identified on a temperature-energy graph by areas of no change in temperature as more energy is added.
+
+The **specific latent heat** $L$ of a substance's fusion/vapourisation the amount of energy required for it to change phase, and is different between all substances and each difference in phase between substances. As such, it can only be used when $\Delta T=0$.
+$$Q=mL$$
+
 ## 3.2 - Modelling a gas
 
 ## 4.1 - Oscillations
