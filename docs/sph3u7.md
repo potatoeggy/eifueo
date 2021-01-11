@@ -699,7 +699,7 @@ $$E\propto I\propto A^2$$
 $$E=E_0\cos\theta$$
 
 And so:
-$$I=I_0\cos\theta$$
+$$I=I_0\cos^2\theta$$
 
 When **unpolarised light** passes through a polariser, the average result of $I\cos\theta$ is $\frac{1}{2}$, so the intensity of polarised light is **half** of the intensity of unpolarised light.
 
