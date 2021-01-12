@@ -698,7 +698,7 @@ $$E\propto I\propto A^2$$
 **Malus's law** states that for a polarised wave of energy $E_0$, the amplitude from the second filter, where $\theta$ is the angle between the polariser and the analyser, such that:
 $$E=E_0\cos\theta$$
 
-And so:
+And so, where $I$ is the intensity of the polarised/analysed light, $I_0$ is the intensity of the plane-polarised light, and $\theta$ is the angle between the polariser and the analyser:
 $$I=I_0\cos^2\theta$$
 
 When **unpolarised light** passes through a polariser, the average result of $I\cos^2\theta$ is $\frac{1}{2}$, so the intensity of polarised light is **half** of the intensity of unpolarised light.
