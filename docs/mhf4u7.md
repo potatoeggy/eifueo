@@ -605,6 +605,8 @@ $$
 \frac{d}{dx}\ln(g(x))=\frac{g´(x)}{g(x)}
 $$
 
+This opens up the possibility of **logarithmic differentiation**, which is required for exponential or logarithmic functions with a variable base. The **natural logarithm** of both sides should be taken prior to differentiation and logarithmic rules applied to simplify the equation.
+
 ### Higher order derivatives
 
 The **second derivative** of $f(x)$ is the derivative of the first derivative of $f(x)$, that is, $f´´(x)$.
