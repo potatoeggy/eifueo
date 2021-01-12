@@ -1,4 +1,4 @@
-# SL Physics - A
+# SL Physics - 1
 
 The course code for this page is **SPH3U7**.
 

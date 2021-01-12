@@ -1,10 +1,10 @@
 site_name: Eifueo
 nav:
   - Home: index.md
-  - SL Physics A: sph3u7.md
-  - HL Chemistry A: sch3uz.md
-  - SL Math - Analysis and Approaches A: mhf4u7.md
-  - HL English A: eng3uz.md
+  - SL Physics 1: sph3u7.md
+  - HL Chemistry 1: sch3uz.md
+  - SL Math - Analysis and Approaches 1: mhf4u7.md
+  - HL English 1: eng3uz.md
 
 theme:
   name: material

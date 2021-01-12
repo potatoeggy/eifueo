@@ -1,4 +1,4 @@
-# HL English - A
+# HL English - 1
 
 The course code for this page is **ENG3UZ**.
 

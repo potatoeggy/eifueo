@@ -1,4 +1,4 @@
-# SL Math - Analysis and Approaches - A
+# SL Math - Analysis and Approaches - 1
 
 The course code for this page is **MHF4U7**.
 

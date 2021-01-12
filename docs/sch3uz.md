@@ -1,4 +1,4 @@
-# HL Chemistry - A
+# HL Chemistry - 1
 
 The course code for this page is **SCH3UZ**.
 
