@@ -560,7 +560,7 @@ $$\frac{1}{2}m\overline{v^2}=\frac{3}{2}k_BT$$
 The **internal energy** of a substance is the sum of the kinetic energy of the particles (temperature) and the potential energy of the particles due to their changing attractive/repulsive forces. The potential energy of an object is highly dependent on its state. A more solid state results in lesser potential energy as the particle and closer and have weaker intermolecular forces.
 
 !!! note
-    This is why when boiling water at 100°C, its temperature does not change until all of it has changed state to a gas as the thermal energy is used to increase the potential energy of the object instead of its temperature.
+    When changing state, the temperature of a substance does not change as the energy is used to break the attractive intermolecular forces instead of increasing kinetic energy. In otder to change state, the particles must have enough energy to overcome the intermolecular forces holding them together.
 
 ### Specific heat capacity
 
