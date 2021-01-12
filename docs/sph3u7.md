@@ -587,6 +587,21 @@ $$Q=mL$$
 
 ## 3.2 - Modelling a gas
 
+### Ideal gases
+
+An ideal gas is an imaginary gas used to model real gases. The following assumptions are made:
+
+ - Gas particles are all identical and perfectly spherical
+ - Gas particles do not exert any intermolecular forces — as such, their potential energy does not change
+ - Gas particles collide perfectly elastically
+ - Gas particles are so small that their volume is significantly smaller than that of the container
+
+The average kinetic energy of the gas particles is proportional to the temperature of a gas. A greater speed of gas particles also increases the **collisions** between gas particles and the walls of the box, therefore increasing **pressure**, therefore increasing **temperature**. The pressure of a gas on a surface can be expressed by the force $F$ over its area $A$.
+$$p=\frac{F}{A}$$
+
+The state of an ideal gas in a container can be modelled by the following equation, where $p$ is the pressure of the pressure in pascals or newtons per square metre ($\text{Pa}$ or $\text{Nm}^{-2}$), $V$ is the volume in cubic metres, $n$ is the number of moles of gas particles, $R$ is the universal gas constant ($R=8.31\text{J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$), and $T$ is the temperature of the gas in Kelvin:
+$$pV=nRT$$
+
 ## 4.1 - Oscillations
 
 !!! definition
