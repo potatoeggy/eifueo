@@ -391,6 +391,18 @@ Although the solution may be kept in the flask briefly, if it is not used soon i
  - Warnings/dangers as according to GHS
  - Protective equipment and precautions required
 
+### Gas laws
+
+According to the **kinetic molecular theory**, gases are largely empty empty space with partiles moving randomly in straight lines due to weak or no intermolecular forces acting on them. Gas particles:
+
+ - move in all directions,
+ - are much smaller than the spaces between them,
+ - do not have any forces of attraction or repulsion between them,
+ - elastically collide with one another, and
+ - have movement directly proportional to the temperature in Kelvin such that $E_k\proptoT$.
+
+Because gases are the only state of matter that have negligible intermolecular forces within the substance and so move independently of one another, they are the only **compressible** state of matter.
+
 ## 2.1 - Atoms
 
 !!! definition
