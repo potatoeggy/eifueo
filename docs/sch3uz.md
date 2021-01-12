@@ -354,6 +354,43 @@ $$c\text{ (%v/v)}=\frac{\text{volume of solute (cm}^3\text{)}}{\text{total volum
 When dealing with very small concentrations, smaller units such as **parts per million (ppm)** or parts per billion (ppb) are used.
 $$c\text{ (ppm)}=\frac{\text{mass of solute (g)}}{\text{mass of solution (g)}}×10^6$$
 
+### Standard solutions
+
+A standard solution is a solution with an accurately known concentration.
+
+**Volumetric flasks** are designed to make exactly one volume of solution very accurately, and consist or a large bulb and neck with a fill line. They come in standard sizes of 50, 100, 250, and 500 mL — when a solution is required that does not match one of these values, the closest size greater should be used.
+
+Solutes come either in solid form or as part of a **stock** solution — a more concentrated solution used to make more diluted solutions. When measuring out solid solute, glassware should be avoided and a non-pourous boat of paper or plastic should be used to hold the solute. A liquid solute or stock solution should be measured using a graduated cylinder with the line at the bottom of the meniscus.
+
+!!! warning
+    To avoid air currents affecting the mass measured, paper should be folded and kept from extending past the edge of the scale.
+
+To make a standard solution:
+
+<img src="/resources/images/standard-solution.png" width=700>(Source: Kognity)</img>
+
+The solute should be prepared following the instructions above.
+
+If the solute is still solid, the measured mass should be placed in a beaker about the same volume as the flask and poured inside. The container used to measure the solute should be rinsed **three times** with distilled water and also poured into the beaker. A small volume of distilled water should be added and the beaker swirled or stirred until surfaces are covered and all of the solute has dissolved.
+
+Whether a stock solution or solid solute was used, both should be aqueous at this time. This early solution should be poured into a volumetric flask — a funnel can be used to make this easier. Any equipment that came in contact with the solute or solution  must be rinsed **three times** with distilled water and have their contents poured into the flask.
+
+!!! warning
+    If any solute, stock solution, or liquid from the rinses is lost, or if the liquid added raises the volume of the beaker past the intended volume of the solution, the solution is a **failure**. Every equipment that comes in contact with the solution or solute must be rinsed three times and its contents poured into the flask.
+
+More distilled water should be added to the flask until the bulb is about two-thirds full, and then swirled to mix the solution in advance. After, distilled water should be added until the bottom of the meniscus touches the fill line.
+
+Finally, the flask should be capped and inverted repeatedly until the solution has mixed completely.
+
+!!! warning
+    If any solution is lost or if the volume of the solution exceeds that of the fill line, the solution is a **failure**.
+
+Although the solution may be kept in the flask briefly, if it is not used soon it must be stored in a **storage bottle**. At minimum, it must contain the following on a label:
+
+ - Identity and concentration of the solution
+ - Warnings/dangers as according to GHS
+ - Protective equipment and precautions required
+
 ## 2.1 - Atoms
 
 !!! definition
