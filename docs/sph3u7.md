@@ -778,7 +778,7 @@ When two points create waves, their wavefronts spread out in all directions. If 
 
 For all points on **anti-nodal** lines, the path difference between the point sources is $n\lambda$, where $n$ is an integer indicating the number of anti-nodal lines away from the central anti-nodal line ($n=0$).
 
-For all points on **nodal** lines, the path difference between the point sources is $(n+\frac{1}{2}\lambda$, where $n$ is an integer indicating the number of nodal lines away from the nodal lines ($n=0$) adjacent the central anti-nodal line (the diagram below mistakenly has one- instead of zero-indexed nodal line numbers).
+For all points on **nodal** lines, the path difference between the point sources is $(n+\frac{1}{2})\lambda$, where $n$ is an integer indicating the number of nodal lines away from the nodal lines ($n=0$) adjacent the central anti-nodal line (the diagram below mistakenly has one- instead of zero-indexed nodal line numbers).
 
 <img src="/resources/images/point-interference-busy.png" width=700>(Source: Kognity)</img>
 
