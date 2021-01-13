@@ -399,7 +399,7 @@ According to the **kinetic molecular theory**, gases are largely empty empty spa
  - are much smaller than the spaces between them,
  - do not have any forces of attraction or repulsion between them,
  - elastically collide with one another, and
- - have movement directly proportional to the temperature in Kelvin such that $E_k\proptoT$.
+ - have movement directly proportional to the temperature in Kelvin such that $E_k\propto T$.
 
 Because gases are the only state of matter that have negligible intermolecular forces within the substance and so move independently of one another, they are the only **compressible** state of matter.
 
