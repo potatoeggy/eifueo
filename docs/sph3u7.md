@@ -602,6 +602,8 @@ $$p=\frac{F}{A}$$
 The state of an ideal gas in a container can be modelled by the following equation, where $p$ is the pressure of the pressure in pascals or newtons per square metre ($\text{Pa}$ or $\text{Nm}^{-2}$), $V$ is the volume in cubic metres, $n$ is the number of moles of gas particles, $R$ is the universal gas constant ($R=8.31\text{J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$), and $T$ is the temperature of the gas in Kelvin:
 $$pV=nRT$$
 
+Please see [HL Chemistry#Gas laws](/sch3uz/#gas-laws) for more information.
+
 ## 4.1 - Oscillations
 
 !!! definition

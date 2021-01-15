@@ -393,7 +393,7 @@ Although the solution may be kept in the flask briefly, if it is not used soon i
 
 ### Gas laws
 
-According to the **kinetic molecular theory**, gases are largely empty empty space with partiles moving randomly in straight lines due to weak or no intermolecular forces acting on them. Gas particles:
+According to the **kinetic molecular theory**, gases are largely empty empty space with particles moving randomly in straight lines due to weak or no intermolecular forces acting on them. Gas particles:
 
  - move in all directions,
  - are much smaller than the spaces between them,
@@ -402,6 +402,17 @@ According to the **kinetic molecular theory**, gases are largely empty empty spa
  - have movement directly proportional to the temperature in Kelvin such that $E_k\propto T$.
 
 Because gases are the only state of matter that have negligible intermolecular forces within the substance and so move independently of one another, they are the only **compressible** state of matter.
+
+**Boyle's law** states that the pressure and volume of a fixed amount of an ideal gas are inversely proportional to each other at a **constant temperature**.
+$$P\propto\frac{1}{V}$$
+
+<img src="/resources/images/pv-graph.png" width=700>(Source: Kognity)</img>
+
+**Charles' law** states that the **absolute** temperature and volume of a fixed amount of an ideal gas are directly proportional to each other at a **constant pressure**.
+$$V\propto T$$
+
+**Gay-Lussac's law** states that the **absolute** temperature and pressure of a fixed amount of an ideal gas are directly proportional to each other at **constant volume**.
+$$P\propto T$$
 
 ## 2.1 - Atoms
 
