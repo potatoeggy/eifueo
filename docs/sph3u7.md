@@ -610,7 +610,7 @@ $$pV=nRT$$
     - An **isobaric**, **isothermal**, or **isochloric**/**isovolumetric** process have a constant pressure, temperature, or volume, respectively.
     - A **thermodynamic process** induces a change in a gas's temperature, pressure, or volume.
 
-A **thermodynamic cycle** consists of thermodynamic processes that return a gas to its initial state, and appear in pressure-volume graphs as closed shapes. In such a cycle, the work done is equal to the pressure and change in volume:
+A **thermodynamic cycle** consists of thermodynamic processes that return a gas to its initial state, and appear in pressure-volume graphs as closed shapes. In such a cycle, the work done **on the gas** is equal to the pressure and change in volume:
 $$W=p\Delta V$$
 
 If the pressure is not constant, the work done is instead the area under the graph in that process.
