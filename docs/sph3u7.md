@@ -596,13 +596,28 @@ An ideal gas is an imaginary gas used to model real gases. The following assumpt
  - Gas particles collide perfectly elastically
  - Gas particles are so small that their volume is significantly smaller than that of the container
 
+These assumptions do not hold for real gases as gases have real volume and there are intermolecular forces between them. As such, the ideal gas model is best used if the gas is at a **low** pressure, **higher** temperature, and **low** density.
+
 The average kinetic energy of the gas particles is proportional to the temperature of a gas. A greater speed of gas particles also increases the **collisions** between gas particles and the walls of the box, therefore increasing **pressure**, therefore increasing **temperature**. The pressure of a gas on a surface can be expressed by the force $F$ over its area $A$.
 $$p=\frac{F}{A}$$
 
 The state of an ideal gas in a container can be modelled by the following equation, where $p$ is the pressure of the pressure in pascals or newtons per square metre ($\text{Pa}$ or $\text{Nm}^{-2}$), $V$ is the volume in cubic metres, $n$ is the number of moles of gas particles, $R$ is the universal gas constant ($R=8.31\text{J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$), and $T$ is the temperature of the gas in Kelvin:
 $$pV=nRT$$
 
+### Gas laws
+
+!!! definition
+    - An **isobaric**, **isothermal**, or **isochloric**/**isovolumetric** process have a constant pressure, temperature, or volume, respectively.
+    - A **thermodynamic process** induces a change in a gas's temperature, pressure, or volume.
+
+A **thermodynamic cycle** consists of thermodynamic processes that return a gas to its initial state, and appear in pressure-volume graphs as closed shapes. In such a cycle, the work done is equal to the pressure and change in volume:
+$$W=p\Delta V$$
+
+If the pressure is not constant, the work done is instead the area under the graph in that process.
+
 Please see [HL Chemistry#Gas laws](/sch3uz/#gas-laws) for more information.
+
+In a pressure-volume graph, the curves of constant temperature are known as **isotherms**.
 
 ## 4.1 - Oscillations
 
