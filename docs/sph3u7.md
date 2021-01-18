@@ -862,6 +862,20 @@ Resonance occurs in an air column when the length of the open tube is a multiple
 In a **open-ended** or **closed-ended**  air column:
 $$\lambda_n=\frac{n}{4}L$$
 
+## 5.1 - Electric fields
+
+### Charge
+
+A **charge** is a scalar that allows a mass to experience force from an electromagnetic field, and it may only be positive or negative. It is both **quantised** — the smallest charge possible is the one on a single proton/electron and all charges are multiples of that value — and **conserved** in a closed system.
+
+Charges are expressed in **Coulombs** ($\text{C}$) with the symbol $q$. One electron has a charge of $1.60×10^{-19}\text{ C}$.
+
+Similar to gravitation, the forces between charges is proportional to their charges and inversely proportional to the square of the distance between them.
+$$F_E \propto q \propto \frac{1}{r^2}$$
+
+The equation that describes the force between charges is as follows, where $k$ is a constant with the value $8.99×10^9\text{ m}^{-2}\text{C}^{-2}$:
+$$F_E = \frac{kq_1q_2}{r^2}$$
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
@@ -941,7 +955,8 @@ $$T^2 \propto r^3$$
 
 A **geosynchronous** orbit is one that returns to its original position relative to the orbitee after one rotation of the orbitee.
 
-A **geostationary** orbit is a geosynchronous orbit that always remains in the same position relative to the orbitee.
+A **geostationary** orbit is a geosynchronous orbit that always remains in the same position relative to the orbitee..
+
 
 ## Resources
 
