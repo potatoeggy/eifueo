@@ -414,6 +414,16 @@ $$V\propto T$$
 **Gay-Lussac's law** states that the **absolute** temperature and pressure of a fixed amount of an ideal gas are directly proportional to each other at **constant volume**.
 $$P\propto T$$
 
+The **combined gas law** is derived from the three laws above:
+$$\frac{P_1V_1}{T_1}=\frac{P_2V_2}{V_2}$$
+
+**Dalton's law of partial pressures** states that the pressure of a mixture of gases is equal to the sum of the pressures of each gas. As pressure is directly proportional to the number of particles in the gas:
+$$
+P_T = \Sigma P \\
+P\propto n \\
+\frac{n_1}{n_T}P_T=P_1
+$$
+
 ## 2.1 - Atoms
 
 !!! definition
