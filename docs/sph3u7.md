@@ -871,7 +871,7 @@ A **charge** is a scalar that allows a mass to experience force from an electrom
 Charges are expressed in **Coulombs** ($\text{C}$) with the symbol $q$. One electron has a charge of $1.60×10^{-19}\text{ C}$.
 
 Similar to gravitation, the forces between charges is proportional to their charges and inversely proportional to the square of the distance between them.
-$$F_E \propto q \propto \frac{1}{r^2}$$
+$$F_E \propto q_1q_2 \propto \frac{1}{r^2}$$
 
 The equation that describes the force between charges is as follows, where $k$ is a constant with the value $8.99×10^9\text{ m}^{-2}\text{C}^{-2}$:
 $$F_E = \frac{kq_1q_2}{r^2}$$
