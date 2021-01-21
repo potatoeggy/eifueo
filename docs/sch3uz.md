@@ -424,6 +424,18 @@ P\propto n \\
 \frac{n_1}{n_T}P_T=P_1
 $$
 
+Please see [SL Physics#Gas laws](/sph3uz/#gas-laws) for more information.
+
+### Gas collection
+
+**STP** refers to **standard temperature and pressure**, which is at $273\text{ K}$ and $100\text{ kPa}$.
+
+The gas collection process is used to experimentally determine the number of moles and/or mass of a gas. By adding a gas under water, the gas displaces the water as it moves up into a measuring cylinder and its volume can be taken. Ideally, the temperature of the gas is equal to the temperature of the water, and the its pressure is equal to that of the atmosphere. Since water vapour tends to evaporate, it has to be factored out using Dalton's law of partial pressures and a chart that gives the pressure of water at a given temperature.
+$$P_T=P_{\text{H}_2\text{O}} + P_\text{gas}$$
+
+<img src="/resources/images/gas-collection.png" width=700>(Source: Kognity)</img>
+
+
 ## 2.1 - Atoms
 
 !!! definition
