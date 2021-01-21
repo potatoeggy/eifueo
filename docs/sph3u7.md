@@ -876,6 +876,13 @@ $$F_E \propto q_1q_2 \propto \frac{1}{r^2}$$
 The equation that describes the force between charges is as follows, where $k$ is a constant with the value $8.99×10^9\text{ m}^{-2}\text{C}^{-2}$:
 $$F_E = \frac{kq_1q_2}{r^2}$$
 
+### Actual electric fields
+
+Similar to a gravitational field, the force an object experiences is dependent on both charges but the **field** around an object is only reliant on one. The **field strength** $ε$ is the force per unit of charge and is equal to:
+$$\vec{ε}=\frac{F_e}{q}$$
+
+The direction of the field depends on its charge — by convention, all test charges are assumed to be **positive**, so vector arrows will point **away** from a positive source and **toward** a negative source.
+
 ## 6.1 - Circular motion
 
 Circular motion is any motion along a circular path. The instantaneous velocity of an object in circular motion at any point is always tangent to its point on the circle, so the difference between any two velocities ($\Delta \vec{v}$) is radial (lies along the radius).
