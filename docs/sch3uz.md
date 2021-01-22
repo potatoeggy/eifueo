@@ -424,7 +424,7 @@ P\propto n \\
 \frac{n_1}{n_T}P_T=P_1
 $$
 
-Please see [SL Physics#Gas laws](/sph3uz/#gas-laws) for more information.
+Please see [SL Physics#Gas laws](/sph3u7/#gas-laws) for more information.
 
 ### Gas collection
 
