@@ -876,12 +876,59 @@ $$F_E \propto q_1q_2 \propto \frac{1}{r^2}$$
 The equation that describes the force between charges is as follows, where $k$ is a constant with the value $8.99×10^9\text{ m}^{-2}\text{C}^{-2}$:
 $$F_E = \frac{kq_1q_2}{r^2}$$
 
+The **electrical permittivity**, $\epsilon$, of a material is its resistance in creating an electric field in it, and has the units $\text{farad}\cdot\text{m}^{-1}$. Free space/a vaccum has a permittivity of $1$ and its value is known as $\epsilon_0$.
+$$k=\frac{1}{4\pi\epsilon}$$
+
+As $\epsilon$ changes depending on the medium, the constant $k$ changes as well.
+
 ### Actual electric fields
 
-Similar to a gravitational field, the force an object experiences is dependent on both charges but the **field** around an object is only reliant on one. The **field strength** $ε$ is the force per unit of charge and is equal to:
-$$\vec{ε}=\frac{F_e}{q}$$
+Similar to a gravitational field, the force an object experiences is dependent on both charges but the **field** around an object is only reliant on one. The **electric field strength** $\vec{E}$ is the force per unit of charge (with units $N\cdot C^{-1}$) on a tiny positive test charge and is equal to:
+$$\vec{E}=\frac{\vec{F_e}}{q}$$
 
 The direction of the field depends on its charge — by convention, all test charges are assumed to be **positive**, so vector arrows will point **away** from a positive source and **toward** a negative source.
+
+### Electric potential
+
+**Electric potential energy** ($E_E$) is the energy a charge in an electric field has in joules. It depends on the polarity of the charge, the magnitude of the charge, and the strength of the electric field.
+$$\Delta E_E = W = F_E\Delta x$$
+
+**Electric potential** ($V$), also known as voltage, is the potential energy a charge in an electric field has **per unit charge** in volts ($\text{V, 1 V = 1}\frac{\text{J}}{\text{C}}$). It depends only on the electric field strength.
+$$
+V=\frac{E_E}{q} \\
+\Delta V = \frac{W}{q} = \frac{\Delta E_E}{q}
+$$
+
+The **electron-volt** ($\text{eV}$) is energy required to move an electron through a potential difference of one volt ($1\text{ eV}=1.60×10^{-19}\text{ J}$).
+
+When $\Delta V=0$ the points are equipotential to each other, and no work is done moving between them. The images below outline equipotential lines — note that they are always **perpendicular** to electric field lines.
+
+<img src="/resources/images/equipotential-charge.png" width=700>(Source: Kognity)</img>
+
+<img src="/resources/images/equipotential-two-charges.png" width=700>(Source: Kognity)</img>
+
+### Uniform electric fields
+
+Electric field lines like the ones shown below show the direction that an electric field acts in.
+
+<img src="/resources/images/electric-field.png" width=500>(Source: Kognity)</img>
+
+If two charges establishing a field are parallel "plates", they form a **uniform electric field** between them, where the magnitude and direction of the electric field strength is identical at all points in the field, similar to a gravitational field.
+
+<img src="/resources/images/uniform-electric-field.png" width=700>(Source: Kognity)</img>
+
+Electric field lines never intersect and their density represents the strength of the electric field.
+
+In a uniform electric field, equations similar to the ones used in gravitational fields can be applied.
+$$
+\Delta E_E = q\vec{E}\Delta x \\
+\Delta E_E = q\Delta V \\
+\vec{E} = \frac{\Delta V}{\Delta x} \\
+$$
+
+where any deltas refer to differences between the two plates.
+
+As the electric field strength is constant, the equipotential lines in the field are also evenly distributed.
 
 ## 6.1 - Circular motion
 
