@@ -417,6 +417,9 @@ $$P\propto T$$
 The **combined gas law** is derived from the three laws above:
 $$\frac{P_1V_1}{T_1}=\frac{P_2V_2}{V_2}$$
 
+**Avogadro's law** states that the amount of a gas and its volume are proportional at a fixed temperature and pressure. This means that if **all** products and reactants are gases, volumes are related by the coefficients in a balanced chemical equation.
+$$n\propto V$$
+
 **Dalton's law of partial pressures** states that the pressure of a mixture of gases is equal to the sum of the pressures of each gas. As pressure is directly proportional to the number of particles in the gas:
 $$
 P_T = \Sigma P \\
@@ -428,7 +431,7 @@ Please see [SL Physics#Gas laws](/sph3u7/#gas-laws) for more information.
 
 ### Gas collection
 
-**STP** refers to **standard temperature and pressure**, which is at $273\text{ K}$ and $100\text{ kPa}$.
+**STP** refers to **standard temperature and pressure**, which is at $273\text{ K}$ and $100\text{ kPa}$. One mole of an ideal gas occupies $22.7\text{ dm}^3$ — this value is in the data booklet.
 
 The gas collection process is used to experimentally determine the number of moles and/or mass of a gas. By adding a gas under water, the gas displaces the water as it moves up into a measuring cylinder and its volume can be taken. Ideally, the temperature of the gas is equal to the temperature of the water, and the its pressure is equal to that of the atmosphere. Since water vapour tends to evaporate, it has to be factored out using Dalton's law of partial pressures and a chart that gives the pressure of water at a given temperature.
 $$P_T=P_{\text{H}_2\text{O}} + P_\text{gas}$$
