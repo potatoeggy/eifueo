@@ -868,7 +868,7 @@ $$\lambda_n=\frac{n}{4}L$$
 
 A **charge** is a scalar that allows a mass to experience force from an electromagnetic field, and it may only be positive or negative. It is both **quantised** — the smallest charge possible is the one on a single proton/electron and all charges are multiples of that value — and **conserved** in a closed system.
 
-Charges are expressed in **Coulombs** ($\text{C}$) with the symbol $q$. One electron has a charge of $1.60×10^{-19}\text{ C}$.
+Charges are expressed in **Coulombs** ($\text{C}$) with the symbol $q$. One electron has a charge of $-1.60×10^{-19}\text{ C}$.
 
 Similar to gravitation, the forces between charges is proportional to their charges and inversely proportional to the square of the distance between them.
 $$F_E \propto q_1q_2 \propto \frac{1}{r^2}$$
@@ -929,6 +929,24 @@ $$
 where any deltas refer to differences between the two plates.
 
 As the electric field strength is constant, the equipotential lines in the field are also evenly distributed.
+
+## 5.2 - Heating effect of electric currents
+
+!!! definition
+    A **charge carrier** is any mass that enables charges to be moved over a potential difference.
+
+Electric currents ($I$) are the flow of electrons due to a potential difference between both ends of a conductor. They are measured in **amperes** ($\text{A}$) which represent coulombs per second ($1\text{ A}=\frac{1\text{ C}}{1\text{ s}}$).
+$$I=\frac{q}{t}$$
+
+The **drift velocity** is the average velocity of electrons in a given volume.
+
+<img src="/resources/images/drift-velocity.png" width=700>(Source: Kognity)</img>
+
+As such, where $I$ is the current, $n$ is the number of electrons, $A$ is the cross-sectional area of the conductor, $q$ is the charge of one electron, and $v$ is the electron drift velocity:
+$$I=nAvq$$
+$$\Delta Q = nAv\Delta tq$$
+
+In an electric circuit, electrons flow from the negative terminal to the positive terminal — however historically current was described as from the positive to the negative terminal and so that is known as **conventional current**, opposite the direction of electron flow.
 
 ## 6.1 - Circular motion
 
