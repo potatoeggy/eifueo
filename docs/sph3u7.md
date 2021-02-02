@@ -938,6 +938,12 @@ As the electric field strength is constant, the equipotential lines in the field
 Electric currents ($I$) are the flow of electrons due to a potential difference between both ends of a conductor. They are measured in **amperes** ($\text{A}$) which represent coulombs per second ($1\text{ A}=\frac{1\text{ C}}{1\text{ s}}$).
 $$I=\frac{q}{t}$$
 
+The current of each element in series is equal.
+$$I_1=I_2=I_3$$
+
+The current of each element in parallel adds up to the total current.
+$$I_1+I_2+I_3$$
+
 The **drift velocity** is the average velocity of electrons in a given volume.
 
 <img src="/resources/images/drift-velocity.png" width=700>(Source: Kognity)</img>
@@ -946,7 +952,67 @@ As such, where $I$ is the current, $n$ is the number of electrons, $A$ is the cr
 $$I=nAvq$$
 $$\Delta Q = nAv\Delta tq$$
 
-In an electric circuit, electrons flow from the negative terminal to the positive terminal — however historically current was described as from the positive to the negative terminal and so that is known as **conventional current**, opposite the direction of electron flow.
+In an electric circuit, electrons flow from the negative terminal to the positive terminal — however historically current was described as from the positive to the negative terminal and so that is known as **conventional current**, opposite the direction of electron flow. In a cell, the **longer side** is the positive terminal while the shorter is the negative terminal, unlike a typical AA battery.
+
+The **electric power** transformed across a circuit is eqial to the potential difference across it and the current through it.
+$$P=IV$$
+
+### Resistance
+
+Resistance ($R$) is inversely proportional to current with the unit of ohms ($\Omega$).
+$$R=\frac{V}{I}$$
+
+This can be rearranged to form Ohm's law:
+$$V=IR$$
+
+The **effective** resistance of a series of resistors in series is the sum of their resistances.
+$$R_\text{eff}=\Sigma R$$
+
+The **effective** resistance of a series of resistors in parallel is the inverse of the sum of the inverse of their resistances.
+$$\frac{1}{R_\text{eff}}=\Sigma\frac{1}{R}$$
+
+A **resistor** is a conductor that limits the current that can flow through it.
+
+The **resistivity** ($\rho$) of a substance is its resistance per unit length with a unit cross-section with units $\pu{\Omega\cdot m}$. At a onstant temperature:
+$$\rho=\frac{RA}{L}$$
+
+The conductivity ($\sigma$) of a substance is the inverse of its resistivity.
+$$\sigma=\frac{1}{\rho}$$
+
+### Circuits
+
+**Electromotive force** (emf, $\epsilon$) is not a force but is the voltage gained when charges pass through a cell, representing the total electric potential energy provided to the whole circuit.
+
+All cells have **internal resistance**, which is the resistance of th cell itself. Where $P$ is the power dissipated in the cell, $I$ is the current the cell produces, and the internal resistance of the cell $r$:
+$$P=I^2r$$
+
+The voltage across the terminals of a battery is equal to, where $I_r$ is the current across the internal resistance:
+$$V_AB=\epsilon-I_r$$
+
+An **ammeter** measures the current of a load and must be in series with the load. Ideally it should have the lowest resistance possible.
+
+A **voltmeter** measures the voltage of a load and must be in parallel with the load. Ideally it should have the greatest resistance possible. If the voltmeter and load have similar resistances to an order of magnitude or two, its resistance should be considered by treating it as a load in parallel to the load.
+
+Kirchoff's **junction rule** states that the current entering a junction must be equal to the current exiting a junction.
+$$I_\text{in}=I_\text{out}$$
+
+Kirchoff's **loop rule** states that sum of the changes in potential around a closed circuit must equal zero.
+
+A **potential divider** splits the voltage across a resistor anywhere from 0 V to emf by changing its resistance by either using 2+ resistors ot by being a variable resistor.
+
+**Light-dependent resistors** (LDRs) decrease their resistance as they are exposed to greater light intensities.
+
+**Thermistors** decrease their resistance as they are exposed to greater temperatures.
+
+### Ohmic resistors
+
+An ohmic resistor (also known as an **ideal resistor** is one that follows Ohm's law at all voltages, and so results in a straight line on a V-I graph.
+
+Non-ohmic resistors exist due to the heating effect from the electric current passing through the resistor changing its resistance.
+
+<img src="/resources/images/filament-lamp-vi.png" width=700>(Source: Kognity)</img>
+
+Non-ohmic resistors may be ohmic at a certain range of voltages.
 
 ## 6.1 - Circular motion
 
