@@ -983,7 +983,7 @@ $$\sigma=\frac{1}{\rho}$$
 
 **Electromotive force** (emf, $\epsilon$) is not a force but is the voltage gained when charges pass through a cell, representing the total electric potential energy provided to the whole circuit.
 
-All cells have **internal resistance**, which is the resistance of th cell itself. Where $P$ is the power dissipated in the cell, $I$ is the current the cell produces, and the internal resistance of the cell $r$:
+All cells have **internal resistance**, which is the resistance of th cell itself. It is depicted as the resistance being in series with the electromotive force. Where $P$ is the power dissipated in the cell, $I$ is the current the cell produces, and the internal resistance of the cell $r$:
 $$P=I^2r$$
 
 The voltage across the terminals of a battery is equal to, where $I_r$ is the current across the internal resistance:
