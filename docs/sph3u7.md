@@ -899,7 +899,7 @@ V=\frac{E_E}{q} \\
 \Delta V = \frac{W}{q} = \frac{\Delta E_E}{q}
 $$
 
-The **electron-volt** ($\text{eV}$) is energy required to move an electron through a potential difference of one volt ($1\text{ eV}=1.60×10^{-19}\text{ J}$). One electron has a mass of $9.031×10^{-31}\text{ kg}$.
+The **electron-volt** ($\text{eV}$) is energy required to move an electron through a potential difference of one volt ($1\text{ eV}=1.60×10^{-19}\text{ J}$). One electron has a mass of $9.110×10^{-31}\text{ kg}$.
 
 When $\Delta V=0$ the points are equipotential to each other, and no work is done moving between them. The images below outline equipotential lines — note that they are always **perpendicular** to electric field lines.
 
