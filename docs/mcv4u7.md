@@ -56,7 +56,11 @@ $$\int f(x)dx=F(x)+C$$
 
 ### Substitution rule
 
-Similar to limit evaluation, the substitution of complex expressions involving $x$ and $dx$ with $u$ and $du$ can be done.
+Similar to limit evaluation, the substitution of complex expressions involving $x$ and $dx$ with $u$ and $du$ is generally used to work with the chain rule.
+$$
+u=g(x) \\
+\int f(g(s))\cdot g´(x)\cdot dx = \int f(u)\cdot du
+$$
 
 ??? example
     To solve $\int (x\sqrt{x-1})dx$:
