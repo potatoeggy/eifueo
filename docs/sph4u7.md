@@ -10,9 +10,16 @@ Magnets are objects with north/south dipoles that create a field around them. Al
 
 <img src="/resources/images/magnetic-field.png" width=700>(Source: Kognity)</img>
 
-Similar to electric and gravitational fields, magnetic fields are drawn by their effect on a north pole. Since magnetic poles always appear in equal magnitude pairs, all magnetic field lines for a magnet must start at its north pole and end at its south pole.
+Similar to electric and gravitational fields, magnetic fields (also known as **B-fields**) are drawn by their effect on a north pole. Since magnetic poles always appear in equal magnitude pairs, all magnetic field lines for a magnet must form closed loops from north to south **outside** and south to north **inside** the magnet. Much like electric field lines, magnetic field lines never touch
 
 <img src="/resources/images/more-magnetic-fields.png" width=700>(Source: Kognity)</img>
+
+Atoms in ferromagnetic materials are tiny magnets with **dipoles**. These dipoles act on neighbouring dipoles and can cause the whole object to align — this is known as an **electric domain**.
+
+!!! note
+    Nickel, cobalt, or any alloy with nickel, cobalt, or iron can become magnetised this way.
+
+**Unmagnetised** domains have dipoles pointing in random directions that are aligned when exposed to a magnetic field where they become **magnetised** domains. As such, bar magnets are always broken into smaller magnets, each with two poles — a monopole is impossible to create.
 
 ### Straight-line electromagnets
 
