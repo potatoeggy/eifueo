@@ -59,7 +59,7 @@ $$\int f(x)dx=F(x)+C$$
 Similar to limit evaluation, the substitution of complex expressions involving $x$ and $dx$ with $u$ and $du$ is generally used to work with the chain rule.
 $$
 u=g(x) \\
-\int f(g(s))\cdot g´(x)\cdot dx = \int f(u)\cdot du
+\int f(g(x))\cdot g´(x)\cdot dx = \int f(u)\cdot du
 $$
 
 ??? example
@@ -75,6 +75,43 @@ $$
     &= \frac{2}{5}(x-1)^\frac{5}{2} + \frac{2}{3}(x-1)^\frac{3}{2} + C
     \end{align*}
     $$
+
+### Definite integration
+
+To find a numerical value of the area under the curve in the bounded interval $[a,b]$, the **definite** integral can be taken.
+$$\int^b_a f(x)dx$$
+
+$a$ and $b$ are known as the lower and upper **limits of integration**, respectively.
+
+<img src="/resources/images/integration.png" width=700>(Source; Kognity)</img>
+
+Regions **under** the x-axis are treated as negative while those above are positive, cancelling each other out, so the definite integral finds something like the net area over an interval.
+
+If $f(x)$ is continuous at $[a,b]$ and $F(x)$ is the anti-derivative, the definite integral is equal to:
+$$\int^b_a f(x)dx=F(x)\biggr]^b_a=F(b)-F(a)$$
+
+As such, it can be evaluated manually by integrating the function and subtracting the two anti-derivatives.
+
+!!! warning
+    If $u$-substitution is used, the limits of integration must be adjusted accordingly.
+
+To find the total **area** enclosed between the x-axis, $x=a$, $x=b$, and $f(x)$, the function needs to be split at each x-intercept and the absolute value of each definite integral in those intervals summed.
+$$A=\int^b_a \big|f(x)\big| dx$$
+
+### Properties of definite integration
+
+The following rules only apply while $f(x)$ and $g(x)$ are continuous in the interval $[a,b]$ and $c$ is a constant.
+
+$$
+\begin{align*}
+&\int^a_a f(x)dx&=&&0 \\
+&\int^b_a c\cdot dx&=&&c(b-a) \\
+&\int^b_a f(x)dx&=&&-\int^b_a f(x)dx \\
+&\int^c_a f(x)dx&=&&\int^b_a f(x)dx + \int^c_b f(x)dx
+\end{align*}
+$$
+
+The **constant multiple** and **sum** rules still apply.
 
 ## Resources
 
