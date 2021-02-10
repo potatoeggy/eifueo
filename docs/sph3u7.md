@@ -987,7 +987,10 @@ All cells have **internal resistance**, which is the resistance of th cell itsel
 $$P=I^2r$$
 
 The voltage across the terminals of a battery is equal to, where $I_r$ is the current across the internal resistance:
-$$V_AB=\epsilon-I_r$$
+$$V_{AB}=\epsilon-I_r$$
+
+The total voltage (emf) of a circuit can be found with Ohm's law:
+$$\epsilon=I(R+r)$$
 
 An **ammeter** measures the current of a load and must be in series with the load. Ideally it should have the lowest resistance possible.
 
