@@ -43,6 +43,34 @@ The right-hand rule can be applied again to a selenoid to identify the direction
 
 <img src="/resources/images/selenoid-right-hand-rule.png" width=700>(Source: Kognity)</img>
 
+### Properties of moving charges
+
+As only moving electric charges generate magnetic fields, stationary electric charges are **unaffected** by external magnetic fields. Moving charges are affected by Newton's third law of motion — equal and opposite forces are exerted on the charge and the magnet. As such, where $q$ is the charge of the particle and $\vec{v}\times \vec{B}$ is the **cross product** (vector multiplication) of the velocity of the particle and the magnetic field strength in Teslas:
+$$\vec{F_m}=q\vec{v}\times \vec{B}$$
+
+**Magnetic field strength** ($B$) represents the force acting per unit current in a conductor of unit length perpendicular to the field with the unit Tesla ($\pu{T}$)
+
+The **magnetic force** is always plane **perpendicular** to both $\vec{v}$ and $\vec{B}$. Just the magnitude of the force can be found by using the angle between the two vectors ($\theta$):
+$$|F_m|=qvB\sin\theta$$
+
+Regardless of $\theta$, the force vector is always perpendicular to both $B$ and $v$,
+
+The above equation can be rearranged to find **electromagnetic** force in terms of current and wire length in a **uniform magnetic field**:
+$$|F_em|=BIL\sin\theta$$
+
+<img src="/resources/images/magnet-on-wire.png" width=700>(Source: Kognity</img>
+
+The **right-hand-rule** can be used to determine the direction of force — the thumb points in the direction of current/velocity, the fingers point in the direction of the magnetic field, and the palm points in the direction of force. Alternatively, just three fingers can be used.
+
+<img src="/resources/images/right-hand-rule-forces.png" width=700>(Source: Kognity)</img>
+
+When two straight-line conductors with current flowing through them are brought together, they either mutually attract or repel. The ampere is defined based on the current required to flow through a scenario involving two parallel straight-line conductors.
+
+<img src="/resources/images/parallel-current-conductors.png" width=700>(Source: Kognity)</img>
+
+Inside a **uniform magnetic field**, charges move in **uniform circular motion** at a constant velocity. If the particle did not enter the field at a perfect right angle, some of the velocity is used to change the path of the particle to be in a spiral — still perfectly circular, but additionally moving in the third dimension perpendicular to the circle.
+$$\Sigma F_c = F_m$$
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
