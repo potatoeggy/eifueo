@@ -1001,7 +1001,7 @@ $$I_\text{in}=I_\text{out}$$
 
 Kirchoff's **loop rule** states that sum of the changes in potential around a closed circuit must equal zero.
 
-A **potential divider** splits the voltage across a resistor anywhere from 0 V to emf by changing its resistance by either using 2+ resistors ot by being a variable resistor.
+A **potential divider** splits the voltage across a resistor anywhere from 0 V to emf by changing its resistance by either using 2+ resistors or by being a variable resistor.
 
 **Light-dependent resistors** (LDRs) decrease their resistance as they are exposed to greater light intensities.
 
