@@ -20,4 +20,22 @@ Knowledge **questions** are questions that examine or engage with knowledge clai
 !!! example
    Is our knowledge in mathematics more certain than that of science?
 
+## Knowledge themes and areas
+
+The main areas of knowledge are:
+
+ - History
+ - Human sciences
+ - Natural sciences
+ - Mathematics
+ - Arts
+
+The main themes of knowledge are:
+
+ - Knowledge and technology
+ - Knowledge and language
+ - Knowledge and politics
+ - Knowledge and religion
+ - Knowledge and indigenous studies
+
 ## Resources
