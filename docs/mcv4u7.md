@@ -113,6 +113,13 @@ $$
 
 The **constant multiple** and **sum** rules still apply.
 
+### Area between two curves
+
+To find the area enclosed between two curves, the graph should be sketched if possible and their points of intersection determined to identify which parts of each function are on top of the other at any given time. An interval chart may be helpful. For each section, where $f(x)$ is always greater than $g(x)$ in the interval $[a,b]$:
+$$A=\int^b_a [f(x)-g(x)]dx, f(x)\geq g(x)\text{ in } [a,b]$$
+
+If the limits of integration are not given, they are the outermost points of intersection of the two curves.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
