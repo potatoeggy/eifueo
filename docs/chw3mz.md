@@ -16,7 +16,18 @@ The following terms are regularly used by IB and have specific meanings:
 
 ## Historiography
 
-Historiography is the study of how history is developed and how historians have viewed history. It helps develop the ability to view events from multiple perspectives and reveals how others might view events in multiple perspectives.
+Historiography is the study of how history is developed and how historians have viewed history. It helps develop the ability to view events from multiple perspectives and reveals how others might view events in multiple perspectives. The **historical method** outlines the process of making history from start to finish:
+
+ - **Questions are asked** about any of the following:
+	- major/minor long-/short-term **causes** of an event
+	- the **nature** of an event — the purpose of the event, the status of the event
+	- the immediate/long-term/short-term **impacts** of an event
+	- the **ethics** of an event
+	- a hypothetical **counterfactual** version of an event
+ - **Data is collected** to help answer the questions
+ - **Data is analysed** to identify patterns and trends via statistics, make judgements using OPCVL, and make comparisons of the main message (content) and PERMS (political, economical, religious, military, social)
+ - **Arguments are created** with a thesis and critical analyses per argument
+ - and the **findings are communicated** via any means, including essays, opinion paragraphs, debates, presentations, music, etc.
 
 ### Lenses
 
@@ -28,7 +39,7 @@ There are seven main schools of thought historians usually fall under that attem
  - The **Marxist** lens states that class conflict creates history. This school focuses on the exploiter and the exploitee and how their conflicts create history.
  - The **Toynbee** lens states that the response of people to crisis creates history.
  - The **post-modern** lens states that history reflects the time period it was written in and the intent of the author. This school asserts that there is no historical truth and focuses on how history is shaped and manipulated to serve the agendas and needs of various civilisations.
- - The **social history** lens states that history should reflect the experience of everyone equally. This school particularly focuses on the treatment of and lives of those often overlooked in historical accounts.
+ - The **social history** lens states that history should reflect the experience of everyone equally. This school particularly focuses on the treatment of and lives of those often overlooked in historical accounts, such as women and visible minorities.
 
 ### Data collection
 
