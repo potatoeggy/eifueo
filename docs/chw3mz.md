@@ -99,7 +99,7 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
  - A fallacy of **accident** wrongly applies a general rule to a specific exception.
     - e.g., *Since surgeons cut people with knives and cutting people with knives is a crime, surgeons are criminals.*
  - An argument that **begs the question** has circular reasoning by having premises that assume its conclusion.
-    - e.g., *Acid eats through your skin because it is corrosive.*
+    - e.g., *Acid must be able to eat through your skin because it is corrosive.*
  - **Cherry picking** occurs evidence that supports the conclusion is pointed out while those that contradict the conclusion are ignored or withheld.
     - e.g., *"Look at these perfect cherries — their tree must be in perfect condition!"*
  - A fallacy of **converse accident** wrongly applies a specific exception to a general rule.
@@ -112,6 +112,8 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
     - e.g., *Since the first seven odd numbers are prime or square, all prime numbers must be prime or square.*
  - Arguments that **miss the point** provide an irrelevant conclusion that fails to address the issue of the question.
     - e.g., *"Is it allowed?" "It should be allowed because it's nowhere near as bad as alcohol."*
+ - A **non sequitur** is an invalid argument that does not follow the laws of thought.
+    - e.g., *All humans are mammals. Whales are mammals. Therefore, whales are humans.*
  - A **no true Scotsman** (appeal to purity) fallacy takes a generalisation and doubles down to protect it by excluding counterexamples typically via emotionally charged language.
     - e.g., *"Although your father is a Scotsman and dances, no* true *Scotsman would dance."*
  - Arguments with **recency bias** put greater importance on recent data over historic data.
