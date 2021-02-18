@@ -120,6 +120,19 @@ $$A=\int^b_a [f(x)-g(x)]dx, f(x)\geq g(x)\text{ in } [a,b]$$
 
 If the limits of integration are not given, they are the outermost points of intersection of the two curves.
 
+### Volumes of solids of revolution
+
+Shapes formed by rotating a line or curve about a fixed axis, such as cones, spheres, and cylinders are all known as **solids of revolution**. By splicing each shape into infinitely small disks, the cylinder volume formula can be used to find the volume of the solid.
+$$
+\begin{align*}
+V&=\lim_{x\to 0}\sum^b_{x=a}\pi y^2 dx \\
+&=\int^b_a y^2 dx
+\end{align*}
+$$
+
+The area between two curves can also be rotated to form a solid, in which case its formula is:
+$$V=\pi\int^b_a \big[g(x)^2-f(x)^2\big]dx, g(x)>f(x)$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
