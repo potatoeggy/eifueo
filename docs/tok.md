@@ -39,3 +39,5 @@ The main themes of knowledge are:
  - Knowledge and indigenous studies
 
 ## Resources
+
+ - [External: TOK 2022](https://tok2022.weebly.com)
