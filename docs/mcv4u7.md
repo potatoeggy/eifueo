@@ -106,7 +106,7 @@ $$
 \begin{align*}
 &\int^a_a f(x)dx&=&&0 \\
 &\int^b_a c\cdot dx&=&&c(b-a) \\
-&\int^b_a f(x)dx&=&&-\int^b_a f(x)dx \\
+&\int^a_b f(x)dx&=&&-\int^b_a f(x)dx \\
 &\int^c_a f(x)dx&=&&\int^b_a f(x)dx + \int^c_b f(x)dx
 \end{align*}
 $$
