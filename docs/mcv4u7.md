@@ -126,7 +126,7 @@ Shapes formed by rotating a line or curve about a fixed axis, such as cones, sph
 $$
 \begin{align*}
 V&=\lim_{x\to 0}\sum^b_{x=a}\pi y^2 dx \\
-&=\int^b_a y^2 dx
+&=\pi\int^b_a y^2 dx
 \end{align*}
 $$
 
