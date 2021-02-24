@@ -140,4 +140,5 @@ $$V=\pi\int^b_a \big[g(x)^2-f(x)^2\big]dx, g(x)>f(x)$$
  - [Textbook: Calculus and Vectors 12](/resources/g11/calculus-vectors-textbook.pdf)
  - [Textbook: Oxford SL Mathematics](/resources/g11/textbook-oxford-math.pdf)
  - [Course Pack Unit 1: Integration](/resources/g11/s2cp1.pdf)
+ - [Course Pack Unit 2: Probability](/resources/g11/s2cp2.pdf)
  - [TI-84 Plus Calculator Guide](/resources/g11/ti-84-plus.pdf)
