@@ -109,7 +109,7 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
  - Arguments with a **false cause** incorrectly assume a cause to an effect.
     - e.g., imagining correlation implies causation.
  - **Hasty generalisations** appear in inductive generalisations based on insufficient evidence.
-    - e.g., *Since the first seven odd numbers are prime or square, all prime numbers must be prime or square.*
+    - e.g., *Since the first seven odd numbers are prime or square, all odd numbers must be prime or square.*
  - Arguments that **miss the point** provide an irrelevant conclusion that fails to address the issue of the question.
     - e.g., *"Is it allowed?" "It should be allowed because it's nowhere near as bad as alcohol."*
  - A **non sequitur** is an invalid argument that does not follow the laws of thought.
