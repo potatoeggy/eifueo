@@ -34,7 +34,7 @@ Historiography is the study of how history is developed and how historians have 
 There are seven main schools of thought historians usually fall under that attempt to explain why history happens.
 
  - The **great people** lens states that individually great people create changes — without those individuals history would be drastically altered. This school focuses on their individual motivations, relationships, etc.
- - The **structuralist** lens states that changes in economic structures, technology, ideology, and social norms create history. This school focuses
+ - The **structuralist** lens states that changes in economic structures, technology, ideology, and social norms create history.
  - The **decisionist** lens states that the decisions of people change history.
  - The **Marxist** lens states that class conflict creates history. This school focuses on the exploiter and the exploitee and how their conflicts create history.
  - The **Toynbee** lens states that the response of people to crisis creates history.
