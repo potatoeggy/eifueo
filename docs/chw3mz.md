@@ -61,16 +61,16 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
     - A **sound** argument is of valid form and has a true premise.
     - An **argument** is a simple statement or disagreement that attempts to reach a conclusion by proving something true with evidence. Good arguments are sound, valid, clear, and avoids hasty conclusions.
 
-**Aristotle** laid the foundations for the principles of formal logic and laid three laws of thought.
+**Aristotle** laid the foundations for the principles of formal logic via the three laws of thought.
 
  - **Law of identity**: everything is identical with itself.
  - **Law of noncontradiction**: contradictory statements cannot both be true.
  - **Law of excluded middle**: any proposition must either be true or false.
 
 !!! example
- - Identity: A football is a football.
- - Noncontradiction: If water and oil do not mix, and substance A mixes in water, it must not be oil.
- - Excluded middle: The Nintendo Switch must either be or not be a potato.
+    - Identity: A football is a football.
+    - Noncontradiction: If water and oil do not mix, and substance A mixes in water, it must not be oil.
+    - Excluded middle: The Nintendo Switch must either be or not be a potato.
 
 **Deductive** arguments connect a general statement to a more specific statement based on laws, rules, and/or widely accepted principles.
 
