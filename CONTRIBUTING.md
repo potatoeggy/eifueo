@@ -25,8 +25,6 @@ Tables must contain exactly one space between content and the vertical bars.
 
 Lists must use hyphens with a space before and after. There should be newlines before and after lists.
 
-```
-
 There should be a newline before and after headings, except for headings that start a file. There should also be a space after a heading number sign.
 
 ```
