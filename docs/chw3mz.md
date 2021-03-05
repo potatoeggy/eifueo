@@ -127,5 +127,5 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
 
  - [IB History Syllabus](/resources/g11/ib-history-syllabus.pdf)
  - [Textbook: Origins and Development of Authoritarian and Single-Party States](/resources/g11/textbook-authoritarian-states.pdf)
- - [Textbook: Causes and Effects of 20th-Century Wars](/resources/g11/textbook-cause-20-century-wars.pdf)
+ - [Textbook: Causes and Effects of 20th-Century Wars, Second Edition ](/resources/g11/textbook-cause-20-century-wars.pdf)
  - [Textbook: The Move to Global War](/resources/g11/textbook-move-global-war.pdf)
