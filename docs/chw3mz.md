@@ -123,6 +123,87 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
  - A **straw man** argument misrepresents the opposing position by making their arguments sound more extreme.
     - e.g., *"We should relax laws on immigration." "The instant we let millions of people through our border is when our country falls."*
 
+## Causes of the Chinese Civil War
+
+### Decline of the Manchu Qing Dynasty
+**— Long-term structural political**
+
+TODO: remove this bit: there is an admonition or something for context
+
+In the Qing dynasty, from 1861 to 1908, Empress **Cixi** ruled China as an autocrat. Corruption was rampant in Beijing and officials could not control warlords in remote regions. Under Cixi, China became weak and was easily influenced by foreign powers.
+
+### Foreign domination
+**— Long-term structural political**
+
+The influence of foreign powers increased outrage among citizens at the inability of the government to do things and led to greater internal dissent.
+
+The **opium wars** starting from 1839 were two armed conflicts in China between Western powers and the Qing dynasty. Both were won easily by the West due to their superior, more modern military technology. This resulted in China signing a series of what came to be known as "**unfair treaties**" starting with the Treaty of Nanjing in 1842, which ended the First Opium War and gave Hong Kong to Britain "in perpetuity" among other trading concessions.
+
+The **First Sino-Japanese War** (also known as the War or Jiawu) in 1894–1895 also resulted in Japan's easy victory due to obsolete Chinese military technology.
+
+!!! example
+    During the First Sino-Japanese War, Cixi took military money and spent it on palace renovations, demonstrating the corruption in and ineffectiveness of the regime.
+
+### Outdated agricultural practices and limited industrial development
+**— Long-term structural economic**
+
+!!! context
+    In 1900, Japan and the United States were major industrial powers and both were steadily modernising.
+
+China's rulers believed that Westerners were barbarians and that nothing could be learned from industrialisation. This contributed to their weak military strength as they fell further behind other countries.
+
+!!! example
+    By 1914, only ~6 000 km of rail was laid in China while the US had laid ~225 000 km.
+
+Additionally, the population boom meant that demand for food increased but outdated agricultural practices and technologies could not keep up, resulting in famine.
+
+### Tradition and class structure
+**— Long-term structural social**
+
+China operated under a **patriarchy** and had traditions and practices which were thought to be even at the time to be cruel and outdated especially for women.
+
+!!! example
+    The life expectancy of a city in China (Shenyang, Daoyi) from 1792 to 1867 was less than 40 years for men and about 30 for women.
+
+**Submission to the Qing dynasty** was traditional as well — the Chinese could not marry Manchus nor live in Manchuria.
+
+!!! example
+    Men were required to wear a queue (a long pigtail behind a shaven forehead) to show subservience to the Manchu Empire.
+
+The **class structure** in China did not change for hundreds of years and old traditions and practices persisted into the 1900s.
+
+ - The land peasants worked on belonged to local landlords.
+ - 80% of the population remained peasants.
+ - Landlords took a large amount of crops as rent and the government also took a large portion as taxes.
+ - The burdens from landlords and the government were compounded with natural disasters such as floods and droughts, resulting in famine.
+ - Landlords could taken peasant women as they wished, force peasants to perform extra duties, and beat them if they were questioned.
+
+### Internal dissent
+**— Long-term structural political**
+
+Taiping civil war
+
+boxer rebellion
+
+### Introduction of progressive ideas and rise of revolutionaries
+
+Sun Yixian
+
+### 1911 revolution
+
+failure of revolution
+aftermath of revolution
+
+### Warlords
+**— Short-term**
+
+warlords
+
+### Rise of revolutionaries 2: electric boogaloo
+**— Short-term**
+
+first united front
+
 ## Resources
 
  - [IB History Syllabus](/resources/g11/ib-history-syllabus.pdf)
