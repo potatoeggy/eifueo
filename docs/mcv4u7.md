@@ -133,6 +133,53 @@ $$
 The area between two curves can also be rotated to form a solid, in which case its formula is:
 $$V=\pi\int^b_a \big[g(x)^2-f(x)^2\big]dx, g(x)>f(x)$$
 
+## Probability
+
+!!! definition
+    - $\cap$ is the **intersection sign** and means "and".
+    - $\cup$ is the **union sign** and means "or".
+    - $\subset$ is the **subset sign** and indicates that the value on the left is a subset of the value on the right.
+    - The **sample space** of an experiment is a list/set of all of the possible outcomes.
+    - An **event** is a subset of a sample space that contains outcomes that meet a particular requirement.
+
+### Sets
+
+A **set** is a collection of things represented with curly brackets that can be assigned to a variable.
+
+!!! example
+    $A=\{0,1,2\}$ assigns the variable $A$ to a collection of numbers $0, 1, 2$.
+
+The variable $U$ is usually reserved for the **universal set**: a set that contains all of the elements under discussion for a particular situation.
+
+Where both $A$ and $B$ are sets:
+
+ - $A\cap B$ returns a new set with only objects that belong to both $A$ **and** $B$.
+ - $A\cup B$ returns a new set with only objects that are inclusively in either $A$ **or** $B$.
+ - $A\subset B$ is true only if all of the elements in $A$ are also in $B$.
+ - $A'$ or $A^c$ return the **complement** of a set: they return all elements in the universal set that are **not** in $A$.
+ - $n(A)$ returns the number of elements in set $A$.
+
+An empty/**null** set contains no objects and is represented either as $\{\}$ or $\emptyset$.
+
+Two sets are **disjoint** or **distinct** if they have no common elements between them.
+
+!!! warning
+    Generally, unless specified otherwise, "between" should be inferred to mean "inclusively between".
+
+### Probability rules
+
+The probability of an event is represented by $P(A)$, where $A$ is the event.
+$$P(A)=\frac{n(A)}{n(U)}$$
+
+As event $A$ must be a subset of all possible outcomes $U$, where $1$ indicates that the event always happens and $0$ the opposite:
+$$0\leq P(A)\leq 1$$
+
+The complement of **event A** is the probability that it does not happen. It is written as $A^c$, $A'$, or $\pu{not } A$.
+$$P(A')=1-P(A)$$
+
+Events $A$ and $B$ are disjoint if no outcomes between them are common and can never happen simultaneously. As such the probability of one of the events happening is equal to their sum.
+$$P(A\cup B)=P(A)+P(B)$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
