@@ -71,6 +71,117 @@ When two straight-line conductors with current flowing through them are brought 
 Inside a **uniform magnetic field**, charges move in **uniform circular motion** at a constant velocity. If the particle did not enter the field at a perfect right angle, some of the velocity is used to change the path of the particle to be in a spiral — still perfectly circular, but additionally moving in the third dimension perpendicular to the circle.
 $$\Sigma F_c = F_m$$
 
+## Atomic, nuclear, and particle  physics
+
+### Atomic structure
+
+!!! definition
+    - A **photon** is a particle that represents light.
+    - A **nucleon** is a subatomic particle in an atomic nucleus — that is, a proton or neutron.
+    - A **nuclide** is a nucleus with a specific number of protons and neutrons.
+
+Please see [HL Chemistry#2.1 - Atoms](/sch3uz/#21-atoms) and [HL Chemistry 1#2.2 - Electrons in atoms](/sch3uz/#22-electrons-in-atoms) for more information.
+
+An electron in an atom will only become excited if a photon of exactly the right amount of energy strikes it. That energy can be found using the formula:
+$$\Delta E=hf$$
+
+where $E$ is the energy of the photon at frequency $f$, and $h$ is Planck's constant ($\pu{6.63\times 10^{-34} Js}$ or $\pu{4.14\times10^{-16} eVs}$).
+
+An electron that de-excites will emit a photon of that exact energy and thus frequency to return to its previous state.
+
+### Binding energy
+
+According to Einstein's theory of special relativity:
+$$\Delta E=\Delta mc^2$$
+
+**Neutrons** in the nucleus hold the protons together via **strong nuclear forces** that somewhat act like glue. An increase in neutrons increases the strong nuclear force. In smaller nuclei, $N=Z$, but in larger nuclei, $N>Z$ as more neutrons are required to keep the nucleus stable as the number of protons increases.
+
+The mass of a stable nucleus is always less than the sum of the masses of the individual nucleons (the **mass defect**) as some of the mass is converted to energy during the formation of a nucleus. The energy used is known as the **binding energy** of a nucleus.
+$$E_\pu{binding} = \pu{mass defect}\times c^2$$
+
+As such, the binding energy of a nucleus is also the energy required to separate it completely into individual nucleons.
+
+Atomic mass is measured relative to the mass of a carbon-12 atom, which is exactly 12 u (unified atomic mass units).
+$$\pu{1 u}=\pu{1.661\times10^{-27} kg}=\pu{9.315 MeVc^-2}$$
+
+A higher **binding energy per nucleon** results in more energy required to break it apart and thus it being more stable.
+
+<img src="/resources/g11/binding-energy-curve.png" width=700>(Source: Kognity)</img>
+
+!!! note
+    It is required to know the general shape of the curve, that $\pu{~8.8 MeV}$ is the maximum, and that the end boundaries are $0$ and $\pu{~7.5 MeV}$. It is also required to know the elements at each of those points (hydrogen-1, iron-56/nickel-62, and uranium-238).
+
+Since a greater binding energy per nucleon is more energetically favourable, nuclei to the right of iron-56 fission (split) while those to the left fuse (combine) to release energy — changes that would increase binding energy per nucleon are likely to occur because of this.
+
+### Radioactive decay
+
+!!! definition
+    - An **alpha particle** is a helium-4 nucleus (2 protons, 2 neutrons).
+    - A **beta particle** is an electron.
+    - A **gamma ray** is a photon.
+
+Radioactivity is the emission of **ionising** (will make ions) radiation due to changes of a nucleus. It is **random** and spontaneous — it is unaffected by external factors such as other nuclei decaying.
+
+**Nuclear equations** are similar to chemical equations but show how nuclei change in a nuclear process by tracking the atomic and mass numbers. A nuclear equation is balanced so that the sum of the atomic and the sum of the mass numbers on both sides are equal.
+
+$$A\to B+C$$
+
+**Alpha decay** occurs when the strong nuclear force is unable to hold a large nucleus together and emits an alpha particle. The alpha particle is positive and can barely penetrate paper. The two particles move in opposite directions with momentums equal in magnitude.
+
+<img src="/resources/images/alpha-decay.png" width=700>(Source: Kognity)</img>
+
+$$\ce{^A_Z N → ^{A-4}_{Z-2} N' + ^4_2 He}$$
+
+$\ce{^4_2 He}$ may be replaced by $\alpha$.
+
+!!! example
+    Radium-226 alpha decays to radon-222.
+
+**Beta-minus decay** ($\beta^-$) occurs when a neutron decays into a proton and releases a beta-minus particle (an electron and an electron antineutrino). It can penetrate up to 3 mm of aluminum. Where $\overline{v}_e$ is the antineutrino:
+
+<img src="/resources/images/beta-minus-decay.png" width=700>(Source: Kognity)</img>
+
+$$\ce{^1_0n → ^1_1p + ^0_{-1}e + ^0_0\overline{v}_e}$$
+
+!!! note
+    The bar over the electron antineutrino identifies it as an **antiparticle**.
+
+The beta-minus particle can be written explicitly over the electron as $^0_{-1}\beta$.
+
+In terms of the mother nucleus, the reaction results in the mass number staying the same while the atomic number increases by one.
+
+**Beta-plus decay** ($\beta^+$) occurs when a proton decays into a neutron and releases a **positron** (an antielectron with a positive charge) and an electron neutrino ($v_e$)
+$$\ce{^1_1p → ^1_0n + ^0_1e + ^0_0v_e}$$
+
+The positron can be written as a beta-plus particle as $^0_1\beta$.
+
+In terms of the mother nucleus, the reaction results in the mass number staying the same while the atomic number decreases by one. 
+
+**Gamma decay** occurs when an excited nucleus transfers its energy to a high-energy photon with frequencies in the gamma region of the electromagnetic spectrum. There is no change in mass nor atomic number. A nuclide with an asterisk $*$ indicates it as excited. This emits *ionising radiation* which is not good for living beings.
+
+<img src="/resources/images/gamma-decay.png" width=700>(Source: Kognity)</img>
+
+$$\ce{^A_ZX^* → ^A_ZX + ^0_0\gamma}$$
+
+### Detecting radiation
+
+As radiation cannot be seen, it must be detected experimentally.
+
+A **Geiger counter** utilises a gas-filled tube with a wire in the centre at high voltage. When a charged particle passes through, gas is ionised which cascade onto the wire to produce a pulse.
+
+A **cloud chamber** contains vapour that turns into liquid droplets when ionising particles pass though, resulting in visible lines showing the path of the particles. A magnetic field can spiral the particle in a certain direction which allows for its charge to be identified.
+
+### Half-life
+
+The **half-life** of an element is the time required for half of the nuclides in a sample to decay — it is always the same no matter the number of initial nuclides.
+
+As such, this means that the number of parent nuclei decreases by 50% of its current value each half-life.
+
+<img src="/resources/images/half-life.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    **Radioactive dating** analyses the ratio between carbon-14 and carbon-12 to determine the age of plant nmatter. As the ratio of C-14 and C-12 in the atmosphere has been relatively comstant, living plants maintain that balance by constantly exchanging carbon. Dead plants' carbon-14 slowly decay at a known rate, so the ratio can be used to determine the time since the plant died.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
