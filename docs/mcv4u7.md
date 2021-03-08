@@ -174,11 +174,20 @@ $$P(A)=\frac{n(A)}{n(U)}$$
 As event $A$ must be a subset of all possible outcomes $U$, where $1$ indicates that the event always happens and $0$ the opposite:
 $$0\leq P(A)\leq 1$$
 
-The complement of **event A** is the probability that it does not happen. It is written as $A^c$, $A'$, or $\pu{not } A$.
+The **complement** of event $A$ is the probability that it does not happen. It is written as $A^c$, $A'$, or $\pu{not } A$.
 $$P(A')=1-P(A)$$
 
-Events $A$ and $B$ are disjoint if no outcomes between them are common and can never happen simultaneously. As such the probability of one of the events happening is equal to their sum.
-$$P(A\cup B)=P(A)+P(B)$$
+Events $A$ and $B$ are **disjoint** or mutually exclusive if no outcomes between them are common and can never happen simultaneously. As such the probability of one of the events happening is equal to their sum.
+$$
+P(A\cup B)=P(A)+P(B) \\
+P(A\cap B)=0
+$$
+
+Events $A$ and $B$ are **exhaustive** if their union includes all possible outcomes in the sample space: $A\cup B=U$.
+$$P(A\cup B)=1$$
+
+The **principle of inclusion and exclusion** forms a general rule for the union between two sets:
+$$P(A\cup B)=P(A)+P(B)-P(A\cap B)$$
 
 ## Resources
 
