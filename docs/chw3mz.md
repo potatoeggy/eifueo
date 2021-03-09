@@ -130,7 +130,7 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
 
 In the Qing dynasty, from 1861 to 1908, Empress **Cixi** ruled China as an autocrat. Corruption was rampant in Beijing and officials could not control warlords in remote regions. Under Cixi, China became weak and was easily influenced by foreign powers.
 
-### Foreign domination
+### Foreign involvement
 **— Long-term structural political**
 
 The influence of foreign powers increased outrage among citizens at the inability of the government to do things and led to greater internal dissent.
