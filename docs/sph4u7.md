@@ -214,6 +214,25 @@ Nuclear power is superior to other types of energy generation in that:
  - there are large reserves of nuclear fuel on Earth
  - there are no greenhouse gases emitted to generate power
 
+Nuclear power has the following issues in that:
+
+ - waste is highly radioactive with long half-lives, rendering removal and storage of nuclear waste a major issue
+ - initial startup costs are expensive
+ - strict maintenance is required due to the risk of nuclear meltdown
+ - fissionable fuel can be recovered and used for destructive weapons
+ - mining uranium is unhealthy — miners are exposed to harmful radiation and waste material from mines deemed not pure enough is not easy to dispose
+
+### Nuclear fusion
+
+Nuclear fusion generates energy per unit mass an order of magnitude greater than can be achieved with fission. The sun takes hydrogen and fuses it into helium. Heavier stars can fuse elements up to iron-56.
+$$\ce{4 ^1_1 H → ^4_2 He + 2 e^+ + 2 v_e + 2\gamma}$$
+
+Nuclear fusion power has the following issues in that it is currently unsustainable for more than a few secondsbecause:
+
+ - the temperature required for the reaction is greater than 100 million degrees Celsius
+ - it requires more energy input to heat the sample than is obtained from the fusion reaction
+ - materials currently known cannot withstand the temperature making containment difficult — currently magnetic fields are used to hold the particles in place
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
