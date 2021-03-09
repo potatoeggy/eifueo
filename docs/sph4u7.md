@@ -106,7 +106,7 @@ $$\pu{1 u}=\pu{1.661\times10^{-27} kg}=\pu{9.315 MeVc^-2}$$
 
 A higher **binding energy per nucleon** results in more energy required to break it apart and thus it being more stable.
 
-<img src="/resources/g11/binding-energy-curve.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/binding-energy-curve.png" width=700>(Source: Kognity)</img>
 
 !!! note
     It is required to know the general shape of the curve, that $\pu{~8.8 MeV}$ is the maximum, and that the end boundaries are $0$ and $\pu{~7.5 MeV}$. It is also required to know the elements at each of those points (hydrogen-1, iron-56/nickel-62, and uranium-238).
