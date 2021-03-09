@@ -186,8 +186,16 @@ $$
 Events $A$ and $B$ are **exhaustive** if their union includes all possible outcomes in the sample space: $A\cup B=U$.
 $$P(A\cup B)=1$$
 
-The **principle of inclusion and exclusion** forms a general rule for the union between two sets:
+The **principle of inclusion and exclusion** forms a general rule for the union between two *independent* events:
 $$P(A\cup B)=P(A)+P(B)-P(A\cap B)$$
+
+### Conditional probability
+
+A vertical bar is used between two events to denote that the event on the left occurs knowing that the right has already occurred.
+$$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
+
+!!! example
+    $P(A|B)$ is the probability of event $A$ given $B$ has occurred.
 
 ## Resources
 
