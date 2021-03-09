@@ -128,8 +128,6 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
 ### Decline of the Manchu Qing Dynasty
 **— Long-term structural political**
 
-TODO: remove this bit: there is an admonition or something for context
-
 In the Qing dynasty, from 1861 to 1908, Empress **Cixi** ruled China as an autocrat. Corruption was rampant in Beijing and officials could not control warlords in remote regions. Under Cixi, China became weak and was easily influenced by foreign powers.
 
 ### Foreign domination
@@ -155,7 +153,7 @@ China's rulers believed that Westerners were barbarians and that nothing could b
 !!! example
     By 1914, only ~6 000 km of rail was laid in China while the US had laid ~225 000 km.
 
-Additionally, the population boom meant that demand for food increased but outdated agricultural practices and technologies could not keep up, resulting in famine.
+Additionally, the population boom meant that demand for food increased, but outdated agricultural practices and technologies could not keep up, resulting in famine.
 
 ### Tradition and class structure
 **— Long-term structural social**
@@ -181,9 +179,12 @@ The **class structure** in China did not change for hundreds of years and old tr
 ### Internal dissent
 **— Long-term structural political**
 
-Taiping civil war
+The **Taiping Civil War** from 1850 to 1864 was one of the bloodiest wars ever and the largest conflict of the 19th century. Anti-Manchurian sentiment was high as the people did not like that the Qing dynasty was ruled not by themselves. At the time, they could not marry Manchus, could not settle in Manchuria, and men were required to wear queues as a reminder of submission to Qing rule.
 
-boxer rebellion
+The **Boxer Rebellion** from 1899 to 1901 was caused by an organisation known as the Boxers (due to many of their members practising Chinese martial arts) desiring an end to foreign control in China. To do so, they violenced across northern China targeting foreign property, Christian missionaries, and Chinese Christians. Although initially supported by Cixi, support was split in the country and eventually she accepted help from foreign armies to end the rebellion.
+
+!!! example
+    The slogan of the Boxers was to "support the Qing government and exterminate foreigners".
 
 ### Introduction of progressive ideas and rise of revolutionaries
 
