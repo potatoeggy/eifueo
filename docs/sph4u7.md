@@ -71,7 +71,7 @@ When two straight-line conductors with current flowing through them are brought 
 Inside a **uniform magnetic field**, charges move in **uniform circular motion** at a constant velocity. If the particle did not enter the field at a perfect right angle, some of the velocity is used to change the path of the particle to be in a spiral — still perfectly circular, but additionally moving in the third dimension perpendicular to the circle.
 $$\Sigma F_c = F_m$$
 
-## Atomic, nuclear, and particle  physics
+## Atomic, nuclear, and particle physics
 
 ### Atomic structure
 
@@ -132,7 +132,7 @@ $$A\to B+C$$
 
 $$\ce{^A_Z N → ^{A-4}_{Z-2} N' + ^4_2 He}$$
 
-$\ce{^4_2 He}$ may be replaced by $\alpha$.
+$\ce{^4_2 He}$ may be replaced by $\ce{^4_2\alpha}$.
 
 !!! example
     Radium-226 alpha decays to radon-222.
@@ -181,6 +181,38 @@ As such, this means that the number of parent nuclei decreases by 50% of its cur
 
 !!! example
     **Radioactive dating** analyses the ratio between carbon-14 and carbon-12 to determine the age of plant nmatter. As the ratio of C-14 and C-12 in the atmosphere has been relatively comstant, living plants maintain that balance by constantly exchanging carbon. Dead plants' carbon-14 slowly decay at a known rate, so the ratio can be used to determine the time since the plant died.
+
+### Nuclear reactions
+
+A nuclear reaction occurs when a nucleus is hit by another nucleus or subatomic particle and a different nuclide is formed (nuclear **transmutation**). In such a collision, energy and momentum must be conserved. Generally, neutrons are most commonly used in these reactions as they are not affected by Coulomb force exerted by the protons or electrons.
+
+The **reaction energy** $Q$ is the difference in mass between the initial and final states multiplied by $c$ squared. In the sample reaction $a+X → Y+b$:
+$$Q=[(M_a + M_X) - (M_Y + M_b)]c^2$$
+
+ - If $Q$ is positive, the reaction is **exothermic** and will occur at any amount of initial kinetic energy.
+ - If $Q$ is negative, an initial kinetic energy equal to $Q$ is required (the activation energy).
+
+Nuclear **fusion** occurs when two lighter nuclei combine into a heavier one, releasing energy in the process.
+
+Nuclear **fission** occurs when a heavy nucleus splits into two lighter nuclei. Along with some excess neutrons, energy is released. The two split pieces are usually somewhat unequal.
+
+### Fission in reactors
+
+The energy release of nuclei is very large — the energy density per unit mass is much higher than any other conventional source.
+
+As nuclei get smaller, their stablility increases as the number of neutrons also decreases, so excess neutrons can set off a chain reaction by reacting with more nuclei.
+
+<img src="/resources/images/fission-chain.gif" width=700>(Source: Kognity)</img>
+
+However, neutrons that are ejected often have too much energy and must be **moderated** to slow down to prevent a critical mass where the number of reactions is self-sustaining, leading to overheating and reactor meltdown. A **moderator** is a material surrounding fuel rods to slow down incoming neutrons — usually heavy water.
+
+**Control rods** are also inserted into the reaction core to control the rate of reaction. These absorb the neutrons from the moderator and the amount absorbed can be adjusted by raising the rods partially up to all the way from the reactor.
+
+Nuclear power is superior to other types of energy generation in that:
+
+ - it has a high power output due to high energy density
+ - there are large reserves of nuclear fuel on Earth
+ - there are no greenhouse gases emitted to generate power
 
 ## Resources
 
