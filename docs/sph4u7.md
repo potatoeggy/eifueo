@@ -333,6 +333,8 @@ Particles only interact at a **vertex** where left refers to the state before th
 
 <img src="/resources/images/vertex-feynman.png" width=700>(Source: Kognity)</img>
 
+Contents of hadrons must be shown. (See the last example for an example.)
+
 ### Feynman diagram examples
 
 !!! example
@@ -342,6 +344,10 @@ Particles only interact at a **vertex** where left refers to the state before th
 !!! example
     Beta decay:
     <img src="/resources/images/beta-decay-feynman.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    Some weak interaction that violates strangeness:
+    <img src="/resources/images/weird-feynman.png" width=700>(Source: Kognity)</img>
 
 ## Resources
 
