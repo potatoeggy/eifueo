@@ -241,22 +241,14 @@ Nuclear fusion power has the following issues in that it is currently unsustaina
 
 An elementary particle is a subatomic particle that is not composed of other particles.
 
-Particles currently thought to be elementary as of January 2021 include:
-
- - **bosons**: the "force", "force carrier", "force exchange", or "exchange" particles that objects exchange to feel force;
- - **quarks**: heavier, tightly bound particles that make up protons and neutrons; and
- - **leptons**: lighter, more loosely bound particles such as electrons.
-
-!!! note
-    - Protons are composed of two up quarks and one down quark (uud).
-    - Neutrons are composed of one up quark and two down quarks (udd).
+Particles currently thought to be elementary as of January 2021 include bosons, quarks, and leptons:
 
 ### Bosons/Force exchange particles
 
 !!! definition
-    - **Virtual particles** are leptons that do not have infinite range.
+    - **Virtual particles** are bosons that do not have infinite range.
 
-The theory of exchange forces posits that all forces are due to particles exchanged between elementary particles. There are four types of bosons that can be roughly categorised by their effect.
+Bosons are particles that carry/exchange forces between particles. The theory of exchange forces posits that all forces are due to particles exchanged between elementary particles. There are four types of bosons that can be roughly categorised by their effect.
 
 **Gluons** ($\pu{g}$) are exchanged for matter to feel **strong nuclear** force: the strongest interaction between particles. These particles are heavy (120 MeV/c<sup>2</sup>) and short-lived, thus giving the force a very short range.
 
@@ -270,12 +262,18 @@ The Higgs field and Higgs boson are responsible for elementary particles obtaini
 
 ### Quarks
 
-Gluons only interact with quarks. There are six quarks with different properties:
+!!! definition
+    - A **hadron** is any particle made of quarks.
+    - A **baryon** is any hadron made of three quarks. An **antibaryon** is any particle made of three antiquarks.
+    - A **meson** is a hadron made of exactly one quark and one antiquark.
+    - A **fermion** is any particle with mass (hadrons or leptons)
+
+Gluons (strong force) only interact with quarks, which are heavier, more tightly bound elementary particles. There are six quarks with different properties:
 
 | Charge | | | |
 | --- | --- | --- | --- |
-| $\frac{2}{3}$e | up | charm | top |
-| $-\frac{1}{3}$e | down | strange | bottom |
+| $\frac{2}{3}$e | up (u) | charm (c) | top (t) |
+| $-\frac{1}{3}$e | down (d) | strange (s) | bottom (b) |
 
 !!! reminder
     e is the elementary charge ($\pu{1.6\times10^{-19} C}$).
@@ -283,11 +281,39 @@ Gluons only interact with quarks. There are six quarks with different properties
  - All quarks have a **baryon number** of $\frac{1}{3}$.
  - All quarks have a **strangeness number** of 0 except for the strange quark, whose number is equal to -1.
  - All quarks have their own respective **antiquark**: an antiparticle with opposite charge and baryon number but otherwise identical mass.
+ - The **quark confinement theory** states that a singular quark cannot be isolated from its hadron.
 
-Every particle has its own **antiparticle** with the same properties but with opposite quantum numbers. In practice, this indicates that mass stays the same while baryon number, lepton number, and charge are opposite. They are denoted by a bar over their letter.
+Every particle has its own **antiparticle** with the same properties but with opposite quantum numbers. In practice, this indicates that mass stays the same while baryon number, lepton number, and charge are opposite. When a corresponding quark and antiquark meet, annihilate each other to become energy. They are denoted by a bar over their letter.
 
 !!! example
     An up antiquark (also known as "u-bar") is written as ū.
+
+!!! note
+    - Protons are composed of two up quarks and one down quark (uud).
+    - Neutrons are composed of one up quark and two down quarks (udd).
+
+### Leptons
+
+Leptons are lighter and more loosely bound elementary particles compared to quarks. They do not participate in the strong interaction. All leptons have a **lepton generation/family** which is based on their relative mass. A higher mass indicates a higher generation.
+
+| Charge | Generation 1 (L<sub>I</sub>) | Generation 2 (L<sub>II</sub>) | Generation 3 (L<sub>III</sub>) |
+| --- | --- | --- | --- |
+| -1e | electron (e) | muon (µ) | tau ($\tau$) |
+| 0 | electron neutrino ($\pu{v_e}$) | muon neutrino ($\pu{v_\mu}$) | tau neutrino ($\pu{v_\tau}$) |
+
+ - All leptons have a **lepton number** of 1.
+
+### Elementary particle interactions
+
+In any interaction, the following are true:
+
+ - **charge** is conserved
+ - the **baryon number** is always conserved
+ - the **lepton number** of each family is always conserved
+ - the **strangeness number** is usually conserved
+
+!!! example
+    A lepton number of $\pu{L_{III}=1}$ on one side becoming $\pu{L_{II}=1}$ on the other is impossible as lepton family must be kept consistent during interactions.
 
 ## Resources
 
