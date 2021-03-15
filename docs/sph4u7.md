@@ -310,10 +310,38 @@ In any interaction, the following are true:
  - **charge** is conserved
  - the **baryon number** is always conserved
  - the **lepton number** of each family is always conserved
- - the **strangeness number** is usually conserved
+ - the **strangeness number** is always conserved in *strong and electromagnetic interactions*
 
 !!! example
     A lepton number of $\pu{L_{III}=1}$ on one side becoming $\pu{L_{II}=1}$ on the other is impossible as lepton family must be kept consistent during interactions.
+
+## Feynman diagrams
+
+A Feynman diagram provides a graphic representation of particle interactions to predict the outcome of a particle collision.
+
+Generally, the time axis is left-to-right but can be specified to be otherwise. The following assumes time moves from left to right.
+
+Fermions are represented by **straight lines with arrows**. Particles have their arrows pointing *forward* in time while antiparticles point backward (even though they still move in the direction of time).
+
+<img src="/resources/images/fermion-feynman.png" width=700>(Source: Kognity)</img>
+
+Bosons/force exchange particles are represented by wiggly lines with no arrow.
+
+<img src="/resources/images/boson-feynman.png" width=700>(Source: Kognity)</img>
+
+Particles only interact at a **vertex** where left refers to the state before the interaction while the right refers to the state afterward. A vertex must have one arrow pointing **toward** and one **away** from the vertex. Conservation laws apply at each vertex.
+
+<img src="/resources/images/vertex-feynman.png" width=700>(Source: Kognity)</img>
+
+### Feynman diagram examples
+
+!!! example
+    An electron being repelled by another electron due to Coulomb repulsion:
+    <img src="/resources/images/electron-repulsion.png" width=700>(Source: Kognity)</img>
+
+!!! example
+    Beta decay:
+    <img src="/resources/images/beta-decay-feynman.png" width=700>(Source: Kognity)</img>
 
 ## Resources
 
