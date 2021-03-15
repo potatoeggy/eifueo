@@ -71,7 +71,7 @@ When two straight-line conductors with current flowing through them are brought 
 Inside a **uniform magnetic field**, charges move in **uniform circular motion** at a constant velocity. If the particle did not enter the field at a perfect right angle, some of the velocity is used to change the path of the particle to be in a spiral — still perfectly circular, but additionally moving in the third dimension perpendicular to the circle.
 $$\Sigma F_c = F_m$$
 
-## Atomic, nuclear, and particle physics
+## Nukes
 
 ### Atomic structure
 
@@ -232,6 +232,62 @@ Nuclear fusion power has the following issues in that it is currently unsustaina
  - the temperature required for the reaction is greater than 100 million degrees Celsius
  - it requires more energy input to heat the sample than is obtained from the fusion reaction
  - materials currently known cannot withstand the temperature making containment difficult — currently magnetic fields are used to hold the particles in place
+
+## The Standard Model
+
+<img src="/resources/images/standard-model.png" width=700>(Source: Kognity)</img>
+
+### Elementary particles
+
+An elementary particle is a subatomic particle that is not composed of other particles.
+
+Particles currently thought to be elementary as of January 2021 include:
+
+ - **bosons**: the "force", "force carrier", "force exchange", or "exchange" particles that objects exchange to feel force;
+ - **quarks**: heavier, tightly bound particles that make up protons and neutrons; and
+ - **leptons**: lighter, more loosely bound particles such as electrons.
+
+!!! note
+    - Protons are composed of two up quarks and one down quark (uud).
+    - Neutrons are composed of one up quark and two down quarks (udd).
+
+### Bosons/Force exchange particles
+
+!!! definition
+    - **Virtual particles** are leptons that do not have infinite range.
+
+The theory of exchange forces posits that all forces are due to particles exchanged between elementary particles. There are four types of bosons that can be roughly categorised by their effect.
+
+**Gluons** ($\pu{g}$) are exchanged for matter to feel **strong nuclear** force: the strongest interaction between particles. These particles are heavy (120 MeV/c<sup>2</sup>) and short-lived, thus giving the force a very short range.
+
+**Photons** ($\pu{\gamma}$) are exchanged for matter to feel **electromagnetic** force: the second strongest force responsible for magnetism and electric force. These particles have a rest mass of zero and travel for an infinite distance until they are absorbed.
+
+The **W<sup>+</sup>, W<sup>-</sup>, and Z<sup>0</sup>** bosons are together responsible for the weak nuclear force and are the third strongest force. These particles have a heavy rest mass (80 GeV/c<sup>2</sup> for Ws, 91 GeV/c<sup>2</sup> for Z) and so are even more limited in range than gluons.
+
+**Gravitons** are responsible for gravitational force: the weakest force. These particles are massless and so they have infinite range.
+
+The Higgs field and Higgs boson are responsible for elementary particles obtaining their mass because of magical fields and rainbows.
+
+### Quarks
+
+Gluons only interact with quarks. There are six quarks with different properties:
+
+| Charge | | | |
+| --- | --- | --- | --- |
+| $\frac{2}{3}$e | up | charm | top |
+| $-\frac{1}{3}$e | down | strange | bottom |
+
+!!! reminder
+    e is the elementary charge ($\pu{1.6\times10^{-19} C}$).
+
+ - All quarks have a **baryon number** of $\frac{1}{3}$.
+ - All quarks have a **strangeness number** of 0 except for the strange quark, whose number is equal to -1.
+ - All quarks have their own respective **antiquark**: an antiparticle with opposite charge and baryon number but otherwise identical mass.
+
+Every particle has its own **antiparticle** with the same properties but with opposite quantum numbers. In practice, this indicates that mass stays the same while baryon number, lepton number, and charge are opposite. They are denoted by a bar over their letter.
+
+!!! example
+    An up antiquark (also known as "u-bar") is written as ū.
 
 ## Resources
 
