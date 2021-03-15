@@ -197,6 +197,36 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)}$$
 !!! example
     $P(A|B)$ is the probability of event $A$ given $B$ has occurred.
 
+### Probability distributions and discrete random variables
+
+The **discrete random variable**, $X$, represents a **quantifiable**, measurable, discrete quantity. The lowercase $x$ represents a possible value of $X$.
+
+The probability that $X$ takes on any one of the specific possible outcomes is written as $P(X=x)$. The sum of the probability all possible outcomes must still remain $1$:
+$$\Sigma P(X=x)=1$$
+
+!!! example
+    In an experiment of tossing a coin twice, possible values of $X$ include $0,1,2$ so $x\in\{0, 1, 2\}$.
+
+A **probability distribution** is a distribution of outcomes and their probabilities. Events/outcomes are placed on the top row while probability is provided on the bottom in the form of a fraction. Probability distributions can also be graphed with the outcomes on the x-axis and their probabilities on the y-axis with lines similar to a bar graph sitting on the grid lines to represent a probability..
+
+!!! example
+    For the coin ross experiment in the previous example, where $X$ is the number of tails when tossing a coin twice:
+    
+    | $x$ | $0$ | $1$ | $2$ |
+    | --- | --- | --- | --- |
+    | $P(X=x)$ | $\frac{1}{4}$ | $\frac{1}{2}$ | $\frac{1}{4}$ |
+
+The **expected value** of an experiment or the "expectation of $X$" is the mean value of $X$ that is expected to be obtained over many trials. It is equal to the sum of the value of all outcomes multiplied by their probability.
+$$
+\begin{align*}
+E(X)&=\Sigma P(X=x)x \\
+&=\mu=x_1p_1+x_2p_2+...+x_kp_k
+\end{align*}
+$$
+
+!!! warning
+    It is possible that the expected value will not be a value in the set, and the expected value should **not be mistaken** with the outcome with the highest probability.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
