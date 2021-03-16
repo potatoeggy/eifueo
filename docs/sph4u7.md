@@ -109,7 +109,7 @@ A higher **binding energy per nucleon** results in more energy required to break
 <img src="/resources/images/binding-energy-curve.png" width=700>(Source: Kognity)</img>
 
 !!! note
-    It is required to know the general shape of the curve, that $\pu{~8.8 MeV}$ is the maximum, and that the end boundaries are $0$ and $\pu{~7.5 MeV}$. It is also required to know the elements at each of those points (hydrogen-1, iron-56/nickel-62, and uranium-238).
+    It is required to know the general shape of the curve, that $~8.8 \pu{ MeV}$ is the maximum, and that the end boundaries are $0$ and $~7.5 \pu{ MeV}$. It is also required to know the elements at each of those points (hydrogen-1, iron-56/nickel-62, and uranium-238).
 
 Since a greater binding energy per nucleon is more energetically favourable, nuclei to the right of iron-56 fission (split) while those to the left fuse (combine) to release energy — changes that would increase binding energy per nucleon are likely to occur because of this.
 
