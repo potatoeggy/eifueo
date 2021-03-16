@@ -313,7 +313,7 @@ In any interaction, the following are true:
  - the **strangeness number** is always conserved in *strong and electromagnetic interactions*
 
 !!! example
-    A lepton number of $\pu{L_{III}=1}$ on one side becoming $\pu{L_{II}=1}$ on the other is impossible as lepton family must be kept consistent during interactions.
+    A lepton number of $\pu{L_{III} = 1}$ on one side becoming $\pu{L_{II} = 1}$ on the other is impossible as lepton family must be kept consistent during interactions.
 
 ## Feynman diagrams
 
