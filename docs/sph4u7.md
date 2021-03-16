@@ -265,7 +265,7 @@ The Higgs field and Higgs boson are responsible for elementary particles obtaini
 !!! definition
     - A **hadron** is any particle made of quarks.
     - A **baryon** is any hadron made of three quarks. An **antibaryon** is any particle made of three antiquarks.
-    - A **meson** is a hadron made of exactly one quark and one antiquark.
+    - A **meson** is a hadron made of exactly one quark and one antiquark involved in the **strong** interaction.
     - A **fermion** is any particle with mass (hadrons or leptons)
 
 Gluons (strong force) only interact with quarks, which are heavier, more tightly bound elementary particles. There are six quarks with different properties:
