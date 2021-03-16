@@ -252,7 +252,7 @@ Bosons are particles that carry/exchange forces between particles. The theory of
 
 **Gluons** ($\pu{g}$) are exchanged for matter to feel **strong nuclear** force: the strongest interaction between particles. These particles are heavy (120 MeV/c<sup>2</sup>) and short-lived, thus giving the force a very short range.
 
-**Photons** ($\pu{\gamma}$) are exchanged for matter to feel **electromagnetic** force: the second strongest force responsible for magnetism and electric force. These particles have a rest mass of zero and travel for an infinite distance until they are absorbed.
+**Photons** ($\pu{\gamma}$) are exchanged for matter to feel **electromagnetic** force: the second strongest force responsible for magnetism and electric force that only act on charged particles. These particles have a rest mass of zero and travel for an infinite distance until they are absorbed.
 
 The **W<sup>+</sup>, W<sup>-</sup>, and Z<sup>0</sup>** bosons are together responsible for the weak nuclear force and are the third strongest force. These particles have a heavy rest mass (80 GeV/c<sup>2</sup> for Ws, 91 GeV/c<sup>2</sup> for Z) and so are even more limited in range than gluons.
 
