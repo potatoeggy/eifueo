@@ -102,7 +102,7 @@ $$E_\pu{binding} = \pu{mass defect}\times c^2$$
 As such, the binding energy of a nucleus is also the energy required to separate it completely into individual nucleons.
 
 Atomic mass is measured relative to the mass of a carbon-12 atom, which is exactly 12 u (unified atomic mass units).
-$$\pu{1 u}=\pu{1.661\times10^{-27} kg}=\pu{9.315 MeVc^-2}$$
+$$\pu{1 u}=\pu{1.661\times10^{-27} kg}=\pu{931.5 MeVc^-2}$$
 
 A higher **binding energy per nucleon** results in more energy required to break it apart and thus it being more stable.
 
