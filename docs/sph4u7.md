@@ -227,7 +227,7 @@ Nuclear power has the following issues in that:
 Nuclear fusion generates energy per unit mass an order of magnitude greater than can be achieved with fission. The sun takes hydrogen and fuses it into helium. Heavier stars can fuse elements up to iron-56.
 $$\ce{4 ^1_1 H → ^4_2 He + 2 e^+ + 2 v_e + 2\gamma}$$
 
-Nuclear fusion power has the following issues in that it is currently unsustainable for more than a few secondsbecause:
+Nuclear fusion power has the following issues in that it is currently unsustainable for more than a few seconds because:
 
  - the temperature required for the reaction is greater than 100 million degrees Celsius
  - it requires more energy input to heat the sample than is obtained from the fusion reaction
