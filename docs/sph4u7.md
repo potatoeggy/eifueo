@@ -349,6 +349,47 @@ Contents of hadrons must be shown. (See the last example for an example.)
     Some weak interaction that violates strangeness:
     <img src="/resources/images/weird-feynman.png" width=700>(Source: Kognity)</img>
 
+## Energy sources
+
+!!! definition
+    - A **primary** energy source is one that is not transformed and used directly by the consumer, such as burning wood for heat.
+    - A **secondary** energy source is one that is converted from a primary source, such as electricity.
+    - **Proved reserves** are the resources that are known to be obtainable.
+    - **Production** are the actual reserves and placed in the market in a certain time interval.
+    - The **expectancy** of a product is the estimated time its proved reserves will last given its production (proved reserves ÷ production).
+    - The **specific energy** ($E_{SP}$) of a source is the energy obtained per unit mass of fuel (J/kg).
+    - The **energy density** ($E_D$) of a source  is the energy obtained per unit volume (J/m<sup>3</sup>).
+
+If a fuel source can be replenished with a "reasonable" amount of time — one human generation, or 50–100 years — it is considered to be **renewable**. The world still largely uses non-renewable energy sources.
+
+<img src="/resources/images/renewable-energy-pie.png" width=700>(Source: Kognity)</img>
+
+Electricity is the most common secondary energy source due to its convenience and ease of transport.
+
+### Sankey diagrams
+
+Sankey diagrams show the transfer of energy in a system via directed lines proportional to quantity of energy. Arrows pointing away indicate energy **degradation** — losses in energy transformation.
+
+<img src="/resources/images/sankey-diagram.png" width=700>(Source: Kognity)</img>
+
+### Power generation
+
+A moving magnetic field produces an electromotive force as alternating current via **induction** and is how the large majority of power generation is handled.
+
+<img src="/resources/images/power-plant-generation.png" width=700>(Source: Kognity)</img>
+
+In a nutshell, a source of thermal energy such as burning fossil fuels is used to boil water whose steam is then used to turn a turbine to generate power before condensing and repeating the cycle.
+
+Coal and oil-powered power plants have efficiencies of around 40% while natural gas is slightly higher at 50% as the gas itself can be used to turn a turbine.
+
+In **nuclear** power plants, the coolant fluid is instead used to turn a turbine.
+
+<img src="/resources/images/nuclear-power-generation.png" width=700>(Source: Kognity)</img>
+
+As only uranium-235 is fissile, but uranium-238 is significantly more common (99.3% U-238 to 0.7% U-235), uranium must first be enriched until the concentration of U-235 is ~3%. **Gaseous diffusion** is a form of enrichment by forming uranium hexafluoride gas and then spinning it in a centrifuge to force separation of U-238 and U-235 based on mass. The energy used in enriching uranium is substantial and should be included in Sankey diagrams.
+
+Moderators are used to encourage fission as they slow down neutrons that are going too fast to fission (most) to a speed more suitable for fission.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
