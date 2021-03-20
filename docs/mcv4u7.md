@@ -227,6 +227,83 @@ $$
 !!! warning
     It is possible that the expected value will not be a value in the set, and the expected value should **not be mistaken** with the outcome with the highest probability.
 
+### Binomial distribution
+
+**Bernoulli trials** have a fixed number of trials that are independent of each other and identical with only two possible outcomes — a success or failure.
+
+Where $r$ is the number of successes in a Bernoulli trial:
+$$P(X=r)={n\choose r}p^rq^{n-r}$$
+
+where ${n\choose r}=\frac{n!}{r!(n-r)!}$
+
+A binomial distribution is a probability distribution of two possible events, a success or a failure. The distribution is defined by the number of trials, $n$, and the probability of a success, $p$. The probability of failure is defined as $q=1-p$.
+
+$X\sim$ denotes that the random variable $X$ is distributed in a certain way. Therefore, the binomial distribution of $X$ is expressed as:
+$$X\sim B(n, p)$$
+
+In a binomial distribution, the expected value and **variance** are as follows:
+$$
+E(X)=np \\
+Var(X)=npq
+$$
+
+On a graphing display calculator, where $r$ is the number of successes:
+$$
+\begin{align*}
+P(X=r)&=\text{binompdf}(n,p,r) \\
+P(X<r)&=\text{binomcdf}(n,p,r-1) \\
+P(X\leq r)&=\text{binomcdf}(n,p,r) \\
+P(a\leq X\leq b)&=\text{binomcdf}(n,p,b) - \text{binomcdf}(n,p,a)
+\end{align*}
+$$
+
+### Normal distribution
+
+Also known as **Gaussian distribution** or in its graphical form, a normal or bell curve, the normal distribution is a **continuous** probability distribution for the random variable $x$.
+
+<img src="/resources/images/gaussian-distribution.png" width=700>(Source: Kognity)</img>
+
+In a normal distribution:
+
+ - The mean, median, and mode are all equal.
+ - The normal curve is bell-shaped and symmetric about the mean.
+ - The area under the curve is equal to one.
+ - The normal curve approaches but does not touch the x-axis as it approaches $\pm \infty$.
+
+From $\mu-\sigma$ to $\mu+\sigma$, the curve curves downward. $\mu\pm\sigma$ are the **inflection points** of the graph. It is expressed graphically as:
+$$X\sim N(\mu,\sigma^2)$$
+
+where
+
+$$f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^\frac{-(x-\mu)^2}{2\sigma^2}$$
+
+~68%, ~95%, and ~99.7% of the data is found within one, two, and three standard deviations of the mean, respectively.
+
+### Standard normal distribution
+
+The **standard normal distribution** has a mean of 0 and standard deviation of 1. The horizontal scale of the standard normal curve corresponds to **$z$-scores** that represent the number of standard deviations away from the mean. To convert an $x$-score to a $z$-score:
+$$z=\frac{x-\mu}{\sigma}$$
+
+A **Standard Normal Table** can be used to determine the cumulative area under the standard normal curve to the left of scores -3.49 to 3.49. The area to the *right* of the score is equal to $1-z_\text{left}$. The area *between* two z-scores is the difference in between the area of the two z-scores.
+
+To standardise a normal random variable, it should be converted from the form $X\sim N(\mu,\sigma^2$ to $Z\sim N(0,1)$ via the formula to convert between x- and z-scores.
+
+The probability of a z-score being less than a value can be rewritten as phi.
+$$P(z<a)=\phi(a)$$
+
+Some z-score rules partially taken from probability rules:
+
+$$
+\begin{align*}
+P(z>-a)&=P(z<a) \\
+1-P(z>a)&=P(z<a)
+\end{align*}
+$$
+
+On a graphing display calculator:
+
+The `normalcdf` command can be used to find the cumulative probabilty in a normal distribution in the format $\text{normalcdf}(a,b,\mu,\sigma)$, which will solve for $P(a<x<b)$. $-1000$ is generally a sufficiently low value to solve for just $P(x<b)$. 
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
