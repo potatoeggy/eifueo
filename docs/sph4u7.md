@@ -372,6 +372,8 @@ Sankey diagrams show the transfer of energy in a system via directed lines propo
 
 <img src="/resources/images/sankey-diagram.png" width=700>(Source: Kognity)</img>
 
+To minimise electrical losses during transportation, high voltage, low resistance wires with high cross-sectional areas are used to reduce resistance to reduce power loss.
+
 ### Power generation
 
 A moving magnetic field produces an electromotive force as alternating current via **induction** and is how the large majority of power generation is handled.
@@ -389,6 +391,51 @@ In **nuclear** power plants, the coolant fluid is instead used to turn a turbine
 As only uranium-235 is fissile, but uranium-238 is significantly more common (99.3% U-238 to 0.7% U-235), uranium must first be enriched until the concentration of U-235 is ~3%. **Gaseous diffusion** is a form of enrichment by forming uranium hexafluoride gas and then spinning it in a centrifuge to force separation of U-238 and U-235 based on mass. The energy used in enriching uranium is substantial and should be included in Sankey diagrams.
 
 Moderators are used to encourage fission as they slow down neutrons that are going too fast to fission (most) to a speed more suitable for fission.
+
+### Wind
+
+The kinetic energy of wind can be harnessed to generate power. As convection currents provide the greatest airflow near large bodies of water, wind farms are often constructed there. The wind turns rotor blades which turn a turbine to generate power. It is a source of clean and renewable energy.
+
+Assuming **all wind kinetic energy** is converted to mechanical energy, where $P$ is the power generated, $A$ is the area of the circle that the blades spin around, $\rho$ is the density of the air, and $v$ is the speed of the wind in the direction of the blades:
+$$P=\frac{1}{2}\rho v^3$$
+
+<img src="/resources/images/wind-generator.png" width=700>(Source: Kognity)</img>
+
+| Advantages | Disadvantages |
+| --- | --- |
+| Renewable | Wind strength is inconsistent |
+| Wind is widely available | Turbine blades may kill birds |
+| Does not emit greenhouse gases | Many of them are needed to replace one fossil fuel plant, requiring lots of space so they don't interfere with each other |
+
+### Hydro
+
+In hydroelectric plants, a dam is often used to increase the height of a reservoir so that it falls and spins a turbine to generate power. As such, the energy generated is roughly equal to the gravitational potential energy of the water. Where $\Delta h$ is the **average height** of the water from the turbine:
+$$E=mg\Delta h$$
+
+<img src="/resources/images/hydro-generator.png" width=700>(Source: Kognity)</img>
+
+During times of lower demand, dams often have a **pumped storage** system that pumps water back into the reservoir for use during higher demand.
+
+### Tidal
+
+A **tidal barrage** generates energy via the kinetic energy of water moving during changes in tide using a multi-directional turbine.
+
+### Photovoltaic
+
+!!! definition
+    **Intensity** is the power delivered per unit area (watts per square metre).
+
+Photovoltaic (PV) cells are made of silicon doped with phosphorus and boron impurities to convert sunlight directly into electricity. Light from the sun frees electrons in the silicon to produce a current.
+
+<img src="/resources/images/photovoltaic-generation.png" width=700>(Source: Kognity)</img>
+
+The **solar constant** $S$ of $\pu{1.36\times10^3 W/m^2}$ determines the intensity of the sun's light that reaches the Earth. At different latitudes and between seasons, the intensity changes because the Earth is round and is tilted, respectively.
+
+### Solar heating
+
+Instead of converting between multiple forms of energy, solar heating directly converts the sun's energy to heat, increasing efficiency drastically. By using insulation, a black substance, and a glass top, the heat from the sun is trapped and absorbed into water where it is used to heat things.
+
+<img src="/resources/images/solar-heating.png" width=700>(Source: Kognity)</img>
 
 ## Resources
 
