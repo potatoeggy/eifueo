@@ -189,6 +189,9 @@ $$P(A\cup B)=1$$
 The **principle of inclusion and exclusion** forms a general rule for the union between two *independent* events:
 $$P(A\cup B)=P(A)+P(B)-P(A\cap B)$$
 
+For independent events:
+$$P(A\cap B)=P(A)\times P(B)$$
+
 ### Conditional probability
 
 A vertical bar is used between two events to denote that the event on the left occurs knowing that the right has already occurred.
