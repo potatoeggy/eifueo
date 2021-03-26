@@ -256,7 +256,7 @@ $$
 P(X=r)&=\text{binompdf}(n,p,r) \\
 P(X<r)&=\text{binomcdf}(n,p,r-1) \\
 P(X\leq r)&=\text{binomcdf}(n,p,r) \\
-P(a\leq X\leq b)&=\text{binomcdf}(n,p,b) - \text{binomcdf}(n,p,a)
+P(a\leq X\leq b)&=\text{binomcdf}(n,p,b) - \text{binomcdf}(n,p,a-1)
 \end{align*}
 $$
 
