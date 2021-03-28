@@ -437,6 +437,46 @@ Instead of converting between multiple forms of energy, solar heating directly c
 
 <img src="/resources/images/solar-heating.png" width=700>(Source: Kognity)</img>
 
+## Thermal energy transfer
+
+!!! definition
+    - **Radiation** is the transfer of energy via electromagnetic waves emitted away from an object. No medium is needed.
+    - **Convection** is the transfer of thermal energy via another medium away from an object.
+    - **Conduction** is the transfer of thermal energy via physical contact.
+
+### Black bodies
+
+!!! definition
+    **Emissivity** ($e$) is a dimensionless value from 0 to 1 indicating the relative ability of an object to emit radiation. Darker and duller surfaces have an emissivity closer to 1 while shinier and whiter ones are closer to 0.
+
+All bodies with an absolute temperature will emit radiant energy in the form of electromagnetic waves. The temperature of the body determines the wavelengths and power of the radiation emitted. A **perfect emitter** has an emissivity of 1 and is known as a **black body**, absorbing all electromagnetic radiation.
+
+Generally, as the temperature of a body goes down, its peak power density is reduced and its peak wavelength increases.
+
+**Wien's displacement law** relates the temperature of a black body to the waves it emits. Where $\lambda_\text{max}$ is the peak wavelength in metres and $T$ is the temperature of the body in kelvin:
+$$\lambda_\text{max}\times T=\pu{2.9\times10^{-3} m\cdot K}$$
+
+The **Stefan-Boltzmann** law relates the specifications of a body to the power it emits. Where $P$ is the power emitted by the body, $A$ is its surface area, $T$ is its temperature, $e$ is its emissivity, and $\sigma$ is the Stefan-Boltzmann constant (equal to $\pu{5.67\times10^{-8} Wm^{-2}K^{-4}}$):
+$$P=e\sigma AT^4$$
+
+In problems where the environment temperature is **different** from the temperature of an object, there will be power loss. The net power emitted by a body will be:
+$$P_\text{net}=e\sigma A(T_1^4-T_2^4)$$
+
+The solar radiation reaching earth is equal to $\pu{S=3.9\times10^{26} W}$ with the assumption that it is a black body.
+
+### Albedo
+
+Derived from $I=\frac{P}{A}$, where $d$ is the distance from the Earth to the sun:
+$$I=\frac{P}{4\pi d^2}$$
+
+**Albedo** ($\alpha$) is the ratio of power from incident rays reflected or scattered to the power absorbed by a body, ranging from 0 to 1. A black body has albedo 0. On average, Earth's albedo is equal to $0.3$ due primarily to the atmosphere but also clouds and ice.
+$$\alpha=\frac{\text{energy scattered/reflected}}{\text{energy absorbed}}$$
+
+As Earth is not a flat disk pointed at the sun, in reality the sun's intensity is reduced arbitrarily to a quarter. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
+$$P_\text{in}=(1-\alpha)\frac{1}{4}SA$$
+
+Greenhouse gases are responsible for remaining increases in temperature.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
