@@ -39,7 +39,7 @@ There are seven main schools of thought historians usually fall under that attem
  - The **Marxist** lens states that class conflict creates history. This school focuses on the exploiter and the exploitee and how their conflicts create history.
  - The **Toynbee** lens states that the response of people to crisis creates history.
  - The **post-modern** lens states that history reflects the time period it was written in and the intent of the author. This school asserts that there is no historical truth and focuses on how history is shaped and manipulated to serve the agendas and needs of various civilisations.
- - The **social history** lens states that history should reflect the experience of everyone equally. This school particularly focuses on the treatment of and lives of those often overlooked in historical accounts, such as women and visible minorities.
+ - The **feminist** lens states that history should reflect the experience of both genders equally. This school particularly focuses on the treatment of and lives of women.
 
 ### Data collection
 
