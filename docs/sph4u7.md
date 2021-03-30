@@ -472,8 +472,8 @@ $$I=\frac{P}{4\pi d^2}$$
 **Albedo** ($\alpha$) is the ratio of power from incident rays reflected or scattered to the power absorbed by a body, ranging from 0 to 1. A black body has albedo 0. On average, Earth's albedo is equal to $0.3$ due primarily to the atmosphere but also clouds and ice.
 $$\alpha=\frac{\text{energy scattered/reflected}}{\text{energy absorbed}}$$
 
-As Earth is not a flat disk pointed at the sun, in reality the sun's intensity is reduced arbitrarily to a quarter. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
-$$P_\text{in}=(1-\alpha)\frac{1}{4}SA$$
+As Earth is not a flat disk pointed at the sun, in reality the sun's intensity is reduced to a quarter due to the formula for a sphere. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
+$$P_\text{in}=(1-\alpha)\frac{S}{4}A$$
 
 Greenhouse gases are responsible for remaining increases in temperature.
 
