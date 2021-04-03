@@ -475,7 +475,7 @@ $$\alpha=\frac{\text{energy scattered/reflected}}{\text{energy absorbed}}$$
 As Earth is not a flat disk pointed at the sun, in reality the sun's intensity is reduced to a quarter due to the formula for a sphere. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
 $$P_\text{in}=(1-\alpha)\frac{S}{4}A$$
 
-Greenhouse gases are responsible for remaining increases in temperature.
+Greenhouse gases are responsible for remaining increases in temperature. By absorbing and then re-emittng their natural frequencies of electromagnetic radiation (infrared for greenhouse gases), they delay the release of radiation back into space and heat up the atmosphere.
 
 ## Resources
 
