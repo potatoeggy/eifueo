@@ -397,7 +397,7 @@ Moderators are used to encourage fission as they slow down neutrons that are goi
 The kinetic energy of wind can be harnessed to generate power. As convection currents provide the greatest airflow near large bodies of water, wind farms are often constructed there. The wind turns rotor blades which turn a turbine to generate power. It is a source of clean and renewable energy.
 
 Assuming **all wind kinetic energy** is converted to mechanical energy, where $P$ is the power generated, $A$ is the area of the circle that the blades spin around, $\rho$ is the density of the air, and $v$ is the speed of the wind in the direction of the blades:
-$$P=\frac{1}{2}\rho v^3$$
+$$P=\frac{1}{2}A\rho v^3$$
 
 <img src="/resources/images/wind-generator.png" width=700>(Source: Kognity)</img>
 
