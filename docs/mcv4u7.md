@@ -315,4 +315,5 @@ The `normalcdf` command can be used to find the cumulative probabilty in a norma
  - [Textbook: Oxford SL Mathematics](/resources/g11/textbook-oxford-math.pdf)
  - [Course Pack Unit 1: Integration](/resources/g11/s2cp1.pdf)
  - [Course Pack Unit 2: Probability](/resources/g11/s2cp2.pdf)
+ - [Course Pack Unit 3: Vectors](/resources/g11/s2cp3.pdf)
  - [TI-84 Plus Calculator Guide](/resources/g11/ti-84-plus.pdf)
