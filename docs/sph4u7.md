@@ -466,14 +466,17 @@ The solar radiation reaching earth is equal to $\pu{S= 3.9\times10^{26} W}$ with
 
 ### Albedo
 
-Derived from $I=\frac{P}{A}$, where $d$ is the distance from the Earth to the sun:
+Derived from $I=\frac{P}{A}$, the intensity at a point in space can be related to the power of the radiation emitted by the source ($P$) and the distance between the two ($d$):
 $$I=\frac{P}{4\pi d^2}$$
+
+!!! example
+    The solar constant is derived in this way by substituting $d$ as the distance from the Earth to the sun.
+
+As Earth and most other planetary bodies are not flat disks pointed at the sun, in reality the sun's intensity is reduced to a quarter due to the formula for a sphere. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
+$$P_\text{in}=(1-\alpha)\frac{S}{4}A$$
 
 **Albedo** ($\alpha$) is the ratio of power from incident rays reflected or scattered to the power absorbed by a body, ranging from 0 to 1. A black body has albedo 0. On average, Earth's albedo is equal to $0.3$ due primarily to the atmosphere but also clouds and ice.
 $$\alpha=\frac{\text{energy scattered/reflected}}{\text{energy absorbed}}$$
-
-As Earth is not a flat disk pointed at the sun, in reality the sun's intensity is reduced to a quarter due to the formula for a sphere. Therefore, the power absorbed/incident to the Earth is equal to, where $S$ is the solar constant:
-$$P_\text{in}=(1-\alpha)\frac{S}{4}A$$
 
 Greenhouse gases are responsible for remaining increases in temperature. By absorbing and then re-emittng their natural frequencies of electromagnetic radiation (infrared for greenhouse gases), they delay the release of radiation back into space and heat up the atmosphere.
 
