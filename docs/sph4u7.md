@@ -447,7 +447,7 @@ Instead of converting between multiple forms of energy, solar heating directly c
 ### Black bodies
 
 !!! definition
-    **Emissivity** ($e$) is a dimensionless value from 0 to 1 indicating the relative ability of an object to emit radiation. Darker and duller surfaces have an emissivity closer to 1 while shinier and whiter ones are closer to 0.
+    **Emissivity** ($e$) is a dimensionless value from 0 to 1 indicating the ability of an object to emit radiation relative to a black body (which has an emissivity of 1). Darker and duller surfaces have an emissivity closer to 1 while shinier and whiter ones are closer to 0.
 
 All bodies with an absolute temperature will emit radiant energy in the form of electromagnetic waves. The temperature of the body determines the wavelengths and power of the radiation emitted. A **perfect emitter** has an emissivity of 1 and is known as a **black body**, absorbing all electromagnetic radiation.
 
