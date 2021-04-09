@@ -462,7 +462,7 @@ $$P=e\sigma AT^4$$
 In problems where the environment temperature is **different** from the temperature of an object, there will be power loss. The net power emitted by a body will be:
 $$P_\text{net}=e\sigma A(T_1^4-T_2^4)$$
 
-The solar radiation reaching earth is equal to $\pu{S=3.9\times10^{26} W}$ with the assumption that it is a black body.
+The solar radiation reaching earth is equal to $\pu{S= 3.9\times10^{26} W}$ with the assumption that it is a black body.
 
 ### Albedo
 
