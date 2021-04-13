@@ -289,7 +289,7 @@ $$z=\frac{x-\mu}{\sigma}$$
 
 A **Standard Normal Table** can be used to determine the cumulative area under the standard normal curve to the left of scores -3.49 to 3.49. The area to the *right* of the score is equal to $1-z_\text{left}$. The area *between* two z-scores is the difference in between the area of the two z-scores.
 
-To standardise a normal random variable, it should be converted from the form $X\sim N(\mu,\sigma^2$ to $Z\sim N(0,1)$ via the formula to convert between x- and z-scores.
+To standardise a normal random variable, it should be converted from the form $X\sim N(\mu,\sigma^2)$ to $Z\sim N(0,1)$ via the formula to convert between x- and z-scores.
 
 The probability of a z-score being less than a value can be rewritten as phi.
 $$P(z<a)=\phi(a)$$
