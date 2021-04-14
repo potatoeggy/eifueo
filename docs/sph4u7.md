@@ -480,6 +480,10 @@ $$\alpha=\frac{\text{energy scattered/reflected}}{\text{energy absorbed}}$$
 
 Greenhouse gases are responsible for remaining increases in temperature. By absorbing and then re-emittng their natural frequencies of electromagnetic radiation (infrared for greenhouse gases), they delay the release of radiation back into space and heat up the atmosphere.
 
+### Radiation absorption by greenhouse gases
+
+All molecules have a natural frequency at which they absorb radiation from the electromagnetic spectrum and **resonate** at. The natural frequency of greenhouse gases is in the infrared region, which is what the Earth re-emits solar radiation as. Therefore, greenhouse gases absorb this radiation and them re-emit it in all directions, "trapping" some of the radiation. Resonance is also the phenomenon responsible for the protection from ultraviolet radiation by the ozone layer.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
