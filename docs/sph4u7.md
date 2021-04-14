@@ -484,6 +484,40 @@ Greenhouse gases are responsible for remaining increases in temperature. By abso
 
 All molecules have a natural frequency at which they absorb radiation from the electromagnetic spectrum and **resonate** at. The natural frequency of greenhouse gases is in the infrared region, which is what the Earth re-emits solar radiation as. Therefore, greenhouse gases absorb this radiation and them re-emit it in all directions, "trapping" some of the radiation. Resonance is also the phenomenon responsible for the protection from ultraviolet radiation by the ozone layer.
 
+## Photoelectric effect
+
+**Wave-particle duality** posits that everything can be described as either a particle or a wave, and that all particles will show some wave characteristics and all waves will show some particle characteristics, so really what the hell is happening?
+
+The photoelectric effect is the phenomenon in which electrons are emitted when electromagnetic radiation hits a material. It was theorised that EM radiation travelled in **discrete** energy packets known as **quanta**, which held a defined amount of energy that could not be divided smaller. Where $h$ is Planck's constant, $c$ is the speed of light, and $\lambda$ is the wavelength of the light:
+$$E=\frac{hc}{\lambda}$$
+
+!!! example
+    The application of the photoelectric effect in the real world has led to large advances in technology, such as in **photodiodes** in light sensors — semiconductors where electrons are freed by indicent light to raise the conductivity of the material, and **charged coupled devices** in cameras — the "film" of the modern digital camera.
+
+It was later observed that for a given material, electrons were ejected when light shone on a surface only if the light's energy/frequency was greater than a certain threshold. Below that threshold, electrons were not ejected **regardless** of the intensity of the light.
+
+Electrons have a "binding energy" that hold them to the nucleus of an atom. To release an electron from the nucleus, energy greater than that binding energy must be provided. This binding energy, known as the **work function** $W_0$, is therefore the minimum energy required for a surface to eject electrons.
+
+As such, where $E_k$ is the kinetic energy of the ejected electron, $E_{ph}$ is the energy of the incident photon/radiation, and $W_0$ is the work function of the surface:
+$$E_k=E_{ph}-W_0$$
+
+Electrons are ejected and thus the photoelectric effect observed **only** if $E_k>0$. The equation above shows that the kinetic energy of an ejected electron is determined **only** by the wavelength/frequency of the incident radiation and *not* by the intensity of the light.
+
+The intensity of incoming radiation effectively represents the number of photons striking per unit area of a surface, so while it does not affect whether electrons are ejected, it affects the **number** of electrons that are ejected *only if they are determined to be ejected*.
+
+In a light frequency-kinetic energy graph,
+
+ - the x-intercept represents the **threshold frequency** $f_0$: the minimum frequency required to liberate electrons at all.
+ - the y-intercept represents the **work function** $-W_0$: the "binding energy" of the electrons.
+
+### Momentum of photons
+
+It was also observed that during photon-electron collisions that momentum and kinetic energy were conserved, further reinforcing the idea of wave-particle duality of light. Where $h$ is Planck's constant, $f_i$ and $f_f$ are the initial and final frequencies of the light, $m$ is the mass of the electron, and $v_{ei}$ and $v_{ef} are the initial and final velocities of the electron:
+$$hf_i+\frac{1}{2}mv^2_{ei}=hf_f + \frac{1}{2}mv^2_{ef}$$
+
+In general, the momentum of a photon is equal to, where $h$ is Planck's constant and $\lambda$ is the wavelength of the light:
+$$p=\frac{h}{\lambda}$$
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
