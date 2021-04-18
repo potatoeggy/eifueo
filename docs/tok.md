@@ -18,7 +18,7 @@ Knowledge **questions** are questions that examine or engage with knowledge clai
  - How far is it justified…
 
 !!! example
-   Is our knowledge in mathematics more certain than that of science?
+    Is our knowledge in mathematics more certain than that of science?
 
 ## Knowledge themes and areas
 
