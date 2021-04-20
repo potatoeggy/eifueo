@@ -518,6 +518,20 @@ $$hf_i+\frac{1}{2}mv^2_{ei}=hf_f + \frac{1}{2}mv^2_{ef}$$
 In general, the momentum of a photon is equal to, where $h$ is Planck's constant and $\lambda$ is the wavelength of the light:
 $$p=\frac{h}{\lambda}$$
 
+## Matter waves
+
+Particles/waves cannot act like particles and waves at the same time. For a given observation, it adopts the property of one or the other. In reality, all particles exhibit wave properties *sometimes* and all waves exhibit particle properties *sometimes*.
+
+By equating the equations for momentum of photons and particles, the wavelength of a particle can be determined. Where $\lambda$ is the wavelength of the particle, $m$ is its mass, $v$ is its velocity, and $h$ is Planck's constant:
+$$\lambda=\frac{h}{mv}$$
+
+Therefore, wavelengths of "particles" are only really significant for small masses at high speeds rather than large masses at lower speeds.
+
+!!! example
+   A 50 kg mass moving at 16 m/s is has a wavelength many orders of magnitude smaller than a quark and will not display any observable wave behaviours.
+
+The discovery of wave-particle duality has led to advancements in technology such as the scanning electron microscope.
+
 ## Resources
 
  - [IB Physics Data Booklet](/resources/g11/ib-physics-data-booklet.pdf)
