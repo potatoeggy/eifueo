@@ -41,6 +41,17 @@ There are seven main schools of thought historians usually fall under that attem
  - The **post-modern** lens states that history reflects the time period it was written in and the intent of the author. This school asserts that there is no historical truth and focuses on how history is shaped and manipulated to serve the agendas and needs of various civilisations.
  - The **feminist** lens states that history should reflect the experience of both genders equally. This school particularly focuses on the treatment of and lives of women.
 
+### Historical concepts
+
+There are six key historical concepts that should be taken under consideration in the analysis of history.
+
+ - **Change**: how people and events create change, the differences before and after an event, and the nature and pace of the change
+ - **Continuity**: what doesn't change and to what extent things don't change
+ - **Causation**: why an event occurred (social, economic, political, etc.), and what factor(s) caused it
+ - **Consequence**: the long- and short-term effects of an event on society
+ - **Significance**: why the event matters and the importance of some details over others
+ - **Perspective**: the different perspectives, why there are different perspectives, and how those perspectives affect the interpretation of history
+
 ### Data collection
 
 The abundance of **diverse** data allows for greater perspectives to be gleaned and thus more solutions to a problem. Data and their sources can fall under one of three categories:
