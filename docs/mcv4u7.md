@@ -307,6 +307,63 @@ On a graphing display calculator:
 
 The `normalcdf` command can be used to find the cumulative probabilty in a normal distribution in the format $\text{normalcdf}(a,b,\mu,\sigma)$, which will solve for $P(a<x<b)$. $-1000$ is generally a sufficiently low value to solve for just $P(x<b)$. 
 
+## Vectors
+
+Please see [SL Physics 1#1.3 - Vectors and Scalars](/sph3u7/#13-vectors-and-scalars) for more information.
+
+One vector can be represented in a variety of methods. The algebraic form $(1, 2)$ can also be represented in the alternate algebraic forms $[1, 2]$ and $1\choose 2$.
+
+Where $v$ is the vector, $A$ is the initial and $B$ is the terminal point of the vector, a vector can be identified by any of the following symbols:
+
+ - $\vec{AB}$
+ - $\vec{v}$
+ - $\boldsymbol{v}$ (bolded)
+
+The special **zero vector** $\vec{0}$ is a vector of undefined direction and zero magnitude.
+
+Vectors with the same magnitude but opposite directions are equal to one another except one is the negative of the other.
+
+**Colinear** vectors are those that parallel with one another — that is, with identical or opposite directions.
+
+### Unit vector
+
+The **unit vector** of a vector is a vector of the same direction as the original with a magnitude of $1$. It is denoted via a caret/hat.
+$\hat{v}$$
+
+From the original vector $\vec{u}$, the unit vector $\hat{u}$ can be found by dividing by the magnitude of the vector.
+$$\hat{u}=\frac{\vec{u}}{|\vec{u}|}$$
+
+The **standard unit vectors** $\hat{i}$ and $\hat{j}$ are unit vectors designated to point in the directions of the positive x- and y-axes.
+$$
+\hat{i}=(1,0) \\
+\hat{j}=(0,1)
+$$
+
+Any vector in two dimensions can be expressed as a sum of scalar multiples of the vectors.
+$$
+\begin{align*}
+\vec{u}&=\vec{OP} \\
+&=(a,b) \\
+&=a\hat{i}+b\hat{j} \\
+&={a\choose b} \\
+|\vec{u}|&=\sqrt{a^2+b^2}
+\end{align*}
+$$
+
+The angle between two vectors is the smaller angle formed when the vectors are placed **tail to tail**.
+
+### Three-dimensional vectors
+
+The additional standard unit vector $\hat{k}$ is used for the z-dimension.
+$$
+\begin{align*}
+\vec{u}&=\vec{OP} \\
+&=(a,b,c) \\
+&=a\hat{i}+b\hat{j}+c\hat{k}
+$$
+
+In general, the x-plane is the one in and out of the page, the y-plane left and right, and the z-plane up and down.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
