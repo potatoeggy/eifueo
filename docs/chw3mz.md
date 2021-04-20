@@ -100,11 +100,11 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
     - e.g., *Since surgeons cut people with knives and cutting people with knives is a crime, surgeons are criminals.*
  - An argument that **begs the question** has circular reasoning by having premises that assume its conclusion.
     - e.g., *Acid must be able to eat through your skin because it is corrosive.*
- - **Cherry picking** occurs evidence that supports the conclusion is pointed out while those that contradict the conclusion are ignored or withheld.
+ - **Cherry picking** occurs when evidence that supports the conclusion is pointed out while those that contradict the conclusion are ignored or withheld.
     - e.g., *"Look at these perfect cherries — their tree must be in perfect condition!"*
  - A fallacy of **converse accident** wrongly applies a specific exception to a general rule.
     - e.g., *As the Nintendo Switch, a game console, is portable, all game consoles must be portable.*
- - A **complex question** embeds a proposition that is accepted when a direct answer is given to the question. It is also known as a trick question.
+ - A **complex question**, also known as a trick question,  embeds a proposition that is accepted when a direct answer is given to the question.
     - e.g., *Have you stopped abusing children yet?*
  - Arguments with a **false cause** incorrectly assume a cause to an effect.
     - e.g., imagining correlation implies causation.
