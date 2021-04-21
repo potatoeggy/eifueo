@@ -328,7 +328,7 @@ Vectors with the same magnitude but opposite directions are equal to one another
 ### Unit vector
 
 The **unit vector** of a vector is a vector of the same direction as the original with a magnitude of $1$. It is denoted via a caret/hat.
-$\hat{v}$$
+$$\hat{v}$$
 
 From the original vector $\vec{u}$, the unit vector $\hat{u}$ can be found by dividing by the magnitude of the vector.
 $$\hat{u}=\frac{\vec{u}}{|\vec{u}|}$$
