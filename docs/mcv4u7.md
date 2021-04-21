@@ -360,6 +360,7 @@ $$
 \vec{u}&=\vec{OP} \\
 &=(a,b,c) \\
 &=a\hat{i}+b\hat{j}+c\hat{k}
+\end{align*}
 $$
 
 In general, the x-plane is the one in and out of the page, the y-plane left and right, and the z-plane up and down.
