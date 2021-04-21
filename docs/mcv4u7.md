@@ -365,6 +365,10 @@ $$
 
 In general, the x-plane is the one in and out of the page, the y-plane left and right, and the z-plane up and down.
 
+### Vector operations
+
+Please see [SL Physics 1#Adding/subtracting vectors diagrammatically](/sph3u7/#addingsubtracting-vectors-diagrammatically) for more details.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
