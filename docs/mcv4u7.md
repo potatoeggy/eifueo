@@ -323,7 +323,12 @@ The special **zero vector** $\vec{0}$ is a vector of undefined direction and zer
 
 Vectors with the same magnitude but opposite directions are equal to one another except one is the negative of the other.
 
-**Colinear** vectors are those that parallel with one another — that is, with identical or opposite directions.
+**Colinear** vectors are those that parallel with one another — that is, with identical or opposite directions. Vectors that are colinear must also be **scalar multiples** of each other:
+$$\vec{u}=k\vec{v}$$
+
+**Position** vectors are vectors where the initial point is at the origin — where the terminal point is $A$, a position vector can be written as $\vec{OA}$.
+
+**Colinear points** are points that lie on the same straight line. If two colinear vectors that share a common point can be formed between three points, those points are colinear.
 
 ### Unit vector
 
@@ -368,6 +373,10 @@ In general, the x-plane is the one in and out of the page, the y-plane left and 
 ### Vector operations
 
 Please see [SL Physics 1#Adding/subtracting vectors diagrammatically](/sph3u7/#addingsubtracting-vectors-diagrammatically) for more details.
+
+The sum of two vectors can also be solved diagrammatically by envisioning the head-to-tail as a parallelogram.
+
+<img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
 
 ## Resources
 
