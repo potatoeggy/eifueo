@@ -378,6 +378,24 @@ The sum of two vectors can also be solved diagrammatically by envisioning the he
 
 <img src="/resources/images/vector-parallelogram.png" width=700>(Source: Kognity)</img>
 
+### Dot product
+
+Also known as the scalar product, the dot product between two vectors returns a **scalar** value representing the horizontal displacement after multiplication. Wheree $\theta$ is the angle contained between the vectors $\vec{u}$ and $\vec{v}$ when arranged tail-to-tail:
+$$\vec{u}\bullet\vec{v}=|\vec{u}||\vec{v}|\cos\theta$$
+
+!!! note
+    This implies that vectors perpendicular to one another must have a dot product of zero.
+
+Much like regular multiplication, dot products are:
+
+ - communtative — $\vec{u}\bullet\vec{v}=\vec{v}\bullet\vec{u}$
+ - distributive over vectors — $\vec{u}\bullet(\vec{v}+\vec{w})=\vec{u}\bullet\vec{v}+\vec{u}\bullet\vec{w}$
+ - associative over scalars — $(m\vec{u})\bullet(n\vec{v})=mn(\vec{u}\bullet\vec{v})$
+ 	- $m(\vec{u}\bullet\vec{v})=(mu)\bullet\vec{v}=(mv)\bullet\vec{u}$
+
+When working with algebraic vectors, their dot products are equal to the products of their components.
+$$\vec{u}\bullet\vec{v}=u_xv_x+u_yv_y$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
