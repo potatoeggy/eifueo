@@ -520,7 +520,7 @@ $$p=\frac{h}{\lambda}$$
 
 ## Matter waves
 
-Particles/waves cannot act like particles and waves at the same time. For a given observation, it adopts the property of one or the other. In reality, all particles exhibit wave properties *sometimes* and all waves exhibit particle properties *sometimes*.
+Particles/waves cannot act like particles and waves at the same time. For a given observation, it adopts the property of one or the other. In reality, all particles exhibit wave properties *sometimes* and all waves exhibit particle properties *sometimes*. Each particle has a wave function that determines how likely it is to be somewhere at any point in time.
 
 By equating the equations for momentum of photons and particles, the wavelength of a particle can be determined. Where $\lambda$ is the wavelength of the particle, $m$ is its mass, $v$ is its velocity, and $h$ is Planck's constant:
 $$\lambda=\frac{h}{mv}$$
@@ -528,9 +528,34 @@ $$\lambda=\frac{h}{mv}$$
 Therefore, wavelengths of "particles" are only really significant for small masses at high speeds rather than large masses at lower speeds.
 
 !!! example
-   A 50 kg mass moving at 16 m/s is has a wavelength many orders of magnitude smaller than a quark and will not display any observable wave behaviours.
+    A 50 kg mass moving at 16 m/s is has a wavelength many orders of magnitude smaller than a quark and will not display any observable wave behaviours.
 
 The discovery of wave-particle duality has led to advancements in technology such as the scanning electron microscope.
+
+## Special relativity
+
+Einstein's theory of special relativity states that time and space are relative depending on the **frame of reference** of the observer, and light travels at the *same speed* of $\pu{3.0\times10^8 m/s}$ in a vacuum no matter how it is observed in all intertial frame of reference.
+
+ - An **inertial** reference frame is one in which the law of inertia in the frame holds true. Only frames of reference moving at a constant velocity or at rest are inertial, and the same laws of physics apply in all inertial frames of reference.
+
+### Time dilation and length contraction
+
+The faster an observer moves, to ensure that it appears to them that light travels at $c$, time slows down for the observer. Observers in inertial frames of reference will experience time at a slower rate — this phenomenon is known as time dilation.
+
+For two **inertial** reference frames, where $t_s$ is the time observed between two events (stationary/**proper** time) at the same location and at rest relative to a stationary observer, $t_m$ is the time observed between two events in a different frame of reference (moving time), $v$ is the speed difference between the frames of reference, and $\gamma$ is the **Lorentz factor**:
+$$
+\gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}} \\
+t_m=\gamma t_s
+$$
+
+Space is also relative. An observer moving at a higher constant velocity will have space contract — this phenomenon is known as **length contraction**.
+
+Where $L_s$ is the length/distance measured of an object at the same location and at rest relative to a stationary observer, and $L_m$ is the length/distance from a different reference frame:
+$$L_m=\gamma L_s$$
+
+### Simultaneity
+
+From different inertial reference points, there can never be agreement on whether events are simultaneous. Because time slows down for an obserer moving faster, one event will also appear to happen first.
 
 ## Resources
 
