@@ -396,6 +396,55 @@ Much like regular multiplication, dot products are:
 When working with algebraic vectors, their dot products are equal to the products of their components.
 $$\vec{u}\bullet\vec{v}=u_xv_x+u_yv_y$$
 
+### Vector equations in two dimensions
+
+!!! definition
+    The **Cartesian** form of a line is of the form $Ax+By+C$.
+
+The vector equation for a straight line solves for an unknown position vector $\vec{r}$ on the line using a known position vector $\vec{r_0}$ on the line, a direction vector parallel to the line $\vec{m}$, and the variable **parameter** $t$. It is roughly similar to $y=b+xm$.
+$$\vec{r}=\vec{r_0}+t\vec{m},t\in\mathbb{R}$$
+
+The equation can be rewritten in the algebraic form to be
+$$[x,y]=[x_0,y_0]+t[m_1,m_2], t\in\mathbb{R}$$
+
+The direction vector is effectively the slope of a line.
+$$m=[\Delta x, \Delta y]$$
+
+To determine if a point lies along a line defined by a vector equation, the parameter $t$ should be checked to be the same for the $x$ and $y$ coordinates of the point.
+
+!!! warning
+    Vector equations are **not unique** — there can be different position vectors and direction vectors that return the same line.
+
+The **parametric** form of a line breaks the vector form into components.
+$$
+\begin{align*}
+x&=x_0+tm_1 \\
+y&=y_0+tm_2,t\in\mathbb{R}
+\end{align*}
+$$
+
+The **symmetric** form of the equation takes the parametric form and equates the two equations to each other using $t$.
+$$\frac{x-x_0}{m_1}=\frac{y-y_0}{m_2},m_1,m_2\neq 0$$
+
+If one of the **direction numbers** $m_1$ or $m_2$ is zero, the equation is rearranged such that only one position component is on one side.
+
+!!! example
+    Where $m_2=0$:
+    $$\frac{x-x_0}{m_1},y=y_0$$
+
+### Vector equations in three dimensions
+
+There is little difference between vector equations in two or three dimensions. An additional variable is added for the third dimension.
+
+The vector form:
+$$\vec{r}=\vec{r_0}+t\vec{m},t\in\mathbb{R}$$
+
+The parametric form:
+$$[x,y,z]=[x_0,y_0,z_0]+t[m_1,m_2,m_3],t\in\mathbb{R}$$
+
+The symmetric form:
+$$\frac{x-x_0}{m_1}=\frac{y-y_0}{m_2}=\frac{z-z_0}{m_3}$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
