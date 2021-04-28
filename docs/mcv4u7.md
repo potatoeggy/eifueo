@@ -396,10 +396,10 @@ Much like regular multiplication, dot products are:
 When working with algebraic vectors, their dot products are equal to the products of their components.
 $$\vec{u}\bullet\vec{v}=u_xv_x+u_yv_y$$
 
-### Vector equations in two dimensions
+### Vector line equations in two dimensions
 
 !!! definition
-    The **Cartesian** form of a line is of the form $Ax+By+C$.
+    The **Cartesian** or **scalar** form of a line is of the form $Ax+By+C$.
 
 The vector equation for a straight line solves for an unknown position vector $\vec{r}$ on the line using a known position vector $\vec{r_0}$ on the line, a direction vector parallel to the line $\vec{m}$, and the variable **parameter** $t$. It is roughly similar to $y=b+xm$.
 $$\vec{r}=\vec{r_0}+t\vec{m},t\in\mathbb{R}$$
@@ -408,7 +408,10 @@ The equation can be rewritten in the algebraic form to be
 $$[x,y]=[x_0,y_0]+t[m_1,m_2], t\in\mathbb{R}$$
 
 The direction vector is effectively the slope of a line.
-$$m=[\Delta x, \Delta y]$$
+$$\vec{m}=[\Delta x, \Delta y]$$
+
+For a line in scalar form:
+$$\vec{m}=[B, -A]$$
 
 To determine if a point lies along a line defined by a vector equation, the parameter $t$ should be checked to be the same for the $x$ and $y$ coordinates of the point.
 
@@ -432,7 +435,7 @@ If one of the **direction numbers** $m_1$ or $m_2$ is zero, the equation is rear
     Where $m_2=0$:
     $$\frac{x-x_0}{m_1},y=y_0$$
 
-### Vector equations in three dimensions
+### Vector line equations in three dimensions
 
 There is little difference between vector equations in two or three dimensions. An additional variable is added for the third dimension.
 
@@ -444,6 +447,17 @@ $$[x,y,z]=[x_0,y_0,z_0]+t[m_1,m_2,m_3],t\in\mathbb{R}$$
 
 The symmetric form:
 $$\frac{x-x_0}{m_1}=\frac{y-y_0}{m_2}=\frac{z-z_0}{m_3}$$
+
+### Intersections of vector equation lines
+
+Two lines are parallel if their direction vectors are scalar multiples of each other.
+$$\vec{m_1}=k\vec{m_2},k\in\mathbb{R}$$
+
+Two lines are coincident if they are parallel and share at least one point. Otherwise, they are distinct.
+
+If two lines are not parallel and in two dimensions, they intersect. To solve for the point of intersection, the x and y variables in the parametric form can be equated and the parameter $t$ solved.
+
+In three dimensions, there is a final possibility should the lines not be parallel: the lines may be *skew*. To determine if the lines are skew, the x, y, and z variables of **two** parametric equations should be equated to their counterparts in the other vector as if they intersect. The resulting $t$ and $s$ from the first and second line respectively should be substituted into the third equation and an equality check performed.  Should there not be a solution that fulfills the third equation, the lines are skew. Otherwise, they intersect.
 
 ## Resources
 
