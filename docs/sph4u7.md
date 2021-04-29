@@ -518,7 +518,7 @@ $$hf_i+\frac{1}{2}mv^2_{ei}=hf_f + \frac{1}{2}mv^2_{ef}$$
 In general, the momentum of a photon is equal to, where $h$ is Planck's constant and $\lambda$ is the wavelength of the light:
 $$p=\frac{h}{\lambda}$$
 
-## Matter waves
+### Matter waves
 
 Particles/waves cannot act like particles and waves at the same time. For a given observation, it adopts the property of one or the other. In reality, all particles exhibit wave properties *sometimes* and all waves exhibit particle properties *sometimes*. Each particle has a wave function that determines how likely it is to be somewhere at any point in time.
 
@@ -551,9 +551,17 @@ $$
 Space is also relative. An observer moving at a higher constant velocity will have space contract — this phenomenon is known as **length contraction**.
 
 Where $L_s$ is the length/distance measured of an object at the same location and at rest relative to a stationary observer, and $L_m$ is the length/distance from a different reference frame:
-$$L_m=\frac{\gamma}{L_s}$$
+$$L_m=\frac{L_s}{\gamma}$$
 
 From different inertial reference points, there can never be agreement on whether events are simultaneous. Because time slows down for an observer moving faster, one event will also appear to happen first.
+
+### Matter-energy equivalence
+
+The kinetic energy of an object in an inertial frame of reference relative to another is related to its velocity and its mass.
+$$E_k=\frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$$
+
+At rest, the energy of an object is related to its mass.
+$$E_\text{rest}=mc^2$$
 
 ## Resources
 
