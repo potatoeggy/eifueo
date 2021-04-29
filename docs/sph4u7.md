@@ -553,8 +553,6 @@ Space is also relative. An observer moving at a higher constant velocity will ha
 Where $L_s$ is the length/distance measured of an object at the same location and at rest relative to a stationary observer, and $L_m$ is the length/distance from a different reference frame:
 $$L_m=\gamma L_s$$
 
-### Simultaneity
-
 From different inertial reference points, there can never be agreement on whether events are simultaneous. Because time slows down for an obserer moving faster, one event will also appear to happen first.
 
 ## Resources
