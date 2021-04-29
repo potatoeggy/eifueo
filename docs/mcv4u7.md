@@ -459,6 +459,11 @@ If two lines are not parallel and in two dimensions, they intersect. To solve fo
 
 In three dimensions, there is a final possibility should the lines not be parallel: the lines may be *skew*. To determine if the lines are skew, the x, y, and z variables of **two** parametric equations should be equated to their counterparts in the other vector as if they intersect. The resulting $t$ and $s$ from the first and second line respectively should be substituted into the third equation and an equality check performed.  Should there not be a solution that fulfills the third equation, the lines are skew. Otherwise, they intersect.
 
+### Applications of vector equations
+
+For an object moving at **constant velocity in 2D space**, where $\vec{s}$ is its displacement, $\vec{s}_0$ is its initial displacement at $t=0$, $t$ is the time elapsed, and $\vec{v}$ is its velocity:
+$$\vec{s}=\vec{s}_0+t\vec{v}$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
