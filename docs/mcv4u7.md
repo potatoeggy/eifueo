@@ -473,4 +473,5 @@ $$\vec{s}=\vec{s}_0+t\vec{v}$$
  - [Course Pack Unit 1: Integration](/resources/g11/s2cp1.pdf)
  - [Course Pack Unit 2: Probability](/resources/g11/s2cp2.pdf)
  - [Course Pack Unit 3: Vectors](/resources/g11/s2cp3.pdf)
+ - [Course Pack Unit 4: Algebraic Vectors and Applications](/resources/g11/s2cp4.pdf)
  - [TI-84 Plus Calculator Guide](/resources/g11/ti-84-plus.pdf)
