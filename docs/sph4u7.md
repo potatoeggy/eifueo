@@ -85,7 +85,7 @@ Please see [HL Chemistry#2.1 - Atoms](/sch3uz/#21-atoms) and [HL Chemistry 1#2.2
 An electron in an atom will only become excited if a photon of exactly the right amount of energy strikes it. That energy can be found using the formula:
 $$\Delta E=hf$$
 
-where $E$ is the energy of the photon at frequency $f$, and $h$ is Planck's constant ($\pu{6.63\times 10^{-34} Js}$ or $\pu{4.14\times10^{-15} eV/Hz}$ or $\pu{6.58\times10^{-16} eVs}$).
+where $E$ is the energy of the photon at frequency $f$, and $h$ is Planck's constant ($\pu{6.63\times 10^{-34} Js}$ or $\pu{4.14\times10^{-15} eVs}$).
 
 An electron that de-excites will emit a photon of that exact energy and thus frequency to return to its previous state.
 
