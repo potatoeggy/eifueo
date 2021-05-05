@@ -557,8 +557,11 @@ From different inertial reference points, there can never be agreement on whethe
 
 ### Matter-energy equivalence
 
-The kinetic energy of an object in an inertial frame of reference relative to another is related to its velocity and its mass.
-$$E_k=\frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$$
+The total energy of an object in an inertial frame of reference relative to another is related to its velocity and its mass.
+$$
+E_t=\frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}} \\
+E_k=E_t-E_\text{rest}
+$$
 
 At rest, the energy of an object is related to its mass.
 $$E_\text{rest}=mc^2$$
