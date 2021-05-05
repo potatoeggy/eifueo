@@ -534,7 +534,7 @@ The discovery of wave-particle duality has led to advancements in technology suc
 
 ## Special relativity
 
-Einstein's theory of special relativity states that time and space are relative depending on the **frame of reference** of the observer, and light travels at the *same speed* of $\pu{3.0\times10^8 m/s}$ in a vacuum no matter how it is observed in all intertial frame of reference.
+Einstein's theory of special relativity states that time and space are relative depending on the **frame of reference** of the observer, and light travels at the *same speed* of $\pu{3.0\times10^8 m/s}$ in a vacuum no matter how it is observed in all inertial frame of reference.
 
  - An **inertial** reference frame is one in which the law of inertia in the frame holds true. Only frames of reference moving at a constant velocity or at rest are inertial, and the same laws of physics apply in all inertial frames of reference.
 
