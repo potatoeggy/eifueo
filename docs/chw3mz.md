@@ -218,7 +218,25 @@ first united front
 
 screw this history too hard
 
-## Mao's foreign policy
+## Consolidation and maintenance of power in China
+
+### Use of legal methods
+
+### Use of force
+
+### Charisma and propaganda
+
+### Extent of authoritarian control
+
+## Economic policies of China
+
+## Social policies of China
+
+## Cultural policies of China
+
+## Impact of policies on minorities and women
+
+## Foreign policy of China
 
 !!! definition
     **Sinocentrism** is the idea that China is the cultural, political, and/or economic centre of the world.
