@@ -522,7 +522,7 @@ $$p=\frac{h}{\lambda}$$
 
 Particles/waves cannot act like particles and waves at the same time. For a given observation, it adopts the property of one or the other. In reality, all particles exhibit wave properties *sometimes* and all waves exhibit particle properties *sometimes*. Each particle has a wave function that determines how likely it is to be somewhere at any point in time.
 
-By equating the equations for momentum of photons and particles, the wavelength of a particle can be determined. Where $\lambda$ is the wavelength of the particle, $m$ is its mass, $v$ is its velocity, and $h$ is Planck's constant:
+By equating the equations for momentum of photons and particles, the (de Broglie) wavelength of a particle can be determined. Where $\lambda$ is the wavelength of the particle, $m$ is its mass, $v$ is its velocity, and $h$ is Planck's constant:
 $$\lambda=\frac{h}{mv}$$
 
 Therefore, wavelengths of "particles" are only really significant for small masses at high speeds rather than large masses at lower speeds.
