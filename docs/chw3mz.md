@@ -218,6 +218,143 @@ first united front
 
 screw this history too hard
 
+## Mao's foreign policy
+
+!!! definition
+    **Sinocentrism** is the idea that China is the cultural, political, and/or economic centre of the world.
+
+Mao was concentrated on maintaining and consolidating his power in China, but he supported the idea of an **international communist revolution** and focused on re-establishing China's position as a great power in the world.
+
+After [Joseph Stalin](https://en.wikipedia.org/wiki/Joseph_Stalin)'s death, Mao was seen by many to be the leader of the communist world.
+
+!!! example
+    In 1964, China detonated its first nuclear bomb, claiming its necessity for defense and in opposing the "US imperialist policy of nuclear blackmail and nuclear threats". Originally advocating for the abolishment of nuclear weapons but blocked by the US, evidence seems to suggest that Mao was quite willing to use nuclear weapons, believing that China's population would recover quickly.
+
+### Sino-Soviet relations
+
+China's relationship with the USSR started off well enough but steadily deteriorated by the 1960s.
+
+#### Treaty of Friendship, Alliance, and Mutual Assistance
+
+On 16 December 1949, Mao took his first trip abroad to Moscow only a few months after the establishment of the PRC. He was not met with great enthusiasm — Soviet leaders would meet him but would not drink or eat lunch with him, and there were no celebrations upon his arrival. He was in essence treated like a minor politician from a small communist country.
+
+The visit lasted three months and culminated in the signing of the treaty on 14 February 1950. In the [Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance](https://en.wikipedia.org/wiki/Sino-Soviet_Treaty_of_Friendship,_Alliance_and_Mutual_Assistance), the USSR:
+
+ - recognised the People's Republic of China as the legitimate government of China
+ - lent $300 million to aid economic and logistic recovery from a decade of warfare
+
+After the signing of the treaty, from 1953 to 1956, the USSR also sent 1 300+ economic and military advisers which were paid for by the PRC.
+
+#### Korean War
+
+!!! background
+    From 1910 to August 1945, Korea was occupied by imperial Japan. After the end of World War II, the USSR and the US agreed to temporarily divide Korea along the 38th parallel and established a communist government in the north and a democratic government in the south, respectively.
+    <center><img src="/resources/images/korea-map.png" width=350></img></center>
+    (Source: Kognity)
+
+Under a desire to unify Korea under communism, North Korean leader [Kim Il-Sung](https://en.wikipedia.org/wiki/Kim_Il-sung) asked Stalin for approval to attack South Korea but was denied due to the [Berlin Blockade](https://en.wikipedia.org/wiki/Berlin_Blockade) at the time. His approval was granted later in April 1950 and the surprise attack launched on 25 June 1950, capturing important cities such as Seoul.
+
+In response, the [United Nations Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council) declared North Korea as the aggressor and sent troops from 15 countries led by the US to restore peace under American general [Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur), successfully retaking the 38th parallel.
+
+!!! info
+    - The UN motion to send troops only succeeded because the Soviet delegate with [veto powers](https://en.wikipedia.org/wiki/United_Nations_Security_Council_veto_power) was absent as a protest against UN refusal to accept the PRC as the legitimate government of China.
+    - The United States, South Korea, and other nations sent 350 000, 400 000, and 50 000 troops, respectively.
+
+!!! background
+    - North Korea made significant contributions to the CCP during their liberation of mainland China.
+    - Sino-American relations during this time period were especially poor due to the Truman administration declaring their support for the Republic of China on Taiwan as the "main China".
+
+When UN forces crossed the Yalu River on the China-Korea border, Mao felt China's security was at stake and also recognised an opportunity to assert power. Additionally, concern over border security with a hostile east due to a revived Japan, a desire to replace the Soviet influence in North Korea with their own, and Stalin pressing Mao to assist in the war led China to intervene.
+
+In October 1950, the [Chinese People's Volunteers](https://en.wikipedia.org/wiki/People%27s_Volunteer_Army) — in actuality a group of forces from the main People's Liberation Army under a different name to avoid official war with the US — deployed 500 000 troops push the UN troops back to the 38th parallel, resulting in a stalemate back at status quo by 1951. Talks lasted two years with US President [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) threatening the use of nuclear weapons should they drag on until an [**armistice**](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement) was signed on 27 July 1953.
+
+???+ info
+    **Casualties in the Korean War**
+    <img src="/resources/images/korean-war-casualties.png" width=500>(Source: Kognity)</img>
+
+From China's perspective, the war was both a success and a failure. Mao propagandised the war as a total success in their aim to "Resist America and Defend Korea".
+
+| Success | Failure |
+| --- | --- |
+| Mao gained considerable prestige for being able to fight the US to a standstill | Heavy casualties — Mao's eldest son was killed in an air raid |
+| North Korea remained communist | Sino-American relations deteriorated further, and China faced a total embargo from the US |
+| China preserved its Manchurian border where its heavy industry was concentrated | The USSR-lent military equipment had to be repaid |
+
+#### Sino-Soviet split
+
+Stalin and Mao's relationship was tense, and the relationship between the two countries deteriorated much faster under [Nikita Khrushchev](https://en.wikipedia.org/wiki/Nikita_Khrushchev).
+
+!!! background
+    The border between the Soviet Union and China was determined by many treaties signed by various officials over many years. This left many gray areas where both countries claimed soverignity.
+
+**Border conflicts** in 1969 between the two countries led to seven months of unofficial conflicts and border clashes over various islands and rivers. At this point in time, both countries had nuclear weapons. Tensions persisted until September 1969 when the Chinese Premier and Soviet Minister of Foreign Affairs met in Beijing in September 1969.
+
+**Personality and ideological conflicts** between the leaders and countries worsened relations. Mao acted like an obedient student and never openly contradicted Stalin while he was in power but was often annoyed by his level of control over the CCP. Stalin was annoyed by Mao's attitude but needed a strong ally.
+
+!!! example
+    - In 1921, Mao believed that the rural population would lead China to revolution while Stalin interpreted that the proletariat could only be urban workers.
+    - After the end of World War II, Stalin requested Mao to work with the GMD, but Mao decided to wipe out the party and take power instead.
+
+In 1956, after Stalin's death, Khrushchev gave a [secret speech](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences) denouncing his rule. Mao was alarmed by the brutality of these attacks and interpreted the speech as criticism against him and his own leadership in China.
+
+!!! definition
+    - **Détente** between the US and Soviet Union was the relaxation of strained relations between the two countries.
+    - **Revisionism** in this context is the betrayal of original revolutionary ideas.
+    - **Peaceful coexistence** is the belief that both capitalist and communist nations can exist together without war.
+
+In 1957, Khrushchev organised a [conference in Moscow](https://en.wikipedia.org/wiki/1957_International_Meeting_of_Communist_and_Workers_Parties), inviting all communist states including China. Mao complained about Khrushchev's [revisionist](https://en.wikipedia.org/wiki/Revisionism_(Marxism)) and [peaceful coexistence](https://en.wikipedia.org/wiki/Peaceful_coexistence)/[detente](https://en.wikipedia.org/wiki/D%C3%A9tente) approaches with the United States. Mao believed that it was the duty of communists to conduct class warfare and that the Soviet Union was being too soft on the West by making concessions — they were not fit to lead the communist world. He thought that a final violent conflict was needed with capitalism.
+
+In 1958, Khrushchev was invited to visit China and Mao treated him with disdain, aiming to make his visit unpleasant: the Soviet delegation was placed in a hotel with no AC, Mao invited Khrushchev to swim in his private pool — aware of his inability to swim, and refused any proposals for military cooperation and defense initiatives. In response, Khrushchev pulled most advisors out from China and removed all of them by 1960.
+
+**Chinese meddling in Soviet international affairs** resulted in open defiance against the USSR. Unimpressed with de-Stalinisation, when Albania left the USSR in 1961, China supported them against the Soviet Union, pouring money into the country. In return, Albanian leader Enver Hoxha declared his support for Mao.
+
+Further examples of disagreements during the Sino-Soviet split include:
+
+ - 1958: Mao wanted the USSR to use their first satellite, Sputnik-1, to aid revolutionary efforts, but Khrushchev refused to risk nuclear conflict.
+ - 1959: [China invaded Tibet](https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_the_People's_Republic_of_China), but the USSR refused support and withdrew its support from the Chinese nuclear program by refusing to give them a prototype weapon.
+ - 1962: China disagreed with the USSR in backing down and making in a deal in the [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis), wanting them to support third world countries in their fight against communism.
+ - 1963: China opposed the USSR signing of the [Partial Nuclear Test Ban Treaty](https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty) against nuclear weapons, sparking a fierce propaganda war.
+
+### Cross-Strait relations
+
+Mao never recognised Taiwan as an independent state.
+
+In the [First Taiwan Strait Crisis](https://en.wikipedia.org/wiki/First_Taiwan_Strait_Crisis) from 1954 to 1955, the PLA bombed various islands near Taiwan and then seized the [Yijiangshan Islands](https://en.wikipedia.org/wiki/Yijiangshan_Islands) in a military conflict. This led to the [Formosa Resolution](https://en.wikipedia.org/wiki/Formosa_Resolution_of_1955) to be enacted by the US Congress — that US forces would defend Taiwan against any attack from the mainland.
+
+In 1958, Mao ordered the PLA to attack the Taiwan-surrounding and -controlled islands of Kinmen and Matsu without discussion with the USSR. As the US prepared for war because of the Formosa Resolution, Mao stood down because he did not have USSR backup. In the aftermath, Khrushchev accused Mao of being a [Trotskyist](https://en.wikipedia.org/wiki/Trotskyism) who had lost all sense of reality.
+
+### Sino-American relations
+
+The US viewed China as an aggressive country with the objective of threatening the security of the non-communist states surrounding it. China viewed the US as their enemy.
+
+!!! example
+    The [Red Scares](https://en.wikipedia.org/wiki/Red_Scare) in the US and the anti-American and anti-capitalist propaganda in China (e.g., "Death to the American imperialists") meant that the two countries could not easily communicate diplomatically in public.
+
+To "contain" communism in China, the US signed several treaties such as the [Southeast Asia Treaty Organization](https://en.wikipedia.org/wiki/Southeast_Asia_Treaty_Organization) and the [ANZUS Treaty](https://en.wikipedia.org/wiki/ANZUS) to ward off China. Additionally, they gave the Chinese seat at the UN to Taiwan, pushed allies to avoid entertaining diplomatic relations with Taiwan, supported countries that felt threatened by China, encouraged the split between the USSR and China, and implemented a trade embargo.
+
+From 1970 onward, the two countries began to grow closer — China wanted a new strong ally as Sino-Soviet relations were deteriorating and the US wanted a way out of the Vietnam War.
+
+Taking advantage of [ping-pong diplomacy](https://en.wikipedia.org/wiki/Ping-pong_diplomacy), the exchange of ping-pong players between the US and China, US Secretary of State Henry Kissinger went secretly to meet Chinese Premier Zhou Enlai.
+
+The [**Shanghai Communiqué**](https://en.wikipedia.org/wiki/Shanghai_Communiqu%C3%A9) signed between the two countries on 28 February 1972 was a statement issued by both countries during US President Richard Nixon's visit to China — the first visit to the PRC by any US President — and began the normalisation of relations between them. Nixon described the visit as a mission for peace with the goal to re-establish communications after a generation of hostility, and agreements were reached to expand cultural, educational, and journalistic contracts.
+
+### Historians
+
+*Mao: a Biography* - Ross Terill (revisionist and somewhat sympathetic to Mao), 1995:
+
+???+ quote
+    Mao knew little of the world outside China, and nothing of the capitalist world… Yet Mao took a lively interest in the world beyond the Soviet Bloc during the early 1960s… It was as if the split with Russia in 1960 took a burden off the back of Chinese diplomacy. Instead of being junior partner in someone else’s show, Mao made China its own one-man show on the broadening stage of the Third World.
+
+*Mao: Profiles in Power* - Shaun Breslin, 1998:
+
+???+ quote
+    Mao’s main objective in all of his foreign policy initiative from 1949 to 1976 was to safeguard China’s borders and restore China to its rightful position on the world stage. Mao had a traditional Sinocentrism: the notion that China is the central place in the world, and that only those who recognise and accept Chinese superiority can be considered to be civilised.
+
+*Mao Zedong* - Maurice Meisner (sympathetic to socialist ideology and goals), 2007:
+
+???+ quote
+    Mao’s foreign policy clothed itself in revolutionary rhetoric, but was conservatively cautious in substance, based on narrow calculation of China’s national self-interest… In Mao’s view the Soviet Union posed a greater danger to China than did the United States.
+
 ## Resources
 
  - [IB History Syllabus](/resources/g11/ib-history-syllabus.pdf)
