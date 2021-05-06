@@ -287,7 +287,7 @@ When UN forces crossed the Yalu River on the China-Korea border, Mao felt China'
 In October 1950, the [Chinese People's Volunteers](https://en.wikipedia.org/wiki/People%27s_Volunteer_Army) — in actuality a group of forces from the main People's Liberation Army under a different name to avoid official war with the US — deployed 500 000 troops push the UN troops back to the 38th parallel, resulting in a stalemate back at status quo by 1951. Talks lasted two years with US President [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) threatening the use of nuclear weapons should they drag on until an [**armistice**](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement) was signed on 27 July 1953.
 
 ???+ info
-    **Casualties in the Korean War**
+    **Casualties in the Korean War**  
     <img src="/resources/images/korean-war-casualties.png" width=500>(Source: Kognity)</img>
 
 From China's perspective, the war was both a success and a failure. Mao propagandised the war as a total success in their aim to "Resist America and Defend Korea".
