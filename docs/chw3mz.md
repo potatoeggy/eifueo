@@ -259,9 +259,8 @@ On 16 December 1949, Mao took his first trip abroad to Moscow only a few months 
 The visit lasted three months and culminated in the signing of the treaty on 14 February 1950. In the [Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance](https://en.wikipedia.org/wiki/Sino-Soviet_Treaty_of_Friendship,_Alliance_and_Mutual_Assistance), the USSR:
 
  - recognised the People's Republic of China as the legitimate government of China
- - lent $300 million to aid economic and logistic recovery from a decade of warfare
-
-After the signing of the treaty, from 1953 to 1956, the USSR also sent 1 300+ economic and military advisers which were paid for by the PRC.
+ - lent $300 million over five years to aid economic and logistic recovery from a decade of warfare
+ - sent assistance from 11 000+ Soviet consultants and experts to be paid for by the PRC
 
 #### Korean War
 
