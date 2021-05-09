@@ -461,14 +461,6 @@ The Chinese followed **Confucian** philosophy, so social harmony was very import
 ???+ quote "Liang Heng, age 12, recount of late 1967 after 11 million young people travelled to Beijing for Mao:"
     If there was a single thing that meant ecstasy to everyone in those days, it was seeing Chairman Mao. Ever since I had been in Peking, the possibility had been in the back of my mind, and, like every other Red Guard, I would have laid down my life for the chance… On May 1st Peng Ming was planning to go with a small group to conduct performances of Revolutionary songs at the Summer Palace during the day…and I was sometimes asked to carry drums and other instruments, so I went with Peng Ming’s group to the park. We were completely unprepared for what happened. In the middle of singing a song that Peng Ming had composed himself, we heard the great news: Chairman Mao was in the park! Gathering our instruments together hastily, we ran gasping to the spot, but it was too late. He was gone. All that remained of him was the touch of his hand on the hands of a few who had been lucky enough to get close to him. But we didn’t leave in disappointment. That trace of precious warmth in the palms of others seemed to us a more than adequate substitute for the real thing. Those Chairman Mao had touched now became the focus of our fervor. Everyone surged toward them with outstretched arms in hopes of transferring the sacred touch to their own hands. If you couldn’t get close enough for that, then shaking the hand of someone who had shaken the hands with Our Great Saving Star would have to do.
 
-## Economic policies of China
-
-## Social policies of China
-
-## Cultural policies of China
-
-## Impact of policies on minorities and women
-
 ## Foreign policy of China
 
 !!! definition
