@@ -327,9 +327,139 @@ The results of the campaigns were large-scale purges in the CCP and bourgeoisie,
 
 ### Charisma and propaganda
 
+Mao was seen as the figurehead of China and his image was proimently on display throughout China. His Little Red Book was distributed everywhere, and his charisma was a form of control over the population via his **cult of personality**. There was no distinction between Mao the person, the government, and China in the people's eyes. He received little backlash after the events of the Great Leap Forward and most of the population genuinely mourned his death.
+
+!!! example "Example: "Long Live the Chinese Communist Party that Chairman Mao Personally Founded", April 1973"
+    <img src="/resources/images/mao-propaganda.jpeg" width=500>(Source: Kognity)</img>
+
+**Propaganda** was under the control of the CCP's Central Propaganda Department up to the Cultural Revolution. Its aims were to spread Chinese ideology and the idea of Maoism against capitalism, indoctrinate the Chinese population, and reinforcce political messages to enhance Mao's cult of personality.
+
+!!! example
+    The **Combat Illiteracy Campaign** from 1950 to 1956 sent simple reading material all over China including remote places to increase literacy while spreading ideology and propaganda.
+
+From the 1940s to the 1950s, propaganda was generally colourfully visual because not many could read or write and it was cheaper and quicker to produce. Posters portrayed Mao as a god-like figure and all-powerful, symbolised as the father of the nation. They were put up everywhere in publicc spaces, poor citizens used them to decorate their homes, and Mao's picture was always in newspapers, stamps, and pins.
+
+After 1949, radios and loudspeakers were also extensively used, broadcasting government propaganda and national anthems constantly.
+
+**Role models** of real or fictitious people were used in propaganda to teach the population how to behave.
+
+!!! example
+    Lei Fang was a fictitious soldier who died at 22 and was depicted as a happy and positive person despite experiencing a difficult childhood because his immediate family died at an early age. Mao's propaganda minister, Lin Biao, promoted his image by pushing his diary with positive comments about Mao. In 1953, Mao encouraged everyone to learn the "Lei Feng spirit", and the "Learn from Lei Feng" campaign launched during the Cultural Revolution aimed at getting people to obey and be loyal to Mao.
+
+#### Thought Reform Movement
+
 At the same time of the Antis campaigns, the [**Thought Reform Movement**](https://en.wikipedia.org/wiki/Thought_reform_in_China) from 1951 to 1952 was aimed to get the citizens to accept Marxism-Leninism and Maoism. Teachers and college staff were ordered to become Marxist-Leninists, and intellectuals who studied abroad were forced to confess as "implementers of the imperialist cultural invasion". School curricula were restructured, and propaganda and indoctrination were heavily used to change the citizens.
 
+#### Cult of personality
+
+Mao's cult of personality reached its peak during the Cultural Revolution. The people were drawn in by his promises after a decade of wars and corruption after the fall of the Qing dynasty. As the son of a poor peasant who worked hard to improve his social status, he maintained his image of being connected to the land and the peasants.
+
+!!! example
+    As a publicity stunt, at the age of 72 years, he swam through the Yangtze River in July 1966 to prove that he was fit to rule. Propaganda at the time claimed he swam nearly 15 kilometres in just over an hour.
+
+#### Education
+
+To create citizens supportive of the state, the CCP controlled the curriculum, reading material, and other information that students were exposed to. Schools effectively became indoctrination centres.
+
+!!! example
+    - Chinese textbooks were censored.
+    - The Little Red Book was the primary literary text.
+    - Elementary education focused on rote (memorisation via repetition) over critical thinking.
+    - Secondary education focused on testing, exams, physical education, and in practice it was mostly children of high ranking party members and government officials who attended.
+
+**Language reforms** resulted in a new form of Mandarin that allowed for people averywhere in the country to communicate. This standardisation made Mandarin easier to learn but caused local languages to disappear.
+
+The **Socialist Education Movement** from 1964 to 1966 had the goal to cleanse politics, the economy, organisation, and ideology as the "Four Cleanups". Intellectuals were sent to the countryside to be re-educated by peasants. They still attended school, but also worked in factories and with the peasants.
+
+#### Propaganda in the Cultural Revolution
+
+During the Cultural Revolution, it was required that a portrait or sculpture of Mao was present in each home.
+
+Mao called for class struggle in all educational institutions, and education as an ideal was condemned. Peasants and industrial workers were made teachers and pupils, and they were encouraged to criticise their teachers, who were forced to wear dunce caps and were paraded around. Schools and universities closed down and were made into barracks for Red Guards.
+
+!!! info
+    130 million young people stopped attending school.
+
+The [**Down to the Countryside Movement**](https://en.wikipedia.org/wiki/Down_to_the_Countryside_Movement) beginning in 1968 when the Red Guard was becoming violent and difficult to control had Mao order them to return to schools, with more violent radical groups being forcibly suppressed by the PLA. Urban students were sent to the countryside to experience peasant life. This ripped millions of families apart and many did not go back to school or university when they were allowed to return home.
+
+!!! info
+    From 1968 to 1976, 17 million young people were sent to rural areas.
+
+#### Arts
+
+Mao's wife, [Jiang Qing](https://en.wikipedia.org/wiki/Jiang_Qing) (Chinese: 江青) was made the chief of new Chinese culture and the "cultural purifier". She imposed censorship on anything that did not meet the criteria of "revolutionary purity".
+
+Traditional Chinese **operas** were replaced by those focused on the proletariat overthrowing class enemies. The more famous ones have political overtones with communist and/or revolutionary themes.
+
+Folk **music** was made modern and an attempt was made to put traditional Chinese music on equal footing. Rousing songs that appealed to the masses were composed, and Western music was entirely banned — symphonic and classical music fell in this category as they were associated with elitism and the West. Mao's poems were put into choral and classical music — the Red Guard sang lyrics derived from the Little Red Book.
+
+**"The East is Red"** was a revolutionary song that was the *de facto* national anthem during the Cultural Revolution. It was played through loudspeakers everywhere at dawn and dusk, sung by students at the beginning of the first class of each day, and shows began with this song.
+
+!!! quote ""The East is Red""
+    The east is red, the sun is rising,  
+    China has brought forth a Mao Zedong.  
+    He works for the people's welfare.  
+    Hurrah, he is the people's great saviour.  
+    Chairman Mao loves the people,  
+    He is our guide,  
+    To build a new China,  
+    Hurrah, he leads us forward!  
+    The Communist Party is like the sun  
+    Wherever it shines, it is bright.  
+    Wherever there is a Communist Party,  
+    Hurrah, there the people are liberated!  
+
+**Statues** of Mao were erected in front of state offices, universities, and schools.
+
+#### Historians
+
+???+ quote "Yan Yen (poet):"
+    As a result of the Cultural Revolution, you could say the cultural trademark of my generation is that we had no culture.
+
+???+ quote "Michael Lynch:"
+    Cultural terrorism — Result of the Cultural Revolution: Cultural wasteland. Artists who resisted the revolution were sent to re-educational labour camps, where they were brutally treated. Pianists and string players were made to scratch at the ground so they would never be able to play well again.
+
+### Nature, extent, and treatment of opposition
+
+Mao never had any direct opposition.
+
+#### Struggle sessions
+
+Struggle sessions were a form of public humiliation where people **self-criticise** to find the mistakes they made and to free themselves from error. It was used in the USSR from the 1920s and by Mao during the Yan'an Rectification Movement in 1941, the Anti-Rightist Campaign, and the Cultural Revolution.
+
+#### Purges
+
+**Landlords** were publicly humiliated after land reform and tried then executed in their villages until there were no more landlords. Red Guards looted and destroyed homes, attacking landlords and local officials.
+
+!!! info
+    An estimated 2-3 million landlorrds were killed.
+
+After Mao's retreat from the Great Leap Forward, in 1966, he decided to reorganise the party by "eliminating members who had taken a capitalist road". In 1968, Liu Shaoqi and Deng Xiaoping were denounced and stripped of their positions. Liu was struggled against and humiliated while the propaganda campaign accused him of being a traitor. He died in November 1969 in prison. Deng was also struggled against and publicly shamed but put under house arrest with his wife, later sent to Jiangxi for re-education through labour.
+
+#### Laojiao and Laogai
+
+[**Laojiao**](https://en.wikipedia.org/wiki/Re-education_through_labor) (Chinese: 劳教)), or re-education through labour, involved sending prisoners to labour camps. Designed to re-educate intellectuals, the goal was for prisoners to live and work with farmers and workers. They were also required to attend political classes where they denounced themselves and criticised their own thinking to realign their thoughts with communism. Those who committed smaller crimes that did not warrant capital punishment were sent here.
+
+[**Laogai**](https://en.wikipedia.org/wiki/Laogai) (Chinese: 劳改), or reform through labour, is a lake in *Avatar: The Last Airbender*. Located in Ba Sing Se in the Earth Kingdom, it hid an underground prison where those interned were brainwashed. It is also compared to the USSR's [*gulag*](https://en.wikipedia.org/wiki/Gulag). As internment camps for criminals, they were built in areas with extreme wewather and interns were forced to perform hard labour such as digging dithes and building roads under extremely poor conditions.
+
+!!! quote
+    The Earth King has invited you to Lake Laogai.
+
 ### Extent of authoritarian control
+
+As China is still under authoritarian control and many numbers and facts are inaccurate or unknown, it is difficult to obtain concrete information. However, it appears very **totalitarian**.
+
+The Chinese followed **Confucian** philosophy, so social harmony was very important to them. Individuals were expected to accept their position in society and respect authority and the hierarchy. This led to less opposition and greater conformity. Unlike in the West, where the state is viewed as the oppressor, the state was viewed in China as family and the protector of civilisation.
+
+**Maoism** was described as "Marxism adapted to Chinese conditions". It held the following differences compared to Marxism:
+
+ 1. Peasants are the **agents of change** as opposed to urban workers, and they are moldable via social engineering. Mao used this to set up his own cult that would keep others in line.
+ 3. All revolutions require constant renewal, and permanent, **constant revolution** is required to prevent counter-revolution. Mao related stability to dangerous bureaucracy and privileged classes such as imperial China and the USSR under Khrushchev. He used this to justify constant revolution such as the Hundred Flowers Campaign and Cultural Revolution, creating a culture where violent upheaval was a regular way of life.
+
+### Historians
+
+???+ quote "Liang Heng, age 12, recount of late 1967 after 11 million young people travelled to Beijing for Mao:"
+    If there was a single thing that meant ecstasy to everyone in those days, it was seeing Chairman Mao. Ever since I had been in Peking, the possibility had been in the back of my mind, and, like every other Red Guard, I would have laid down my life for the chance… On May 1st Peng Ming was planning to go with a small group to conduct performances of Revolutionary songs at the Summer Palace during the day…and I was sometimes asked to carry drums and other instruments, so I went with Peng Ming’s group to the park. We were completely unprepared for what happened. In the middle of singing a song that Peng Ming had composed himself, we heard the great news: Chairman Mao was in the park! Gathering our instruments together hastily, we ran gasping to the spot, but it was too late. He was gone. All that remained of him was the touch of his hand on the hands of a few who had been lucky enough to get close to him. But we didn’t leave in disappointment. That trace of precious warmth in the palms of others seemed to us a more than adequate substitute for the real thing. Those Chairman Mao had touched now became the focus of our fervor. Everyone surged toward them with outstretched arms in hopes of transferring the sacred touch to their own hands. If you couldn’t get close enough for that, then shaking the hand of someone who had shaken the hands with Our Great Saving Star would have to do.
 
 ## Economic policies of China
 
