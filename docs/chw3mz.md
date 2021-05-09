@@ -389,6 +389,8 @@ The [**Down to the Countryside Movement**](https://en.wikipedia.org/wiki/Down_to
 
 Mao's wife, [Jiang Qing](https://en.wikipedia.org/wiki/Jiang_Qing) (Chinese: 江青) was made the chief of new Chinese culture and the "cultural purifier". She imposed censorship on anything that did not meet the criteria of "revolutionary purity".
 
+**Statues** of Mao were erected in front of state offices, universities, and schools.
+
 Traditional Chinese **operas** were replaced by those focused on the proletariat overthrowing class enemies. The more famous ones have political overtones with communist and/or revolutionary themes.
 
 Folk **music** was made modern and an attempt was made to put traditional Chinese music on equal footing. Rousing songs that appealed to the masses were composed, and Western music was entirely banned — symphonic and classical music fell in this category as they were associated with elitism and the West. Mao's poems were put into choral and classical music — the Red Guard sang lyrics derived from the Little Red Book.
@@ -408,8 +410,6 @@ Folk **music** was made modern and an attempt was made to put traditional Chines
     Wherever it shines, it is bright.  
     Wherever there is a Communist Party,  
     Hurrah, there the people are liberated!  
-
-**Statues** of Mao were erected in front of state offices, universities, and schools.
 
 #### Historians
 
