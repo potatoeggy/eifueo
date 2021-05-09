@@ -222,9 +222,112 @@ screw this history too hard
 
 ### Use of legal methods
 
+In the aftermath of the Chinese Civil War, political pluralism was adopted for the purposes of stability and unification. At the **Chinese People's Political Consultative Conference (PCC)** on 21 September 1949:
+
+ - [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) (Chinese: 毛泽东) was elected Chairman of the People's Republic of China,
+ - [Zhou Enlai](https://en.wikipedia.org/wiki/Zhou_Enlai) (Chinese: 周恩来) was appointed first premier (prime minister) by Mao,
+ - a de facto constitution in the form of the Organic Law was adopted, and
+ - China was divided into six regions with each region under two civilian and two military officers to maintain control
+
+<img src="/resources/images/ccp-hierarchy.png" width=700>(Source: Kognity)</img>
+
+#### Xinjiang
+
+The **reunification campaigns** from 1950 to 1953 consolidated Mao's power across a divided China and allowed him to gain control of its borders.
+
+!!! background
+    The region of [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang) followed the Qing dynasty, but was semi-independent during the rule of the warlords and the Republic of China. With a population consisting largely of the [Uyghur](https://en.wikipedia.org/wiki/Uyghurs) minority ethnic group as opposed to the [Han](https://en.wikipedia.org/wiki/Han_Chinese) that made up 98% of the population in China, the province was ruled by a coalition government made of local leaders and **Guomindang (GMD)** members at the time of the establishment of the PRC.
+
+The **Chinese Communist Party (CCP)** was concerned that Xinjiang would start a separatist movement against them or become part of the USSR. Upon the CCP's army, the **People's Liberation Army (PLA)** moving into Xinjiang, provincial authorities pledged allegiance to the CCP and the province was fully under their control by 1951. It is referred to as the "Peaceful Liberation of Xinjiang" in Chinese historiography.
+
+In 1955, the region became an [autonomous region](https://en.wikipedia.org/wiki/Autonomous_regions_of_China) of China, granting it a local government and more legislative rights than other provinces.
+
+#### Controlling the population
+
+All citizens were required to belong to a self-sufficient entity known as a *danwei* (Chinese: 单位), or **work unit**. Permission from the work unit was needed to marry or have children. Under the threat of punishment if policy was not followed, everyone was assigned a home a food to eat along with others in their work unit. Regardless of their size, all work units were obligated to provide or share adequate facilities — schools, housing, health care, etc.
+
+A system of **household registration** to identify citizens known as *hukou* (Chinese: 户口) recorded the birth, death, and movement of people as well as their family members, connecting identifiable information to their location of permanent residence. Whether someone was given better benefits by the government was determined by their agricultural status (agricultural or non-agricultural — i.e. rural or urban, non-agricultural was better) and it was virtually impossible to switch to the other. During industrialisation from 1955 onward, Mao used this system to control rural-to-urban migration by way of a certificate on one's registration required to be able to move to urban area. 
+
+Public **records** per person known as *dang'an* (Chinese: 档案) contained personal information such as:
+
+ - employment records
+ - physical characteristics
+ - family background with photos
+ - transcripts and school records
+ - achievements, mistakes, and self-criticisms
+ - political activity, and more
+ 
+The government and work unit could access these files, instilling a culture of fear into the citizens as the most intrusive form of surveillance.
+
+#### 1954 Constitution
+
+The [constitution](https://en.wikipedia.org/wiki/1954_Constitution_of_the_People%27s_Republic_of_China) was based on the PCC and Organic Law. It established rights such as equality of citizens andbetween Han and minority groups, prohibiting racial discrimination and oppression. It also set up a legal system where all citizens had the right to a fair trial by judges appointed by the government, but this was not genuinely implemented until after Mao.
+
 ### Use of force
 
+#### Hundred Flowers Campaign
+
+From 1956 to 1957, the CCP encouraged citizens to express their thoughts of the regime in the [Hundred Flowers Campaign](https://en.wikipedia.org/wiki/Hundred_Flowers_Campaign) (Chinese: 百花齐放), inviting intellectuals to criticise their policies.
+
+!!! quote "Mao Zedong, 1956:"
+    The policy of letting a hundred flowers bloom and a hundred schools of thought contend is designed to promote the flourishing of the arts and the progress of science.
+
+Initially, people were afraid of being arrested publicly and executed after the events of the Three- and Five- Antis campaigns, but eventually began to provide criticism. By May 1957, millions of letters were openly criticising the government. Rallies in the streets and posters and articles in magazines protested against corruption and censorship.
+
+!!! example
+    Students at Peking University created a "Democratic Wall" on which they criticised the CCP with posters and letters over their control over intellectuals, the harshness of campaigns against counter-revolutionaries, low living standards, economic corruption and privileges among members of the party.
+
+Mao abandoned the campaign in June 1957 and then began the [Anti-Rightist Campaign](https://en.wikipedia.org/wiki/Anti-Rightist_Campaign) in July where those who provided criticism were not persecuted. It is controversial whether Mao was genuinely surprised by the extent of the criticism or whether the campaign was to identify enemies of the CCP.
+
+!!! definition
+    In China, a **rightist** was someone who favoured capitalism over communism, but eventually became a label for anyone who disagreed with Mao.
+
+During the Anti-Rightist Campaign from 1957 to 1959, Mao attacked his critics in the Hundred Flowers Campaign, forcing them to take back what they said. Led by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Chinese: 邓小平), at least 550 000 citizens were declared rightists — most of them were sent to be re-educated in the countryside via labour reform. The result was that Mao accumulated more power over the party and over China.
+
+#### Force in the Cultural Revolution
+
+!!! background
+    The [**Cultural Revolution**](https://en.wikipedia.org/wiki/Cultural_Revolution) from 1966 to 1976 was declared by Mao to remove all capitalist and intellectual elements from China. In reality, it was Mao's attempt to remove his rivals in the government — [Liu Shaoqi](https://en.wikipedia.org/wiki/Liu_Shaoqi) (Chinese: 刘少奇) and Deng Xiaoping — believing their successful policies would damage his reputation and ideology, and to revive his cult of personality after the events of the Great Leap Forward.
+
+The "Four Olds" — old ideas, culture, customs, and habits — were denounced and books were burnt, porcelain destroyed, museums ransacked, and heritage sites destroyed.
+
+!!! example
+    More than 70% of Beijing's cultural artifacts were destroyed in August–September 1966.
+
+Because religion and intellectuals could change people's minds, Mao directed temples, shrines, and religious statues to be destroyed. Intellectuals such as teachers were tortured, beaten to death, and sent to prison. Priests and the clergy were imprisoned and denounced — religious worship was banned entirely. [Red Guards](https://en.wikipedia.org/wiki/Red_Guards) comprising students from elementary to high school carried out humiliations and attacks as per the social norm because Mao had ordered them to.
+
+!!! info
+    The **Little Red Book** was a pocket-sized collection of Mao's thoughts, assembled by his propaganda minister, [Lin Biao](https://en.wikipedia.org/wiki/Lin_Biao) (Chinese: 林彪). Published during the Cultural Revolution, it was viewed as the source of all truth and more than a billion copies circulated, second only to the Holy Bible. Members of the Red Guard were required to carry the book with them at all times, and its contents were viewed as the source of all truth.
+
+In addition, landlords, rich peasants, counter-revolutionaries, rightists, and capitalists were all targeted. Due to the vague nature of thse labels, anyone could accuse anyone of anything. An environment of fear formed as people reported suspected enemies, with some citizens reporting neighbours as revenge, and children even reported and condemned their parents. The population was effectively mobilised to act as a **secret police** without actual secret police. Casualties from the Cultural Revolution are difficult to measure and range from thousands to millions.
+
+!!! example
+    People were accused and persecuted for crimes such as forgetting a quote from the Little Red Book or owning a Western instrument.
+
+#### Tibet
+
+Declaring that Tibet was part of China, on 7 October 1950, the PLA invaded east Tibet under the banner of liberating them from Western imperialist powers, although the Tibet government recorded only ten foreigners in the country. As a poor country with little infrastructure and communications, the poorly equipped and trained Tibetan army of 8 000 was outmatched by the 40 000 sent by the PLA. On 23 May 1951, the CCP imposed on Tibet the [Seventeen Point Agreement for the Peaceful Liberation of Tibet](https://en.wikipedia.org/wiki/Seventeen_Point_Agreement) that confirmed Chinese soverignity over the province.
+
+In 1959, an [uprising in Tibet](https://en.wikipedia.org/wiki/1959_Tibetan_uprising) led to the mass arrests of Tibetans and increased social and religious control. The spiritual leader of Tibetan Buddhism, the [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama), fled to India and some Buddhist practices were forbidden. The Tenth [Panchen Lama](https://en.wikipedia.org/wiki/Panchen_Lama) under the Dalai Lama wrote the [70 000 Character Petition](https://en.wikipedia.org/wiki/70,000_Character_Petition) addressed to the Chinese government, denouncing the abusive policies such as mass imprisonment and the high prisoner death rate in Tibet under communist rule. Mao rejected the claims and arrested him.
+
+#### Guangdong purge
+
+Guangdong (Chinese: 广东), also known as Canton, is a province in southern China close to Hong Kong and Macau and had held an economically important port that was the headquarters of the GMD. During the **reunification campaigns**, an estimated 28 000 people were executed as it was purged of Nationalist forces.
+
+#### Antis campaigns
+
+The [**Three-Anti Campaign**](https://en.wikipedia.org/wiki/Three-anti_and_Five-anti_Campaigns) in 1951 denounced waste, corruption, and bureaucratic inefficiency. Its targets were CCP members, former GMD members, and bureaucratic officials not in the party. Confessions were required for the people denounced in public trials. An estimated 5% of government officials were purged.
+
+!!! example
+    One thousand officers were denounced in the first month — some for minor offenses like the use of an American car and some more serious such as the use of government money to purchase luxury furniture in offices.
+
+The **Five-Anti Campaign** in 1952 denounced bribery, theft of state property, tax evasion, state property theft, chating on government contracts, and stealing economic intelligence. Its targets were the bourgeoisie, merchants, industrialists, and the rest of the capitalist class. The campaign sent a wave of fear in the bourgoisie, not helped by the Chinese encouraged to support the campaign and denounce people they suspected to be guilty. Those convicted also had to confess their crimes in public trials, and an estimated 450 000 private businesses were convicted.
+
+The results of the campaigns were large-scale purges in the CCP and bourgeoisie, the ceoncept of class struggle devevloped in China, and it showed the population that it challenging the regime would be futile.
+
 ### Charisma and propaganda
+
+At the same time of the Antis campaigns, the [**Thought Reform Movement**](https://en.wikipedia.org/wiki/Thought_reform_in_China) from 1951 to 1952 was aimed to get the citizens to accept Marxism-Leninism and Maoism. Teachers and college staff were ordered to become Marxist-Leninists, and intellectuals who studied abroad were forced to confess as "implementers of the imperialist cultural invasion". School curricula were restructured, and propaganda and indoctrination were heavily used to change the citizens.
 
 ### Extent of authoritarian control
 
@@ -357,19 +460,14 @@ The [**Shanghai Communiqué**](https://en.wikipedia.org/wiki/Shanghai_Communiqu%
 
 ### Historians
 
-*Mao: a Biography* - Ross Terill (revisionist and somewhat sympathetic to Mao), 1995:
-
-???+ quote
+???+ quote "*Mao: a Biography* - Ross Terill (revisionist and somewhat sympathetic to Mao), 1995:"
     Mao knew little of the world outside China, and nothing of the capitalist world… Yet Mao took a lively interest in the world beyond the Soviet Bloc during the early 1960s… It was as if the split with Russia in 1960 took a burden off the back of Chinese diplomacy. Instead of being junior partner in someone else’s show, Mao made China its own one-man show on the broadening stage of the Third World.
 
-*Mao: Profiles in Power* - Shaun Breslin, 1998:
-
-???+ quote
+???+ quote "*Mao: Profiles in Power* - Shaun Breslin, 1998:"
     Mao’s main objective in all of his foreign policy initiative from 1949 to 1976 was to safeguard China’s borders and restore China to its rightful position on the world stage. Mao had a traditional Sinocentrism: the notion that China is the central place in the world, and that only those who recognise and accept Chinese superiority can be considered to be civilised.
 
-*Mao Zedong* - Maurice Meisner (sympathetic to socialist ideology and goals), 2007:
 
-???+ quote
+???+ quote "*Mao Zedong* - Maurice Meisner (sympathetic to socialist ideology and goals), 2007:"
     Mao’s foreign policy clothed itself in revolutionary rhetoric, but was conservatively cautious in substance, based on narrow calculation of China’s national self-interest… In Mao’s view the Soviet Union posed a greater danger to China than did the United States.
 
 ## Resources
