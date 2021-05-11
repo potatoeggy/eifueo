@@ -388,10 +388,10 @@ $$\vec{u}\bullet\vec{v}=|\vec{u}||\vec{v}|\cos\theta$$
 
 Much like regular multiplication, dot products are:
 
- - communtative — $\vec{u}\bullet\vec{v}=\vec{v}\bullet\vec{u}$
- - distributive over vectors — $\vec{u}\bullet(\vec{v}+\vec{w})=\vec{u}\bullet\vec{v}+\vec{u}\bullet\vec{w}$
- - associative over scalars — $(m\vec{u})\bullet(n\vec{v})=mn(\vec{u}\bullet\vec{v})$
- 	- $m(\vec{u}\bullet\vec{v})=(mu)\bullet\vec{v}=(mv)\bullet\vec{u}$
+ - communtative: $\vec{u}\bullet\vec{v}=\vec{v}\bullet\vec{u}$
+ - distributive over vectors: $\vec{u}\bullet(\vec{v}+\vec{w})=\vec{u}\bullet\vec{v}+\vec{u}\bullet\vec{w}$
+ - associative over scalars: $(m\vec{u})\bullet(n\vec{v})=mn(\vec{u}\bullet\vec{v})$
+ 	- $m(\vec{u}\bullet\vec{v})=(m\vec{u})\bullet\vec{v}=(mv)\bullet\vec{u}$
 
 When working with algebraic vectors, their dot products are equal to the products of their components.
 $$\vec{u}\bullet\vec{v}=u_xv_x+u_yv_y$$
@@ -480,6 +480,52 @@ $$
     The magnitude of any projection is always **positive**. If $\cos\theta$ returns a negative value, it needs to be absed again.
 
 Vector projections are applied in work equations — see [SL Physics 1](/sph3u7/#work) for more information.
+
+### Cross product
+
+The cross product or **vector product** is a vector that is perpendicular of two vectors that are not colinear. Where $\vec{u}_1,\vec{u}_2,\vec{3}$ represent the x, y, and z coordinates of the position vector $\vec{u}$, respectively:
+$$
+\begin{align*}
+\vec{u}\times\vec{v}&=
+\begin{vmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+\vec{u}_1 & \vec{u}_2 & \vec{u}_3 \\
+\vec{v}_1 & \vec{v}_2 & \vec{v}_3
+\end{vmatrix} \\
+\\
+&=\hat{j}\begin{vmatrix}
+\vec{u}_1 & \vec{u}_3 \\
+\vec{v}_1 & \vec{v}_3
+\end{vmatrix}
+-\hat{i}\begin{vmatrix}
+\vec{u}_2 & \vec{u}_3 \\
+\vec{v}_2 & \vec{v}_3
+\end{vmatrix}
++\hat{k}\begin{vmatrix}
+\vec{u}_1 & \vec{u}_2 \\
+\vec{v}_1 & \vec{v}_2
+\end{vmatrix} \\
+\\
+&=[\vec{u}_2\vec{v}_3-\vec{u}_3\vec{v}_2,\vec{u}_3\vec{v}_1-\vec{u}_1\vec{v}_3,\vec{u}_1\vec{v}_2-\vec{u}_2\vec{v}_1]
+\end{align*}
+$$
+
+Cross products are:
+
+ - anti-communtative: $\vec{u}\times\vec{v}=-(\vec{u}\times\vec{v})$
+ - distributive: $\vec{u}\times(\vec{u}+\vec{w})=\vec{u}\times\vec{v}+\vec{u}\times\vec{w}$
+ - associative over scalars: $m(\vec{u}\times\vec{v})=(m\vec{u})\times\vec{v}=(m\vec{v})\times\vec{u}$
+
+The **magnitude** of a cross product is opposite that of the dot product. Where $\theta$ is the smaller angle between the two vectors ($0\leq\theta\leq180^\circ$):
+$$|\vec{u}\times\vec{v}|=|\vec{u}||\vec{v}|\sin\theta$$
+
+This is also equal to the area of a parallelogram enclosed by the vectors — where one is the base and the other is the adjacent side.
+
+To determine the **direction** of a cross product, the right-hand rule can be used. Spreading the fingers out:
+
+ - the thumb is the direction of the first vector
+ - the index finger is the direction of the second vector
+ - the palm faces the direction of the cross product
 
 ## Resources
 
