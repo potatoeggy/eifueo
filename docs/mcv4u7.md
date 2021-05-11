@@ -464,6 +464,23 @@ In three dimensions, there is a final possibility should the lines not be parall
 For an object moving at **constant velocity in 2D space**, where $\vec{s}$ is its displacement, $\vec{s}_0$ is its initial displacement at $t=0$, $t$ is the time elapsed, and $\vec{v}$ is its velocity:
 $$\vec{s}=\vec{s}_0+t\vec{v}$$
 
+### Vector projections
+
+If two vectors $\vec{a}$ and $\vec{b}$ are placed tail-to-tail, the **component** of $\vec{a}$ in the direction of $\vec{b}$ is known as the **vector projection of $\vec{a}$ onto $\vec{b}$**. Represented by $Projection$, its magnitude is called the **scalar projection**.
+$$Proj_\vec{b}\vec{a}=\biggr(\frac{\vec{a}\bullet\vec{b}}{|\vec{b}|^2}\biggr)\vec{b}$$
+
+$$
+\begin{align*}
+|Proj_\vec{b}\vec{a}|&=\frac{\vec{a}\bullet\vec{b}}{|\vec{b}|} \\
+&=|\vec{a}|\cos\theta
+\end{align*}
+$$
+
+!!! warning
+    The magnitude of any projection is always **positive**. If $\cos\theta$ returns a negative value, it needs to be absed again.
+
+Vector projections are applied in work equations — see [SL Physics 1](/sph3u7/#work) for more information.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
