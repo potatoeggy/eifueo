@@ -527,6 +527,26 @@ To determine the **direction** of a cross product, the right-hand rule can be us
  - the index finger is the direction of the second vector
  - the palm faces the direction of the cross product
 
+### Applications of dot and cross products
+
+A **triple scalar product** is the result of a cross product performed first then put in a dot product.
+$$|\vec{c}\bullet(\vec{a}\times\vec{b})|$$
+
+In a **parallelpiped**, or a three-dimensional shape with six faces each a parallelogram with an identical one opposite it, the volume is the triple scalar product of the distinct three vectors that make up its side lengths:
+$$A=|\vec{c}\bullet(\vec{a}\times\vec{b})|$$
+
+**Torque** ($\vec{\tau}$ or $\vec{M}$) is the ability to rotate an object — effectively angular/rotational force — and is the cross product of the **outward-pointing radius vector** ($\vec{r}$) and the **force** vector ($\vec{F}$).
+$$
+\begin{align*}
+\vec{\tau}&=\vec{r}\times\vec{F} \\
+&=|\vec{r}||\vec{F}|\sin\theta
+\end{align*}
+$$
+
+<img src="/resources/images/torque.jpeg" width=700>(Source: Kognity)</img>
+
+The direction of the torque can be found using the **right-hand rule**.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
