@@ -543,7 +543,7 @@ $$
 \end{align*}
 $$
 
-<img src="/resources/images/torque.jpeg" width=700>(Source: Kognity)</img>
+<img src="/resources/images/torque.svg" width=700>(Source: Wikimedia)</img>
 
 The direction of the torque can be found using the **right-hand rule**.
 
