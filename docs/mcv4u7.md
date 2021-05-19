@@ -372,7 +372,7 @@ In general, the x-plane is the one in and out of the page, the y-plane left and 
 
 ### Vector operations
 
-Please see [SL Physics 1#Adding/subtracting vectors diagrammatically](/sph3u7/#addingsubtracting-vectors-diagrammatically) for more details.
+Please see [SL Physics 1#Adding/subtracting vectors diagrammatically](/sph3u7/#addingsubtracting-vectors-diagrammatically) for more details. The sum of two vectors is known as the **resultant** while the negative (opposite direction) version of that vector is known as the **equilibrant**.
 
 The sum of two vectors can also be solved diagrammatically by envisioning the head-to-tail as a parallelogram.
 
@@ -459,11 +459,6 @@ If two lines are not parallel and in two dimensions, they intersect. To solve fo
 
 In three dimensions, there is a final possibility should the lines not be parallel: the lines may be *skew*. To determine if the lines are skew, the x, y, and z variables of **two** parametric equations should be equated to their counterparts in the other vector as if they intersect. The resulting $t$ and $s$ from the first and second line respectively should be substituted into the third equation and an equality check performed.  Should there not be a solution that fulfills the third equation, the lines are skew. Otherwise, they intersect.
 
-### Applications of vector equations
-
-For an object moving at **constant velocity in 2D space**, where $\vec{s}$ is its displacement, $\vec{s}_0$ is its initial displacement at $t=0$, $t$ is the time elapsed, and $\vec{v}$ is its velocity:
-$$\vec{s}=\vec{s}_0+t\vec{v}$$
-
 ### Vector projections
 
 If two vectors $\vec{a}$ and $\vec{b}$ are placed tail-to-tail, the **component** of $\vec{a}$ in the direction of $\vec{b}$ is known as the **vector projection of $\vec{a}$ onto $\vec{b}$**. Represented by $Projection$, its magnitude is called the **scalar projection**.
@@ -527,13 +522,16 @@ To determine the **direction** of a cross product, the right-hand rule can be us
  - the index finger is the direction of the second vector
  - the palm faces the direction of the cross product
 
-### Applications of dot and cross products
+### Applications of vector operations
 
 A **triple scalar product** is the result of a cross product performed first then put in a dot product.
 $$|\vec{c}\bullet(\vec{a}\times\vec{b})|$$
 
 In a **parallelpiped**, or a three-dimensional shape with six faces each a parallelogram with an identical one opposite it, the volume is the triple scalar product of the distinct three vectors that make up its side lengths:
 $$A=|\vec{c}\bullet(\vec{a}\times\vec{b})|$$
+
+For an object moving at **constant velocity in 2D space**, where $\vec{s}$ is its displacement, $\vec{s}_0$ is its initial displacement at $t=0$, $t$ is the time elapsed, and $\vec{v}$ is its velocity:
+$$\vec{s}=\vec{s}_0+t\vec{v}$$
 
 **Torque** ($\vec{\tau}$ or $\vec{M}$) is the ability to rotate an object — effectively angular/rotational force — and is the cross product of the **outward-pointing radius vector** ($\vec{r}$) and the **force** vector ($\vec{F}$).
 $$
@@ -546,6 +544,17 @@ $$
 <img src="/resources/images/torque.svg" width=700>(Source: Wikimedia)</img>
 
 The direction of the torque can be found using the **right-hand rule**.
+
+**Force** and **velocity** are vectors with magnitude and direction. See [SL Physics 1#Force diagrams](/sph3u7/#force-diagrams) and [SL Physics 1#Velocity](/sph3u7/#velocity) for more information.
+
+### Operations with vector components
+
+If **Cartesian vectors** (see [SL Physics 1#Adding/subtracting vectors algebraically](/sph3u7/addingsubtracting-vectors-algebraically) for more details) cannot be used, the **sine and cosine laws** can be used, which are, respectively:
+
+Where $a$, $b$, and $c$ are the lengths of a triangle, and $A$, $B$, and $C$ are their angles opposite to them:
+$$\frac{\sin A}{a}=\frac{\sin B}{b}=\frac{\sin C}{c}$$
+
+$$c^2=a^2+b^2-2ab\cos C$$
 
 ## Resources
 
