@@ -549,7 +549,7 @@ The direction of the torque can be found using the **right-hand rule**.
 
 ### Operations with vector components
 
-If **Cartesian vectors** (see [SL Physics 1#Adding/subtracting vectors algebraically](/sph3u7/addingsubtracting-vectors-algebraically) for more details) cannot be used, the **sine and cosine laws** can be used, which are, respectively:
+If **Cartesian vectors** (see [SL Physics 1#Adding/subtracting vectors algebraically](/sph3u7/#addingsubtracting-vectors-algebraically) for more details) cannot be used, the **sine and cosine laws** can be used, which are, respectively:
 
 Where $a$, $b$, and $c$ are the lengths of a triangle, and $A$, $B$, and $C$ are their angles opposite to them:
 $$\frac{\sin A}{a}=\frac{\sin B}{b}=\frac{\sin C}{c}$$
