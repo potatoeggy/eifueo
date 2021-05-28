@@ -488,11 +488,11 @@ $$
 \vec{v}_1 & \vec{v}_2 & \vec{v}_3
 \end{vmatrix} \\
 \\
-&=\hat{j}\begin{vmatrix}
+&=-\hat{j}\begin{vmatrix}
 \vec{u}_1 & \vec{u}_3 \\
 \vec{v}_1 & \vec{v}_3
 \end{vmatrix}
--\hat{i}\begin{vmatrix}
++\hat{i}\begin{vmatrix}
 \vec{u}_2 & \vec{u}_3 \\
 \vec{v}_2 & \vec{v}_3
 \end{vmatrix}
