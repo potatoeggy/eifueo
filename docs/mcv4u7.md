@@ -571,9 +571,11 @@ $$\vec r = \vec r_0 + s\vec u + t\vec v,s,t\in\mathbb R$$
 
 This can be expanded to form the parametric form of the equation:
 $$
-x=x_0+su_1+tv_1 \\
-y=y_0+xu_2+tv_2 \\
-z=z_0+su_3+tv_3,s,t\in\mathbb R
+\begin{align*}
+x&=x_0+su_1+tv_1 \\
+y&=y_0+su_2+tv_2 \\
+z&=z_0+su_3+tv_3,s,t\in\mathbb R
+\end{align*}
 $$
 
 Where $A,B.C.D$ are all integers, the **scalar** or Cartesian equation of a plane in three dimensions can be expressed as follows:
