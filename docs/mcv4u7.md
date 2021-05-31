@@ -556,6 +556,32 @@ $$\frac{\sin A}{a}=\frac{\sin B}{b}=\frac{\sin C}{c}$$
 
 $$c^2=a^2+b^2-2ab\cos C$$
 
+### Vector planes
+
+A **plane** ($\pi$) is a flat surface extending infinitely in all directions and can be represented by a parallelogram.
+
+So long as any of the following are known, their plane can be constructed:
+
+ - Two intersecting or parallel lines
+ - A line and a point not on the line
+ - 3 non-colinear points
+
+In each scenario, an initial point $r_0$ and two direction vectors $\vec{u},\vec{v}$ can be derived to form the equation for a plane:
+$$\vec r = \vec r_0 + s\vec u + t\vec v,s,t\in\mathbb R$$
+
+This can be expanded to form the parametric form of the equation:
+$$
+x=x_0+su_1+tv_1 \\
+y=y_0+xu_2+tv_2 \\
+z=z_0+su_3+tv_3,s,t\in\mathbb R
+$$
+
+Where $A,B.C.D$ are all integers, the **scalar** or Cartesian equation of a plane in three dimensions can be expressed as follows:
+$$Ax+By+Cz+D=0$$
+
+!!! info
+    $[A,B,C]$ is the **normal direction vector** of a plane.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
