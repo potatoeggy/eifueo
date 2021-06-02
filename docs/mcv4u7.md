@@ -584,6 +584,24 @@ $$Ax+By+Cz+D=0$$
 !!! info
     $[A,B,C]$ is the **normal direction vector** of a plane.
 
+### Interactions of planes
+
+A line intersects a plane if the dot product between the two is not zero, and the resulting scalar multiple found can be used to find the point of intersection. Otherwise, once the equations are substituted into each other, if the statement is true, the line and plane are **parallel and coincident**. Otherwise, they are parallel.
+
+The shortest distance between two **skew lines** $L_1$ and $L_2$ is equal to:
+$$
+\begin{align*}
+d&=|Proj_\vec{n}\vec{P_1P_2}| \\
+&=\frac{|\vec{P_1P_2}\bullet(\vec m_1\times\vec m_2)|}{|\vec m_1\times\vec m_2|}
+\end{align*}
+$$
+
+The shortest distance between a point $P(x_1,y_1,z_1)$ and plane $\pi: Ax+By+Cz+D=0$ is equal to:
+$$d=\frac{|Ax_1+By_1+Cz_1+D|}{\sqrt{A^2+B^2+C^2}}$$
+
+The shortest distance between two parallel planes is equal to:
+$$d=\frac{|D_1-D_2|}{\sqrt{A^2+B^2+C^2}}$$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
