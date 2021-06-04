@@ -602,6 +602,19 @@ $$d=\frac{|Ax_1+By_1+Cz_1+D|}{\sqrt{A^2+B^2+C^2}}$$
 The shortest distance between two parallel planes is equal to:
 $$d=\frac{|D_1-D_2|}{\sqrt{A^2+B^2+C^2}}$$
 
+Two planes are parallel if their direction vectors are scalar multiples of each other:
+$$\vec n_1 = k\vec n_2$$
+
+If they are also coincident, the D-values will also be identical:
+$$D_1=D_2$$
+
+Otherwise, the planes intersect, the line along which is equal to the cross product between the two direction vectors.
+$$\vec m=\vec n_1\times\vec n_2$$
+
+An initial point vector can be solved by setting any of the variables ($x,y,z$) to zero and solving for the others. Alternatively, the parameter $t$ can be set equal to one of the variables instead and the parametric equation derived that way.
+
+The **angle between two planes** is equal to the angle between their normal direction vectors, which can be determined using the dot product formula.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
