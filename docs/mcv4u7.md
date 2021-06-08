@@ -635,6 +635,106 @@ If no normals are scalar multiples:
 	- the result is true with no variable (e.g., $0 = 0$), there are is an infinite number of solutions along a line
 	- the result contains a variable (e.g., $t = 4$), there is a single point of intersection at the parameter $t$.
 
+## Matrices
+
+A **matrix** is a two-dimensional array with rows and columns, represented by a capital letter and a grid denoted by square brackets.
+$$
+A=
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6
+\end{bmatrix}
+$$
+
+$A_{ij}$ represents the element in the $i$th row and the $j$th column.
+
+A **coefficient matrix** contains coefficients of variables.
+$$
+A=
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6
+\end{bmatrix}
+$$
+
+An **augmented matrix** also contains constants, separated by a vertical line.
+$$
+A=
+\left[\begin{array}{rrr|r}
+1 & 2 & 3 & 5 \\
+4 & 5 & 6 & 10
+\end{array}\right]
+$$
+
+!!! example
+    The equation system
+    $$
+    x+2y-4z=3 \\
+    -2x+y+3z=4 \\
+    4x-3y-z=-2
+    $$
+    can be written as the matrix
+    $$
+    A=
+    \left[\begin{array}{rrr|r}
+    1 & 2 & -4 & 3 \\
+    -2 & 1 & 3 & 4 \\
+    4 & -3 & -1 & -2
+    \end{array}\right]
+    $$
+
+### Gaussian elimination
+
+Gaussian elimination is used to solve a system of linear relations, such as that of plane equations. It aims to reduce a matrix into its **row echelon form** shown below to solve for each variable.
+$$
+A=
+\left[\begin{array}{rrr|r}
+a & b & c & d \\
+0 & e & f & g \\
+0 & 0 & h & i
+\end{array}\right]
+$$
+
+The following **row operations** can be performed on the matrix to achieve this state:
+
+ - swapping (interchanging) the position of two rows
+	- $R_a \leftrightarrow R_b$
+ - multiplying a row by a non-zero constant
+	- $AR_a \to R_a$
+ - adding/subtracting rows, overwriting the destination row
+	- $R_a\pm R_b\to R_b$
+ - multiplying a row by a non-zero constant and then adding/subtracting it to another row
+	- $AR_a + R_b \to R_b$
+
+!!! example
+    In the matrix from the previous example, by performing $R_1\leftrightarrow R_2$:
+    $$
+    A=
+    \left[\begin{array}{rrr|r}
+    -2 & 1 & 3 & 4 \\
+    1 & 2 & -4 & 3 \\
+    4 & -3 & -1 & -2
+    \end{array}\right]
+    $$
+    $5R_1\to R_1$:
+    $$
+    A=
+    \left[\begin{array}{rrr|r}
+    -10 & 5 & 15 & 20 \\
+    1 & 2 & -4 & 3 \\
+    4 & -3 & -1 & -2
+    \end{array}\right]
+    $$
+    $10R_2+R_1\to R_1$:
+    $$
+    A=
+    \left[\begin{array}{rrr|r}
+    0 & 25 & -25 & 50 \\
+    1 & 2 & -4 & 3 \\
+    4 & -3 & -1 & -2
+    \end{array}\right]
+    $$
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
