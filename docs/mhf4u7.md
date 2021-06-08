@@ -2,7 +2,7 @@
 
 The course code for this page is **MHF4U7**.
 
-## Basic math — move later
+## Review
 
 ### Logarithm rules
 
