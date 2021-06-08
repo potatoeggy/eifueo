@@ -605,7 +605,7 @@ $$d=\frac{|D_1-D_2|}{\sqrt{A^2+B^2+C^2}}$$
 Two planes are parallel if their direction vectors are scalar multiples of each other:
 $$\vec n_1 = k\vec n_2$$
 
-If they are also coincident, the D-values will also be identical:
+If they are also coincident, the D-values will also be identical or equal to the same scalar multiple as the normal:
 $$D_1=D_2$$
 
 Otherwise, the planes intersect, the line along which is equal to the cross product between the two direction vectors.
@@ -619,7 +619,7 @@ When looking at three planes:
 
 If all three normals are scalar multiples:
 
- - If all three $D$-values are scalar multiples, the planes are parallel and coincident and they have infinite points of intersection along the plane equation.
+ - If all three $D$-values are those same scalar multiples, the planes are parallel and coincident and they have infinite points of intersection along the plane equation.
  - Otherwise, there are no solutions and the planes are parallel and distinct and/or parallel and coincident for two.
 
 If two normals are scalar multiples:
