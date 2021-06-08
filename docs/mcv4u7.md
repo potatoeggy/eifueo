@@ -615,6 +615,26 @@ An initial point vector can be solved by setting any of the variables ($x,y,z$) 
 
 The **angle between two planes** is equal to the angle between their normal direction vectors, which can be determined using the dot product formula.
 
+When looking at three planes:
+
+If all three normals are scalar multiples:
+
+ - If all three $D$-values are scalar multiples, the planes are parallel and coincident and they have infinite points of intersection along the plane equation.
+ - Otherwise, there are no solutions and the planes are parallel and distinct and/or parallel and coincident for two.
+
+If two normals are scalar multiples:
+
+ - If the two parallel planes are coincident with the same $D$-values, there will be a line of intersection much like solving for intersection between two planes.
+ - Otherwise, the two parallel planes are distinct, forming a Z-pattern with the third plane and so there is no solution.
+
+If no normals are scalar multiples:
+
+ - If the triple scalar product of the three planes is equal to zero, the normal vectors are not coplanar and so there will be a point of intersection.
+ - Alternatively, by solving the scalar equations for the planes, if:
+	- the result is a contradiction (e.g., $0 = 3$), there is no solution
+	- the result is true with no variable (e.g., $0 = 0$), there are is an infinite number of solutions along a line
+	- the result contains a variable (e.g., $t = 4$), there is a single point of intersection at the parameter $t$.
+
 ## Resources
 
  - [IB Math Analysis and Approaches Syllabus](/resources/g11/ib-math-syllabus.pdf)
