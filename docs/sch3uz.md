@@ -703,7 +703,7 @@ Down a period, the number of shells occupied by the electrons increases, so vale
  - the attraction of valence electrons to the nucleus decreases due to the increasing distance
  - shielding increases due to the increasing number of electrons between the valence electrons and the nucleus
 
-The impacts of these basic concepts on the above periodic trends is left as an exercise to the reader.
+The effects of these basic concepts to cause the above periodic trends is left as an exercise for the reader.
 
 !!! example
     To explain why there is a trend of decreasing atomic radius across a period:
