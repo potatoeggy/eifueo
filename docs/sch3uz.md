@@ -684,7 +684,7 @@ Please see [SL Physics#Models](/sph3u7/#models) for more information.
 Some trends in the periodic table include:
 
  - atomic radius decreases when going across a period and increases when going down a group
- - ionic radius decreases when going across a period for groups 1–13, then sharply increases and then increases for groups 15–17; it increases when going down a group
+ - ionic radius decreases when going across a period for groups 1–13, then sharply increases before decreasing across groups 15–17; it increases when going down a group
  - electron affinity increases when going across a period and decreases when going down a group
  - ionisation energy increases when going across a period and decreases when going down a group
  - electronegativity increases when going across a period and decreases when going down a group
