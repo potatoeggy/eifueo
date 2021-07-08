@@ -56,7 +56,7 @@ $$|F_m|=qvB\sin\theta$$
 Regardless of $\theta$, the force vector is always perpendicular to both $B$ and $v$,
 
 The above equation can be rearranged to find **electromagnetic** force in terms of current and wire length in a **uniform magnetic field**:
-$$|F_em|=BIL\sin\theta$$
+$$|F_{em}|=BIL\sin\theta$$
 
 <img src="/resources/images/magnet-on-wire.png" width=700>(Source: Kognity</img>
 
