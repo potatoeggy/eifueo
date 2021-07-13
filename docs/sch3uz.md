@@ -415,7 +415,7 @@ $$V\propto T$$
 $$P\propto T$$
 
 The **combined gas law** is derived from the three laws above:
-$$\frac{P_1V_1}{T_1}=\frac{P_2V_2}{V_2}$$
+$$\frac{P_1V_1}{T_1}=\frac{P_2V_2}{T_2}$$
 
 **Avogadro's law** states that the amount of a gas and its volume are proportional at a fixed temperature and pressure. This means that if **all** products and reactants are gases, volumes are related by the coefficients in a balanced chemical equation.
 $$n\propto V$$
