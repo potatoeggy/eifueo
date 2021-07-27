@@ -33,13 +33,13 @@ The **right-hand rule** for straight-line conductors indicates that when the con
 
 <img src="/resources/images/right-hand-rule.png" width=700>(Source: Kognity)</img>
 
-### Selenoid electromagnets
+### Solenoid electromagnets
 
-A **selenoid** is a conductor coil in a tight helix. Current passed through a selenoid will generate a **uniform magnetic field** inside the coil with a pattern identical to that of a bar magnet outside it.
+A **solenoid** is a conductor coil in a tight helix. Current passed through a solenoid will generate a **uniform magnetic field** inside the coil with a pattern identical to that of a bar magnet outside it.
 
 <img src="/resources/images/selenoid-electromagnet.png" width=700>(Source: Kognity)</img>
 
-The right-hand rule can be applied again to a selenoid to identify the direction of the north pole or direction of magnetic field in the coil:
+The right-hand rule can be applied again to a solenoid to identify the direction of the north pole or direction of magnetic field in the coil:
 
 <img src="/resources/images/selenoid-right-hand-rule.png" width=700>(Source: Kognity)</img>
 
