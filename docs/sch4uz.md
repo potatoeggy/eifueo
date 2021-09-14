@@ -2,6 +2,10 @@
 
 The course code for this page is **SCH4UZ**.
 
+## Thermochemistry
+
+Please see [SL Physics 1#3.1 - Thermal concepts](/sph3u7/#31-thermal-concepts) for more information.
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
