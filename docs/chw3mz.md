@@ -18,7 +18,7 @@ The following terms are regularly used by IB and have specific meanings:
 
 Historiography is the study of how history is developed and how historians have viewed history. It helps develop the ability to view events from multiple perspectives and reveals how others might view events in multiple perspectives. The **historical method** outlines the process of making history from start to finish:
 
- - **Questions are asked** about any of the following:
+ - **Questions are asked** about any of the following from controversies, new perspectives, and gaps in history:
 	- major/minor long-/short-term **causes** of an event
 	- the **nature** of an event — the purpose of the event, the status of the event
 	- the immediate/long-term/short-term **impacts** of an event
