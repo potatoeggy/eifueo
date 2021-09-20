@@ -135,6 +135,17 @@ A **formation equation** is a balanced chemical equation where exactly one mole 
 The **standard enthalpy of formation** $\Delta H^\theta_f is the energy change from the formation of one mole of its substance from its elements in their standard states. It can be determined by subtracting the sum of the enthalpy of each element/compound on the reactant side and adding those on the product side.
 $$\Delta H = \sum n\Delta H\text{ products} - \sum n\Delta H\text{ reactants}$$
 
+!!! warning
+    It is assumed that there is no state change that would affect enthalpy when calculating *standard* enthalpy of formation.
+
+### Enthalpy cycles
+
+Enthalpy cycles are a visual representation of Hess's law. It is used to show that the energy is the same from initial reactants to a product regardless of any intermediate steps.
+
+!!! example
+    $\Delta H_1 = \Delta H_2 + \Delta H_3$. Note that both arrows point to the intermediate product.
+    <img src="/resources/images/enthalpy-cycles.png" width=700>(Source: Kognity)</img>
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
