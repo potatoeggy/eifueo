@@ -82,6 +82,13 @@ Also known as **reaction profiles**, energy profiles are a visual representation
  - The change in enthalpy is labelled with an arrow in the direction of the change with its value if known.
  - A hump shows the reaction in progress (even exothermic reactions require some activation energy).
 
+### Bond enthalpies
+
+$\Delta H_B$, also known as **bond association energies**, the enthalpy of a bond type (e.g., $\ce{C-H}$) is the energy required to break **1 mol** of that bond type when the reactants and products are **gaseous** so energy is not lost from state changes. Compared of other methods of determining reaction enthalpy, this method is less accurate due to the other compounds affecting bond strength and thus enthalpy on a per-molecule basis.
+
+The change in enthalpy of a reaction can be approximated by considering the bonds broken and formed:
+$$\Delta H = \sum n\Delta H_B\text{reactants} - \sum n\Delta H_B\text{products}$$
+
 ## Calorimetry
 
 !!! definition
@@ -108,6 +115,13 @@ In the event that reactants cannot be placed in water to react (e.g., combustion
 ### Measuring calorimeters
 
 Instead of recording the temperature of the calorimeter at any one point, a range of temperatures over time per trial should be plotted to obtain a curve. As calorimeters are not perfect and absorb/release energy, it will generate a graph that peaks and slowly returns to ambient temperature. To remedy this, the line returning the temperature to normal should be **linearly regressed** and extrapolated to the reaction start time to obtain a more accurate peak temperature.
+
+## Hess's law
+
+Hess's law asserts that the change in enthalpy works like displacement - so long as the products and reactants are the same, any reaction with any number of intermediate steps will result in the same change in enthalpy.
+$$\Delta H = \sum \Delta H \text{ of intermediate reactions}$$
+
+### Enthalpy cycles
 
 ## Resources
 
