@@ -121,7 +121,19 @@ Instead of recording the temperature of the calorimeter at any one point, a rang
 Hess's law asserts that the change in enthalpy works like displacement - so long as the products and reactants are the same, any reaction with any number of intermediate steps will result in the same change in enthalpy.
 $$\Delta H = \sum \Delta H \text{ of intermediate reactions}$$
 
-### Enthalpy cycles
+### Formation equations
+
+A **formation equation** is a balanced chemical equation where exactly one mole of product and its reactants in **elemental form** are in their diatomic state — -gens are diatomic, phosphorus is $\ce{P4}$, sulfur is $\ce{S8}$, and at SATP (25°C, 100 kPa).
+
+!!! info
+    Fractions are permitted as coefficients on the reactant side to get exactly one mole of product.
+
+!!! example
+    $$\ce{6C_{(s)} + 6H2_{(g)} + 3O2_{(g)} -> C6H12O6}$$
+    $$\ce{2C_{(s)} + 3/2 H2_{(g)} + 1/2 Cl2_{(g)} -> C2H3Cl_{(g)}}$$
+
+The **standard enthalpy of formation** $\Delta H^\theta_f is the energy change from the formation of one mole of its substance from its elements in their standard states. It can be determined by subtracting the sum of the enthalpy of each element/compound on the reactant side and adding those on the product side.
+$$\Delta H = \sum n\Delta H\text{ products} - \sum n\Delta H\text{ reactants}$$
 
 ## Resources
 
