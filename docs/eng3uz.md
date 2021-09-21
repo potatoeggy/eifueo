@@ -33,6 +33,7 @@ The course code for this page is **ENG3UZ**.
 	- e.g., *The cat in the hat knows a lot about that!*
  - Cacophony: The use of words and phrases that are harsh to the ear by using consonants that require pressure to to say (e.g., p, b, d, g, k, ch-, sh-).
 	- e.g., *How much wood could a woodchuck chuck if a woodchuck could chuck wood?*
+ - Catalexis: A line missing a syllable at the end or beginning.
  - Consonance: A number of words with the same consonant sound, not at the beginning, that appear close together.
 	- e.g., *Shelley sells shells by the seashore.*
  - Dialect: A regional variety of language with spelling, grammar, and pronunciation that differentiates a population from others around them.
