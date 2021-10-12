@@ -146,6 +146,133 @@ Enthalpy cycles are a visual representation of Hess's law. It is used to show th
     $\Delta H_1 = \Delta H_2 + \Delta H_3$. Note that both arrows point to the intermediate product.
     <img src="/resources/images/enthalpy-cycles.png" width=700>(Source: Kognity)</img>
 
+## Born-Haber cycles
+
+!!! definition
+    - The **standard enthalpy of atomisation** $\Delta H^\theta_{atm}$ is the energy required to change 1 mol of an element at SATP in its standard state to 1 mol of atoms of that element in its gaseous state.
+
+To form an ionic compound from elements in their standard states:
+
+ - the elements must be converted into gaseous atoms, (enthalpy of atomisation)
+ - the atoms must lose or gain electrons to form ions, (electron affinity/ionisation energy)
+ - and then the gaseous ions must bond to form an ionic compound.
+
+The products should be listed on each level of a Born-Haber cycle, and relatively to-scale arrows should point in the direction of enthalpy change, where upwards increases enthalpy.
+
+<img src="/resources/images/born-haber-simple.png" width=700>(Source: Kognity)</img>
+
+Second ionisation energy may increase the peak enthalpy after it has lowered from first ionisation energy. In this case, unlike the below figure, the first and second ionisation energies can be combined into a single arrow representing the sum of both.
+
+<img src="/resources/images/born-haber-ionisation.png" width=700>(Source: Kognity)</img>
+
+### Lattice enthalpy
+
+The lattice enthalpy of an ionic compound is the energy released when 1 mol of an ionic solid is formed from gaseous ions.
+
+ - It decreases as ionic radius increases due to greater distance and charge separation
+ - It increases as difference in charge increases because the greater charges are more strongly attracted
+ - The above only apply if the other (ionic radius/charge) is the same or similar
+ - Difference in charge has a much greater effect than ionic radius as it is multiplicative while the effect of increasing radius is additive
+
+### Enthalpy of solution and hydration
+
+The enthalpy of hydration is the enthalpy change when 1 mol of a gaseous ion is dissolved in water to make an infinitely dilute solution such that it is unaffected by attraction or repulsion from other ions.
+
+!!! example
+    The enthalpy of $\ce{Na+_{(g)} -> Na+_{(aq)}}$ is the enthalpy of hydration of $\ce{Na+}$.
+
+The enthalpy of solution is the enthalpy change when 1 mol of a substance dissolves in water. It is equal to the sum of the enthalpy of hydration and lattice enthalpy.
+
+$$\Delta H_{sol}=\Delta H_{hy} + \Delta H_{latt}$$
+
+!!! example
+    The enthalpy change of $\ce{NaCl_{(s)} -> Na+_{(aq)} + Cl-_{(aq)}}$ is the enthalpy of solution of $\ce{NaCl}$.
+
+## Entropy
+
+**Entropy**, $S$, is a measure of structural disorder in a system in $\pu{J/K/mol}$. Absolute enthalpy is always positive, similar to enthalpy. An increase in disorder results in more entropy which results in a greater chance that a gsystem will be in a certain state.
+
+A reaction that increases entropy can continue even in the absence of extra energy, which results in endothermic reactions.
+
+Reactions that would increase entropy are **entropically favoured**, so entropy will work to make it happen.
+
+The following changes increase entropy:
+
+ - changes in state of one substance to a more disordered state, i.e., solid → liquid → gas,
+ - mixing particles of different types, e.g., solid to aqueous,
+ - increasing the number of moles of total gas or decreasing the number of moles of a solid,
+ - and increasing the number of moles of gas on the product side compared to the reactant side, which has the greatest effect.
+
+### Spontaneity
+
+The **spontaneity** of a reaction is its tendency to continue without extra energy input after its initial activation energy.
+
+Gibb's free energy or **standard free energy** ($\Delta G$/$\Delta G^\theta$, $\pu{kJ}$ or $\pu{kJ/mol}$) is a measure of the sponetaneity of a chemical change. Spontaneous reactions must have a negative $\Delta G$, while those that are positive will require more energy to continue.
+$$\Delta G^\theta = \Delta H^\theta - T\Delta S^\theta$$
+
+## Chemical kinetics
+
+The **rate of a reaction** is the change of reactant to product per unit of time. The following are all viable methods of measuring rate of reaction:
+
+ - change in gas volume via gas collection,
+ - change in mass,
+ - change in light absorption,
+ - titration,
+ - and change in conductivity.
+
+In an ideal gas, the kinetic energy of particles is spread in a **Maxwell-Boltzmann distribution**, where the total area under the curve is equal to the total number of particles in the sample.
+
+<img src="/resources/images/maxwell-boltzmann.png" width=700>(Source: Kognity)</img>
+
+As temperature increases, the distribution's total area *does not change* but the overall spread moves to the right as more particles have higher kinetic energies.
+
+<img src="/resources/images/mbdist-temperature.png" width=700>(Source: Kognity)</img>
+
+### Collision theory
+
+Collision theory states that for a chemical reaction to take place between two particles:
+
+ - they must collide,
+ - they must have proper **collision geometry** or **collision orientation** — similar to viruses bumping into cells, the "keys" must hit "locks" — in this case usually they must strike the bond,
+ - they must collide with enough energy to break the initial bond.
+
+If all of these conditions are met, the collision is an **effective collision** — a collision that results in a chemical reaction.
+
+The rate of a reaction increases with:
+
+ - the frequency of collisions,
+ - and the proportion of collisions that are effective collisions
+
+Over time, the rate generally decreases because initially the highest concentration of reactants results in the highest collision frequency, which goes down as reactants are consumed. The proportion of effective collisions will also decrease as reactants also collide with product. Eventually, the reaction will stop or be so slow it appears to have stopped.
+
+<img src="/resources/images/change-of-rate-over-time.jpg" width=700>(Source: Kognity)</img>
+
+The following factors affect the rate of reaction:
+
+ - **Surface area/particle size of a solid:** as only particles on the surface of a solid can be collided with, smaller solid particles have greater surface area where more collisions can happen, leading to greater collision frequency.
+ - **Concentration/pressure of reactant**: A greater concentration leads to more reactant particles to collide in a given volume, increasing collision frequency.
+ - **Temperature**:
+    - Increasing temperature increases reactant particles' kinetic energy, increasing collision frequency,
+    - however it primarily increases the chance of particles having sufficient activation when they do collide, changing the proportion of effective collisions.
+
+### Activation energy
+
+Because electron clouds repel reach other, without extra energy, particles would not get close enough to break bonds. This energy required for particles to become closer is known as the **activation energy** of a reaction. All chemical reactions have an activation energy requirement.
+
+### Catalysts
+
+A catalyst is a substance that increases the rate of a reaction without being consumed. Not all reactions have catalysts, and increasing catalyst quantity does not necessarily always increase the rate of reaction.
+
+Catalysts operate by reducing the activation energy needed by creating an **alternative reaction pathway** with a lower activation energy, so a larger proportion of particles are able to reach that lower energy requirement.
+
+<img src="/resources/images/catalyst-energy.png" width=700>(Source: Kognity)</img>
+
+Visualised with a Maxwell-Boltzmann distribution:
+
+<img src="/resources/images/mbdist-catalyst.png" width=700>(Source: Kognity)</img>
+
+Catalysts can also improve the chances of correct collision geometry by encouraging certain orientations.
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
