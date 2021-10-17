@@ -123,7 +123,7 @@ $$\Delta H = \sum \Delta H \text{ of intermediate reactions}$$
 
 ### Formation equations
 
-A **formation equation** is a balanced chemical equation where exactly one mole of product and its reactants in **elemental form** are in their diatomic state — -gens are diatomic, phosphorus is $\ce{P4}$, sulfur is $\ce{S8}$, and at SATP (25°C, 100 kPa).
+A **formation equation** is a balanced chemical equation where exactly one mole of product and its reactants in **elemental form** are in their standard state — -gens are diatomic, phosphorus is $\ce{P4}$, sulfur is $\ce{S8}$, and at SATP (25°C, 100 kPa).
 
 !!! info
     Fractions are permitted as coefficients on the reactant side to get exactly one mole of product.
@@ -132,7 +132,7 @@ A **formation equation** is a balanced chemical equation where exactly one mole 
     $$\ce{6C_{(s)} + 6H2_{(g)} + 3O2_{(g)} -> C6H12O6}$$
     $$\ce{2C_{(s)} + 3/2 H2_{(g)} + 1/2 Cl2_{(g)} -> C2H3Cl_{(g)}}$$
 
-The **standard enthalpy of formation** $\Delta H^\theta_f is the energy change from the formation of one mole of its substance from its elements in their standard states. It can be determined by subtracting the sum of the enthalpy of each element/compound on the reactant side and adding those on the product side.
+The **standard enthalpy of formation** $\Delta H^\theta_f$ is the energy change from the formation of one mole of its substance from its elements in their standard states. It can be determined by subtracting the sum of the enthalpy of each element/compound on the reactant side and adding those on the product side.
 $$\Delta H = \sum n\Delta H\text{ products} - \sum n\Delta H\text{ reactants}$$
 
 !!! warning
@@ -190,7 +190,7 @@ $$\Delta H_{sol}=\Delta H_{hy} + \Delta H_{latt}$$
 
 ## Entropy
 
-**Entropy**, $S$, is a measure of structural disorder in a system in $\pu{J/K/mol}$. Absolute enthalpy is always positive, similar to enthalpy. An increase in disorder results in more entropy which results in a greater chance that a gsystem will be in a certain state.
+**Entropy**, $S$, is a measure of structural disorder in a system in $\pu{J/K/mol}$. Absolute enthalpy is always positive, similar to enthalpy. An increase in disorder results in more entropy which results in a greater chance that a system will be in a certain state.
 
 A reaction that increases entropy can continue even in the absence of extra energy, which results in endothermic reactions.
 
