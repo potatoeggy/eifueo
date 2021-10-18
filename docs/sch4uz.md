@@ -167,7 +167,7 @@ Second ionisation energy may increase the peak enthalpy after it has lowered fro
 
 ### Lattice enthalpy
 
-The lattice enthalpy of an ionic compound is the **magnitude** of the energy released when 1 mol of an ionic solid is formed from gaseous ions.
+The lattice enthalpy of an ionic compound is the energy required to dissociate 1 mol of an ionic solid to its gaseous ions.
 
  - It decreases as ionic radius increases due to greater distance and charge separation
  - It increases as difference in charge increases because the greater charges are more strongly attracted
