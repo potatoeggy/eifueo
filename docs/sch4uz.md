@@ -273,6 +273,127 @@ Visualised with a Maxwell-Boltzmann distribution:
 
 Catalysts can also improve the chances of correct collision geometry by encouraging certain orientations.
 
+## Rates of reaction
+
+The **law of mass action** states that the rate of any reaction is directly proportional to the product of each reactant **concentration**. For a reaction of the form $\ce{aA + bB -> products}$, the rate law holds that:
+
+$$r=k[A]^a [B]^b$$
+
+where $k$ is the **rate constant**, an empirically determined value that is only valid for one reaction at one temperature. Its units are equal to whatever balances out the equation — where $n$ is the order of reaction, it is equal to $\ce{dm^{3(n-1)}} / \pu{mol}^{n-1} / \pu{s}$.
+
+!!! warning
+    Solids and liquids have constant concentrations, so their factor is incorporated as part of $k$ and **not included** as a separate factor (e.g., not as $[C]^c$).
+
+The **individual order of reaction** is the value of the exponent of a specific reactant in the rate law. It must be a real positive number.
+
+!!! example
+    The individual order of the reaction with respect to $A$ is $a$, and the order of reaction is $a+b$.
+
+To determine the individual order of reaction of a reactant, two identical experiments with equal quantities of the **other** reactants are needed. Where $c$ is the concentration of the reactant between the two trials, $r$ is the rate, and $n$ is the individual order of that reactant:
+
+$$\biggr(\frac{c_2}{c_1}\biggr)^n = \frac{r_2}{r_1}$$
+
+!!! example
+    For the following data, changing the concentration of $\ce{OCl-}$ by a factor of 3 causes a rate change by a factor of 9, therefore the individual order of $\ce{OCl-}$ is 2.
+    
+    | Initial $\ce{[OCl-]}$ | Initial $\ce{[I-]}$ | Initial rate |
+    | --- | --- | --- |
+    | $1.0\times10^{-3}$ | $4.0\times10^{-3}$ | $1.0\times10^{-3}$ |
+    | $3.0\times10^{-3}$ | $4.0\times10^{-3}$ | $9.0\times10^{-3}$ |
+
+### Integrated rate laws
+
+Throughout the course of one trial of one reaction, a **concentration-time graph** can be used to find details about its rate. Where concentration is the concentration of the reactant in question over time:
+
+<img src="/resources/images/concentration-time.png" width=700>(Source: Kognity)</img>
+
+A reactant with an individual order of
+
+ - **zero** shows a negative linear line, and $k=-\text{slope}$.
+ - **one** shows exponential decay, and $k=-\text{slope}$ of a graph of $\ln(\text{concentration})$ against time, which should be linear.
+ - **two** shows a *deeper* exponential decay, and $k=\text{slope}$ of a graph of $\frac{1}{\text{concentration}}$ against time, which should be linear.
+
+Additionally, a **concentration-rate graph** can be used.
+
+<img src="/resources/images/concentration-rate.png" width=700>(Source: Kognity)</img>
+
+A reactant with an individual order of
+
+ - **zero** shows a horizontal line.
+ - **one** shows a positive linear line that passes through the origin.
+ - **two** shows the right side of a positive quadratic that passes through the origin.
+
+### Half-life
+
+The half-life ($t_{1/2}$) of a reaction represents the time required for half of the sample to be used.
+
+In the context of radiation, it is the time for half of the nuclei in a radioactive sample to decay.
+
+In a **zero-order** reaction, each half-life is half of the previous.
+
+In a **first-order** reaction, it is constant regardless of concentration, and can the concentration can be expressed with an equation, where $[A]$ is the concentration of a wanted substance, $k$ is the rate constant, and $[A_0]$ is the initial concentration.
+
+$$\ln[A]=\ln[A_0]-kt_{1/2}$$
+
+In a **second-order** reaction, each half-life is double the previous.
+
+### Reaction mechanisms
+
+!!! definition
+    - A **multi-step reaction** consists of more than one reaction as intermediate steps.
+    - An **elementary step** is the basic step of a multi-step reaction, usually involving one or two molecules but never more than three.
+    - A **reactant** is present initially but not at the end of a reaction unless in excess.
+    - A **product** is not present initially but appears at the end of a reaction.
+    - A **catalyst** is present both at the start and end of a reaction. It may be consumed and regenerated in intermediate steps.
+    - A **reaction intermediate** is not present at the start or end of a reaction as it is generated and consumed in the intermediate steps.
+
+A reaction involving any more than three particles will always take place under **multiple steps** because of the near-impossibility of such a perfect collision. Even reactions with three particles are often **multi-step**.
+
+The **reaction mechanism** is the step-by-step sequence of all elementary steps of a reaction. An elementary step that is repeated consecutively should be surrounded with square brackets and a coefficient.
+
+!!! example
+    $$\ce{2\times\big[HOBr + HBr -> Br2 + H2O\big]}$$
+
+!!! example
+    The reaction $\ce{NO2_{(g)} + CO_{(g)} -> NO_{(g)} + CO2_{(g)}}$ has a theoretical reaction mechanism of:
+    $$
+    \begin{align*}
+    \ce{
+    NO2_{(g)} + NO2_{(g)} &-> NO3_{(g)} + NO_{(g)} \\
+    NO3_{(g)} + CO_{(g)} &-> NO2_{(g)} + CO2_{(g)}
+    }
+    \end{align*}
+    $$
+    $\ce{NO3_{(g)}}$ is a reaction intermediate.
+
+Multi-step reactions will have a **rate-determining step**, which is the slowest step and so is responsible for the rate law of the reaction, acting as a bottleneck. If reaction intermediates are present, the **original** reactants or catalysts that form that intermediate are still used in the rate law.
+
+!!! example
+    The reaction $\ce{H2_{(g)} + Q2_{(g)} + 2Z2_{(g)} -> 2HZ_{(g)} + 2QZ_{(g)}}$ has the following reaction mechanism:
+    $$
+    \begin{align*}
+    \ce{
+    H2_{(g)} + Q2_{(g)} &-> 2HQ_{(g)} \\
+    2\times\big[HQ_{(g)} + Z2_{(g)} &-> HZ_{(g)} + QZ_{(g)}\big]\ \text{ (slow)}
+    }
+    \end{align*}
+    $$
+    As normally for this reaction $\ce{r=k[HQ][Z2]}$, because $\ce{HQ}$ is a reaction intermediate, it is instead $\ce{r=k[H2][Q2][Z2]}$ after substituting in the first step, **ignoring product coefficients**.
+
+Often, the step with the highest activation energy is the slowest because of collision theory. Alternatively, the one with the least favourable collision geometry, such as if there are more particles that have to collide, may be the slowest.
+
+If a reactant doesn't appear in the rate-limiting step (including via intermediates), changing its concentration will not affect the rate of reaction and so it will have an individual order of 0 in the final rate law.
+
+A reaction mechanism is only plausible if:
+
+ - each elementary reaction has **three** or less reactant particles,
+ - the rate-determining step is consistent with the rate law provided, and
+ - the elementary steps add up to the overall equation.
+
+### Arrhenius equation
+
+## Equilibrium
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
