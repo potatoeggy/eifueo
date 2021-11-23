@@ -413,6 +413,44 @@ The number of moles of gas particles that are above the activation energy thresh
 
 ## Equilibrium
 
+!!! definition
+    - A reaction is at **dynamic equilibrium** if both the forward and reverse reaction continue at **equal and constant** rates, and there are no **macroscopic** changes such as temperature, colour, mass, or concentration.
+
+A chemical equation at equilibrium is represented with two single-headed arrows, indicating that a reaction has proceeded to the point that concentrations are constant, and rates are equal and constant.
+$$\ce{A + B <=> C}$$
+
+<img src="/resources/images/equilibrium-rate.png" width=700>(Source: Kognity)</img>
+
+In order for a system to eventually tend to equilibrium, the system must:
+
+ - be closed, with constant concentrations of reactant and product,
+ - maintain a constant temperature, and
+ - maintain a constant pressure if the reactant or product is a gas.
+
+For a given reaction, as long as the reactants and products are stoichiometrically matched, any combination will tend to the same equilibrium.
+
+!!! example
+    The following initital concentrations for the reaction $\ce{C + O2 -> CO2}$ will all tend to the same equilibrium.
+    
+    - 2 mol $\ce{C}$ and 2 mol $\ce{O2}$
+    - 2 mol $\ce{CO2}$
+    - 1 mol $\ce{C}$, 1 mol $\ce{O2}$, and 1 mol $\ce{CO2}$
+
+At equilibrium, the concentrations of the reactants and products must end up constant (but **not necessarily equal**).
+
+!!! example
+    <img src="/resources/images/equilibrium-concentration.jpeg" width=700>(Source: Kognity)</img>
+
+**Phase equilibrium** is when two or more states of exactly one pure substance are in dynamic equilibrium.
+
+!!! warning
+    A solution or an aqueous compound cannot be in phase equilibrium because it is not a pure substance.
+
+!!! example
+    Water constantly evaporates and condenses. Because the rate of evaporation is only dependent on the surface area of the water, the rate of condensation increases until the two are equal and constant at phase equilibrium.
+
+### Solubility equilibrium
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
