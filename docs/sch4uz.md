@@ -392,6 +392,25 @@ A reaction mechanism is only plausible if:
 
 ### Arrhenius equation
 
+The Arrhenius equation relates the temperature to the rate of a reaction.
+
+Where:
+
+ - $k$ is the rate constant,
+ - $R$ is the ideal gas constant,
+ - $E_a$ is the activation energy for the reaction,
+ - $A$ is the proportionality/Arrhenius constant for the reaction,
+ - and $e$ is Euler's number
+
+$$k=Ae^\frac{-E_a}{RT}$$
+
+Graphing $\ln k$ against $\frac{1}{T}$ forms the linear relation:
+$$\ln k = \frac{-E_a}{R}\frac{1}{T}+\ln A$$
+
+where the slope of the graph is $\frac{-E_a}{R}$ and the y-intercept is $\ln A$.
+
+The number of moles of gas particles that are above the activation energy threshold is expressed in the second term of the equation: $e^\frac{-E_a}{RT}$.
+
 ## Equilibrium
 
 ## Resources
