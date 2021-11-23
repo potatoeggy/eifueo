@@ -449,7 +449,49 @@ At equilibrium, the concentrations of the reactants and products must end up con
 !!! example
     Water constantly evaporates and condenses. Because the rate of evaporation is only dependent on the surface area of the water, the rate of condensation increases until the two are equal and constant at phase equilibrium.
 
-### Solubility equilibrium
+A **solubility equilibrium** requires at least two substances — a solute and a solvent.
+
+### Equilibrium constant
+
+!!! definition
+    - The **position of equilibrium** is the concentration of reactants and products at dynamic equilibrium.
+
+The equilibrium constant $K_c$ or $K_eq$ is related to the concentration of reactants and products in a given system at equilibrium at a given temperature. It is equal to the product of all products divided by the product of all reactants.
+$$
+\ce{aA + bB + cC <=> fF + gG + hH} \\
+\begin{align*}
+K_c &= \ce{\frac{[F]^f [G]^g [H]^h}{[A]^a [B]^b [C]^c}} \\
+&= \frac{\Pi[\text{products}]^p}{\Pi[\text{reactants}]^r}
+\end{align*}
+$$
+
+The units of $K_c$ varies similar to the rate constant so they are often omitted.
+
+!!! warning
+    Only concentrations that change during the course of the reaction should appear in $K_c$, so solids and liquid water should not be included. 
+
+If $K_c$ is greater than 1000, the reaction is **product-favoured**, meaning that there will be a greater concentration of products at equilibrium. If $K_c$ is less than 0.001, the reaction is **reactant-favoured**.
+
+Contrary to the house of cards of lies told to you in lower grades, all reactions are equilibrium reactions, but some have $K_c$s that are so large or small that they effectively occur to completion or don't occur at all.
+
+#### ICE tables
+
+An initial-change-equilibrium (ICE) table is used to work with equilibrium concentrations and **only contains concentrations**.
+
+It consists of:
+
+ - the original concentrations of each compound in the "initial" row,
+ - the change in concentration in the form of a variable of each compound after one "iteration" of the reaction in the "change" row, and
+ - the end equilibrium concentration of each compound in the "equilibrium" row. The "initial" and "change" rows should sum to the "equilibrium" row.
+
+!!! example
+    An ICE table with 1 mole each of $\ce{H2}$ and $\ce{I2}$ in $\pu{2.00 dm3}$ of water that eventually ends up with an equilibrium concentration of $\ce{[H2]}=\pu{0.11 mol/dm3}$ will form the following ICE table.
+    
+    | | $\ce{H2_{(g)}}$ | $\ce{I2_{(g)}}$ | $\ce{2HI_{(g)}}$ |
+    | --- | --- | --- | --- |
+    | Initial | 0.50 | 0.50 | 0 |
+    | Change | $-y$ | $-y$ | $+2y$ |
+    | Equilibrium | 0.11 | 0.50$-y$ | $+2y$ |
 
 ## Resources
 
