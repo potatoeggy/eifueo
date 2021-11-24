@@ -493,6 +493,79 @@ It consists of:
     | Change | $-y$ | $-y$ | $+2y$ |
     | Equilibrium | 0.11 | 0.50$-y$ | $+2y$ |
 
+## Organic chemistry
+
+!!! definition
+    - An **organic molecule** is one with at least one carbon atom covalently bonded to another carbon or hydrogen atom (i.e., at least one C-H or C to C bond)
+
+Carbon is unique in organic chemistry as it is the only element with the following properties:
+
+ - It is in the second row of the periodic table, meaning it has less electron shells, thus forming stronger bonds
+ - It can covalently bond to up to 4 other atoms
+ - Because each of its valence electrons is involved in bonding, it can form single through triple bonds
+ - The molecular geometry can be anything from tetrahedral to linear depending on its bonding
+ 
+Carbon is also able to bond to itself in the following ways:
+
+ - long straight chains
+ - long straight chains with branches
+ - rings
+
+<img src="/resources/images/cool-carbon.png" width=700>(Source: Kognity)</img>
+
+### Simple hydrocarbons
+
+These only contain carbon and hydrogen.
+
+**Alkanes** only contain single bonds between carbons, and are named with the number of carbons with the suffix "-ane".
+
+<img src="/resources/images/alkanes.png" width=700>(Source: Kognity)</img>
+
+| Carbon atoms | Prefix |
+| --- | --- |
+| 1 | Meth |
+| 2 | Eth |
+| 3 | Prop |
+| 4 | But |
+| 5 | Pent |
+| 6 | Hex |
+| 7 | Hept |
+| 8 | Oct |
+| 9 | Non |
+| 10 | Dec |
+
+!!! example
+    A molecule with only hydrogen and three carbon atoms all held together with single covalent bonds is called "propane".
+
+**Alkenes** contain **at least** one carbon-carbon double bond and are named with a prefix with the total number of carbon atoms and "-ene".
+
+**Alkynes** contain **at least** one carbon-carbon triple bond and are named with a prefix with the total number of carbon atoms and "-ene".
+
+The general formula for an **acyclic** hydrocarbon with no rings is as follows, where $n$ is the number of carbon atoms, $x$ is the number of double bonds, and $y$ is the number of triple bonds.
+$$\ce{C_nH_{2n+2-2x-4y}}$$
+
+### Representing organic compounds
+
+A simple **molecular formula** is the least useful as it provides no information on structure and bonding.
+$$\ce{C6H14}$$
+
+A **complete structural diagram** shows all atoms by their chemical symbols and uses lines like a Lewis Dot diagram to represent bonds. VSEPR shapes do not need to be taken into account because these are 2D representations of the molecule.
+
+A **condensed structural diagram** is a complete structural diagram but C-H bonds are aggregated into a formula.
+$$\ce{CH3 - CH2 - CH2 - CH2 - CH2 - CH3}$$
+
+A **structural formula** or **expanded molecular formula** is a condensed structural diagram but there are no bond lines. The bond organisation is inferred based on the number of hydrogens on each carbon. Carbon chain side groups (branches) are shown with parentheses.
+$$\ce{CH3CH2CH2CH2CH2CH3}$$
+
+A **condensed structural formula** is a structural formula but any consecutive repeated $\ce{CH2}$ groups are factored with parentheses.
+$$\ce{CH3(CH2)_4CH3}$$
+
+A **line diagram** or **skeletal structural formula** removes carbons and hydrogens and replaces all carbon-carbon bonds with lines, where the number of lines represents the type of bond. Each line is bent where a carbon atom would be, except for triple bonds as those are linear. Non-carbon groups such as $\ce{OH}$ can be shown in collapsed form.
+
+!!! example
+    These are the ways to represent pentane, $\ce{C5H12}$. The structural formula is mislabeled as a condensed structural diagram.
+    <img src="/resources/images/pentane.png" width=700>(Source: Kognity)</img>
+
 ## Resources
 
  - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
