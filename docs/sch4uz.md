@@ -515,9 +515,14 @@ Carbon is also able to bond to itself in the following ways:
 
 ### Simple hydrocarbons
 
+!!! definition
+    - A **branched hydrocarbon** is one with at least one "side group" extending from the main hydrocarbon chain.
+    - A **functional group** is a group of atoms responsible for the characteristic properties of a molecule (e.g. C=C)
+    - A **homologous series** is a family of organic compounds with the same functional group but the hydrocarbon chain length changes by 1 $\ce{CH2}$ group.
+
 These only contain carbon and hydrogen.
 
-**Alkanes** only contain single bonds between carbons, and are named with the number of carbons with the suffix "-ane".
+**Alkanes** are a homologous series that only contain single bonds between carbons, and are named with the number of carbons with the suffix "-ane".
 
 <img src="/resources/images/alkanes.png" width=700>(Source: Kognity)</img>
 
@@ -565,6 +570,63 @@ A **line diagram** or **skeletal structural formula** removes carbons and hydrog
 !!! example
     These are the ways to represent pentane, $\ce{C5H12}$. The structural formula is mislabeled as a condensed structural diagram.
     <img src="/resources/images/pentane.png" width=700>(Source: Kognity)</img>
+
+### General nomenclature
+
+To name an organic compound:
+
+1. Find the **longest acyclic chain** of carbon atoms as the parent chain.
+2. Assign numbers from 1 to $n$ for each carbon atom in the parent chain.
+    - The numbers should be arranged in a way that the highest priority functional group in the chain is assigned the lowest number possible.
+    - Apply the **first branch rule** only if there is a tie: If there are side chains, the parent chain should be numbered such that the location of any side chains have the lowest number possible.
+        - If there is a tie, the location with the most branches wins.
+        - If there is a tie, the rest of the chain is compared in sequence applying the first branch rule.
+        - If there is a tie, the first location with the side chain group name that is alphabetically greater wins.
+        - If there is a tie, it doesn't matter which side is picked as the whole thing is symmetrical.
+3. Name the main chain based on the name of the functional group and location number for the functional group in the format "number-name".
+4. Name the side groups.
+    - If the group is not carbon, name it by its identity.
+    - Otherwise, name the hydrocarbon based on the number of carbons in the side group with the ending "yl".
+    - If there is more than one identical side group in the **whole chain**, combine their numbers and names with a Greek prefix.
+    - Assign a number representing the carbon atom of the parent chain that the side group is attached to in the form "numbers-name".
+5. Arrange the name with each side group with their numbers in alphabetical order, discounting any prefixes due to duplicates, followed by the parent chain.
+6. Join everything together:
+    - Drop the ending vowel from the prefix if there is a double vowel unless it is "i".
+    - Separate numbers from words with dashes.
+    - Separate numbers from numbers with commas.
+    - Do not separate words from words.
+
+!!! tip
+    In hydrocarbons:
+    
+    - Atoms with double or triple bonds share equal priority as the highest functional group.
+    - The main chain will be named as an alkane if there are only single bonds.
+    - If there is exactly one double or triple bond, it will be named as an alkene or alkyne with its position inserted between the prefix and ending.
+        - e.g., "pentane", "pent-2-ene"
+    - If there are multiple double or triple bonds, their numbers are also included, but an "a" is appended to the prefix and a Greek prefix added to the suffix.
+        - e.g., "penta-1,3-diene", "hexa-1,3,5-triyne"
+    - If there are both double and triple bonds, the "-ene" becomes "-en" and is always before "-yne".
+        - e.g., "pent-4-en-2-yne"
+
+!!! example
+    tf
+
+Other **side chains** with equal priority as double or triple bonds *in side chains* include:
+
+ - halogens, which have their "-ine" suffix replaced with "o" (e.g., "chloro")
+ - $\ce{NO2}$: "nitro-"
+ - benzene (as a side chain): "phenyl"
+
+If there is no other option and there is a **branched side chain**, name it based on the total number of carbon atoms in the side chain.
+
+!!! example
+    tf
+
+### Cyclic hydrocarbons
+
+
+
+### Isomers and functional groups
 
 ## Resources
 
