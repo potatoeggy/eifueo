@@ -346,6 +346,8 @@ In a **second-order** reaction, each half-life is double the previous.
     - A **product** is not present initially but appears at the end of a reaction.
     - A **catalyst** is present both at the start and end of a reaction. It may be consumed and regenerated in intermediate steps.
     - A **reaction intermediate** is not present at the start or end of a reaction as it is generated and consumed in the intermediate steps.
+    - The **molecularity** of a reaction represents the number of molecules that react in an elementary reaction from uni- to termolecular.
+    - An **activated complex** or **transition state** is the point where new bonds are being formed at the same time bonds are being broken.
 
 A reaction involving any more than three particles will always take place under **multiple steps** because of the near-impossibility of such a perfect collision. Even reactions with three particles are often **multi-step**.
 
