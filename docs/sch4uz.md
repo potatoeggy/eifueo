@@ -495,6 +495,43 @@ It consists of:
     | Change | $-y$ | $-y$ | $+2y$ |
     | Equilibrium | 0.11 | 0.50$-y$ | $+2y$ |
 
+### Le Chatelier's principle
+
+Le Chatelier's principle states that: If there is a change in a system at equilibrium, the position of equilibrium will readjust to minimise the effect of the change.
+
+The changes that this principle affects — and therefore affect equilibrium — include changes in temperature, concentration, and pressure. These changes are assumed to occur instantaneously, which may result in sudden theoretical spikes in concentration-time graphs.
+
+The initial rate of the change will start **fast** and then slow down, appearing as a sharp change instead into a curve in a concentration-time/reaction progress graph that **never return to its original value**.
+
+!!! tip
+    Drawing horizontal dotted lines that represent the original position of equilibrium and vertical lines to represent the moment of system change makes it clearer to read.
+
+Increasing the **temperature** of a system causes it to shift in favour of the **endothermic** side, and vice versa. 
+
+Of the three changes, this is the only one that would change $K_c$ as it changes the rate constants, which are temperature-specific ($K_c\propto\frac{r_\text{reverse}}{r_\text{forward}}$). Therefore, as temperature **increases**, $K_c$ also **increases**, and vice versa.
+
+!!! example
+    If heat is added to a solution of KCl, more KCl will dissolve to minimise the change in temperature as it is an endothermic process.
+
+Increasing the **concentration** of a reactant or product will cause the position to shift **away** from the increased side, and vice versa.
+
+??? example
+    If there is an **instantaneous** spike of $\ce{N2}$ to a system at equilibrium, it will be consumed along with $\ce{H2}$ to form $\ce{NH3}$, **but not enough to return to its original value**.
+    
+    <img src="/resources/images/equilibrium-concentration.png" width=500>(Source: Kognity)</img>
+    
+    The same applies if instead $\ce{NH3}$ is reduced.
+    
+    <img src="/resources/images/equilibrium-concentration-2.png" width=500>(Source: Kognity)</img>
+
+Increasing the **pressure** of a gas will cause the position to shift in whatever direction would **decrease** the total moles of gas.
+
+!!! warning
+    Inert (uninvolved in a reaction) gases such as catalysts will not affect the position of equilibrium as it does not affect the **partial pressure** of the gas. In a similar vein, adding water to an aqueous solution will not cause any changes in equilibrium position.
+
+!!! warning
+    If given a system not at equilibrium, if a change is made that would change the prior equilibrium, it should be assumed that the system reaches equilibrium before the change is made, regardless if it is specified.
+
 ## Organic chemistry
 
 !!! definition
