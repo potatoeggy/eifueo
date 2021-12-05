@@ -624,11 +624,65 @@ If there is no other option and there is a **branched side chain**, name it base
 !!! example
     tf
 
-### Cyclic hydrocarbons
+### Cyclic aliphatic hydrocarbons
 
+These contain rings that **are not** benzene rings.
 
+$$\ce{C_nH_{2n-2x}}$$
 
-### Isomers and functional groups
+!!! warning
+    Cyclic hydrocarbons **do not** contain any triple bonds as it would force the carbon ring to widen too much.
+
+Cyclic aliphatic hydrocarbons are named the same way as acyclic hydrocarbons except they have a "**cyclo-**" at the start of the name of their parent chain.
+
+!!! example
+    cyclohexa-1,3-diene
+
+The initial double bond should be numbered such that the lowest number is assigned to both sides of the bond (numbers 1 and 2 should be to either side of the double bond). If there is more than one double bond, the ring should be numbered such that the lowest number is assigned to both.
+
+The **first branch rule** still applies. (See [HL Chemistry 2#General nomenclature](/sch4uz/#general-nomenclature).)
+
+!!! example
+    tf
+
+!!! warning
+    Rings can be side chains, and are named accordingly (e.g., "cyclopropyl"). The "cyclo-" prefix is counted when sorting names alphabetically as it describes the group.
+
+### Cyclic aromatic hydrocarbons
+
+These contain benzene rings, which do not actually have single/double bonds as they actually have delocalised pi bonds.
+
+<img src="/resources/images/benzene.png" width=700>(Source: Kognity)</img>
+
+As benzene rings do not have double bonds, they are named according to the **first branch rule**.
+
+### Isomers
+
+**Structural isomers** are two chemicals that have the same chemical formulas but have different structural formulas, resulting in different chemical properties.
+
+!!! example
+    The following are two structural isomers of $\ce{C5H12}$.
+    <img src="/resources/images/structural-isomer-g5h12.png" width=700>(Source: Kognity)</img>
+
+**Geometric** or **cis/trans isomers** are two chemicals have the same chemical formulas and atom arrangements but are positioned differently, thus having ambiguous names.
+
+In order for this to occur, there must be two different atoms or groups of atoms bonded to each carbon atom in the double bond.
+
+ - A **cis** hydrocarbon isomer will have its main chain enter and exit the double bond on the **same side**.
+ - A **trans** hydrocarbon isomer will have its main chain enter and exit the double bond on **opposite sides**.
+
+Unlike the examples below, these should be named with "cis" or "trans" at the beginning as a **separate word without a hyphen**.
+
+!!! example
+    The following are two geometric isomers of but-2-ene:
+    <img src="/resources/images/cis-trans-but-2-ene.png" width=700>(Source: Kognity)</img>
+
+ - In acyclic compounds, this is because the double bond prevents simply rotating one side but not the other as it would force breaking the pi bond.
+ - In cyclic compounds, this is because the ring's other side is similar to a double bond, preventing rotation around the axis.
+ 
+!!! example
+    The following are cis-trans isomers of dichlorocyclobutane (notice the chlorine):
+    <img src="/resources/images/cis-trans-ring.png" width=700>(Source: Kognity)</img>
 
 ## Resources
 
