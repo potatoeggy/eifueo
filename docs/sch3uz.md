@@ -805,8 +805,8 @@ The **bonding capacity** of a non-metal describes the number of covalent bonds i
 
 There may be several correct ways to draw covalent bonds in Lewis structures and dot diagrams. Solving for the **formal charge** of each atom involved in a covalent bond can help identify the **best** structure to construct. The formal charge of an atom in a covalent bond represents the charge that that atom has. The sum of all formal charges in a covalently bonded compound is equal to the charge of the overall compound. **The element with the lowest electronegativity is almost always in the centre.**
 
-The formal charge of an atom can be calculated using the following equation:
-$$\text{Formal charge} = \text{# of valence electrons of element} - \text{# of unpaired electrons} - \text{# of covalent bonds}$$
+The formal charge of an atom can be calculated using the following equation, where $V$ is the number of valence electrons in the element, $N$ is the number of **non-bonding valence electrons**, and $B$ is the number of covalent bonds formed with that atom:
+$$\text{Formal charge} = V-N-B$$
 
 To find the best structure for a covalently bonded compound, the **absolute value** of the formal charge of all atoms in that compound should be **minimised**. Positively charged atoms will even accept **dative covalent bonds** from other atoms with negative formal charges.
 
