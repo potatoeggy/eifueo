@@ -575,6 +575,48 @@ $$\Delta G = \Delta G^\circ + RT\ln Q$$
 Therefore, at equilibrium:
 $\Delta G = -RT\ln K_c$
 
+## Acids and bases
+
+### Arrhenius theory
+
+An acid **dissociates** in water to produce $\ce{H+}$ ions (protons).
+
+A base **dissociates** in water to produce $\ce{OH-}$ ions.
+
+### Bronsted-Lowry theory
+
+The Bronsted-Lowry theory focuses on reactions with water and less the acid and base ions themselves.
+
+An acid is any compound that can **donate a proton ($\ce{H+}$) to water** to form a hydronium ion.
+$$\ce{acid + H2O -> acid- + H3O+}$$
+
+!!! info
+    In practice, the acid must contain a hydrogen atom attached by an easy-to-break bond (usually $\ce{H-O}$), but any high electronegativity difference polar bond would work as well.
+
+A base is any compound capable of **removing a proton ($\ce{H+}$) from an acid**.
+$$\ce{acid + base -> acid- + base+}$$
+
+!!! info
+    The proton usually comes from water. The base must be able to accept an $\ce{H+}$ ion to form a **dative covalent bond**, so they must contain **lone pairs**.
+    
+#### Conjugate acids/bases
+
+The result of a base obtaining a proton is a **conjugate acid**.
+
+The result of an acid losing a proton is a **conjugate base**.
+
+!!! example
+    In the reaction
+    $$\ce{NH3 + H2O -> NH4+ + OH-}$$
+    
+    $\ce{NH3}$ is a base that becomes a conjugate acid while $\ce{H2O}$ is an acid that becomes a conjugate base.
+
+### Louis theory
+
+### Strong/weak acids/bases
+
+### pH and pOH
+
 ## Organic chemistry
 
 !!! definition
