@@ -207,7 +207,7 @@ The following changes increase entropy:
 
 The **spontaneity** of a reaction is its tendency to continue without extra energy input after its initial activation energy.
 
-Gibb's free energy or **standard free energy** ($\Delta G$/$\Delta G^\theta$, $\pu{kJ}$ or $\pu{kJ/mol}$) is a measure of the sponetaneity of a chemical change. Spontaneous reactions must have a negative $\Delta G$, while those that are positive will require more energy to continue.
+Gibbs free energy or **standard free energy** ($\Delta G$/$\Delta G^\theta$, $\pu{kJ}$ or $\pu{kJ/mol}$) is a measure of the sponetaneity of a chemical change. Spontaneous reactions must have a negative $\Delta G$, while those that are positive will require more energy to continue.
 $$\Delta G^\theta = \Delta H^\theta - T\Delta S^\theta$$
 
 ## Chemical kinetics
@@ -495,6 +495,18 @@ It consists of:
     | Change | $-y$ | $-y$ | $+2y$ |
     | Equilibrium | 0.11 | 0.50$-y$ | $+2y$ |
 
+When working with values involving $K_c$, if the initial concentration of a chemical is much bigger than $K_c$ ($[A]/K_c > 500$), it is possible to assume that it will not change at all.
+
+This assumption is valid if the impact of the calculated shift is less than 5%.
+
+!!! example
+    If the equilibrium concenration is equal to $0.250-2y$, and the initial concentration is very big, assume that the equilibrium concentration is $0.250$, removing the $-2y$ from the equation.
+    
+    As long as $2y$ is less than 5% of 0.250, the assumption is valid.
+
+!!! info
+    In this course, when working with $K_c$ and ICE tables, only three things should be possible when solving for concentrations: you can get a perfect square, you can use the quadratic equation, or you can use the approximation rule.
+
 ### Le Chatelier's principle
 
 Le Chatelier's principle states that: If there is a change in a system at equilibrium, the position of equilibrium will readjust to minimise the effect of the change.
@@ -531,6 +543,37 @@ Increasing the **pressure** of a gas will cause the position to shift in whateve
 
 !!! warning
     If given a system not at equilibrium, if a change is made that would change the prior equilibrium, it should be assumed that the system reaches equilibrium before the change is made, regardless if it is specified.
+
+### Gibbs free energy 2
+
+The value of Gibbs free energy changes as the reaction progresses, similar to enthalpy. At equilibrium, $\Delta G=0$, so a reaction is a result of a system attempting to minimise Gibbs free energy.
+
+**Standard Gibbs free energy** represents the Gibbs free energy of a chemical at standard state (1 mol/L for solutions, 100 kPa partial pressure for gases).
+$$\Delta G^\circ = \sum n\Delta G^\circ_\text{f products} - \sum n\Delta G^\circ_\text{f reactants}$$
+
+A negative $\Delta G^\circ$ indicates that the reaction will shift right to reach equilibrium as $\Delta G^\circ$ always decreases in **magnitude** as the reaction proceeds. It also means that the forward reaction is **spontaneous** while the backwards is not.
+
+### Reaction quotient
+
+The reaction quotient ($Q$) is a tool to compare the current state of a system to its equilibrium state.
+$$Q=\frac{\Pi[\text{products currently}]^p}{\Pi[\text{reactants currently}]^r}$$
+
+At equilibrium, $Q=K_c$ as they are the same equation, so the equilibrium will shift in whatever direction that would bring $Q$ closer to $K_c$
+
+!!! example
+    If $Q > K_c$, there are more products than reactants than at equilibrium, so the reaction will shift to make more **reactants**.
+
+### Dynamic equilibrium
+
+When $\Delta G$ is at a minimum, both sides of the reaction are equally spontaneous. Realistically, $\Delta G$ never reaches zero because entropy. TODO: wtf
+
+<img src="/resources/images/product-favoured-gibbs.png" width=700>(Source: Kognity)</img>
+
+Where $\Delta G$ is the Gibbs free energy at a given point of the reaction, $R$ is the gas constant, $T$ is the current temperature, and $Q$ is the reactant quotient:
+$$\Delta G = \Delta G^\circ + RT\ln Q$$
+
+Therefore, at equilibrium:
+$\Delta G = -RT\ln K_c$
 
 ## Organic chemistry
 
