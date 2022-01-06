@@ -577,6 +577,30 @@ $\Delta G = -RT\ln K_c$
 
 ## Acids and bases
 
+!!! definition
+    - An **amphiprotic** acid/base is one that can **either accept or donate** $\ce{H+}$ depending on the situation.
+    - A **monoprotic** acid/base is one that can only accept/ionise one $\ce{H+}$ ion.
+    - An **amphoteric** chemical may act as an acid or base depending on the situation.
+    - An **alkali/alkaline** solution is an aqueous solution of a base, which may **not** necessarily be a **basic solution**.
+
+An **acid** and **base** are any two corrosive chemicals that react to form water and a salt. They also dissociate/ionise (depending on theory) in water to form electrolytes that conduct electricity.
+
+Acids:
+
+ - taste sour
+ - have a pH less than 7 in aqueous solutions at 25°C
+ - stain litmus paper **red**
+ - react with active metals to produce $\ce{H2_{(g)}}$ based on the activity series
+ - react with carbonates to form $\ce{CO2 + H2O}$
+
+Bases:
+
+ - taste bitter
+ - have a pH greater than 7 in aqueous solutions at 25°C
+ - feel slippery as they react with fats/oils to form soap
+ - stain litmus paper **blue**
+ - react with ammonium salts to product $\ce{NH3 + H2O}$
+
 ### Arrhenius theory
 
 An acid **dissociates** in water to produce $\ce{H+}$ ions (protons).
@@ -585,19 +609,28 @@ A base **dissociates** in water to produce $\ce{OH-}$ ions.
 
 ### Bronsted-Lowry theory
 
-The Bronsted-Lowry theory focuses on reactions with water and less the acid and base ions themselves.
+The Bronsted-Lowry theory focuses on reactions with water and less the acid and base ions themselves, so they **ionise** instead of **dissociate**.
 
-An acid is any compound that can **donate a proton ($\ce{H+}$) to water** to form a hydronium ion.
+An acid is any compound that can **donate/ionise a proton ($\ce{H+}$) to water** to form a hydronium ion.
 $$\ce{acid + H2O -> acid- + H3O+}$$
 
 !!! info
     In practice, the acid must contain a hydrogen atom attached by an easy-to-break bond (usually $\ce{H-O}$), but any high electronegativity difference polar bond would work as well.
 
-A base is any compound capable of **removing a proton ($\ce{H+}$) from an acid**.
+A base is any compound capable of **accepting/removing a proton ($\ce{H+}$) from an acid**.
 $$\ce{acid + base -> acid- + base+}$$
 
 !!! info
     The proton usually comes from water. The base must be able to accept an $\ce{H+}$ ion to form a **dative covalent bond**, so they must contain **lone pairs**.
+
+Polyprotic acids ionise their $\ce{H+}$s one by one **sequentially**.
+
+!!! example
+    $\ce{
+    H3PO4 + H2O <=> H2PO4- + H3O+ \\
+    H2PO4- + H2O <=> HPO4^2- + H3O+ \\
+    HPO4^2- + H2O <=> PO4^3- + H3O+
+    }$
     
 #### Conjugate acids/bases
 
@@ -613,7 +646,41 @@ The result of an acid losing a proton is a **conjugate base**.
 
 ### Louis theory
 
+A Lewis **acid** is any species that **accepts** an electron pair to form a dative covalent bond.
+
+A Lewis **base** is any species that **donates** an electron pair to form a dative covalent bond.
+
 ### Strong/weak acids/bases
+
+**Strong** acids/bases will **completely** dissociate/ionise in an aqueous solution. This means that the initial concentration of acid will be equal to the end concentration of $\ce{H+ or H3O+}$.
+
+All strong polyprotic acids initially have a one-way reaction then follow with equilibrium reactions.
+
+!!! warning
+    Strength is a property of an acid and has nothing to do with its concentration.
+
+**Weak** acids/bases will only **partially** dissociate/ionise in an aqueous solution, leaving behind most of the initial acid ($\ce{[acid] > [H+]}$ at equilibrium).
+
+!!! warning
+    Measuring pH only returns $\ce{[H+] or [H3O+]}$, so it cannot be used to determine the concentration, identity, or strength of an acid.
+
+All weak polyprotic acid reactions are equilibrium reactions.
+
+!!! example
+    The following is a list of strong and weak acids:
+    
+    | Strong acid | Weak acid | Strong base | Weak base |
+    | --- | --- | --- | --- |
+    | $\ce{HClO4}$ | any $\ce{COOH}$ | $\ce{LiOH}$ | $\ce{NH3}$ |
+    | $\ce{HCl}$ | $\ce{CO2}$ | any $\ce{group\ 1 + OH}$ | $\ce{Al(OH)3}$ |
+    | $\ce{HBr}$ | $\ce{SO2}$ | any $\ce{group\ 2 + (OH)2}$ | |
+    | $\ce{HI}$ | $\ce{HF}$ | | |
+    | $\ce{H2SO4}$ | $\ce{HCN}$ | | |
+    | $\ce{HNO3}$ | $\ce{H3PO4}$ | | |
+
+To experimentally distinguish between a strong or weak acid/base, if their concentrations are equal, total **ion** concentration or $\ce{H3O+}$ concentration can be compared since the stronger acid ionises more.
+
+Practically, this means comparing the rate of reaction with a metal or water or measuring conductivity as they reflect total ion count.
 
 ### pH and pOH
 
