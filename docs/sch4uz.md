@@ -684,6 +684,32 @@ Practically, this means comparing the rate of reaction with a metal or water or 
 
 ### pH and pOH
 
+This section will assume Bronsted-Lowry theory.
+
+pH represents $\ce{[H3O+]}$ logarithmically on a scale from 0 to 14.
+
+$$
+\ce{pH = -\log\big[H3O+_{(aq)}\big]} \\
+\ce{pOH = -\log\big[OH-_{(aq)}\big]}
+$$
+
+!!! warning
+    The number of sigfigs in pH is equal to the number of digits **after the decimal place**.
+
+A solution is **neutral** (neither acidic nor basic) when $\ce{[H3O+] = [OH-]}$. This happens to be $\ce{pH = 7}$ at SATP. In pure water, this is true as a small number of water molecules react with each other.
+
+In an equilibrium reaction between an acid and a base, $\ce{K_c = \frac{[H3O+][OH-]}{[H2O]}}$, but water has a constant concentration, so the equilibrium of the two ions is represented with the **water ionisation constant** $K_w$ is used.
+$$K_w = \ce{[H3O+][OH-] = 1.00\times10^{-14} @ SATP}$$
+
+As temperature **increases**, $K_w$ increases, therefore changing the pH of neutrality, but this may not necessarily change the acidity of the solution as the ion concentration is still the same.
+
+As pH increases, $\ce{[H3O+]}$ decreases, so $\ce{[OH-]}$ must increase to keep $K_w$ constant and maintain equilibrium.
+$$\ce{pK_w = pH + pOH}$$
+
+At 25°C, $\ce{pK_w = 14.0000}$, so:
+$$\ce{14 = pH + pOH}$$
+
+
 ## Organic chemistry
 
 !!! definition
