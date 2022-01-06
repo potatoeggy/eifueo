@@ -578,9 +578,9 @@ $\Delta G = -RT\ln K_c$
 ## Acids and bases
 
 !!! definition
-    - An **amphiprotic** acid/base is one that can **either accept or donate** $\ce{H+}$ depending on the situation.
-    - A **monoprotic** acid/base is one that can only accept/ionise one $\ce{H+}$ ion.
     - An **amphoteric** chemical may act as an acid or base depending on the situation.
+    - An **amphiprotic** chemical can **either accept or donate** $\ce{H+}$ depending on the situation.
+    - A **monoprotic** acid/base is one that can only accept/ionise one $\ce{H+}$ ion.
     - An **alkali/alkaline** solution is an aqueous solution of a base, which may **not** necessarily be a **basic solution**.
 
 An **acid** and **base** are any two corrosive chemicals that react to form water and a salt. They also dissociate/ionise (depending on theory) in water to form electrolytes that conduct electricity.
@@ -709,6 +709,9 @@ $$\ce{pK_w = pH + pOH}$$
 At 25°C, $\ce{pK_w = 14.0000}$, so:
 $$\ce{14 = pH + pOH}$$
 
+### Acid/base dissociation
+
+In a weak
 
 ## Organic chemistry
 
