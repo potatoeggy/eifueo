@@ -711,7 +711,47 @@ $$\ce{14 = pH + pOH}$$
 
 ### Acid/base dissociation
 
-In a weak
+An equilibrium will be reached when a weak acid or base dissociates/ionises in water. The extent that the acid or base has dissociated/ionised can be quantified with **percent dissociation/ionisation**.
+$$\text{% ionisation} = \frac{\text{[acid ionised]}}{\text{[original acid]}}\times 100\%$$
+
+!!! note
+    When performing an approximation assumption in an ICE table, the assumption is also calid if the % ionisation is less than 5%.
+
+The $K_c$ of acid ionisation/dissociation is known as $K_a$, the **acid dissociation constant**.
+$$
+\ce{H2O_{(l)} + HX_{(aq)} <=> H3O+_{(aq)} + X-_{(aq)}}$$
+$$K_a = \ce{\frac{[X-][H3O+]}{[HX]}}$$
+
+The $K_c$ of base ionisation/dissociation is known as $K_b$, the **base dissociation constant**.
+$$\ce{H2O_{(l)} + X_{(aq)} <=> OH-_{(aq)} + HX+_{(aq)}}$$
+$$K_b = \ce{\frac{[HX+][OH-]}{[X]}}$$
+
+!!! example
+    $$\ce{NH3_{(aq)} + H2O_{(l)} <=> NH4+_{(aq)} + OH-_{(aq)}}$$
+    $$K_b = \ce{\frac{[NH4+] [OH-]}{[NH3]}}$$
+
+!!! warning
+    $K_a$ and $K_b$ only apply to acids and bases, respectively. Morphine, a base, does not have a $K_a$, but its conjugate acid does.
+
+At all temperatures:
+$$K_a \times K_b = K_w$$
+
+### Acid strength
+
+A **higher** $K_a$ or $K_b$ indicates that the acid or base is **stronger**, increasing percent ionisation. 
+
+**Strong acids/bases** have an effectively infinite $K_a$/$K_b$ in water, so they are all practically equally strong in water (this may not be true in other solvents).
+
+As $K_a$ and $K_b$ are inversely correlated, an **increase** in $K_a$ leads to a **decrease** in $K_b$.
+
+The conjugate acid/base of a **strong** acid/base is effectively infinitely weak such that it does not affect pH at all.
+
+Contrarily, the conjugate of a **weak** acid/base is measurably weak, strong enough to have $K_a$/$K_b$ that affect the pH and act as an acid or base.
+
+As $p$ indicates negative log, $\ce{pK_{\{a, b\}}}$ is **inversely** correlated with $\ce{K_{\{a, b\}}}$ so that none of the variables can be directly compared without conversion.
+
+### Acidity of salt solutions
+
 
 ## Organic chemistry
 
