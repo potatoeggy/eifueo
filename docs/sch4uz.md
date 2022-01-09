@@ -735,6 +735,7 @@ $$K_b = \ce{\frac{[HX+][OH-]}{[X]}}$$
 
 At all temperatures:
 $$K_a \times K_b = K_w$$
+$$pK_a + pK_b = pK_w$$
 
 ### Acid strength
 
