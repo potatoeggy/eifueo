@@ -753,6 +753,78 @@ As $p$ indicates negative log, $\ce{pK_{\{a, b\}}}$ is **inversely** correlated 
 
 ### Acidity of salt solutions
 
+!!! definition
+    - A **salt** is an ionic compound that dissociates in water.
+
+The pH of a salt solution depends on the combination of the acidity of each of its dissociated ions. Whichever is **stronger** pushes the acidity of a solution in its direction.
+
+An ion originating from a **strong** acid/base is immeasurably weak and **has no effect**.
+
+An ion originating from a **weak** acid/base is measurably weak and **has an effect**.
+
+!!! example
+    For the salt NaCl: $\ce{HCl_{(aq)} + NaOH_{(aq)} -> H2O_{(l)} + NaCl_{(aq)}}$  
+    As both $\ce{HCl}$ and $\ce{NaOH}$ are strong, their conjugate acids/bases are both immeasurably weak, having no effect on the pH of the solution. Therefore, NaCl is a **neutral** salt.
+
+If both dissociated ions have a measurable effect, the acidity depends on whichever is stronger via $K_a$/$K_b$.
+
+### Titration curves
+
+!!! definition
+    - A **titrant** or **standard** is a solution with known properties that goes in the burette.
+    - A **sample** or **analyte** is a solution with potentially unknown properties that goes in the sample flask.
+    - The **equivalence point** of a titration is the point at which the solution is neutral $\ce{[H+] = [OH-]}$.
+
+A **titration curve** is generated in a titration where the pH of the solution is graphed against the volume of titrant added. Depending on the type or strength of the sample and titrant, different graphs can be generated.
+
+Unlike the diagrams below, in a sketch, the following information is needed:
+
+ - the initial pH of the solution (the pH of the sample)
+ - the pH after a lot of titrant is added (assumed to be the pH of the titrant)
+ - the volume of titrant required to neutralise the sample ($c_\ce{H}v_\ce{H}=c_\ce{OH}v_\ce{OH}$)
+ - the relative pH at the equivalence point (the relative pH of the salt solution)
+
+The graph can be split into two halves: the acid half and the base half. In the following diagram, both the acid and base are **strong**, so their lines are identically shaped:
+
+ - the line starts at the initial pH, hugging the line, until,
+ - it sharply curves to the vertical, crossing the equivalence point, and
+ - continues vertically.
+
+The same applies to the base but it instead ends at the final pH.
+
+<img src="/resources/images/s-s-titration.png" width=700>(Source: Kognity)</img>
+
+In scenarios where the **sample** is a **weak** acid/base, instead:
+
+ - the line immediately briefly rapidly rises from the initial pH, then
+ - gradually increases, until
+ - a sudden curve to the vertical (but less sudden than a strong acid/base), and
+ - continues vertically.
+
+<img src="/resources/images/w-s-titration.png" width=700>(Source: Kognity)</img>
+
+In scenarios where the **titrant** is a **weak** acid/base, it will take much more titrant to bring the pH of the sample to the level of the titrant. As such, the "brief rapid rise" is ignored and the line only gradually approaches but **clearly does not reach** the final pH.
+
+<img src="/resources/images/s-w-titration.png" width=700>(Source: Kognity)</img>
+
+In scenarios where the sample is a **polyprotic** acid/base, as its ions dissociate sequentially, it can be treated as multiple consecutive titrations where the first sample is **strong** but any subsequent titrations are **weak**.
+
+Each equivalent point volume after the first is a direct multiple of that first equivalent point volume.
+
+<img src="/resources/images/polyprotic-titration.png" width=700>(Source: Kognity)</img>
+
+### Titration curve analysis
+
+The **aha!** equation, also known as the Henderson-Hasselbach equation, is derived from the equilibrium equation.
+
+$$\ce{pH = pK_a + \log\frac{[A-]}{[HA]}}$$
+
+To graphically determine the $pK_a$ of a sample given a titration curve, the pH at the volume at **half** of the equivalence point can be identified. At that point, $pH = pK_a$.
+
+!!! warning
+    - If a weak **base** is the sample, this will return the $pK_a$ of the conjugate acid. The pH of the base can be determined by $14-pK_a$.
+    - If numbers are not given, drawing a line through the straight bits can give pH and equivalence volume values. However, **none** of these lines should be **parallel** to the axes.
+    - In titrations involving **polyprotic** compounds, as they are effectively multiple titrations, half of the equivalence point is actually half the distance between two equivalence points.
 
 ## Organic chemistry
 
