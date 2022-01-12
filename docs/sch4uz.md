@@ -826,6 +826,23 @@ To graphically determine the $pK_a$ of a sample given a titration curve, the pH 
     - If numbers are not given, drawing a line through the straight bits can give pH and equivalence volume values. However, **none** of these lines should be **parallel** to the axes.
     - In titrations involving **polyprotic** compounds, as they are effectively multiple titrations, half of the equivalence point is actually half the distance between two equivalence points.
 
+### pH indicators
+
+A pH indicator is a **weak acid/base** that is at one colour in a certain pH range and another in another pH range. Where $X$ is the indicator, it will form an equilibrium with the hydrogen ions in the solution:
+$$\ce{HX <=> H+ + X-}$$
+
+The indicator is **protonated** on the left and **deprotonated** on the right. The titrant can be viewed as an external stress on this equilibrium: if a base is added to an acid, the equilibrium will shift to the right to free up hydrogen ions, and vice versa.
+
+If the difference in concentration of $\ce{X-}$ and $\ce{HX}$ is **greater than** approximately 10:1, the solution will appear to be the colour of the higher concentration, meaning that pH indicators will change colour at a pH in the range of their $\ce{pK_a}\pm 1$.
+
+In choosing a good pH indicator, it must change colour in the **vertical** section of the titration curve to see the greatest effect, and it must be easily observable.
+
+As the weak curve has less of a vertical section than a strong curve, it is best to pick an indicator that changes **after** the equivalence point, which will require the **relative pH** at the equivalence point.
+
+The observability of an indicator depends on the colour it is changing to (or the **direction** the pH is changing). In general, humans are much better at noticing the **appearance** of **red** and **blue**.
+
+A **universal indicator** is a mixture of different pH indicators to change colours multiple times over the pH range. In this case, the colour wheel can used to determine the colour that will be formed (e.g., blue + blue + yellow = green). The shade of the colour does not matter.
+
 ## Organic chemistry
 
 !!! definition
