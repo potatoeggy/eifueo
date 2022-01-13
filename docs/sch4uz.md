@@ -825,6 +825,7 @@ To graphically determine the $pK_a$ of a sample given a titration curve, the pH 
     - If a weak **base** is the sample, this will return the $pK_a$ of the conjugate acid. The pH of the base can be determined by $14-pK_a$.
     - If numbers are not given, drawing a line through the straight bits can give pH and equivalence volume values. However, **none** of these lines should be **parallel** to the axes.
     - In titrations involving **polyprotic** compounds, as they are effectively multiple titrations, half of the equivalence point is actually half the distance between two equivalence points.
+    - This equation can **also be used to determine the pH of a buffer between a salt/acid and acid/base** as it can be assumed that there is no change to concentrations, but **cannot be used to determine the initial pH between an acid/base and water**.
 
 ### pH indicators
 
@@ -842,6 +843,53 @@ As the weak curve has less of a vertical section than a strong curve, it is best
 The observability of an indicator depends on the colour it is changing to (or the **direction** the pH is changing). In general, humans are much better at noticing the **appearance** of **red** and **blue**.
 
 A **universal indicator** is a mixture of different pH indicators to change colours multiple times over the pH range. In this case, the colour wheel can used to determine the colour that will be formed (e.g., blue + blue + yellow = green). The shade of the colour does not matter.
+
+### Buffers
+
+!!! definition
+    - A **buffer solution** is one that can resist pH change when small quantities of a strong acid or base are added.
+    - An **acidic buffer** is one where an acid and extra of its conjugate base as a salt are present in the solution.
+    - A **basic buffer** is one where a base and extra of its conjugate acid as a salt are present in the solution.
+    - A **protonated** compound contains its proton.
+    - A **deprotonated** compound has lost its proton.
+    - The **buffering capacity** of a buffer is the quantity of strong titrant that can be added to the buffer without a significant change in pH.
+
+The **buffer region** is the pH range of a **weak** acid/base before the equivalence point that requires a large volume of titrant for a gradual pH change. In this region, there is sufficient undissociated acid/base to replenish those neutralised via Le Chatelier's principle.
+
+In the equilibrium between a weak acid and its component ions:
+$$\ce{HA <=> H+ + A-}$$
+
+A buffer solution is created when **excess** $\ce{A-}$ is added (the salt of the conjugate base) such that the position of equilibrium is shifted to the left to the point that **none of the original acid has dissociated** such that $\ce{[equilibrium HA] = [added HA]}$ and $\ce{[equilibrium A-] = [added A-]}$. It is used to **maintain** a certain pH in a solution.
+
+When the titrant is added to an **acidic buffer**:
+
+ - if an acid is added, $\ce{[H+]}$ increases, shifting the position to the left. This can be done repeatedly because of the excess $\ce{A-}$ present to react with the protons.
+ - if a base is added, $\ce{[H+]}$ decreases as they react, shifting the position to the right. This can be done repeatedly because of the excess $\ce{HA}$ from the original shift to the left from the salt addition.
+
+!!! example
+    To form the **acetic acid/acetate buffer** $\ce{CH3COOH <=> H+ + CH3COO-}$, if 1 mol/L $\ce{CH3COONa}$ is added to 0.1 mol/L $\ce{CH3COOH}$:
+    
+    The addition of $\ce{CH3COO-}$ will shift the position to the left, protonating it such that there will be 0.1 mol/L $\ce{CH3COOH}$ and 1 mol/L $\ce{CH3COO-}$.
+    
+    - If an acid is added, it will **shift left** and further react to form more $\ce{CH3COOH}$, reducing the change in pH.
+    - If a base is added, it will **shift right** by reacting with hydrogen ions to reduce their concentration, releasing more $\ce{H+ + CH3COO-}$ to replenish the lost hydrogen ions, reducing the change in pH.
+    
+This naturally occurs without a buffer, but a buffer significantly increases the quantity of titrant that can be added before the pH changes rapidly.
+
+The same applies to a **basic buffer** but in opposite directions. The salt of the conjugate acid is used instead.
+$$\ce{B + H2O <=> HB + OH-}$$
+
+!!! example
+    To form the **ammonia/ammonium buffer** $\ce{NH3 + H2O <=> NH4+ + OH-}$, if 1 mol/L $\ce{NH4+}$ is added to 0.1 mol/L $\ce{NH3}$:
+    
+    The addition of $\ce{NH4+}$ will shift the position to the left, deprotonating it such that there will be 0.1 mol/L $\ce{NH3}$ and 1 mol/L $\ce{NH4+}$.
+    
+    - If an acid is added, it will **shift right** by reacting with hydroxide ions to reduce their concentration, releasing more $\ce{NH4+ + OH-}$ to replenish the lost hydroxide ions, reducing the change in pH.
+    - If a base is added, it will **shift left** and further react to form more $\ce{NH3 + H2O}$, reducing the change in pH.
+
+To make an effective buffer, salt of the conjugate base/the conjugate acid is required to initially shift the position left. Adding more salt/acid increases the titrant that can be buffered.
+
+A buffer only acts over a certain pH. In order for it to be effective, the ratio of $\ce{[A-]}$ to $\ce{[HA]}$ must be within 10x or 0.1x, although usually buffers are made with 90% excess salt/acid + 10% acid/base or vice versa. Using the **aha!** equation, this means that the **range of a buffer** is equal to $pK_a\pm 1$, where $pK_a$ is that of the **acid/conjugate acid of the base**.
 
 ## Organic chemistry
 
