@@ -715,7 +715,7 @@ An equilibrium will be reached when a weak acid or base dissociates/ionises in w
 $$\text{% ionisation} = \frac{\text{[acid ionised]}}{\text{[original acid]}}\times 100\%$$
 
 !!! note
-    When performing an approximation assumption in an ICE table, the assumption is also calid if the % ionisation is less than 5%.
+    When performing an approximation assumption in an ICE table, the assumption is also valid if the % ionisation is less than 5%.
 
 The $K_c$ of acid ionisation/dissociation is known as $K_a$, the **acid dissociation constant**.
 $$
