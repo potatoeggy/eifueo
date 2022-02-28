@@ -55,6 +55,13 @@ These only contain carbon and hydrogen.
 
 **Alkynes** contain **at least** one carbon-carbon triple bond and are named with a prefix with the total number of carbon atoms and "-ene".
 
+!!! warning
+    The lack of standardisation prior to IUPAC means that some IUPAC names have common names that are still widely used today.
+    
+    - acetylene: **ethyne**
+    - vinyl: **propene**
+    - ethylene: **ethene**
+
 The general formula for an **acyclic** hydrocarbon with no rings is as follows, where $n$ is the number of carbon atoms, $x$ is the number of double bonds, and $y$ is the number of triple bonds.
 $$\ce{C_nH_{2n+2-2x-4y}}$$
 
