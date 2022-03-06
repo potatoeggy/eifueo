@@ -263,7 +263,92 @@ The second step is to **react with benzene** through electrophilic substitution,
 
 ### Alkane reactions
 
+!!! definition
+    - **Halogenation** is the introduction of a halogen into a compound.
+
+#### Substitution halogenation
+
+Because a sigma bond must be broken, alkanes are not very reactive. In the presence of light, alkanes will react with halogens in their standard state through halogenation, replacing one of their hydrogens. **Fluorine** is an exception that does not require light because it is highly reactive.
+
+If the halogen is in excess and the reaction continues, more of the halogen (**not the hydrogen-halogen product**) will react with the alkane until all hydrogens have been substituted.
+
+!!! example
+    $$\ce{CH3CH3 + Cl2_{(g)} ->[light] CH3CH2Cl + HCl_{(g)}}$$
+    
+    If $\ce{Cl2}$ is in excess:
+    $$
+    \ce{
+    CH3CH2Cl + Cl2_{(g)} ->[light] CH3CHCl2 + HCl_{(g)} \\
+    ... \\
+    CCl3CHCl + Cl2_{(g)} ->[light] CCl3CCl3 + HCl_{(g)}
+    }
+    $$
+
+The order that hydrogens are substituted in is **random**. If there is more than one possibility, all of them are written as products, ignoring balancing.
+
+!!! example
+    Propane reacts with chlorine gas to form either 1-chloropropane or 2-chloropropane.
+    $$\ce{CH3CH2CH3 + Cl2 ->[hf] CH3CH2CH2Cl + CH3CHClCH3 + HCl}$$
+
+!!! example
+    1-bromoethane reacts with chlorine gas to form either 1,1-dibromoethane (40% chance) or 1,2-dibromoethane (60% chance) because each hydrogen is equally likely to be substituted, and there are 2 and 3 that would form them, respectively.
+    $$\ce{CH2ClCH3 + Cl2 ->[hf] CHCl2CH3 + CH2ClCH2Cl + HCl}$$
+
+#### Free radical substitution
+
+!!! definition
+    - A **free radical** is a species with a lone unpaired electron.
+    - **Homolytic fission** is the dissociation of a chemical bond in a neutral molecule where each product takes one electron, generating two free radicals.
+    - **Heterolytic fission** is the dissociation of a chemical bond in a neutral molecule where one product takes both electrons.
+
+The free radicals are first produced with the help of light energy.
+
+$$\ce{Br2 ->[hf] Br. + Br.}$$
+
+They are then spread to organic compounds and reformed.
+
+$$
+\ce{
+Br. + CH4 -> .CH3 + HBr \\
+Br2 + .CH3 -> CH3Br + Br.
+}
+$$
+
+This cycle only ends when all radicals are used up, through reactions that end up with a net loss in radicals, such as:
+
+ - $\ce{Br. + Br. -> Br2}$ (unlikely, contributes a little)
+ - $\ce{.CH3 + Br. -> CH3Br}$ (likely)
+ - $\ce{.CH3 + .CH3 -> CH3CH3}$ (likely)
+
+!!! warning
+    The free radical is on the carbon atom, not the hydrogen atoms, so the marker goes at the beginning.
+
 ### Alkene/yne reactions
+
+The presence of double/triple bonds make alkenes and alkynes more reactive and also allow the **addition** of species as pi bonds are easier to break.
+
+#### Addition halogenation
+
+These **spontaneous** reactions break the double/triple bond down a level and slot themselves in (i.e., alkynes form alkenes, alkenes form alkanes).
+
+$$
+\ce{alkene + Br2 -> alkaneBr2} \\
+\ce{alkyne + Br2 -> alkeneBr2}
+$$
+
+<img src="/resources/images/alkene-addition.png" width=900>(Source: Kognity)</img>
+
+!!! warning
+    If an **alkene is formed**, the same randomness of hydrogen substitution applies, so there is a chance that a cis/trans isomer is be formed.
+
+!!! example
+    This process is used to test for alkenes/alkynes in a solution. As bromine water is red-brown, if alkenes/alkynes are present, the water will be **decolourised** from red-brown to more colourless.
+
+#### Hydrogenation
+
+The addition of hydrogen follows the same principle as that of halogenation.
+
+$$\ce{alkene + H2 ->[\text{heat, high pressure, Ni/Pt/Pd}] alkane}$$
 
 ## Resources
 
