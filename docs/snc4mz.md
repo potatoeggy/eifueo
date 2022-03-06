@@ -174,9 +174,23 @@ As benzene rings do not have double bonds, they are named according to the **fir
 
 **Structural isomers** are two chemicals that have the same chemical formulas but have different structural formulas, resulting in different chemical properties.
 
+**Hydrocarbon chain isomers** are two chemicals with the same chemical formulas but have different carbon/hydrogen arrangements.
+
 !!! example
-    The following are two structural isomers of $\ce{C5H12}$.
+    The following are two hydrocarbon chain isomers (and, by extension, structural isomers) of $\ce{C5H12}$.
     <img src="/resources/images/structural-isomer-g5h12.png" width=700>(Source: Kognity)</img>
+
+**Positional isomers** are two chemicals with the same chemical formulas **and functional groups** but have different structural formulas.
+
+!!! example
+    The following are positional isomers (and, by extension, structural isomers) of $\ce{C4H8}$.
+    <img src="/resources/images/positional-isomers.png" width=700>(Source: Kognity)</img>
+
+**Functional group isomers** are chemicals with the same chemical formulas but **different functional groups**.
+
+!!! example
+    The following are functional group isomers (and, by extension, structural isomers) of $\ce{C3H6O2}$.
+    <img src="/resources/images/functional-group-isomers.png" width=700>(Source: Kognity)</img>
 
 **Geometric** or **cis/trans isomers** are two chemicals have the same chemical formulas and atom arrangements but are positioned differently, thus having ambiguous names.
 
@@ -197,6 +211,59 @@ Unlike the examples below, these should be named with "cis" or "trans" at the be
 !!! example
     The following are cis-trans isomers of dichlorocyclobutane (notice the chlorine):
     <img src="/resources/images/cis-trans-ring.png" width=700>(Source: Kognity)</img>
+
+Isomers may have different physical properties in:
+
+ - **polarity**: a cis isomer may cause a molecule to be polar as opposed to its trans variant
+ - **packing efficiency**: a non-branching hydrocarbon chain will pack better than a branching one, and a continuously trans chain will pack better than a cis one
+
+These change the strength and type of intermolecular forces involved so affect their melting/boiling points.
+
+Isomers may also have different chemical properties as cis isomers are more likely to bump into themselves to make some reactions more viable
+
+### Benzene reactions
+
+!!! definition
+    - An **electrophile** is any species that is or would be electron deficient (+) in the presence of a pi bond.
+    
+In reactions involving a benzene ring, the ring itself is **stable** and will not break apart because of the strength of delocalised pi bonds.
+
+Therefore, only the hydrogens can be swapped out via **electrophilic substitution**, where an hydrogen atom is substituted with an electrophile. The concentration of electrons in the delocalised pi area attracts electrophiles to initiate the bond.
+
+In the mechanism diagram below, $\ce{E+}$ represents the electrophile. Curly arrows are used to show the movement of electrons from the **delocalised area to the electrophile** and **hydrogen atom to the delocalised area**.
+
+<img src="/resources/images/benzene-substitution-mechanism.png" width=900>(Source: Kognity)</img>
+
+The **first step** (the change from the first to the second diagram) is the **slow step** due to the highest activation energy due to the requirement to break a bond.
+
+<img src="/resources/images/benzene-substitution-mechanism-graph.png" width=900>(Source: Kognity)</img>
+
+#### Benzene nitration
+
+!!! definition
+    - A **nitrating mixture** is a mixture of concentrated sulfuric and nitric acids.
+
+In a **nitrating mixture**, benzene will react with positive nitronium ions at **~50°C** to form nitrobenzene, outlined in the reaction mechanism diagrams below.
+
+$$\ce{C6H6 + HNO3_{(aq)} ->[conc H2SO4][50^\circ C] C6H5NO2 + H2O_{(l)}}$$
+
+<img src="/resources/images/benzene-nitration-mechanism.png" width=900>(Source: Random Quora Person)</img>
+
+The first step is to **form the nitronium ion** through a Bronsted-Lowry acid-base reaction between the acids.
+
+$$\ce{HNO3_{(aq)} + H2SO4_{(aq)} <=> H2NO3+_{(aq)} + HSO4-_{(aq)}}$$
+
+The lone pair on the oxygen of the nitric acid attracts a hydrogen atom, which becomes an $\ce{H+}$ ion as sulfuric acid's oxygen takes its electrons. The hydrogen ion bonds to the nitric acid.
+
+$$\ce{H2NO3+_{(aq)} <=> H2O_{(l)} + NO2+_{(aq)}}$$
+
+The oxygen-hydrogen group is conveniently able to form water by taking both electrons it was sharing with the nitrogen. The other single-bonded oxygen compensates with a dative covalent bond with the nitrogen to form the nitronium ion.
+
+The second step is to **react with benzene** through electrophilic substitution, with electrons moving back from the dative oxygen-nitrogen bond back to the oxygen.
+
+### Alkane reactions
+
+### Alkene/yne reactions
 
 ## Resources
 
