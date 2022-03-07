@@ -154,7 +154,7 @@ Cyclic aliphatic hydrocarbons are named the same way as acyclic hydrocarbons exc
 
 The initial double bond should be numbered such that the lowest number is assigned to both sides of the bond (numbers 1 and 2 should be to either side of the double bond). If there is more than one double bond, the ring should be numbered such that the lowest number is assigned to both.
 
-The **first branch rule** still applies. (See [HL Chemistry 2#General nomenclature](/sch4uz/#general-nomenclature).)
+The **first branch rule** still applies. (See [HL Chemistry 3#General nomenclature](/snc4mz/#general-nomenclature).)
 
 !!! example
     tf
@@ -323,11 +323,13 @@ This cycle only ends when all radicals are used up, through reactions that end u
 !!! warning
     The free radical is on the carbon atom, not the hydrogen atoms, so the marker goes at the beginning.
 
-### Alkene/yne reactions
+### Alkene/yne addition reactions
 
-The presence of double/triple bonds make alkenes and alkynes more reactive and also allow the **addition** of species as pi bonds are easier to break.
+!!! definition
+    - A **carbocation** is a compound with a $\ce{C+}$ atom.
+    - The **primary** and **secondary** carbocations are carbocations bonded to one and two other carbon atoms, respectively.
 
-#### Addition halogenation
+The presence of double/triple bonds make alkenes and alkynes more reactive and also allow the **addition** of species as pi bonds are easier to break. Addition always takes precedence over substitution when possible.
 
 These **spontaneous** reactions break the double/triple bond down a level and slot themselves in (i.e., alkynes form alkenes, alkenes form alkanes).
 
@@ -338,17 +340,57 @@ $$
 
 <img src="/resources/images/alkene-addition.png" width=900>(Source: Kognity)</img>
 
+1. If the non-alkene/yne reactant does not have a dipole moment, the electrons concentrated in the double/triple bond of the alkene/yne induce a dipole by repelling the electrons closest to it.
+2. The positive dipole (such as H in HBr) is attracted to the double bond, and **two electrons** in the bond are used to form a **dative** bond with the positive dipole.
+3. No longer needing its old bond, the previously positive dipole loses **both electrons** in its old bond to the negative dipole.
+4. The now positive carbon atom attracts the now negative ion.
+5. The negative ion forms a **dative** bond with the positive carbon atom.
+
 !!! warning
-    If an **alkene is formed**, the same randomness of hydrogen substitution applies, so there is a chance that a cis/trans isomer is be formed.
+    - If an **alkene is formed**, the same randomness of where the atoms attach applies, so it is possible that a cis/trans isomer is formed.
+    - If an **asymmetrical alkane** is formed, the same randomness of where the atoms attach applies after applying Markovnikov's rule, so it is possible that positional isomers are formed.
+
+**Markovnikov's rule** states that in Soviet Russia, the rich get richer. Hydrogens preferentially bond to the carbon with the **most hydrogens** if there is one — otherwise it randomly chooses one available.
+
+This is because carbocations with that are *more highly substituted* (are bonded to more carbon atoms) are more stable, so they last longer and are more likely to form a bond with the negative dipole.
+
+The preferred product is the **major product** while the other is the **minor product**. Some minor product will still be produced if the negative dipole is speedy enough, although it will be vastly outnumbered by the major product.
+
+#### Halogenation
+
+Unlike alkane substitution, addition halogenation is spontaneous.
+
+$$\ce{alkene + Br2 -> alkaneBr2}$$
 
 !!! example
-    This process is used to test for alkenes/alkynes in a solution. As bromine water is red-brown, if alkenes/alkynes are present, the water will be **decolourised** from red-brown to more colourless.
+    This process is used to test for alkenes/alkynes in a solution. As bromine water is red-brown, if alkenes/alkynes are present, the water will be **decolourised** from red-brown to become more colourless.
+
+!!! example
+    <img src="/resources/images/halogenation.jpeg" width=700>(Source: Kognity)</img>
 
 #### Hydrogenation
 
 The addition of hydrogen follows the same principle as that of halogenation.
 
 $$\ce{alkene + H2 ->[\text{heat, high pressure, Ni/Pt/Pd}] alkane}$$
+
+!!! example
+     <img src="/resources/images/hydrogenation.png" width=700>(Source: Kognity)</img>
+
+#### Hydrohalogenation
+
+The addition of both a hydrogen and halogen follows similar principles.
+
+$$\ce{alkene + HBr -> alkaneBr}$$
+
+#### Hydration
+
+Hydration is the addition of an $\ce{H-OH}$ group (colloquially known as water) onto an alkene/yne within 6 mol/L $\ce{H+}$.
+
+$$\ce{alkene + H2O ->[6 mol/L H+] alkaneOH}$$
+
+!!! example
+    <img src="/resources/images/hydration.jpeg" width=700>(Source: Kognity)</img>
 
 ## Resources
 
