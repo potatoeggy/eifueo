@@ -392,6 +392,59 @@ $$\ce{alkene + H2O ->[6 mol/L H+] alkaneOH}$$
 !!! example
     <img src="/resources/images/hydration.jpeg" width=700>(Source: Kognity)</img>
 
+### Nucleophilic substitution
+
+!!! definition
+    - A **nucleophile** is a species with a lone pair or a negative charge.
+
+Nucleophilic substitution replaces a group of atoms attached to a C with a nucleophile. Both processes involve the **leaving group** taking both electrons, becoming negative in the process, and forming a carbocation as the other product, which attracts and bonds with the nucleophile.
+
+Effectively all reactions here involve the formation or stealing of dative covalent bonds.
+
+Where $\ce{X}$ is a halogen:
+$$\ce{R-X_{(l)} + OH-_{(aq)} -> R-OH_{(aq)} + X-_{(aq)}}$$
+
+If substituting with hydroxide, it must be **warm** and **aqueous** (dilute).
+
+Generally:
+
+| Carbocation type | Substitution type |
+| --- | --- |
+| Primary | S<sub>N</sub>2 |
+| Secondary | Both/either |
+| Tertiary | S<sub>N</sub>1 |
+
+#### S<sub>N</sub>1
+
+This **two-step** reaction involves the heterolytic fission of the C-X bond to form a carbocation + halide ion (slow), followed by the nucleophile's lone pairs/negative charge attracting it to the carbocation.
+
+The "1" refers to the order of the rate-limiting step being a **unimolecular** collision.
+
+<img src="/resources/images/sn1-1.png" width=700 />
+<img src="/resources/images/sn1-2.png" width=700>(Source: Kognity)</img>
+
+!!! warning
+    Be sure to draw VSEPR, unlike in the diagrams above.
+
+#### S<sub>N</sub>2
+
+This **single-step** reaction has the nucleophile forming a bond with the central atom **opposite the leaving group** in a "back-side attack". The oncoming nucleophile repels the other groups, causing them to move away, effectively **reflecting** ("inverting") the remaining groups across the vertical axis.
+
+The "2" refers to the order of the rate-limiting step being a **bimolecular** collision.
+
+<img src="/resources/images/sn2-substitution.png" width=900>(Source: Kognity)</img>
+
+!!! warning
+    Dashes must be drawn for the transition state for bonds breaking/forming. In this case, drawing the front/back lines for the bottom two atoms may be ignored in favour of regular lines instead to avoid the ambiguity of forming bonds.
+
+#### Factors affecting substitution type
+
+**Steric hindrance** is the effect of other parts of a molecule getting in the way to the central atom, preventing a reaction. If there is not enough space for a backside attack, S<sub>N</sub>2 cannot happen. Therefore, this makes 3° S<sub>N</sub>2 substitution not viable.
+
+**Steric stress reduction** is the resistance of groups against being forced together. In a 3° carbocation, pushing the groups together for a backside attack increases steric stress. This encourages S<sub>N</sub>1 substitution **only for 3°** to maintain a tetrahedral geometry.
+
+The **positive inductive effect** is the effect that causes more highly substituted carbons to be more stable. Electrons on neighbouring carbon atoms can move closer to the carbon ion, creating an electron-donating effect that slightly balances its charge, increasing its stability and thus window of opportunity for a **S<sub>N</sub>1** substitution.
+
 ### Alcohols
 
 An **alcohol** is an organic compound with a $\ce{-OH}$ (hydroxyl) functional group.
