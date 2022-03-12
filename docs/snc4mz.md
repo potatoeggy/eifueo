@@ -327,7 +327,7 @@ This cycle only ends when all radicals are used up, through reactions that end u
 
 !!! definition
     - A **carbocation** is a compound with a $\ce{C+}$ atom.
-    - The **primary** and **secondary** carbocations are carbocations bonded to one and two other carbon atoms, respectively.
+    - The **primary** (1°), **secondary** (2°), and **tertiary** (3°) carbocations are carbocations bonded to one, two, and three other carbon atoms, respectively.
 
 The presence of double/triple bonds make alkenes and alkynes more reactive and also allow the **addition** of species as pi bonds are easier to break. Addition always takes precedence over substitution when possible.
 
@@ -385,12 +385,70 @@ $$\ce{alkene + HBr -> alkaneBr}$$
 
 #### Hydration
 
-Hydration is the addition of an $\ce{H-OH}$ group (colloquially known as water) onto an alkene/yne within 6 mol/L $\ce{H+}$.
+Hydration is the addition of an $\ce{H-OH}$ group (colloquially known as water) onto an alkene/yne within 6 mol/L $\ce{H+}$ to produce an alcohol.
 
 $$\ce{alkene + H2O ->[6 mol/L H+] alkaneOH}$$
 
 !!! example
     <img src="/resources/images/hydration.jpeg" width=700>(Source: Kognity)</img>
+
+### Alcohols
+
+An **alcohol** is an organic compound with a $\ce{-OH}$ (hydroxyl) functional group.
+
+It has a **higher priority** than double and triple bonds, and alcohol names are suffixed with **-ol**.
+
+!!! warning
+    The -ol suffix is a standard suffix following the same numbering rules as -en and -yne. As functional groups are ordered from lowest to highest priority in their name, similar to how a -yne can have an -en, an -ol can also have an -en and **-yn** before it.
+    
+    - Therefore, $\ce{CH3OH}$ is methanol, *not* methol.
+
+!!! example
+    Some alcohols and their common names:
+    
+    - **Glycerol**: propan-1,2,3-triol
+    - **Ethyl alcohol** or drinking alcohol: ethanol
+    - **Isopropanol** or rubbing alcohol: propan-2-ol
+
+The **type** of an alcohol (primary/secondary/tertiary) is that of the would-be carbocation it is attached to.
+
+#### Alcohol combustion
+
+Alcohols are combustible, and can undergo complete and incomplete combustion.
+
+$$
+\ce{alcohol + O2 -> CO2 + H2O (complete) \\
+alcohol + O2 -> CO2 + H2O + CO + C (incomplete)}
+$$
+
+#### Alcohol elimination
+
+Under significantly more acidic conditions than hydration, the opposite process can be used to revert an alcohol into its base components.
+
+$$\ce{alcohol ->[12 mol/L H2SO4] H2O + alkene}$$
+
+!!! warning
+    When choosing a new double bond to form in the alkene, it must bond to the carbon the OH group was attached to. In elimination, **Markovnikov's rule does not apply**.g
+
+### Properties of organic compounds
+
+**Alcohols** are able to form hydrogen bonds, so are soluble in water. Increasing the length of the main chain decreases solubility as the rest of the molecule is non-polar, but this can be compensated by adding more hydroxyls too.
+
+In general:
+
+ - m/ethanols are miscible
+ - butanols are 10-15% v/v miscible
+ - alcohols longer than octanols are effectively insoluble
+
+Although the boiling point of an alcohol will always be higher than its corresponding alkane, the difference between the two will decrease as chain length increases as the proportion of force the alcohol provides decreases relative to the larger contributor in the LDF from the main chain.
+
+#### Boiling/melting point
+
+Polar compounds have significantly higher boiling/melting points.
+
+A triple bond means that packing is easier, increasing London dispersion forces. A double bond means that there are less electrons than their counterparts and weaker LDF.
+
+$$\ce{alcohols >> alkynes > alkanes > alkenes}$$
 
 ## Resources
 
