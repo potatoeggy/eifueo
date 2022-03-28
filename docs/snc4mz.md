@@ -481,7 +481,176 @@ Under significantly more acidic conditions than hydration, the opposite process 
 $$\ce{alcohol ->[12 mol/L H2SO4] H2O + alkene}$$
 
 !!! warning
-    When choosing a new double bond to form in the alkene, it must bond to the carbon the OH group was attached to. In elimination, **Markovnikov's rule does not apply**.g
+    When choosing a new double bond to form in the alkene, it must bond to the carbon the OH group was attached to. In elimination, **Markovnikov's rule does not apply**.
+
+### Aldehydes
+
+!!! definition
+    - A **carbonyl** is $\ce{C=O}$.
+    - A **hydroxyl** is $\ce{-OH}$. In a side group, it is named **hydroxy**.
+
+In the presence of an oxidising agent that is **limited** and acid, **primary** alcohols will oxidise to form aldehydes, where a hydroxyl group becomes a carbonyl group and the hydrogen migrates to the carbon.
+
+ - $\ce{K2Cr2O7}$
+ - $\ce{Cr2O7^2-}$
+ - $\ce{KMnO4}$
+ - $\ce{MnO4-}$
+
+An aldehyde is named like an alcohol but has a higher naming priority, with a suffix of **-al**. As aldehydes must be at the end of a chain, numbering their position is not required.
+
+!!! example
+    - butanal ($\ce{CH3CH2CH2COH}$)
+    - The common name of **methanal** is **formaldehyde**.
+
+<img src="/resources/images/alcohol-aldehyde.png" width=900>(Source: Kognity)</img>
+
+Aldehydes will continue to react to ketones if the oxidising agent is not limited. To prevent this, the aldehyde is separated and removed from the mixture through distillation.
+
+<img src="/resources/images/aldehyde-distillation.png" width=900>(Source: Kognity)</img>
+
+The mixture is heated to a temperature greater than the aldehyde's boiling point but less than the alcohol's, such that the gaseous aldehyde enters the condenser and is cooled by the water jacket.
+
+An aldehyde can also be reduced in a process similar to **hydrogenation** to reverse the reaction.
+
+$$\ce{aldehyde + H2 ->[\text{high temp, high pressure, Pt/Pd/Ni}] alcohol}$$
+
+### Ketones
+
+In the presence of an oxidising agent and acid, **secondary** alcohols will oxidise to form ketones, where the hydrogen plops off completely.
+
+<img src="/resources/images/alcohol-ketone.png" width=900>(Source: Kognity)</img>
+
+Because there is no possible reaction afterward (no more hydrogens), distillation is not required.
+
+Ketones have equal priority to aldehydes and are named the same but with a suffix of **-one**. A position number *is* required because ketones can be located anywhere on the chain.
+
+!!! example
+    - 3-ethyl-4,4-difluoro-5-hydroxylhexan-2-one
+    - 1,1-dibromo-4-cyclopropylhex-5-en-2-one
+
+### Carboxylic acids
+
+Aldehydes will react again if there is excess oxidising agent to form a carboxylic acid.
+
+<img src="/resources/images/alcohol-acid.png" width=900>(Source: Kognity)</img>
+
+Instead of distillation, **reflux** is used to keep the aldehyde in the mixture. The vaporised aldehyde condenses and returns to the mixture.
+
+<img src="/resources/images/alcohol-reflux.png" width=900>(Source: Kognity)</img>
+
+Carboxylic acids have higher priority than aldehydes/ketones and are named the same but with a suffix of **-oic acid**. Similar to aldehydes, because the $\ce{COOH}$ can only exist on the end of a chain, position numbers are omitted.
+
+!!! example
+    - **Benzoic acid**: $\ce{benzene-COOH}$
+    - 3,3-difluoropent-4-enoic acid
+    - 3-ethylhexanedioic acid
+    - The common name of **ethanoic acid** is **acetic acid**.
+    - The common name of **ethanedioic acid** is **oxalic acid**.
+    - The common name of **methanoic acid** is **formic acid**.
+    - Look up citric acid because I'm not writing that down.
+
+#### Carboxylic acid salts
+
+If the ionising hydrogen is removed ($\ce{COOH -> COO-}$), a carboxylic acid can form a salt by reacting with a metal to form an **ionic compound**. Salts are named as an ionic compound would be, with the acid component resuffixed to **-oate**.
+
+$$\ce{R-COOH + NaOH -> R-COONa + H2O}$$
+
+!!! example
+    - sodium ethanoate
+    - lithium benzoate
+
+#### Identifying alcohols
+
+The **Lucas test** is used to in part determine the type of alcohol (primary/secondary/tertiary) through the **nucleophilic substitution** of OH with Cl. To perform this substitution, **anhydrous** zinc chloride and **concentrated** HCl must be present.
+
+$$\ce{R-OH + HCl ->[ZnCl2] R-Cl + H2O}$$
+
+This test is only valid on **small** alcohols because (<6 carbons) as longer ones are insoluble.
+
+The insoluble halogenoalkane becomes visible, making the solution **cloudy**. Because the reaction is an S<sub>N</sub>1 reaction:
+
+ - Primary alcohols will **not** react
+ - Secondary alcohols react slowly
+ - Tertiary alcohols react rapidly
+
+Alternatively, **oxidising** alcohols to aldehydes/ketones through S<sub>N</sub>2 by reducing $\ce{Cr2O7^2-}$ (orange) to $\ce{Cr^3+}$ (green) will identify the alcohol.
+
+ - Primary alcohols will react quickly
+ - Secondary alcohols will react slowly
+ - Tertiary alcohols will **not** react
+
+### Ethers
+
+!!! definition
+    - A **condensation reaction** or **dehydration synthesis** involves two small molecules reacting to form water and another molecule.
+
+Ethers are formed by reacting two alcohols through dehydration synthesis in sulfuric acid.
+
+$$\ce{R-OH + HO-R ->[H2SO4] R-O-R + H2O}$$
+
+To name ethers, the shorter alkyl group is named as a side chain while the longer is as the main chain, separated by "oxy".
+$$\ce{short + oxy + long}$$
+
+Usually, if the "side chain" is at position 1, the position number is omitted.
+
+!!! example
+    - pentoxypentane (pentan-1-ol + pentan-1-ol)
+    - 2-ethoxybutane (ethan-2-ol + butan-1-ol)
+    - 2-chloro-3-methoxypentane (chloro is at position 2, methoxy is at position 3 on the pentane)
+    - The common name of **ethoxyethane** is **diethyl ether**.
+
+### Esters
+
+When an alcohol and carboxylic acid react in sulfuric acid **and heat**, the only the $\ce{O}$ from the alcohol remains in the ester while that in the acid forms a water. The formed $\ce{COO}$ is known as the **ester linkage**.
+
+<img src="/resources/images/ester-formation.png" width=900>(Source: Kognity)</img>
+
+Esters are named with the alcohol as the side group and the acid as its salt variant with a space in between. If the side chain looks like an alkane, its position number and -ane suffix can be dropped.
+$$\text{alcohol-yl acid-oate}$$
+
+!!! warning
+    The carbon in the ester linkage is included as a carbon of the main chain of the ester.
+
+!!! example
+    - Propyl pentanoate or propan-1-yl pentanoate is formed from propan-1-ol and pentanoic acid.
+    - Propyl 2-chloroethanoate
+    - Hexan-3-yl propanoate
+
+Esters hydrolyse to their original components if catalysed by an acid or base.
+$$\ce{ester + H2O ->[H2SO4] alcohol + carboxylic acid}$$
+$$\ce{ester + H2O ->[NaOH] alcohol + RCOONa ->[react with base] alcohol + carboxylic acid}$$
+
+### Amines
+
+Amines are $\ce{NR3}$ derived from ammonia ($\ce{NH3}$), where R is either H or a carbon group. Similar to alcohols, they can be primary/secondary/tertiary depending on the number of carbon groups attached. The **main chain** is the longest carbon chain.
+
+Amines have a priority between double/triple bonds and alcohols, and are named like alcohols but with a suffix of **-amine**.
+
+If there are any side groups attached to the nitrogen, they are named as if they were side groups on the main chain with a **number of $N$**.
+
+!!! example
+    <img src="/resources/images/amine-name-simple.png" width=700 />
+    <img src="/resources/images/amine-name-mid.png" width=700 />
+    <img src="/resources/images/amine-name-hard.png" width=700>(Source: Kognity)</img>
+
+#### Amine synthesis
+
+Amines can be formed through **halogenoalkane substitution**, where ammonia or another amine is alkylated in an S<sub>N</sub>2 reaction.
+$$\ce{NH3 + CH3Cl -> CH3NH4Cl ->[OH-] CH3NH2}$$
+
+!!! example
+    $\ce{CH3NH2 + CH3Cl -> CH3NH2CH3Cl ->[OH-] CH3NH2CH3}$
+
+### Amides
+
+Amides are formed from a reaction between an amine and a carboxylic acid through dehydration synthesis, similar to the formation of an ester. The $\ce{N-C=O}$ link is known as the **amide link**.
+
+$$\ce{R-COOH + N-R -> R-CON-R}$$
+
+Amides carry the suffix **-amide** and are otherwise named equivalently to esters, but *without* spaces.
+
+!!! example
+    <img src="/resources/images/amide-names.png" width=700>(Source: Kognity)</img>
 
 ### Properties of organic compounds
 
@@ -495,13 +664,39 @@ In general:
 
 Although the boiling point of an alcohol will always be higher than its corresponding alkane, the difference between the two will decrease as chain length increases as the proportion of force the alcohol provides decreases relative to the larger contributor in the LDF from the main chain.
 
-#### Boiling/melting point
+Low mass **esters** smell good, and large mass esters are oily/waxy.
 
-Polar compounds have significantly higher boiling/melting points.
+**Amines** smell bad and are all Bronsted-Lowry weak bases because they can accept protons and form dative bonds.
 
-A triple bond means that packing is easier, increasing London dispersion forces. A double bond means that there are less electrons than their counterparts and weaker LDF.
+The solubility of compounds is directly related to their melting/boiling point — compounds that cannot hydrogen bond with themselves but can with water have an advantage.
 
-$$\ce{alcohols >> alkynes > alkanes > alkenes}$$
+From greatest to lowest melting point:
+
+**Hydrogen bonding**
+
+   - Water is able to hydrogen bond with two other molecules per molecule, efficiently using all its lone pairs and Hs.
+   - Carboxylic acids are less efficient than water but more than alcohols as an the OH can attract to an O on a different molecule.
+   - Alcohols
+   - Primary/secondary amines can hydrogen bond but the N-H bond is less polar than O-H, decreasing its strength.
+
+**Dipole-dipole interaction**
+
+   - Aldehydes and ketones
+   - Esters are less polar than aldehydes because the single bond O attracts electrons from the C=O.
+   - Ethers have horizontal components to their dipole vectors that cancel out, so they are least polar.
+
+**London dispersion forces**
+
+   - Alkynes' triple bonds means that packing is easier, increasing LDFs.
+   - Alkanes
+   - Alkenes' double bonds means that there are less electrons than their alkane counter parts, reducing LDFs.
+
+$$\ce{
+water >> \\
+carboxylic acids > alcohols > amines >> \\
+ethers > aldehydes/ketones >> \\
+alkynes > alkanes > alkenes
+}$$
 
 ## Resources
 
