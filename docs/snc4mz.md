@@ -2,6 +2,8 @@
 
 The course code for this page is **SNC4MZ**.
 
+CHEM!
+
 ## Organic chemistry
 
 !!! definition
@@ -618,7 +620,7 @@ $$\text{alcohol-yl acid-oate}$$
 
 Esters hydrolyse to their original components if catalysed by an acid or base.
 $$\ce{ester + H2O ->[H2SO4] alcohol + carboxylic acid}$$
-$$\ce{ester + H2O ->[NaOH] alcohol + RCOONa ->[react with base] alcohol + carboxylic acid}$$
+$$\ce{ester + H2O ->[NaOH] alcohol + RCOONa ->[react with acid] alcohol + carboxylic acid}$$
 
 ### Amines
 
