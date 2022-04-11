@@ -714,9 +714,64 @@ B => C
 
 ### Simple polymers
 
+!!! definition
+    - **Polymers** are large molecules made from many monomers in long chains.
+    - **Plastics** are polymers formed through addition.
+    - A **homopolymer** has identical monomers.
+    - A **heteropolymer** has multiple distinct monomers.
+    - A **monomer** is the repeating segment in a polymer.
+
+Polymer properties change based on the type of linkages, the presence of side chains, and the extent of crosslinking between other chains.
+
+The **addition formation** of an **addition polymer** opens up pi bonds which are used to bond to other monomers. Monomers are continuously added until the process ends with hydrogen atoms capping the ends.
+
+<img src="/resources/images/addition-polymer.png" width=700>(Source: Kognity)</img>
+
+Only the two carbons directly involved in the double bond go in the main chain of the polymer, with all others expressed as side groups.
+
+<img src="/resources/images/addition-polymer-notation.png" width=900>(Source: Kognity)</img>
+
+**Polymer notation** is the formula/condensed formula/structural diagram of the **repeating unit only** with crossed out brackets and the number of repetitions at the bottom right (or $n$ if unknown). Side groups should be clearly expressed as side groups. Polymers are named with the prefix **poly-** on the repeating unit.
+
+!!! example
+    $$\ce{-(-CH2-CH2-) -_3}$$
+
+#### Crosslinking
+
+!!! definition
+    - **Crosslinking** is the bond between side chains of separate polymers, connecting them.
+
+The crosslinking between polymers depends on the side chains. If there are multiple double bonds in monomers, those can be used in different chains which can attach them together.
+
+!!! example
+    divinylbenzene
+
+!!! example
+    If an OH side group meets another OH side group, they may react to form $\ce{O=O}$ and connect the two polymers.
+
 ### Polyesters and polyamides
 
-### Stereoisomers
+!!! definition
+    - **Condensation polymers** are polymers formed via dehydration synthesis and produce water.
+
+A **polyester** has monomers connected via an ester linkage on both ends. **Unlike addition polymers**, any carbons between the functional groups are included in the parent polymer chain.
+
+<img src="/resources/images/polyester-formation.png" width=700>(Source: Kognity)</img>
+
+The repeating unit should be **copy-pastable** — it should not end with oxygen on both ends. The link is broken where it would normally break — between the C-O of the ester linkage, such that the O goes to the side of the alcohol.
+
+<img src="/resources/images/polyester-notation.png" width=700>(Source: Kognity)</img>
+
+A **polyamide** has monomers connected via an amide linkage on both ends.
+
+<img src="/resources/images/polyamide-formation.png" width=700>(Source: Kognity)</img>
+
+!!! warning
+    There should be a hydrogen attached to the nitrogen at the end of the amine.
+
+### E-Z isomers
+
+### Optical isomers
 
 ### Properties of organic compounds
 
