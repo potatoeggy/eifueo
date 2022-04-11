@@ -790,6 +790,27 @@ If there are multiple E/Z isomers, they are separated by commas and numbered acc
 
 ### Optical isomers
 
+!!! definition
+    - An **enantiomer** is an optical isomer.
+    - A **chiral centre** is a carbon atom with four different groups attached to it.
+    - The **chirality** of a carbon atom represents its ability to form an enantiomer.
+    - A **racemic mixture** is a mixture of exactly one half of each enantiomer of a species such that it is not optically active.
+    - A **dextrorotary** enantiomer rotates rightward (+).
+    - A **levrorotary** enantiomer rotates leftward (-).
+
+Optical isomers are mirrored across the y-axis with the same compounds put on the same bonds. **Four distinct groups** must be attached to the central carbon atom to have optical isomers.
+
+In the data booklet, all amino acids are chiral except for glyine and proline.
+
+!!! example
+    <img src="/resources/images/enantiomer.ex.png" width=700>(Source: Kognity)</img>
+
+An **optically active** species is one that can rotate the plane of polarised light. Please see [SL Physics 1#Polarisation](/sph3u7/#polarisation) for more information.
+
+A species that rotates the plane clockwise is positive, while counter-clockwise is negative. Both enantiomers have the same magnitude of polarisation except for the direction. If there is a mixture of both enantiomers, the angle changes depending on the proportion of each isomer.
+
+Enantiomers have the same physical properties except for the direction of polarised light. They also have mostly the same chemical properties except for chemical reactions with other enantiomers of different compounds.
+
 ### Properties of organic compounds
 
 **Alcohols** are able to form hydrogen bonds, so are soluble in water. Increasing the length of the main chain decreases solubility as the rest of the molecule is non-polar, but this can be compensated by adding more hydroxyls too.
