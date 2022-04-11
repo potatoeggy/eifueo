@@ -679,6 +679,9 @@ $$\ce{aldehyde ->[LiAlH4, ether, then acid] 1^\circ alcohol}$$
 
 $$\ce{amide ->[LiAlH4, ether, then acid] amine}$$
 
+!!! warning
+    $\ce{LiAlH4}$ is required for this reaction.
+
 **Carboxylic acids** can be reduced to **primary alcohols** with the $\ce{C=O}$ plopping off.
 
 $$\ce{carboxylic acid ->[LiAlH4, ether, then acid] 1^\circ alcohol}$$
@@ -690,11 +693,6 @@ $$\ce{ester ->[LiAlH4, ether, then acid] 1^\circ alcohol + 1^\circ alcohol}$$
 **Nitriles** can be double reduced to **amines**.
 
 $$\ce{nitrile ->[LiAlH4, ether, then acid] amine}$$
-
-!!! warning
-    $\ce{LiAlH4}$ is required for this reaction.
-
-
 
 ### Retro-synthesis
 
