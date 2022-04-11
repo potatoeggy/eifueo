@@ -669,6 +669,33 @@ $$\ce{R-X + C#N- -> R-C#N + X-}$$
 
 ### Reduction reactions
 
+**Hydride reagents** include $\ce{LiAlH4}$ and $\ce{NaBH4}$, the former of which requires ether because it reacts violently with water. Always use $\ce{LiAlH4}$ unless specified otherwise.
+
+**Aldehydes** can be reduced to **primary alcohols**.
+
+$$\ce{aldehyde ->[LiAlH4, ether, then acid] 1^\circ alcohol}$$
+
+**Amides** can be reduced to their **amines**, reacting twice such that the O pops off. The name is a simple `amide.replace("amide", "amine")`.
+
+$$\ce{amide ->[LiAlH4, ether, then acid] amine}$$
+
+**Carboxylic acids** can be reduced to **primary alcohols** with the $\ce{C=O}$ plopping off.
+
+$$\ce{carboxylic acid ->[LiAlH4, ether, then acid] 1^\circ alcohol}$$
+
+**Esters** can be reduced to **two primary alcohols** with each alcohol keeping an O and gaining an H to make OH.
+
+$$\ce{ester ->[LiAlH4, ether, then acid] 1^\circ alcohol + 1^\circ alcohol}$$
+
+**Nitriles** can be double reduced to **amines**.
+
+$$\ce{nitrile ->[LiAlH4, ether, then acid] amine}$$
+
+!!! warning
+    $\ce{LiAlH4}$ is required for this reaction.
+
+
+
 ### Retro-synthesis
 
 ### Simple polymers
