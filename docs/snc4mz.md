@@ -769,7 +769,24 @@ A **polyamide** has monomers connected via an amide linkage on both ends.
 !!! warning
     There should be a hydrogen attached to the nitrogen at the end of the amine.
 
-### E-Z isomers
+### E/Z isomers
+
+E/Z isomers are a generalised form of cis-trans isomers, where priority is determined by atomic number. If both sides with the higher atomic number are on the **same** side, the isomer is a Z-isomer (German: *ze zame zide*). E/Z isomers are placed at the beginning surrounded by parentheses.
+
+!!! example
+    (Z)-2-bromo-1-chloro-1-fluoroethene:
+    <img src="/resources/images/ez-example.png" width=700>(Source: Kognity)</img>
+
+If the atoms are of equal priority, the sum of atomic numbers that they are directly connected to are compared (double bonds count twice), repeating as necessary.
+
+!!! example
+    (Z)-1-chloro-1-fluoro-2-methyl-1-butene (left) and (E)-1-chloro-1-fluoro-2-methyl-1-butene (right).
+    <img src="/resources/images/special-ez-isomer.png" width=700>(Source: Kognity)</img>
+
+If there are multiple E/Z isomers, they are separated by commas and numbered according to their earliest position on the main chain.
+
+!!! example
+    (2Z, 3E)-R
 
 ### Optical isomers
 
