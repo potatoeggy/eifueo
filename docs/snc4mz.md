@@ -696,6 +696,22 @@ $$\ce{nitrile ->[LiAlH4, ether, then acid] amine}$$
 
 ### Retro-synthesis
 
+Retro-synthesis is basically a language of math but for chem, with products on the left and reactants on the right. The bottom right contains initial reactant(s) and the top left contains the product(s).
+
+"A is made from B which is made from C":
+
+$$\ce{
+A => B react with alcohol using H2SO4 in reflux \\
+B => C
+}$$
+
+
+!!! example
+    $$\ce{
+    ethanoic acid => ethanol (react w/K2Cr2O7 in H+) \\
+    ethanol => chloroethane (react w/warm dilute hydroxide)
+    }$$
+
 ### Simple polymers
 
 ### Polyesters and polyamides
