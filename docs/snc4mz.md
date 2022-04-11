@@ -2,8 +2,6 @@
 
 The course code for this page is **SNC4MZ**.
 
-CHEM!
-
 ## Organic chemistry
 
 !!! definition
@@ -653,6 +651,31 @@ Amides carry the suffix **-amide** and are otherwise named equivalently to ester
 
 !!! example
     <img src="/resources/images/amide-names.png" width=700>(Source: Kognity)</img>
+
+### Nitriles
+
+Nitriles consist of a cyanide(s) attached at the end of a carbon chain.
+
+$$\ce{R-C#N}$$
+
+As they can only be placed at the end of a carbon chain, a positional number is not used. These have the highest priority of all organic compounds and use the suffix **-nitrile** and the prefix **cyano-**.
+
+!!! example
+    - methanenitrile
+    - methanedinitrile
+
+Nitriles are synthesised through the nucleophilic substitution of halogenoalkanes, **extending their carbon chain**.
+$$\ce{R-X + C#N- -> R-C#N + X-}$$
+
+### Reduction reactions
+
+### Retro-synthesis
+
+### Simple polymers
+
+### Polyesters and polyamides
+
+### Stereoisomers
 
 ### Properties of organic compounds
 
