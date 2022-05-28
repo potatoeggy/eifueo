@@ -1,5 +1,10 @@
 site_name: Eifueo
-site_url: "https://eggworld.tk"
+site_description: "A collection of personal notes throughout school"
+site_author: "Daniel Chen"
+copyright: "Text licensed under the GNU General Public License, version 3"
+site_url: "https://eifueo.eggworld.tk"
+repo_url: "https://git.eggworld.tk/eggy/eifueo"
+repo_name: Gitea
 nav:
   - Home: index.md
   - Grade 11 IB:
@@ -40,9 +45,12 @@ markdown_extensions:
   - mdx_math:
       add_preview: True
       enable_dollar_delimiter: True
-  - admonition
+  - callouts
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - def_list
+  - footnotes
   - toc:
       permalink: True
 
