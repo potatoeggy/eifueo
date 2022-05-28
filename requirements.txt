@@ -1,4 +1,6 @@
 mkdocs
 mkdocs-material
-mkdocs-material-extensionsgi
-markdown-callouts
+mkdocs-material-extensions
+
+# get latest commit bc pypi is outdated and is missing some fixes
+git+https://github.com/oprypin/markdown-callouts.git#egg=markdown-callouts
