@@ -4,9 +4,9 @@ This website is intended to be primarily for personal use, but is available publ
 
 Testing math rendering: $a^2+b^2=c^2$
 
-| Tables | too! |
-| --- | --- |
-| yeet | no yeet |
+| Tables | too!    |
+| ------ | ------- |
+| yeet   | no yeet |
 
 ## Contact
 

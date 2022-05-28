@@ -2,20 +2,24 @@ site_name: Eifueo
 site_url: "https://eggworld.tk"
 nav:
   - Home: index.md
-  - SL Physics 1: sph3u7.md
-  - SL Physics 2: sph4u7.md
-  - SL Math - Analysis and Approaches 1: mhf4u7.md
-  - SL Math - Analysis and Approaches 2: mcv4u7.md
-  - SL French 1: fsf3u7.md
-  - SL French 2: fsf3uz.md
-  - HL Chemistry 1: sch3uz.md
-  - HL Chemistry 2: sch4uz.md
-  - HL Chemistry 3: snc4mz.md
-  - HL English 1: eng3uz.md
-  - HL English 2: eng4uz.md
-  - HL History 1: chw3mz.md
-  - HL History 2: chy4uz.md
-  - Theory of Knowledge: tok.md
+  - Grade 11 IB:
+      - SL Physics 1: sph3u7.md
+      - SL Physics 2: sph4u7.md
+      - SL Math - Analysis and Approaches 1: mhf4u7.md
+      - SL Math - Analysis and Approaches 2: mcv4u7.md
+      - HL English 1: eng3uz.md
+      - HL Chemistry 1: sch3uz.md
+      - HL History 1: chw3mz.md
+  - Grade 12 IB:
+      - SL French 1: fsf3u7.md
+      - SL French 2: fsf3uz.md
+      - HL Chemistry 2: sch4uz.md
+      - HL Chemistry 3: snc4mz.md
+      - HL English 2: eng4uz.md
+      - HL History 2: chy4uz.md
+      - Theory of Knowledge: tok.md
+  - Computer Engineering 1A: none
+  - Computer Engineering 1B: none
 
 theme:
   name: material
@@ -30,7 +34,5 @@ markdown_extensions:
   - toc:
       permalink: True
 
-extra_javascript: [
-  'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js',
-  'mathjax-config.js'
-]
+extra_javascript:
+  ["https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js", "mathjax-config.js"]
