@@ -39,7 +39,7 @@ Pomme de terre!
 
 Links to images must be either from Kognity or available for free non-commercial use. They should be sent to the site administrator's email to be loaded in as a static local asset. Images should be linked using HTML, have a maximum width of 700 pixels, contain a reference to the source organisation, and fit the overall theme of the site. The link to the image path is `/resources/images/image.file-extension`. If possible, PNGs are preferred. Images should be relevantly named in lowercase with hyphens separating words.
 
-`<img src="/resources/images/velocity-time-graph.png" width=700>(Source: Kognity)</img>
+`<img src="/resources/images/velocity-time-graph.png" width=700>(Source: Kognity)</img>`
 
 ## Special Markdown
 
