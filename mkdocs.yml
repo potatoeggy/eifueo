@@ -45,7 +45,7 @@ markdown_extensions:
   - mdx_math:
       add_preview: True
       enable_dollar_delimiter: True
-  - admonitions
+  - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
