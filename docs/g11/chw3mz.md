@@ -79,16 +79,20 @@ The abundance of **diverse** data allows for greater perspectives to be gleaned 
 - **Law of noncontradiction**: contradictory statements cannot both be true.
 - **Law of excluded middle**: any proposition must either be true or false.
 
-!!! example - Identity: A football is a football. - Noncontradiction: If water and oil do not mix, and substance A mixes in water, it must not be oil. - Excluded middle: The Nintendo Switch must either be or not be a potato.
+> EXAMPLE:
+>
+> - Identity: A football is a football.
+> - Noncontradiction: If water and oil do not mix, and substance A mixes in water, it must not be oil.
+> - Excluded middle: The Nintendo Switch must either be or not be a potato.
 
 **Deductive** arguments connect a general statement to a more specific statement based on laws, rules, and/or widely accepted principles.
 
-!!! example
+EXAMPLE:
 As monkeys like bananas and Lucy is a monkey, Lucy must like bananas.
 
 **Inductive** arguments connect a specific statement to a more general statement based on **empiric** data.
 
-!!! example
+EXAMPLE:
 As three of the eight billion humans on Earth are mortal, all humans must be mortal.
 
 ### Logical fallacies
@@ -150,19 +154,19 @@ The **opium wars** starting from 1839 were two armed conflicts in China between 
 
 The **First Sino-Japanese War** (also known as the War or Jiawu) in 1894–1895 also resulted in Japan's easy victory due to obsolete Chinese military technology.
 
-!!! example
+EXAMPLE:
 During the First Sino-Japanese War, Cixi took military money and spent it on palace renovations, demonstrating the corruption in and ineffectiveness of the regime.
 
 ### Outdated agricultural practices and limited industrial development
 
 **— Long-term structural economic**
 
-!!! context
+INFO: **Context**
 In 1900, Japan and the United States were major industrial powers and both were steadily modernising.
 
 China's rulers believed that Westerners were barbarians and that nothing could be learned from industrialisation. This contributed to their weak military strength as they fell further behind other countries.
 
-!!! example
+EXAMPLE:
 By 1914, only ~6 000 km of rail was laid in China while the US had laid ~225 000 km.
 
 Additionally, the population boom meant that demand for food increased, but outdated agricultural practices and technologies could not keep up, resulting in famine.
@@ -173,12 +177,12 @@ Additionally, the population boom meant that demand for food increased, but outd
 
 China operated under a **patriarchy** and had traditions and practices which were thought to be even at the time to be cruel and outdated especially for women.
 
-!!! example
+EXAMPLE:
 The life expectancy of a city in China (Shenyang, Daoyi) from 1792 to 1867 was less than 40 years for men and about 30 for women.
 
 **Submission to the Qing dynasty** was traditional as well — the Chinese could not marry Manchus nor live in Manchuria.
 
-!!! example
+EXAMPLE:
 Men were required to wear a queue (a long pigtail behind a shaven forehead) to show subservience to the Manchu Empire.
 
 The **class structure** in China did not change for hundreds of years and old traditions and practices persisted into the 1900s.
@@ -197,7 +201,7 @@ The **Taiping Civil War** from 1850 to 1864 was one of the bloodiest wars ever a
 
 The **Boxer Rebellion** from 1899 to 1901 was caused by an organisation known as the Boxers (due to many of their members practising Chinese martial arts) desiring an end to foreign control in China. To do so, they violenced across northern China targeting foreign property, Christian missionaries, and Chinese Christians. Although initially supported by Cixi, support was split in the country and eventually she accepted help from foreign armies to end the rebellion.
 
-!!! example
+EXAMPLE:
 The slogan of the Boxers was to "support the Qing government and exterminate foreigners".
 
 ### Introduction of progressive ideas and rise of revolutionaries
@@ -240,7 +244,7 @@ In the aftermath of the Chinese Civil War, political pluralism was adopted for t
 
 The **reunification campaigns** from 1950 to 1953 consolidated Mao's power across a divided China and allowed him to gain control of its borders.
 
-!!! background
+INFO: **Background**
 The region of [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang) followed the Qing dynasty, but was semi-independent during the rule of the warlords and the Republic of China. With a population consisting largely of the [Uyghur](https://en.wikipedia.org/wiki/Uyghurs) minority ethnic group as opposed to the [Han](https://en.wikipedia.org/wiki/Han_Chinese) that made up 98% of the population in China, the province was ruled by a coalition government made of local leaders and **Guomindang (GMD)** members at the time of the establishment of the PRC.
 
 The **Chinese Communist Party (CCP)** was concerned that Xinjiang would start a separatist movement against them or become part of the USSR. Upon the CCP's army, the **People's Liberation Army (PLA)** moving into Xinjiang, provincial authorities pledged allegiance to the CCP and the province was fully under their control by 1951. It is referred to as the "Peaceful Liberation of Xinjiang" in Chinese historiography.
@@ -274,39 +278,39 @@ The [constitution](https://en.wikipedia.org/wiki/1954_Constitution_of_the_People
 
 From 1956 to 1957, the CCP encouraged citizens to express their thoughts of the regime in the [Hundred Flowers Campaign](https://en.wikipedia.org/wiki/Hundred_Flowers_Campaign) (Chinese: 百花齐放), inviting intellectuals to criticise their policies.
 
-!!! quote "Mao Zedong, 1956:"
+QUOTE: **Mao Zedong, 1956:**
 The policy of letting a hundred flowers bloom and a hundred schools of thought contend is designed to promote the flourishing of the arts and the progress of science.
 
 Initially, people were afraid of being arrested publicly and executed after the events of the Three- and Five- Antis campaigns, but eventually began to provide criticism. By May 1957, millions of letters were openly criticising the government. Rallies in the streets and posters and articles in magazines protested against corruption and censorship.
 
-!!! example
+EXAMPLE:
 Students at Peking University created a "Democratic Wall" on which they criticised the CCP with posters and letters over their control over intellectuals, the harshness of campaigns against counter-revolutionaries, low living standards, economic corruption and privileges among members of the party.
 
 Mao abandoned the campaign in June 1957 and then began the [Anti-Rightist Campaign](https://en.wikipedia.org/wiki/Anti-Rightist_Campaign) in July where those who provided criticism were not persecuted. It is controversial whether Mao was genuinely surprised by the extent of the criticism or whether the campaign was to identify enemies of the CCP.
 
-!!! definition
+INFO: **Definition**
 In China, a **rightist** was someone who favoured capitalism over communism, but eventually became a label for anyone who disagreed with Mao.
 
 During the Anti-Rightist Campaign from 1957 to 1959, Mao attacked his critics in the Hundred Flowers Campaign, forcing them to take back what they said. Led by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Chinese: 邓小平), at least 550 000 citizens were declared rightists — most of them were sent to be re-educated in the countryside via labour reform. The result was that Mao accumulated more power over the party and over China.
 
 #### Force in the Cultural Revolution
 
-!!! background
+INFO: **Background**
 The [**Cultural Revolution**](https://en.wikipedia.org/wiki/Cultural_Revolution) from 1966 to 1976 was declared by Mao to remove all capitalist and intellectual elements from China. In reality, it was Mao's attempt to remove his rivals in the government — [Liu Shaoqi](https://en.wikipedia.org/wiki/Liu_Shaoqi) (Chinese: 刘少奇) and Deng Xiaoping — believing their successful policies would damage his reputation and ideology, and to revive his cult of personality after the events of the Great Leap Forward.
 
 The "Four Olds" — old ideas, culture, customs, and habits — were denounced and books were burnt, porcelain destroyed, museums ransacked, and heritage sites destroyed.
 
-!!! example
+EXAMPLE:
 More than 70% of Beijing's cultural artifacts were destroyed in August–September 1966.
 
 Because religion and intellectuals could change people's minds, Mao directed temples, shrines, and religious statues to be destroyed. Intellectuals such as teachers were tortured, beaten to death, and sent to prison. Priests and the clergy were imprisoned and denounced — religious worship was banned entirely. [Red Guards](https://en.wikipedia.org/wiki/Red_Guards) comprising students from elementary to high school carried out humiliations and attacks as per the social norm because Mao had ordered them to.
 
-!!! info
+INFO:
 The **Little Red Book** was a pocket-sized collection of Mao's thoughts, assembled by his propaganda minister, [Lin Biao](https://en.wikipedia.org/wiki/Lin_Biao) (Chinese: 林彪). Published during the Cultural Revolution, it was viewed as the source of all truth and more than a billion copies circulated, second only to the Holy Bible. Members of the Red Guard were required to carry the book with them at all times, and its contents were viewed as the source of all truth.
 
 In addition, landlords, rich peasants, counter-revolutionaries, rightists, and capitalists were all targeted. Due to the vague nature of thse labels, anyone could accuse anyone of anything. An environment of fear formed as people reported suspected enemies, with some citizens reporting neighbours as revenge, and children even reported and condemned their parents. The population was effectively mobilised to act as a **secret police** without actual secret police. Casualties from the Cultural Revolution are difficult to measure and range from thousands to millions.
 
-!!! example
+EXAMPLE:
 People were accused and persecuted for crimes such as forgetting a quote from the Little Red Book or owning a Western instrument.
 
 #### Tibet
@@ -323,7 +327,7 @@ Guangdong (Chinese: 广东), also known as Canton, is a province in southern Chi
 
 The [**Three-Anti Campaign**](https://en.wikipedia.org/wiki/Three-anti_and_Five-anti_Campaigns) in 1951 denounced waste, corruption, and bureaucratic inefficiency. Its targets were CCP members, former GMD members, and bureaucratic officials not in the party. Confessions were required for the people denounced in public trials. An estimated 5% of government officials were purged.
 
-!!! example
+EXAMPLE:
 One thousand officers were denounced in the first month — some for minor offenses like the use of an American car and some more serious such as the use of government money to purchase luxury furniture in offices.
 
 The **Five-Anti Campaign** in 1952 denounced bribery, theft of state property, tax evasion, state property theft, chating on government contracts, and stealing economic intelligence. Its targets were the bourgeoisie, merchants, industrialists, and the rest of the capitalist class. The campaign sent a wave of fear in the bourgoisie, not helped by the Chinese encouraged to support the campaign and denounce people they suspected to be guilty. Those convicted also had to confess their crimes in public trials, and an estimated 450 000 private businesses were convicted.
@@ -334,12 +338,13 @@ The results of the campaigns were large-scale purges in the CCP and bourgeoisie,
 
 Mao was seen as the figurehead of China and his image was proimently on display throughout China. His Little Red Book was distributed everywhere, and his charisma was a form of control over the population via his **cult of personality**. There was no distinction between Mao the person, the government, and China in the people's eyes. He received little backlash after the events of the Great Leap Forward and most of the population genuinely mourned his death.
 
-!!! example "Example: "Long Live the Chinese Communist Party that Chairman Mao Personally Founded", April 1973"
+EXAMPLE:
+"Long Live the Chinese Communist Party that Chairman Mao Personally Founded", April 1973
 <img src="/resources/images/mao-propaganda.jpeg" width=500>(Source: Kognity)</img>
 
 **Propaganda** was under the control of the CCP's Central Propaganda Department up to the Cultural Revolution. Its aims were to spread Chinese ideology and the idea of Maoism against capitalism, indoctrinate the Chinese population, and reinforcce political messages to enhance Mao's cult of personality.
 
-!!! example
+EXAMPLE:
 The **Combat Illiteracy Campaign** from 1950 to 1956 sent simple reading material all over China including remote places to increase literacy while spreading ideology and propaganda.
 
 From the 1940s to the 1950s, propaganda was generally colourfully visual because not many could read or write and it was cheaper and quicker to produce. Posters portrayed Mao as a god-like figure and all-powerful, symbolised as the father of the nation. They were put up everywhere in publicc spaces, poor citizens used them to decorate their homes, and Mao's picture was always in newspapers, stamps, and pins.
@@ -348,7 +353,7 @@ After 1949, radios and loudspeakers were also extensively used, broadcasting gov
 
 **Role models** of real or fictitious people were used in propaganda to teach the population how to behave.
 
-!!! example
+EXAMPLE:
 Lei Fang was a fictitious soldier who died at 22 and was depicted as a happy and positive person despite experiencing a difficult childhood because his immediate family died at an early age. Mao's propaganda minister, Lin Biao, promoted his image by pushing his diary with positive comments about Mao. In 1953, Mao encouraged everyone to learn the "Lei Feng spirit", and the "Learn from Lei Feng" campaign launched during the Cultural Revolution aimed at getting people to obey and be loyal to Mao.
 
 #### Thought Reform Movement
@@ -359,14 +364,19 @@ At the same time of the Antis campaigns, the [**Thought Reform Movement**](https
 
 Mao's cult of personality reached its peak during the Cultural Revolution. The people were drawn in by his promises after a decade of wars and corruption after the fall of the Qing dynasty. As the son of a poor peasant who worked hard to improve his social status, he maintained his image of being connected to the land and the peasants.
 
-!!! example
+EXAMPLE:
 As a publicity stunt, at the age of 72 years, he swam through the Yangtze River in July 1966 to prove that he was fit to rule. Propaganda at the time claimed he swam nearly 15 kilometres in just over an hour.
 
 #### Education
 
 To create citizens supportive of the state, the CCP controlled the curriculum, reading material, and other information that students were exposed to. Schools effectively became indoctrination centres.
 
-!!! example - Chinese textbooks were censored. - The Little Red Book was the primary literary text. - Elementary education focused on rote (memorisation via repetition) over critical thinking. - Secondary education focused on testing, exams, physical education, and in practice it was mostly children of high ranking party members and government officials who attended.
+> EXAMPLE:
+>
+> - Chinese textbooks were censored.
+> - The Little Red Book was the primary literary text.
+> - Elementary education focused on rote (memorisation via repetition) over critical thinking.
+> - Secondary education focused on testing, exams, physical education, and in practice it was mostly children of high ranking party members and government officials who attended.
 
 **Language reforms** resulted in a new form of Mandarin that allowed for people averywhere in the country to communicate. This standardisation made Mandarin easier to learn but caused local languages to disappear.
 
@@ -378,12 +388,12 @@ During the Cultural Revolution, it was required that a portrait or sculpture of 
 
 Mao called for class struggle in all educational institutions, and education as an ideal was condemned. Peasants and industrial workers were made teachers and pupils, and they were encouraged to criticise their teachers, who were forced to wear dunce caps and were paraded around. Schools and universities closed down and were made into barracks for Red Guards.
 
-!!! info
+INFO:
 130 million young people stopped attending school.
 
 The [**Down to the Countryside Movement**](https://en.wikipedia.org/wiki/Down_to_the_Countryside_Movement) beginning in 1968 when the Red Guard was becoming violent and difficult to control had Mao order them to return to schools, with more violent radical groups being forcibly suppressed by the PLA. Urban students were sent to the countryside to experience peasant life. This ripped millions of families apart and many did not go back to school or university when they were allowed to return home.
 
-!!! info
+INFO:
 From 1968 to 1976, 17 million young people were sent to rural areas.
 
 #### Arts
@@ -398,7 +408,7 @@ Folk **music** was made modern and an attempt was made to put traditional Chines
 
 **"The East is Red"** was a revolutionary song that was the _de facto_ national anthem during the Cultural Revolution. It was played through loudspeakers everywhere at dawn and dusk, sung by students at the beginning of the first class of each day, and shows began with this song.
 
-!!! quote ""The East is Red""
+QUOTE: **"The East is Red"**
 The east is red, the sun is rising,  
  China has brought forth a Mao Zedong.  
  He works for the people's welfare.  
@@ -414,10 +424,10 @@ The east is red, the sun is rising,
 
 #### Historians
 
-???+ quote "Yan Yen (poet):"
+QUOTE: **Yan Yen (poet):**
 As a result of the Cultural Revolution, you could say the cultural trademark of my generation is that we had no culture.
 
-???+ quote "Michael Lynch:"
+QUOTE: **Michael Lynch:**
 Cultural terrorism — Result of the Cultural Revolution: Cultural wasteland. Artists who resisted the revolution were sent to re-educational labour camps, where they were brutally treated. Pianists and string players were made to scratch at the ground so they would never be able to play well again.
 
 ### Nature, extent, and treatment of opposition
@@ -432,7 +442,7 @@ Struggle sessions were a form of public humiliation where people **self-criticis
 
 **Landlords** were publicly humiliated after land reform and tried then executed in their villages until there were no more landlords. Red Guards looted and destroyed homes, attacking landlords and local officials.
 
-!!! info
+INFO:
 An estimated 2-3 million landlorrds were killed.
 
 After Mao's retreat from the Great Leap Forward, in 1966, he decided to reorganise the party by "eliminating members who had taken a capitalist road". In 1968, Liu Shaoqi and Deng Xiaoping were denounced and stripped of their positions. Liu was struggled against and humiliated while the propaganda campaign accused him of being a traitor. He died in November 1969 in prison. Deng was also struggled against and publicly shamed but put under house arrest with his wife, later sent to Jiangxi for re-education through labour.
@@ -443,7 +453,7 @@ After Mao's retreat from the Great Leap Forward, in 1966, he decided to reorgani
 
 [**Laogai**](https://en.wikipedia.org/wiki/Laogai) (Chinese: 劳改), or reform through labour, is a lake in _Avatar: The Last Airbender_. Located in Ba Sing Se in the Earth Kingdom, it hid an underground prison where those interned were brainwashed. It is also compared to the USSR's [_gulag_](https://en.wikipedia.org/wiki/Gulag). As internment camps for criminals, they were built in areas with extreme wewather and interns were forced to perform hard labour such as digging dithes and building roads under extremely poor conditions.
 
-!!! quote
+QUOTE:
 The Earth King has invited you to Lake Laogai.
 
 ### Extent of authoritarian control
@@ -464,14 +474,14 @@ If there was a single thing that meant ecstasy to everyone in those days, it was
 
 ## Foreign policy of China
 
-!!! definition
+INFO: **Definition**
 **Sinocentrism** is the idea that China is the cultural, political, and/or economic centre of the world.
 
 Mao was concentrated on maintaining and consolidating his power in China, but he supported the idea of an **international communist revolution** and focused on re-establishing China's position as a great power in the world.
 
 After [Joseph Stalin](https://en.wikipedia.org/wiki/Joseph_Stalin)'s death, Mao was seen by many to be the leader of the communist world.
 
-!!! example
+EXAMPLE:
 In 1964, China detonated its first nuclear bomb, claiming its necessity for defense and in opposing the "US imperialist policy of nuclear blackmail and nuclear threats". Originally advocating for the abolishment of nuclear weapons but blocked by the US, evidence seems to suggest that Mao was quite willing to use nuclear weapons, believing that China's population would recover quickly.
 
 ### Sino-Soviet relations
@@ -490,8 +500,9 @@ The visit lasted three months and culminated in the signing of the treaty on 14 
 
 #### Korean War
 
-!!! background
+INFO: **Background**
 From 1910 to August 1945, Korea was occupied by imperial Japan. After the end of World War II, the USSR and the US agreed to temporarily divide Korea along the 38th parallel and established a communist government in the north and a democratic government in the south, respectively.
+
 <center><img src="/resources/images/korea-map.png" width=350></img></center>
 (Source: Kognity)
 
@@ -499,42 +510,55 @@ Under a desire to unify Korea under communism, North Korean leader [Kim Il-Sung]
 
 In response, the [United Nations Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council) declared North Korea as the aggressor and sent troops from 15 countries led by the US to restore peace under American general [Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur), successfully retaking the 38th parallel.
 
-!!! info - The UN motion to send troops only succeeded because the Soviet delegate with [veto powers](https://en.wikipedia.org/wiki/United_Nations_Security_Council_veto_power) was absent as a protest against UN refusal to accept the PRC as the legitimate government of China. - The United States, South Korea, and other nations sent 350 000, 400 000, and 50 000 troops, respectively.
+> INFO:
+>
+> - The UN motion to send troops only succeeded because the Soviet delegate with [veto powers](https://en.wikipedia.org/wiki/United_Nations_Security_Council_veto_power) was absent as a protest against UN refusal to accept the PRC as the legitimate government of China.
+> - The United States, South Korea, and other nations sent 350 000, 400 000, and 50 000 troops, respectively.
 
-!!! background - North Korea made significant contributions to the CCP during their liberation of mainland China. - Sino-American relations during this time period were especially poor due to the Truman administration declaring their support for the Republic of China on Taiwan as the "main China".
+> INFO: **Background**
+>
+> - North Korea made significant contributions to the CCP during their liberation of mainland China.
+> - Sino-American relations during this time period were especially poor due to the Truman administration declaring their support for the Republic of China on Taiwan as the "main China".
 
 When UN forces crossed the Yalu River on the China-Korea border, Mao felt China's security was at stake and also recognised an opportunity to assert power. Additionally, concern over border security with a hostile east due to a revived Japan, a desire to replace the Soviet influence in North Korea with their own, and Stalin pressing Mao to assist in the war led China to intervene.
 
 In October 1950, the [Chinese People's Volunteers](https://en.wikipedia.org/wiki/People%27s_Volunteer_Army) — in actuality a group of forces from the main People's Liberation Army under a different name to avoid official war with the US — deployed 500 000 troops push the UN troops back to the 38th parallel, resulting in a stalemate back at status quo by 1951. Talks lasted two years with US President [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) threatening the use of nuclear weapons should they drag on until an [**armistice**](https://en.wikipedia.org/wiki/Korean_Armistice_Agreement) was signed on 27 July 1953.
 
-???+ info
-**Casualties in the Korean War**  
- <img src="/resources/images/korean-war-casualties.png" width=500>(Source: Kognity)</img>
-
-From China's perspective, the war was both a success and a failure. Mao propagandised the war as a total success in their aim to "Resist America and Defend Korea".
-
-| Success                                                                         | Failure                                                                                   |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Mao gained considerable prestige for being able to fight the US to a standstill | Heavy casualties — Mao's eldest son was killed in an air raid                             |
-| North Korea remained communist                                                  | Sino-American relations deteriorated further, and China faced a total embargo from the US |
-| China preserved its Manchurian border where its heavy industry was concentrated | The USSR-lent military equipment had to be repaid                                         |
+> INFO:
+> **Casualties in the Korean War**  
+> <img src="/resources/images/korean-war-casualties.png" width=500>(Source: Kognity)</img>
+>
+> From China's perspective, the war was both a success and a failure. Mao propagandised the war as a total success in their aim to "Resist America and Defend Korea".
+>
+> | Success                                                                         | Failure                                                                                   |
+> | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+> | Mao gained considerable prestige for being able to fight the US to a standstill | Heavy casualties — Mao's eldest son was killed in an air raid                             |
+> | North Korea remained communist                                                  | Sino-American relations deteriorated further, and China faced a total embargo from the US |
+> | China preserved its Manchurian border where its heavy industry was concentrated | The USSR-lent military equipment had to be repaid                                         |
 
 #### Sino-Soviet split
 
 Stalin and Mao's relationship was tense, and the relationship between the two countries deteriorated much faster under [Nikita Khrushchev](https://en.wikipedia.org/wiki/Nikita_Khrushchev).
 
-!!! background
+INFO: **Background**
 The border between the Soviet Union and China was determined by many treaties signed by various officials over many years. This left many gray areas where both countries claimed soverignity.
 
 **Border conflicts** in 1969 between the two countries led to seven months of unofficial conflicts and border clashes over various islands and rivers. At this point in time, both countries had nuclear weapons. Tensions persisted until September 1969 when the Chinese Premier and Soviet Minister of Foreign Affairs met in Beijing in September 1969.
 
 **Personality and ideological conflicts** between the leaders and countries worsened relations. Mao acted like an obedient student and never openly contradicted Stalin while he was in power but was often annoyed by his level of control over the CCP. Stalin was annoyed by Mao's attitude but needed a strong ally.
 
-!!! example - In 1921, Mao believed that the rural population would lead China to revolution while Stalin interpreted that the proletariat could only be urban workers. - After the end of World War II, Stalin requested Mao to work with the GMD, but Mao decided to wipe out the party and take power instead.
+> EXAMPLE:
+>
+> - In 1921, Mao believed that the rural population would lead China to revolution while Stalin interpreted that the proletariat could only be urban workers.
+> - After the end of World War II, Stalin requested Mao to work with the GMD, but Mao decided to wipe out the party and take power instead.
 
 In 1956, after Stalin's death, Khrushchev gave a [secret speech](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences) denouncing his rule. Mao was alarmed by the brutality of these attacks and interpreted the speech as criticism against him and his own leadership in China.
 
-!!! definition - **Détente** between the US and Soviet Union was the relaxation of strained relations between the two countries. - **Revisionism** in this context is the betrayal of original revolutionary ideas. - **Peaceful coexistence** is the belief that both capitalist and communist nations can exist together without war.
+> INFO: **Definition**
+>
+> - **Détente** between the US and Soviet Union was the relaxation of strained relations between the two countries.
+> - **Revisionism** in this context is the betrayal of original revolutionary ideas.
+> - **Peaceful coexistence** is the belief that both capitalist and communist nations can exist together without war.
 
 In 1957, Khrushchev organised a [conference in Moscow](https://en.wikipedia.org/wiki/1957_International_Meeting_of_Communist_and_Workers_Parties), inviting all communist states including China. Mao complained about Khrushchev's [revisionism](<https://en.wikipedia.org/wiki/Revisionism_(Marxism)>) and [peaceful coexistence](https://en.wikipedia.org/wiki/Peaceful_coexistence)/[detente](https://en.wikipedia.org/wiki/D%C3%A9tente) approaches with the United States. Mao believed that it was the duty of communists to conduct class warfare and that the Soviet Union was being too soft on the West by making concessions — they were not fit to lead the communist world. He thought that a final violent conflict was needed with capitalism.
 
@@ -561,7 +585,7 @@ In 1958, Mao ordered the PLA to attack the Taiwan-surrounding and -controlled is
 
 The US viewed China as an aggressive country with the objective of threatening the security of the non-communist states surrounding it. China viewed the US as their enemy.
 
-!!! example
+EXAMPLE:
 The [Red Scares](https://en.wikipedia.org/wiki/Red_Scare) in the US and the anti-American and anti-capitalist propaganda in China (e.g., "Death to the American imperialists") meant that the two countries could not easily communicate diplomatically in public.
 
 To "contain" communism in China, the US signed several treaties such as the [Southeast Asia Treaty Organization](https://en.wikipedia.org/wiki/Southeast_Asia_Treaty_Organization) and the [ANZUS Treaty](https://en.wikipedia.org/wiki/ANZUS) to ward off China. Additionally, they gave the Chinese seat at the UN to Taiwan, pushed allies to avoid entertaining diplomatic relations with Taiwan, supported countries that felt threatened by China, encouraged the split between the USSR and China, and implemented a trade embargo.
@@ -574,13 +598,13 @@ The [**Shanghai Communiqué**](https://en.wikipedia.org/wiki/Shanghai_Communiqu%
 
 ### Historians
 
-???+ quote "_Mao: a Biography_ - Ross Terill (revisionist and somewhat sympathetic to Mao), 1995:"
+QUOTE: **_Mao: a Biography_ - Ross Terill (revisionist and somewhat sympathetic to Mao), 1995:**
 Mao knew little of the world outside China, and nothing of the capitalist world… Yet Mao took a lively interest in the world beyond the Soviet Bloc during the early 1960s… It was as if the split with Russia in 1960 took a burden off the back of Chinese diplomacy. Instead of being junior partner in someone else’s show, Mao made China its own one-man show on the broadening stage of the Third World.
 
-???+ quote "_Mao: Profiles in Power_ - Shaun Breslin, 1998:"
+QUOTE: **_Mao: Profiles in Power_ - Shaun Breslin, 1998:**
 Mao’s main objective in all of his foreign policy initiative from 1949 to 1976 was to safeguard China’s borders and restore China to its rightful position on the world stage. Mao had a traditional Sinocentrism: the notion that China is the central place in the world, and that only those who recognise and accept Chinese superiority can be considered to be civilised.
 
-???+ quote "_Mao Zedong_ - Maurice Meisner (sympathetic to socialist ideology and goals), 2007:"
+QUOTE: **_Mao Zedong_ - Maurice Meisner (sympathetic to socialist ideology and goals), 2007:**
 Mao’s foreign policy clothed itself in revolutionary rhetoric, but was conservatively cautious in substance, based on narrow calculation of China’s national self-interest… In Mao’s view the Soviet Union posed a greater danger to China than did the United States.
 
 ## Resources
