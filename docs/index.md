@@ -1,12 +1,17 @@
+---
+sidebarDepth: 2
+footer: Thanks to James Su, Lakshy Gupta, and Vincent Guo for providing supplementary data for accuracy and conciseness.
+---
+
 # Home
 
 This website is intended to be primarily for personal use, but is available publicly online.
 
 Testing math rendering: $a^2+b^2=c^2$
 
-| Tables | too! |
-| --- | --- |
-| yeet | no yeet |
+| Tables | too!    |
+| ------ | ------- |
+| yeet   | no yeet |
 
 ## Contact
 
@@ -17,5 +22,3 @@ If you would like to contribute by submitting fixes, requesting pages, and/or co
 The source for Eifueo is available [here](https://git.eggworld.tk/eggy/eifueo).
 
 ## Acknowledgements
-
-Thanks to James Su, Lakshy Gupta, and Vincent Guo for providing supplementary data for accuracy and conciseness.

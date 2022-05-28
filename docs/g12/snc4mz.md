@@ -1,66 +1,79 @@
+---
+sidebarDepth: 5
+---
+
 # HL Chemistry 3
 
 The course code for this page is **SNC4MZ**.
 
 ## Organic chemistry
 
-!!! definition
-    - An **organic molecule** is one with at least one carbon atom covalently bonded to another carbon or hydrogen atom (i.e., at least one C-H or C to C bond)
+::: info DEFINITION
+
+- An **organic molecule** is one with at least one carbon atom covalently bonded to another carbon or hydrogen atom (i.e., at least one C-H or C to C bond)
+
+:::
 
 Carbon is unique in organic chemistry as it is the only element with the following properties:
 
- - It is in the second row of the periodic table, meaning it has less electron shells, thus forming stronger bonds
- - It can covalently bond to up to 4 other atoms
- - Because each of its valence electrons is involved in bonding, it can form single through triple bonds
- - The molecular geometry can be anything from tetrahedral to linear depending on its bonding
- 
+- It is in the second row of the periodic table, meaning it has less electron shells, thus forming stronger bonds
+- It can covalently bond to up to 4 other atoms
+- Because each of its valence electrons is involved in bonding, it can form single through triple bonds
+- The molecular geometry can be anything from tetrahedral to linear depending on its bonding
+
 Carbon is also able to bond to itself in the following ways:
 
- - long straight chains
- - long straight chains with branches
- - rings
+- long straight chains
+- long straight chains with branches
+- rings
 
-<img src="/resources/images/cool-carbon.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/cool-carbon.png" width=700 />
 
 ### Simple hydrocarbons
 
-!!! definition
-    - A **branched hydrocarbon** is one with at least one "side group" extending from the main hydrocarbon chain.
-    - A **functional group** is a group of atoms responsible for the characteristic properties of a molecule (e.g. C=C)
-    - A **homologous series** is a family of organic compounds with the same functional group but the hydrocarbon chain length changes by 1 $\ce{CH2}$ group.
+::: info DEFINITION
+
+- A **branched hydrocarbon** is one with at least one "side group" extending from the main hydrocarbon chain.
+- A **functional group** is a group of atoms responsible for the characteristic properties of a molecule (e.g. C=C)
+- A **homologous series** is a family of organic compounds with the same functional group but the hydrocarbon chain length changes by 1 $\ce{CH2}$ group.
+
+:::
 
 These only contain carbon and hydrogen.
 
 **Alkanes** are a homologous series that only contain single bonds between carbons, and are named with the number of carbons with the suffix "-ane".
 
-<img src="/resources/images/alkanes.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/alkanes.png" width=700 />
 
 | Carbon atoms | Prefix |
-| --- | --- |
-| 1 | Meth |
-| 2 | Eth |
-| 3 | Prop |
-| 4 | But |
-| 5 | Pent |
-| 6 | Hex |
-| 7 | Hept |
-| 8 | Oct |
-| 9 | Non |
-| 10 | Dec |
+| ------------ | ------ |
+| 1            | Meth   |
+| 2            | Eth    |
+| 3            | Prop   |
+| 4            | But    |
+| 5            | Pent   |
+| 6            | Hex    |
+| 7            | Hept   |
+| 8            | Oct    |
+| 9            | Non    |
+| 10           | Dec    |
 
-!!! example
-    A molecule with only hydrogen and three carbon atoms all held together with single covalent bonds is called "propane".
+::: warning EXAMPLE
+A molecule with only hydrogen and three carbon atoms all held together with single covalent bonds is called "propane".
+:::
 
 **Alkenes** contain **at least** one carbon-carbon double bond and are named with a prefix with the total number of carbon atoms and "-ene".
 
 **Alkynes** contain **at least** one carbon-carbon triple bond and are named with a prefix with the total number of carbon atoms and "-ene".
 
-!!! warning
-    The lack of standardisation prior to IUPAC means that some IUPAC names have common names that are still widely used today.
-    
-    - acetylene: **ethyne**
-    - vinyl: **propene**
-    - ethylene: **ethene**
+::: danger WARNING
+The lack of standardisation prior to IUPAC means that some IUPAC names have common names that are still widely used today.
+
+- acetylene: **ethyne**
+- vinyl: **propene**
+- ethylene: **ethene**
+
+:::
 
 The general formula for an **acyclic** hydrocarbon with no rings is as follows, where $n$ is the number of carbon atoms, $x$ is the number of double bonds, and $y$ is the number of triple bonds.
 $$\ce{C_nH_{2n+2-2x-4y}}$$
@@ -83,9 +96,10 @@ $$\ce{CH3(CH2)_4CH3}$$
 
 A **line diagram** or **skeletal structural formula** removes carbons and hydrogens and replaces all carbon-carbon bonds with lines, where the number of lines represents the type of bond. Each line is bent where a carbon atom would be, except for triple bonds as those are linear. Non-carbon groups such as $\ce{OH}$ can be shown in collapsed form.
 
-!!! example
-    These are the ways to represent pentane, $\ce{C5H12}$. The structural formula is mislabeled as a condensed structural diagram.
-    <img src="/resources/images/pentane.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+These are the ways to represent pentane, $\ce{C5H12}$. The structural formula is mislabeled as a condensed structural diagram.
+<img src="/resources/images/pentane.png" width=700 />
+:::
 
 ### General nomenclature
 
@@ -93,50 +107,56 @@ To name an organic compound:
 
 1. Find the **longest acyclic chain** of carbon atoms as the parent chain.
 2. Assign numbers from 1 to $n$ for each carbon atom in the parent chain.
-    - The numbers should be arranged in a way that the highest priority functional group in the chain is assigned the lowest number possible.
-    - Apply the **first branch rule** only if there is a tie: If there are side chains, the parent chain should be numbered such that the location of any side chains have the lowest number possible.
-        - If there is a tie, the location with the most branches wins.
-        - If there is a tie, the rest of the chain is compared in sequence applying the first branch rule.
-        - If there is a tie, the first location with the side chain group name that is alphabetically greater wins.
-        - If there is a tie, it doesn't matter which side is picked as the whole thing is symmetrical.
+   - The numbers should be arranged in a way that the highest priority functional group in the chain is assigned the lowest number possible.
+   - Apply the **first branch rule** only if there is a tie: If there are side chains, the parent chain should be numbered such that the location of any side chains have the lowest number possible.
+
+- If there is a tie, the location with the most branches wins.
+- If there is a tie, the rest of the chain is compared in sequence applying the first branch rule.
+- If there is a tie, the first location with the side chain group name that is alphabetically greater wins.
+- If there is a tie, it doesn't matter which side is picked as the whole thing is symmetrical.
+
 3. Name the main chain based on the name of the functional group and location number for the functional group in the format "number-name".
 4. Name the side groups.
-    - If the group is not carbon, name it by its identity.
-    - Otherwise, name the hydrocarbon based on the number of carbons in the side group with the ending "yl".
-    - If there is more than one identical side group in the **whole chain**, combine their numbers and names with a Greek prefix.
-    - Assign a number representing the carbon atom of the parent chain that the side group is attached to in the form "numbers-name".
+   - If the group is not carbon, name it by its identity.
+   - Otherwise, name the hydrocarbon based on the number of carbons in the side group with the ending "yl".
+   - If there is more than one identical side group in the **whole chain**, combine their numbers and names with a Greek prefix.
+   - Assign a number representing the carbon atom of the parent chain that the side group is attached to in the form "numbers-name".
 5. Arrange the name with each side group with their numbers in alphabetical order, discounting any prefixes due to duplicates, followed by the parent chain.
 6. Join everything together:
-    - Drop the ending vowel from the prefix if there is a double vowel unless it is "i".
-    - Separate numbers from words with dashes.
-    - Separate numbers from numbers with commas.
-    - Do not separate words from words.
+   - Drop the ending vowel from the prefix if there is a double vowel unless it is "i".
+   - Separate numbers from words with dashes.
+   - Separate numbers from numbers with commas.
+   - Do not separate words from words.
 
-!!! tip
-    In hydrocarbons:
-    
-    - Atoms with double or triple bonds share equal priority as the highest functional group.
-    - The main chain will be named as an alkane if there are only single bonds.
-    - If there is exactly one double or triple bond, it will be named as an alkene or alkyne with its position inserted between the prefix and ending.
-        - e.g., "pentane", "pent-2-ene"
-    - If there are multiple double or triple bonds, their numbers are also included, but an "a" is appended to the prefix and a Greek prefix added to the suffix.
-        - e.g., "penta-1,3-diene", "hexa-1,3,5-triyne"
-    - If there are both double and triple bonds, the "-ene" becomes "-en" and is always before "-yne".
-        - e.g., "pent-4-en-2-yne"
+::: tip
+In hydrocarbons:
 
-!!! example
-    tf
+- Atoms with double or triple bonds share equal priority as the highest functional group.
+- The main chain will be named as an alkane if there are only single bonds.
+- If there is exactly one double or triple bond, it will be named as an alkene or alkyne with its position inserted between the prefix and ending.
+  - e.g., "pentane", "pent-2-ene"
+- If there are multiple double or triple bonds, their numbers are also included, but an "a" is appended to the prefix and a Greek prefix added to the suffix.
+  - e.g., "penta-1,3-diene", "hexa-1,3,5-triyne"
+- If there are both double and triple bonds, the "-ene" becomes "-en" and is always before "-yne".
+  - e.g., "pent-4-en-2-yne"
 
-Other **side chains** with equal priority as double or triple bonds *in side chains* include:
+:::
 
- - halogens, which have their "-ine" suffix replaced with "o" (e.g., "chloro")
- - $\ce{NO2}$: "nitro-"
- - benzene (as a side chain): "phenyl"
+::: warning EXAMPLE
+tf
+:::
+
+Other **side chains** with equal priority as double or triple bonds _in side chains_ include:
+
+- halogens, which have their "-ine" suffix replaced with "o" (e.g., "chloro")
+- $\ce{NO2}$: "nitro-"
+- benzene (as a side chain): "phenyl"
 
 If there is no other option and there is a **branched side chain**, name it based on the total number of carbon atoms in the side chain.
 
-!!! example
-    tf
+::: warning EXAMPLE
+tf
+:::
 
 ### Cyclic aliphatic hydrocarbons
 
@@ -144,29 +164,33 @@ These contain rings that **are not** benzene rings.
 
 $$\ce{C_nH_{2n-2x}}$$
 
-!!! warning
-    Cyclic hydrocarbons **do not** contain any triple bonds as it would force the carbon ring to widen too much.
+::: danger WARNING
+Cyclic hydrocarbons **do not** contain any triple bonds as it would force the carbon ring to widen too much.
+:::
 
 Cyclic aliphatic hydrocarbons are named the same way as acyclic hydrocarbons except they have a "**cyclo-**" at the start of the name of their parent chain.
 
-!!! example
-    cyclohexa-1,3-diene
+::: warning EXAMPLE
+cyclohexa-1,3-diene
+:::
 
 The initial double bond should be numbered such that the lowest number is assigned to both sides of the bond (numbers 1 and 2 should be to either side of the double bond). If there is more than one double bond, the ring should be numbered such that the lowest number is assigned to both.
 
 The **first branch rule** still applies. (See [HL Chemistry 3#General nomenclature](/snc4mz/#general-nomenclature).)
 
-!!! example
-    tf
+::: warning EXAMPLE
+tf
+:::
 
-!!! warning
-    Rings can be side chains, and are named accordingly (e.g., "cyclopropyl"). The "cyclo-" prefix is counted when sorting names alphabetically as it describes the group.
+::: danger WARNING
+Rings can be side chains, and are named accordingly (e.g., "cyclopropyl"). The "cyclo-" prefix is counted when sorting names alphabetically as it describes the group.
+:::
 
 ### Cyclic aromatic hydrocarbons
 
 These contain benzene rings, which do not actually have single/double bonds as they actually have delocalised pi bonds.
 
-<img src="/resources/images/benzene.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/benzene.png" width=700 />
 
 As benzene rings do not have double bonds, they are named according to the **first branch rule**.
 
@@ -176,46 +200,51 @@ As benzene rings do not have double bonds, they are named according to the **fir
 
 **Hydrocarbon chain isomers** are two chemicals with the same chemical formulas but have different carbon/hydrogen arrangements.
 
-!!! example
-    The following are two hydrocarbon chain isomers (and, by extension, structural isomers) of $\ce{C5H12}$.
-    <img src="/resources/images/structural-isomer-g5h12.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+The following are two hydrocarbon chain isomers (and, by extension, structural isomers) of $\ce{C5H12}$.
+<img src="/resources/images/structural-isomer-g5h12.png" width=700 />
+:::
 
 **Positional isomers** are two chemicals with the same chemical formulas **and functional groups** but have different structural formulas.
 
-!!! example
-    The following are positional isomers (and, by extension, structural isomers) of $\ce{C4H8}$.
-    <img src="/resources/images/positional-isomers.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+The following are positional isomers (and, by extension, structural isomers) of $\ce{C4H8}$.
+<img src="/resources/images/positional-isomers.png" width=700 />
+:::
 
 **Functional group isomers** are chemicals with the same chemical formulas but **different functional groups**.
 
-!!! example
-    The following are functional group isomers (and, by extension, structural isomers) of $\ce{C3H6O2}$.
-    <img src="/resources/images/functional-group-isomers.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+The following are functional group isomers (and, by extension, structural isomers) of $\ce{C3H6O2}$.
+<img src="/resources/images/functional-group-isomers.png" width=700 />
+:::
 
 **Geometric** or **cis/trans isomers** are two chemicals have the same chemical formulas and atom arrangements but are positioned differently, thus having ambiguous names.
 
 In order for this to occur, there must be two different atoms or groups of atoms bonded to each carbon atom in the double bond.
 
- - A **cis** hydrocarbon isomer will have its main chain enter and exit the double bond on the **same side**.
- - A **trans** hydrocarbon isomer will have its main chain enter and exit the double bond on **opposite sides**.
+- A **cis** hydrocarbon isomer will have its main chain enter and exit the double bond on the **same side**.
+- A **trans** hydrocarbon isomer will have its main chain enter and exit the double bond on **opposite sides**.
 
 Unlike the examples below, these should be named with "cis" or "trans" at the beginning as a **separate word without a hyphen**.
 
-!!! example
-    The following are two geometric isomers of but-2-ene:
-    <img src="/resources/images/cis-trans-but-2-ene.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+The following are two geometric isomers of but-2-ene:
+<img src="/resources/images/cis-trans-but-2-ene.png" width=700 />
+:::
 
- - In acyclic compounds, this is because the double bond prevents simply rotating one side but not the other as it would force breaking the pi bond.
- - In cyclic compounds, this is because the ring's other side is similar to a double bond, preventing rotation around the axis.
- 
-!!! example
-    The following are cis-trans isomers of dichlorocyclobutane (notice the chlorine):
-    <img src="/resources/images/cis-trans-ring.png" width=700>(Source: Kognity)</img>
+- In acyclic compounds, this is because the double bond prevents simply rotating one side but not the other as it would force breaking the pi bond.
+- In cyclic compounds, this is because the ring's other side is similar to a double bond, preventing rotation around the axis.
+
+::: warning EXAMPLE
+The following are cis-trans isomers of dichlorocyclobutane (notice the chlorine):
+<img src="/resources/images/cis-trans-ring.png" width=700 />
+:::
 
 Isomers may have different physical properties in:
 
- - **polarity**: a cis isomer may cause a molecule to be polar as opposed to its trans variant
- - **packing efficiency**: a non-branching hydrocarbon chain will pack better than a branching one, and a continuously trans chain will pack better than a cis one
+- **polarity**: a cis isomer may cause a molecule to be polar as opposed to its trans variant
+- **packing efficiency**: a non-branching hydrocarbon chain will pack better than a branching one, and a continuously trans chain will pack better than a cis one
 
 These change the strength and type of intermolecular forces involved so affect their melting/boiling points.
 
@@ -223,31 +252,36 @@ Isomers may also have different chemical properties as cis isomers are more like
 
 ### Benzene reactions
 
-!!! definition
-    - An **electrophile** is any species that is or would be electron deficient (+) in the presence of a pi bond.
-    
+::: info DEFINITION
+
+- An **electrophile** is any species that is or would be electron deficient (+) in the presence of a pi bond.
+  ::
+
 In reactions involving a benzene ring, the ring itself is **stable** and will not break apart because of the strength of delocalised pi bonds.
 
 Therefore, only the hydrogens can be swapped out via **electrophilic substitution**, where an hydrogen atom is substituted with an electrophile. The concentration of electrons in the delocalised pi area attracts electrophiles to initiate the bond.
 
 In the mechanism diagram below, $\ce{E+}$ represents the electrophile. Curly arrows are used to show the movement of electrons from the **delocalised area to the electrophile** and **hydrogen atom to the delocalised area**.
 
-<img src="/resources/images/benzene-substitution-mechanism.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/benzene-substitution-mechanism.png" width=900 />
 
 The **first step** (the change from the first to the second diagram) is the **slow step** due to the highest activation energy due to the requirement to break a bond.
 
-<img src="/resources/images/benzene-substitution-mechanism-graph.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/benzene-substitution-mechanism-graph.png" width=900 />
 
 #### Benzene nitration
 
-!!! definition
-    - A **nitrating mixture** is a mixture of concentrated sulfuric and nitric acids.
+::: info DEFINITION
+
+- A **nitrating mixture** is a mixture of concentrated sulfuric and nitric acids.
+
+:::
 
 In a **nitrating mixture**, benzene will react with positive nitronium ions at **~50°C** to form nitrobenzene, outlined in the reaction mechanism diagrams below.
 
 $$\ce{C6H6 + HNO3_{(aq)} ->[conc H2SO4][50^\circ C] C6H5NO2 + H2O_{(l)}}$$
 
-<img src="/resources/images/benzene-nitration-mechanism.png" width=900>(Source: Random Quora Person)</img>
+<img src="/resources/images/benzene-nitration-mechanism.png" width=900 />
 
 The first step is to **form the nitronium ion** through a Bronsted-Lowry acid-base reaction between the acids.
 
@@ -263,8 +297,11 @@ The second step is to **react with benzene** through electrophilic substitution,
 
 ### Alkane reactions
 
-!!! definition
-    - **Halogenation** is the introduction of a halogen into a compound.
+::: info DEFINITION
+
+- **Halogenation** is the introduction of a halogen into a compound.
+
+:::
 
 #### Substitution halogenation
 
@@ -272,34 +309,42 @@ Because a sigma bond must be broken, alkanes are not very reactive. In the prese
 
 If the halogen is in excess and the reaction continues, more of the halogen (**not the hydrogen-halogen product**) will react with the alkane until all hydrogens have been substituted.
 
-!!! example
-    $$\ce{CH3CH3 + Cl2_{(g)} ->[light] CH3CH2Cl + HCl_{(g)}}$$
-    
-    If $\ce{Cl2}$ is in excess:
-    $$
-    \ce{
-    CH3CH2Cl + Cl2_{(g)} ->[light] CH3CHCl2 + HCl_{(g)} \\
-    ... \\
-    CCl3CHCl + Cl2_{(g)} ->[light] CCl3CCl3 + HCl_{(g)}
-    }
-    $$
+::: warning EXAMPLE
+$$\ce{CH3CH3 + Cl2_{(g)} ->[light] CH3CH2Cl + HCl_{(g)}}$$
+
+If $\ce{Cl2}$ is in excess:
+
+$$
+\ce{
+CH3CH2Cl + Cl2_{(g)} ->[light] CH3CHCl2 + HCl_{(g)} \\
+... \\
+CCl3CHCl + Cl2_{(g)} ->[light] CCl3CCl3 + HCl_{(g)}
+}
+$$
+
+:::
 
 The order that hydrogens are substituted in is **random**. If there is more than one possibility, all of them are written as products, ignoring balancing.
 
-!!! example
-    Propane reacts with chlorine gas to form either 1-chloropropane or 2-chloropropane.
-    $$\ce{CH3CH2CH3 + Cl2 ->[hf] CH3CH2CH2Cl + CH3CHClCH3 + HCl}$$
+::: warning EXAMPLE
+Propane reacts with chlorine gas to form either 1-chloropropane or 2-chloropropane.
+$$\ce{CH3CH2CH3 + Cl2 ->[hf] CH3CH2CH2Cl + CH3CHClCH3 + HCl}$$
+:::
 
-!!! example
-    1-bromoethane reacts with chlorine gas to form either 1,1-dibromoethane (40% chance) or 1,2-dibromoethane (60% chance) because each hydrogen is equally likely to be substituted, and there are 2 and 3 that would form them, respectively.
-    $$\ce{CH2ClCH3 + Cl2 ->[hf] CHCl2CH3 + CH2ClCH2Cl + HCl}$$
+::: warning EXAMPLE
+1-bromoethane reacts with chlorine gas to form either 1,1-dibromoethane (40% chance) or 1,2-dibromoethane (60% chance) because each hydrogen is equally likely to be substituted, and there are 2 and 3 that would form them, respectively.
+$$\ce{CH2ClCH3 + Cl2 ->[hf] CHCl2CH3 + CH2ClCH2Cl + HCl}$$
+:::
 
 #### Free radical substitution
 
-!!! definition
-    - A **free radical** is a species with a lone unpaired electron.
-    - **Homolytic fission** is the dissociation of a chemical bond in a neutral molecule where each product takes one electron, generating two free radicals.
-    - **Heterolytic fission** is the dissociation of a chemical bond in a neutral molecule where one product takes both electrons.
+::: info DEFINITION
+
+- A **free radical** is a species with a lone unpaired electron.
+- **Homolytic fission** is the dissociation of a chemical bond in a neutral molecule where each product takes one electron, generating two free radicals.
+- **Heterolytic fission** is the dissociation of a chemical bond in a neutral molecule where one product takes both electrons.
+
+:::
 
 The free radicals are first produced with the help of light energy.
 
@@ -316,18 +361,21 @@ $$
 
 This cycle only ends when all radicals are used up, through reactions that end up with a net loss in radicals, such as:
 
- - $\ce{Br. + Br. -> Br2}$ (unlikely, contributes a little)
- - $\ce{.CH3 + Br. -> CH3Br}$ (likely)
- - $\ce{.CH3 + .CH3 -> CH3CH3}$ (likely)
+- $\ce{Br. + Br. -> Br2}$ (unlikely, contributes a little)
+- $\ce{.CH3 + Br. -> CH3Br}$ (likely)
+- $\ce{.CH3 + .CH3 -> CH3CH3}$ (likely)
 
-!!! warning
-    The free radical is on the carbon atom, not the hydrogen atoms, so the marker goes at the beginning.
+::: danger WARNING
+The free radical is on the carbon atom, not the hydrogen atoms, so the marker goes at the beginning.
+:::
 
 ### Alkene/yne addition reactions
 
-!!! definition
-    - A **carbocation** is a compound with a $\ce{C+}$ atom.
-    - The **primary** (1°), **secondary** (2°), and **tertiary** (3°) carbocations are carbocations bonded to one, two, and three other carbon atoms, respectively.
+::: info DEFINITION
+
+- A **carbocation** is a compound with a $\ce{C+}$ atom.
+- The **primary** (1°), **secondary** (2°), and **tertiary** (3°) carbocations are carbocations bonded to one, two, and three other carbon atoms, respectively.
+  :::
 
 The presence of double/triple bonds make alkenes and alkynes more reactive and also allow the **addition** of species as pi bonds are easier to break. Addition always takes precedence over substitution when possible.
 
@@ -338,7 +386,7 @@ $$
 \ce{alkyne + Br2 -> alkeneBr2}
 $$
 
-<img src="/resources/images/alkene-addition.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/alkene-addition.png" width=900 />
 
 1. If the non-alkene/yne reactant does not have a dipole moment, the electrons concentrated in the double/triple bond of the alkene/yne induce a dipole by repelling the electrons closest to it.
 2. The positive dipole (such as H in HBr) is attracted to the double bond, and **two electrons** in the bond are used to form a **dative** bond with the positive dipole.
@@ -346,13 +394,15 @@ $$
 4. The now positive carbon atom attracts the now negative ion.
 5. The negative ion forms a **dative** bond with the positive carbon atom.
 
-!!! warning
-    - If an **alkene is formed**, the same randomness of where the atoms attach applies, so it is possible that a cis/trans isomer is formed.
-    - If an **asymmetrical alkane** is formed, the same randomness of where the atoms attach applies after applying Markovnikov's rule, so it is possible that positional isomers are formed.
+::: danger WARNING
+
+- If an **alkene is formed**, the same randomness of where the atoms attach applies, so it is possible that a cis/trans isomer is formed.
+- If an **asymmetrical alkane** is formed, the same randomness of where the atoms attach applies after applying Markovnikov's rule, so it is possible that positional isomers are formed.
+  :::
 
 **Markovnikov's rule** states that in Soviet Russia, the rich get richer. Hydrogens preferentially bond to the carbon with the **most hydrogens** if there is one — otherwise it randomly chooses one available.
 
-This is because carbocations with that are *more highly substituted* (are bonded to more carbon atoms) are more stable, so they last longer and are more likely to form a bond with the negative dipole.
+This is because carbocations with that are _more highly substituted_ (are bonded to more carbon atoms) are more stable, so they last longer and are more likely to form a bond with the negative dipole.
 
 The preferred product is the **major product** while the other is the **minor product**. Some minor product will still be produced if the negative dipole is speedy enough, although it will be vastly outnumbered by the major product.
 
@@ -362,11 +412,13 @@ Unlike alkane substitution, addition halogenation is spontaneous.
 
 $$\ce{alkene + Br2 -> alkaneBr2}$$
 
-!!! example
-    This process is used to test for alkenes/alkynes in a solution. As bromine water is red-brown, if alkenes/alkynes are present, the water will be **decolourised** from red-brown to become more colourless.
+::: warning EXAMPLE
+This process is used to test for alkenes/alkynes in a solution. As bromine water is red-brown, if alkenes/alkynes are present, the water will be **decolourised** from red-brown to become more colourless.
+:::
 
-!!! example
-    <img src="/resources/images/halogenation.jpeg" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/halogenation.jpeg" width=700 />
+:::
 
 #### Hydrogenation
 
@@ -374,8 +426,9 @@ The addition of hydrogen follows the same principle as that of halogenation.
 
 $$\ce{alkene + H2 ->[\text{heat, high pressure, Ni/Pt/Pd}] alkane}$$
 
-!!! example
-     <img src="/resources/images/hydrogenation.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/hydrogenation.png" width=700 />
+:::
 
 #### Hydrohalogenation
 
@@ -389,13 +442,16 @@ Hydration is the addition of an $\ce{H-OH}$ group (colloquially known as water) 
 
 $$\ce{alkene + H2O ->[6 mol/L H+] alkaneOH}$$
 
-!!! example
-    <img src="/resources/images/hydration.jpeg" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/hydration.jpeg" width=700 />
+:::
 
 ### Nucleophilic substitution
 
-!!! definition
-    - A **nucleophile** is a species with a lone pair or a negative charge.
+::: info DEFINITION
+
+- A **nucleophile** is a species with a lone pair or a negative charge.
+  :::
 
 Nucleophilic substitution replaces a group of atoms attached to a C with a nucleophile. Both processes involve the **leaving group** taking both electrons, becoming negative in the process, and forming a carbocation as the other product, which attracts and bonds with the nucleophile.
 
@@ -409,10 +465,10 @@ If substituting with hydroxide, it must be **warm** and **aqueous** (dilute).
 Generally:
 
 | Carbocation type | Substitution type |
-| --- | --- |
-| Primary | S<sub>N</sub>2 |
-| Secondary | Both/either |
-| Tertiary | S<sub>N</sub>1 |
+| ---------------- | ----------------- |
+| Primary          | S<sub>N</sub>2    |
+| Secondary        | Both/either       |
+| Tertiary         | S<sub>N</sub>1    |
 
 #### S<sub>N</sub>1
 
@@ -421,10 +477,11 @@ This **two-step** reaction involves the heterolytic fission of the C-X bond to f
 The "1" refers to the order of the rate-limiting step being a **unimolecular** collision.
 
 <img src="/resources/images/sn1-1.png" width=700 />
-<img src="/resources/images/sn1-2.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/sn1-2.png" width=700 />
 
-!!! warning
-    Be sure to draw VSEPR, unlike in the diagrams above.
+::: danger WARNING
+Be sure to draw VSEPR, unlike in the diagrams above.
+:::
 
 #### S<sub>N</sub>2
 
@@ -432,10 +489,11 @@ This **single-step** reaction has the nucleophile forming a bond with the centra
 
 The "2" refers to the order of the rate-limiting step being a **bimolecular** collision.
 
-<img src="/resources/images/sn2-substitution.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/sn2-substitution.png" width=900 />
 
-!!! warning
-    Dashes must be drawn for the transition state for bonds breaking/forming. In this case, drawing the front/back lines for the bottom two atoms may be ignored in favour of regular lines instead to avoid the ambiguity of forming bonds.
+::: danger WARNING
+Dashes must be drawn for the transition state for bonds breaking/forming. In this case, drawing the front/back lines for the bottom two atoms may be ignored in favour of regular lines instead to avoid the ambiguity of forming bonds.
+:::
 
 #### Factors affecting substitution type
 
@@ -451,17 +509,19 @@ An **alcohol** is an organic compound with a $\ce{-OH}$ (hydroxyl) functional gr
 
 It has a **higher priority** than double and triple bonds, and alcohol names are suffixed with **-ol**.
 
-!!! warning
-    The -ol suffix is a standard suffix following the same numbering rules as -en and -yne. As functional groups are ordered from lowest to highest priority in their name, similar to how a -yne can have an -en, an -ol can also have an -en and **-yn** before it.
-    
-    - Therefore, $\ce{CH3OH}$ is methanol, *not* methol.
+::: danger WARNING
+The -ol suffix is a standard suffix following the same numbering rules as -en and -yne. As functional groups are ordered from lowest to highest priority in their name, similar to how a -yne can have an -en, an -ol can also have an -en and **-yn** before it.
+:::
 
-!!! example
-    Some alcohols and their common names:
-    
-    - **Glycerol**: propan-1,2,3-triol
-    - **Ethyl alcohol** or drinking alcohol: ethanol
-    - **Isopropanol** or rubbing alcohol: propan-2-ol
+- Therefore, $\ce{CH3OH}$ is methanol, _not_ methol.
+
+::: warning EXAMPLE
+Some alcohols and their common names:
+
+- **Glycerol**: propan-1,2,3-triol
+- **Ethyl alcohol** or drinking alcohol: ethanol
+- **Isopropanol** or rubbing alcohol: propan-2-ol
+  :::
 
 The **type** of an alcohol (primary/secondary/tertiary) is that of the would-be carbocation it is attached to.
 
@@ -480,33 +540,38 @@ Under significantly more acidic conditions than hydration, the opposite process 
 
 $$\ce{alcohol ->[12 mol/L H2SO4] H2O + alkene}$$
 
-!!! warning
-    When choosing a new double bond to form in the alkene, it must bond to the carbon the OH group was attached to. In elimination, **Markovnikov's rule does not apply**.
+::: danger WARNING
+When choosing a new double bond to form in the alkene, it must bond to the carbon the OH group was attached to. In elimination, **Markovnikov's rule does not apply**.
+:::
 
 ### Aldehydes
 
-!!! definition
-    - A **carbonyl** is $\ce{C=O}$.
-    - A **hydroxyl** is $\ce{-OH}$. In a side group, it is named **hydroxy**.
+::: info DEFINITION
+
+- A **carbonyl** is $\ce{C=O}$.
+- A **hydroxyl** is $\ce{-OH}$. In a side group, it is named **hydroxy**.
+  :::
 
 In the presence of an oxidising agent that is **limited** and acid, **primary** alcohols will oxidise to form aldehydes, where a hydroxyl group becomes a carbonyl group and the hydrogen migrates to the carbon.
 
- - $\ce{K2Cr2O7}$
- - $\ce{Cr2O7^2-}$
- - $\ce{KMnO4}$
- - $\ce{MnO4-}$
+- $\ce{K2Cr2O7}$
+- $\ce{Cr2O7^2-}$
+- $\ce{KMnO4}$
+- $\ce{MnO4-}$
 
 An aldehyde is named like an alcohol but has a higher naming priority, with a suffix of **-al**. As aldehydes must be at the end of a chain, numbering their position is not required.
 
-!!! example
-    - butanal ($\ce{CH3CH2CH2COH}$)
-    - The common name of **methanal** is **formaldehyde**.
+::: warning EXAMPLE
 
-<img src="/resources/images/alcohol-aldehyde.png" width=900>(Source: Kognity)</img>
+- butanal ($\ce{CH3CH2CH2COH}$)
+- The common name of **methanal** is **formaldehyde**.
+  :::
+
+<img src="/resources/images/alcohol-aldehyde.png" width=900 />
 
 Aldehydes will continue to react to ketones if the oxidising agent is not limited. To prevent this, the aldehyde is separated and removed from the mixture through distillation.
 
-<img src="/resources/images/aldehyde-distillation.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/aldehyde-distillation.png" width=900 />
 
 The mixture is heated to a temperature greater than the aldehyde's boiling point but less than the alcohol's, such that the gaseous aldehyde enters the condenser and is cooled by the water jacket.
 
@@ -518,36 +583,40 @@ $$\ce{aldehyde + H2 ->[\text{high temp, high pressure, Pt/Pd/Ni}] alcohol}$$
 
 In the presence of an oxidising agent and acid, **secondary** alcohols will oxidise to form ketones, where the hydrogen plops off completely.
 
-<img src="/resources/images/alcohol-ketone.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/alcohol-ketone.png" width=900 />
 
 Because there is no possible reaction afterward (no more hydrogens), distillation is not required.
 
-Ketones have equal priority to aldehydes and are named the same but with a suffix of **-one**. A position number *is* required because ketones can be located anywhere on the chain.
+Ketones have equal priority to aldehydes and are named the same but with a suffix of **-one**. A position number _is_ required because ketones can be located anywhere on the chain.
 
-!!! example
-    - 3-ethyl-4,4-difluoro-5-hydroxylhexan-2-one
-    - 1,1-dibromo-4-cyclopropylhex-5-en-2-one
+::: warning EXAMPLE
+
+- 3-ethyl-4,4-difluoro-5-hydroxylhexan-2-one
+- 1,1-dibromo-4-cyclopropylhex-5-en-2-one
+  :::
 
 ### Carboxylic acids
 
 Aldehydes will react again if there is excess oxidising agent to form a carboxylic acid.
 
-<img src="/resources/images/alcohol-acid.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/alcohol-acid.png" width=900 />
 
 Instead of distillation, **reflux** is used to keep the aldehyde in the mixture. The vaporised aldehyde condenses and returns to the mixture.
 
-<img src="/resources/images/alcohol-reflux.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/alcohol-reflux.png" width=900 />
 
 Carboxylic acids have higher priority than aldehydes/ketones and are named the same but with a suffix of **-oic acid**. Similar to aldehydes, because the $\ce{COOH}$ can only exist on the end of a chain, position numbers are omitted.
 
-!!! example
-    - **Benzoic acid**: $\ce{benzene-COOH}$
-    - 3,3-difluoropent-4-enoic acid
-    - 3-ethylhexanedioic acid
-    - The common name of **ethanoic acid** is **acetic acid**.
-    - The common name of **ethanedioic acid** is **oxalic acid**.
-    - The common name of **methanoic acid** is **formic acid**.
-    - Look up citric acid because I'm not writing that down.
+::: warning EXAMPLE
+
+- **Benzoic acid**: $\ce{benzene-COOH}$
+- 3,3-difluoropent-4-enoic acid
+- 3-ethylhexanedioic acid
+- The common name of **ethanoic acid** is **acetic acid**.
+- The common name of **ethanedioic acid** is **oxalic acid**.
+- The common name of **methanoic acid** is **formic acid**.
+- Look up citric acid because I'm not writing that down.
+  :::
 
 #### Carboxylic acid salts
 
@@ -555,9 +624,11 @@ If the ionising hydrogen is removed ($\ce{COOH -> COO-}$), a carboxylic acid can
 
 $$\ce{R-COOH + NaOH -> R-COONa + H2O}$$
 
-!!! example
-    - sodium ethanoate
-    - lithium benzoate
+::: warning EXAMPLE
+
+- sodium ethanoate
+- lithium benzoate
+  :::
 
 #### Identifying alcohols
 
@@ -569,20 +640,22 @@ This test is only valid on **small** alcohols because (<6 carbons) as longer one
 
 The insoluble halogenoalkane becomes visible, making the solution **cloudy**. Because the reaction is an S<sub>N</sub>1 reaction:
 
- - Primary alcohols will **not** react
- - Secondary alcohols react slowly
- - Tertiary alcohols react rapidly
+- Primary alcohols will **not** react
+- Secondary alcohols react slowly
+- Tertiary alcohols react rapidly
 
 Alternatively, **oxidising** alcohols to aldehydes/ketones through S<sub>N</sub>2 by reducing $\ce{Cr2O7^2-}$ (orange) to $\ce{Cr^3+}$ (green) will identify the alcohol.
 
- - Primary alcohols will react quickly
- - Secondary alcohols will react slowly
- - Tertiary alcohols will **not** react
+- Primary alcohols will react quickly
+- Secondary alcohols will react slowly
+- Tertiary alcohols will **not** react
 
 ### Ethers
 
-!!! definition
-    - A **condensation reaction** or **dehydration synthesis** involves two small molecules reacting to form water and another molecule.
+::: info DEFINITION
+
+- A **condensation reaction** or **dehydration synthesis** involves two small molecules reacting to form water and another molecule.
+  :::
 
 Ethers are formed by reacting two alcohols through dehydration synthesis in sulfuric acid.
 
@@ -593,28 +666,33 @@ $$\ce{short + oxy + long}$$
 
 Usually, if the "side chain" is at position 1, the position number is omitted.
 
-!!! example
-    - pentoxypentane (pentan-1-ol + pentan-1-ol)
-    - 2-ethoxybutane (ethan-2-ol + butan-1-ol)
-    - 2-chloro-3-methoxypentane (chloro is at position 2, methoxy is at position 3 on the pentane)
-    - The common name of **ethoxyethane** is **diethyl ether**.
+::: warning EXAMPLE
+
+- pentoxypentane (pentan-1-ol + pentan-1-ol)
+- 2-ethoxybutane (ethan-2-ol + butan-1-ol)
+- 2-chloro-3-methoxypentane (chloro is at position 2, methoxy is at position 3 on the pentane)
+- The common name of **ethoxyethane** is **diethyl ether**.
+  :::
 
 ### Esters
 
 When an alcohol and carboxylic acid react in sulfuric acid **and heat**, the only the $\ce{O}$ from the alcohol remains in the ester while that in the acid forms a water. The formed $\ce{COO}$ is known as the **ester linkage**.
 
-<img src="/resources/images/ester-formation.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/ester-formation.png" width=900 />
 
 Esters are named with the alcohol as the side group and the acid as its salt variant with a space in between. If the side chain looks like an alkane, its position number and -ane suffix can be dropped.
 $$\text{alcohol-yl acid-oate}$$
 
-!!! warning
-    The carbon in the ester linkage is included as a carbon of the main chain of the ester.
+::: danger WARNING
+The carbon in the ester linkage is included as a carbon of the main chain of the ester.
+:::
 
-!!! example
-    - Propyl pentanoate or propan-1-yl pentanoate is formed from propan-1-ol and pentanoic acid.
-    - Propyl 2-chloroethanoate
-    - Hexan-3-yl propanoate
+::: warning EXAMPLE
+
+- Propyl pentanoate or propan-1-yl pentanoate is formed from propan-1-ol and pentanoic acid.
+- Propyl 2-chloroethanoate
+- Hexan-3-yl propanoate
+  :::
 
 Esters hydrolyse to their original components if catalysed by an acid or base.
 $$\ce{ester + H2O ->[H2SO4] alcohol + carboxylic acid}$$
@@ -628,18 +706,20 @@ Amines have a priority between double/triple bonds and alcohols, and are named l
 
 If there are any side groups attached to the nitrogen, they are named as if they were side groups on the main chain with a **number of $N$**.
 
-!!! example
-    <img src="/resources/images/amine-name-simple.png" width=700 />
-    <img src="/resources/images/amine-name-mid.png" width=700 />
-    <img src="/resources/images/amine-name-hard.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/amine-name-simple.png" width=700 />
+<img src="/resources/images/amine-name-mid.png" width=700 />
+<img src="/resources/images/amine-name-hard.png" width=700 />
+:::
 
 #### Amine synthesis
 
 Amines can be formed through **halogenoalkane substitution**, where ammonia or another amine is alkylated in an S<sub>N</sub>2 reaction.
 $$\ce{NH3 + CH3Cl -> CH3NH4Cl ->[OH-] CH3NH2}$$
 
-!!! example
-    $\ce{CH3NH2 + CH3Cl -> CH3NH2CH3Cl ->[OH-] CH3NH2CH3}$
+::: warning EXAMPLE
+$\ce{CH3NH2 + CH3Cl -> CH3NH2CH3Cl ->[OH-] CH3NH2CH3}$
+:::
 
 ### Amides
 
@@ -647,10 +727,11 @@ Amides are formed from a reaction between an amine and a carboxylic acid through
 
 $$\ce{R-COOH + N-R -> R-CON-R}$$
 
-Amides carry the suffix **-amide** and are otherwise named equivalently to esters, but *without* spaces.
+Amides carry the suffix **-amide** and are otherwise named equivalently to esters, but _without_ spaces.
 
-!!! example
-    <img src="/resources/images/amide-names.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/amide-names.png" width=700 />
+:::
 
 ### Nitriles
 
@@ -660,9 +741,11 @@ $$\ce{R-C#N}$$
 
 As they can only be placed at the end of a carbon chain, a positional number is not used. These have the highest priority of all organic compounds and use the suffix **-nitrile** and the prefix **cyano-**.
 
-!!! example
-    - methanenitrile
-    - methanedinitrile
+::: warning EXAMPLE
+
+- methanenitrile
+- methanedinitrile
+  :::
 
 Nitriles are synthesised through the nucleophilic substitution of halogenoalkanes, **extending their carbon chain**.
 $$\ce{R-X + C#N- -> R-C#N + X-}$$
@@ -679,8 +762,9 @@ $$\ce{aldehyde ->[LiAlH4, ether, then acid] 1^\circ alcohol}$$
 
 $$\ce{amide ->[LiAlH4, ether, then acid] amine}$$
 
-!!! warning
-    $\ce{LiAlH4}$ is required for this reaction.
+::: danger WARNING
+$\ce{LiAlH4}$ is required for this reaction.
+:::
 
 **Carboxylic acids** can be reduced to **primary alcohols** with the $\ce{C=O}$ plopping off.
 
@@ -700,110 +784,132 @@ Retro-synthesis is basically a language of math but for chem, with products on t
 
 "A is made from B which is made from C":
 
-$$\ce{
+$$
+\ce{
 A => B react with alcohol using H2SO4 in reflux \\
 B => C
-}$$
+}
+$$
 
+::: warning EXAMPLE
 
-!!! example
-    $$\ce{
-    ethanoic acid => ethanol (react w/K2Cr2O7 in H+) \\
-    ethanol => chloroethane (react w/warm dilute hydroxide)
-    }$$
+$$
+\ce{
+ethanoic acid => ethanol (react w/K2Cr2O7 in H+) \\
+ethanol => chloroethane (react w/warm dilute hydroxide)
+}
+$$
+
+:::
 
 ### Simple polymers
 
-!!! definition
-    - **Polymers** are large molecules made from many monomers in long chains.
-    - **Plastics** are polymers formed through addition.
-    - A **homopolymer** has identical monomers.
-    - A **heteropolymer** has multiple distinct monomers.
-    - A **monomer** is the repeating segment in a polymer.
+::: info DEFINITION
+
+- **Polymers** are large molecules made from many monomers in long chains.
+- **Plastics** are polymers formed through addition.
+- A **homopolymer** has identical monomers.
+- A **heteropolymer** has multiple distinct monomers.
+- A **monomer** is the repeating segment in a polymer.
+  :::
 
 Polymer properties change based on the type of linkages, the presence of side chains, and the extent of crosslinking between other chains.
 
 The **addition formation** of an **addition polymer** opens up pi bonds which are used to bond to other monomers. Monomers are continuously added until the process ends with hydrogen atoms capping the ends.
 
-<img src="/resources/images/addition-polymer.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/addition-polymer.png" width=700 />
 
 Only the two carbons directly involved in the double bond go in the main chain of the polymer, with all others expressed as side groups.
 
-<img src="/resources/images/addition-polymer-notation.png" width=900>(Source: Kognity)</img>
+<img src="/resources/images/addition-polymer-notation.png" width=900 />
 
 **Polymer notation** is the formula/condensed formula/structural diagram of the **repeating unit only** with crossed out brackets and the number of repetitions at the bottom right (or $n$ if unknown). Side groups should be clearly expressed as side groups. Polymers are named with the prefix **poly-** on the repeating unit.
 
-!!! example
-    $$\ce{-(-CH2-CH2-) -_3}$$
+::: warning EXAMPLE
+$$\ce{-(-CH2-CH2-) -_3}$$
+:::
 
 #### Crosslinking
 
-!!! definition
-    - **Crosslinking** is the bond between side chains of separate polymers, connecting them.
+::: info DEFINITION
+
+- **Crosslinking** is the bond between side chains of separate polymers, connecting them.
+  :::
 
 The crosslinking between polymers depends on the side chains. If there are multiple double bonds in monomers, those can be used in different chains which can attach them together.
 
-!!! example
-    divinylbenzene
+::: warning EXAMPLE
+divinylbenzene
+:::
 
-!!! example
-    If an OH side group meets another OH side group, they may react to form $\ce{O=O}$ and connect the two polymers.
+::: warning EXAMPLE
+If an OH side group meets another OH side group, they may react to form $\ce{O=O}$ and connect the two polymers.
+:::
 
 ### Polyesters and polyamides
 
-!!! definition
-    - **Condensation polymers** are polymers formed via dehydration synthesis and produce water.
+::: info DEFINITION
+
+- **Condensation polymers** are polymers formed via dehydration synthesis and produce water.
+  :::
 
 A **polyester** has monomers connected via an ester linkage on both ends. **Unlike addition polymers**, any carbons between the functional groups are included in the parent polymer chain.
 
-<img src="/resources/images/polyester-formation.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/polyester-formation.png" width=700 />
 
 The repeating unit should be **copy-pastable** — it should not end with oxygen on both ends. The link is broken where it would normally break — between the C-O of the ester linkage, such that the O goes to the side of the alcohol.
 
-<img src="/resources/images/polyester-notation.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/polyester-notation.png" width=700 />
 
 A **polyamide** has monomers connected via an amide linkage on both ends.
 
-<img src="/resources/images/polyamide-formation.png" width=700>(Source: Kognity)</img>
+<img src="/resources/images/polyamide-formation.png" width=700 />
 
-!!! warning
-    There should be a hydrogen attached to the nitrogen at the end of the amine.
+::: danger WARNING
+There should be a hydrogen attached to the nitrogen at the end of the amine.
+:::
 
 ### E/Z isomers
 
-E/Z isomers are a generalised form of cis-trans isomers, where priority is determined by atomic number. If both sides with the higher atomic number are on the **same** side, the isomer is a Z-isomer (German: *ze zame zide*). E/Z isomers are placed at the beginning surrounded by parentheses.
+E/Z isomers are a generalised form of cis-trans isomers, where priority is determined by atomic number. If both sides with the higher atomic number are on the **same** side, the isomer is a Z-isomer (German: _ze zame zide_). E/Z isomers are placed at the beginning surrounded by parentheses.
 
-!!! example
-    (Z)-2-bromo-1-chloro-1-fluoroethene:
-    <img src="/resources/images/ez-example.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+(Z)-2-bromo-1-chloro-1-fluoroethene:
+<img src="/resources/images/ez-example.png" width=700 />
+:::
 
 If the atoms are of equal priority, the sum of atomic numbers that they are directly connected to are compared (double bonds count twice), repeating as necessary.
 
-!!! example
-    (Z)-1-chloro-1-fluoro-2-methyl-1-butene (left) and (E)-1-chloro-1-fluoro-2-methyl-1-butene (right).
-    <img src="/resources/images/special-ez-isomer.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+(Z)-1-chloro-1-fluoro-2-methyl-1-butene (left) and (E)-1-chloro-1-fluoro-2-methyl-1-butene (right).
+<img src="/resources/images/special-ez-isomer.png" width=700 />
+:::
 
 If there are multiple E/Z isomers, they are separated by commas and numbered according to their earliest position on the main chain.
 
-!!! example
-    (2Z, 3E)-R
+::: warning EXAMPLE
+(2Z, 3E)-R
+:::
 
 ### Optical isomers
 
-!!! definition
-    - An **enantiomer** is an optical isomer.
-    - A **chiral centre** is a carbon atom with four different groups attached to it.
-    - The **chirality** of a carbon atom represents its ability to form an enantiomer.
-    - A **racemic mixture** is a mixture of exactly one half of each enantiomer of a species such that it is not optically active.
-    - A **dextrorotary** enantiomer rotates rightward (+).
-    - A **levrorotary** enantiomer rotates leftward (-).
+::: info DEFINITION
+
+- An **enantiomer** is an optical isomer.
+- A **chiral centre** is a carbon atom with four different groups attached to it.
+- The **chirality** of a carbon atom represents its ability to form an enantiomer.
+- A **racemic mixture** is a mixture of exactly one half of each enantiomer of a species such that it is not optically active.
+- A **dextrorotary** enantiomer rotates rightward (+).
+- A **levrorotary** enantiomer rotates leftward (-).
+  :::
 
 Optical isomers are mirrored across the y-axis with the same compounds put on the same bonds. **Four distinct groups** must be attached to the central carbon atom to have optical isomers.
 
 In the data booklet, all amino acids are chiral except for glyine and proline.
 
-!!! example
-    <img src="/resources/images/enantiomer.ex.png" width=700>(Source: Kognity)</img>
+::: warning EXAMPLE
+<img src="/resources/images/enantiomer.ex.png" width=700 />
+:::
 
 An **optically active** species is one that can rotate the plane of polarised light. Please see [SL Physics 1#Polarisation](/sph3u7/#polarisation) for more information.
 
@@ -817,9 +923,9 @@ Enantiomers have the same physical properties except for the direction of polari
 
 In general:
 
- - m/ethanols are miscible
- - butanols are 10-15% v/v miscible
- - alcohols longer than octanols are effectively insoluble
+- m/ethanols are miscible
+- butanols are 10-15% v/v miscible
+- alcohols longer than octanols are effectively insoluble
 
 Although the boiling point of an alcohol will always be higher than its corresponding alkane, the difference between the two will decrease as chain length increases as the proportion of force the alcohol provides decreases relative to the larger contributor in the LDF from the main chain.
 
@@ -833,36 +939,38 @@ From greatest to lowest melting point:
 
 **Hydrogen bonding**
 
-   - Water is able to hydrogen bond with two other molecules per molecule, efficiently using all its lone pairs and Hs.
-   - Carboxylic acids are less efficient than water but more than alcohols as an the OH can attract to an O on a different molecule.
-   - Alcohols
-   - Primary/secondary amines can hydrogen bond but the N-H bond is less polar than O-H, decreasing its strength.
+- Water is able to hydrogen bond with two other molecules per molecule, efficiently using all its lone pairs and Hs.
+- Carboxylic acids are less efficient than water but more than alcohols as an the OH can attract to an O on a different molecule.
+- Alcohols
+- Primary/secondary amines can hydrogen bond but the N-H bond is less polar than O-H, decreasing its strength.
 
 **Dipole-dipole interaction**
 
-   - Aldehydes and ketones
-   - Esters are less polar than aldehydes because the single bond O attracts electrons from the C=O.
-   - Ethers have horizontal components to their dipole vectors that cancel out, so they are least polar.
+- Aldehydes and ketones
+- Esters are less polar than aldehydes because the single bond O attracts electrons from the C=O.
+- Ethers have horizontal components to their dipole vectors that cancel out, so they are least polar.
 
 **London dispersion forces**
 
-   - Alkynes' triple bonds means that packing is easier, increasing LDFs.
-   - Alkanes
-   - Alkenes' double bonds means that there are less electrons than their alkane counter parts, reducing LDFs.
+- Alkynes' triple bonds means that packing is easier, increasing LDFs.
+- Alkanes
+- Alkenes' double bonds means that there are less electrons than their alkane counter parts, reducing LDFs.
 
-$$\ce{
+$$
+\ce{
 water >> \\
 carboxylic acids > alcohols > amines >> \\
 ethers > aldehydes/ketones >> \\
 alkynes > alkanes > alkenes
-}$$
+}
+$$
 
 ## Resources
 
- - [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
- - [IB HL Chemistry Syllabus](/resources/g11/ib-chemistry-syllabus.pdf)
- - [Significant Figures/Digits](/resources/g11/chemistry-sig-figs.pdf)
- - [Error Analysis and Significant Figures (long)](/resources/g11/error-analysis-sig-figs.pdf)
- - [General Guidelines for Writing a Formal Laboratory Report](/resources/g11/lab-report-guidelines.pdf)
- - [Designing an IB Investigation](/resources/g11/designing-investigation.pdf)
- - [Textbook: Pearson Higher Level Chemistry](/resources/g12/textbook-hl-chem.pdf) ([Answers](/resources/g12/textbook-hl-chem-answers.pdf)) - [mini Eifueo](/resources/g12/textbook-hl-chem-eifueo.pdf)
+- [IB Chemistry Data Booklet](/resources/g11/ib-chemistry-data-booklet.pdf)
+- [IB HL Chemistry Syllabus](/resources/g11/ib-chemistry-syllabus.pdf)
+- [Significant Figures/Digits](/resources/g11/chemistry-sig-figs.pdf)
+- [Error Analysis and Significant Figures (long)](/resources/g11/error-analysis-sig-figs.pdf)
+- [General Guidelines for Writing a Formal Laboratory Report](/resources/g11/lab-report-guidelines.pdf)
+- [Designing an IB Investigation](/resources/g11/designing-investigation.pdf)
+- [Textbook: Pearson Higher Level Chemistry](/resources/g12/textbook-hl-chem.pdf) ([Answers](/resources/g12/textbook-hl-chem-answers.pdf)) - [mini Eifueo](/resources/g12/textbook-hl-chem-eifueo.pdf)
