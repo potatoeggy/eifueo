@@ -241,6 +241,8 @@ $$
 
 ## Vectors
 
+Please see [SL Math - Analysis and Approaches 2#Vectors](/g11/mcv4u7/#vectors) and [SL Physics 1#1.3 - Vectors and Scalars](/g11/sph3u7/#13-vectors-and-scalars) for more information.
+
 The column vector shows a vector of the form $(x, y, ...)$ from top to bottom as $(x_1, x_2, ...)$ as the number of dimensions increases.
 
 $$
