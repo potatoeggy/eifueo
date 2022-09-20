@@ -1,6 +1,6 @@
 # Home
 
-This website is intended to be primarily for personal use, but is available publicly online.
+Eifueo (eh-FWAY-oh) is intended to be primarily for personal use, with documentation here licensed under the GNU Free Documentation License.
 
 Testing math rendering: $a^2+b^2=c^2$
 
