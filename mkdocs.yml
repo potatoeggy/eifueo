@@ -26,8 +26,6 @@ nav:
   - Computer Engineering 1A:
       - "ECE 105: Classical Mechanics": ce1/ece105.md
       - "ECE 150: C++": ce1/ece150.md
-      - "ECE 190: What's An Engineer?": ce1/ece190.md
-      - "GENE 191: Engineering English": ce1/gene191.md
       - "MATH 115: Linear Algebra": ce1/math115.md
       - "MATH 117: Calculus 1": ce1/math117.md
   - Computer Engineering 1B:
