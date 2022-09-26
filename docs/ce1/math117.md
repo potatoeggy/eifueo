@@ -170,12 +170,13 @@ Please see [SL Physics 1#6.1 - Circular motion](/g11/sph3u7/#61-circular-motion)
 
 In order to PFD:
 
-1. Factor the denominator into irreducibly quadratic or linear terms. 
+1. Factor the denominator into *irreducibly* quadratic or linear terms. 
 2. For each factor, create a term. Where capital letters below are constants:
   - A linear factor $Bx+C$ has a term $\frac{A}{Bx+C}$.
-  - A quadratic factor $Dx^2+Ex+G$ has a term $\frac{H}{Dx^2+Ex+G}$.
-3. Set the two equal to each other such that the denominators can be factored out.
-4. Create systems of equations to solve for each constant.
+  - An *irreducibly* quadratic factor $Dx^2+Ex+G$ has a term $\frac{Hx+J}{Dx^2+Ex+G}$.
+  - Duplicate factors have terms with denominators with that factor to the power of 1 up to the number of times the factor is present in the original.
+4. Set the two equal to each other such that the denominators can be factored out.
+5. Create systems of equations to solve for each constant.
 
 !!! example
     To decompose $\frac{x}{(x+1)(x^2+x+1)}$:
