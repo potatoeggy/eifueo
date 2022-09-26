@@ -259,3 +259,7 @@ $$
     Vectors of different dimensions cannot be compared — the missing dimensions cannot be treated as 0.
 
 The standard form of a vector is written as the difference between two points: $\vec{OA}$ where $O$ is the origin and $A$ is any point. $\vec{AB}$ is the vector as a difference between two points.
+
+### Linear combination
+
+
