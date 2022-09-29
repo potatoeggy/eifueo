@@ -699,7 +699,7 @@ The following **row operations** can be performed on the matrix to achieve this 
 
  - swapping (interchanging) the position of two rows
 	- $R_a \leftrightarrow R_b$
- - multiplying a row by a non-zero constant
+ - multiplying a row by a non-zero constant **scalar**
 	- $AR_a \to R_a$
  - adding/subtracting rows, overwriting the destination row
 	- $R_a\pm R_b\to R_b$

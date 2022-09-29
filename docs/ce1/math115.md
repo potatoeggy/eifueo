@@ -260,6 +260,121 @@ $$
 
 The standard form of a vector is written as the difference between two points: $\vec{OA}$ where $O$ is the origin and $A$ is any point. $\vec{AB}$ is the vector as a difference between two points.
 
-### Linear combination
+If a vector can be expressed as the sum of a scalar multiple of other vectors, that vector is the **linear combination** of those vectors. Formally, $\vec{y}$ is a linear combination of $\vec{a}, \vec{b}, \vec{c}$ if and only if any **real** constant(s) multiplied by each vector return $\vec y$:
 
+$$\vec{y} = d\vec{a} + e\vec{b} + f\vec{c}$$
 
+The **norm** of a vector is its magnitude or distance from the origin, represented by double absolute values. In $\mathbb R^2$ and $\mathbb R^3$, the Pythagorean theorem can be used.
+
+$$||\vec x|| = \sqrt{x_1 + x_2 + x_3}$$
+
+### Properties of norms
+
+$$
+|c|\cdot ||\vec x|| = ||c\vec x|| \\
+||\vec x + \vec y|| \leq ||\vec x|| + ||\vec y||
+$$
+
+### Dot product
+
+Please see [SL Math - Analysis and Approaches 2#Dot product](/g11/mcv4u7/#dot-product) for more information.
+
+The Cauchy-Schwartz inequality states that the magnitude of the dot product is less than the product.
+$$
+|\vec x\bullet\vec y|\leq||\vec x||\cdot||\vec y||
+$$
+
+The dot product can be used to guesstimate the angle between two vectors.
+
+- If $\vec x\bullet\vec y < 0$, the angle is obtuse.
+- If $\vec x\bullet\vec y > 0$, the angle is acute.
+
+### Complex vectors
+
+The set of complex vectors $\mathbb C^n$ is like $\mathbb R^n$ but for complex numbers.
+
+The **norm** of a complex vector must be a real number. Therefore:
+
+$$
+\begin{align*}
+||\vec z|| &= \sqrt{|z_1|^2 + |z_2|^2 + ...} \\
+&= \sqrt{\overline{z_1}z_1 + \overline{z_2}z_2 + ...}
+\end{align*}
+$$
+
+The **complex inner product** is the dot product between a conjugate complex vector and a complex vector.
+
+$$
+\begin{align*}
+\langle\vec z,\vec w\rangle &= \overline{\vec z}\bullet\vec w \\
+&= \overline{z_1}w_1 + \overline{z_2}w_2 + ...
+\end{align*}
+$$
+
+#### Properties of the complex inner product
+
+- $||\vec z||^2 = \langle\vec z, \vec z\rangle$
+- $\langle\vec z, \vec w\rangle = \overline{\langle\vec w, \vec z\rangle}$
+- $\langle a\vec z, \vec w\rangle = \overline{a}\langle\vec z, \vec w\rangle$
+- $\langle\vec u + \vec z,\vec w\rangle = \langle\vec w,\vec u\rangle + \langle\vec z, \vec u\rangle$
+
+### Cross product
+
+Please see [SL Math - Analysis and Approaches 2#Cross product](/g11/mcv4u7/#cross-product) for more information.
+
+### Vector equations
+
+Please see [SL Math - Analysis and Approaches 2#Vector line equations in two dimensions](/g11/mcv4u7/#vector-line-equations-in-two-dimensions) for more information.
+
+### Vector planes
+
+Please see [SL Math - Analysis and Approaches 2#Vector planes](/g11/mcv4u7/#vector-planes) for more information.
+
+!!! definition
+    - A **hyperplane** is an $\mathbb R^{n-1}$ plane in an $\mathbb R^n$ space.
+
+The **scalar equation** of a vector shows the normal vector $\vec n$ and a point on the plane $P(a,b,c)$ which can be condensed into the constant $d$.
+
+$$n_1x_1+n_2x_2 + n_3x_3 = n_1a+n_2b+n_3c$$
+
+Please see [SL Math - Analysis and Approaches 2#Vector projections](/g11/mcv4u7/#vector-projections) for more information.
+
+## Matrices
+
+Please see [SL Math - Analysis and Approaches 2#Matrices](/g11/mcv4u7/#matrices) for more information.
+
+!!! definition
+    - A **leading entry** is the first non-zero entry in a row.
+    - A matrix is **underdetermined** if there are fewer variables than rows.
+    - A matrix is **overdetermined** if there are more variables than rows.
+ 
+Vectors can be expressed as matrices with each dimension in its own row. If there is a contradiction in the system, it is **inconsistent**.
+
+The **row echelon form** of a matrix makes a system rapidly solvable by effectively performing elimination on the system until it is nearly completed.
+
+!!! example
+    The following is a vector in its row echelon form.
+    
+    $$
+    A=
+    \left[\begin{array}{rrrr | r}
+    1 & 0 & 2 & 3 & 2 \\
+    0 & 0 & 1 & 3 & 4 \\
+    0 & 0 & 0 & -2 & -2
+    \end{array}\right]
+    $$
+
+The **rank** of a matrix is equal to the number of leading entries any row echelon form.
+$$\text{rank}(A)$$
+
+In general, $A$ represents just the coefficient matrix, while $A|\vec b$ represents the augmented matrix.
+
+According to the **system-rank theorem**, a system is consistent **if and only if** the ranks of the coefficient and augmented matrices are equal.
+$$\text{system is consistent } \iff \text{rank}(A) = \text{rank}(A|\vec b)$$
+
+In addition, for resultant vectors with $m$ dimensions, the system is only consistent if $\text{rank}(A) = m$
+
+Each variable $x_n$ is a **leading variable** if there is a leading entry in $A$. Otherwise, it is a **free variable**. Systems with free variables have infinite solutions and can be represented by a vector **parameter**.
+
+!!! example
+    TODO: LEARN example
