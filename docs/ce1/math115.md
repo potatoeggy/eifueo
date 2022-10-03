@@ -339,6 +339,13 @@ $$n_1x_1+n_2x_2 + n_3x_3 = n_1a+n_2b+n_3c$$
 
 Please see [SL Math - Analysis and Approaches 2#Vector projections](/g11/mcv4u7/#vector-projections) for more information.
 
+Similarly, the component of $\vec a$ in the direction **perpendicular to** $\vec b$ is related to the vector projection.
+
+$$
+Perp_{\vec b}\vec a = \vec a - Proj_{\vec b}\vec a \\
+|Perp_{\vec b}\vec a = |\vec a|\sin\theta
+$$
+
 ## Matrices
 
 Please see [SL Math - Analysis and Approaches 2#Matrices](/g11/mcv4u7/#matrices) for more information.
