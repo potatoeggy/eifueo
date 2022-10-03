@@ -209,10 +209,11 @@ $$\theta=\frac{s}{r}$$
 
 The following table indicates the special angles that should be memorised:
 
-| Angle (rad) | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | 1 |
-| --- | --- | --- | --- | --- | --- |
-| cos | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ | 0 |
-| sin | 0 | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | 1 |
+| Angle (rad) | 0 | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\pi$ |
+| --- | --- | --- | --- | --- | --- | --- |
+| cos | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ | 0 | -1 |
+| sin | 0 | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | 1 | 0 |
+| tan | 0 | $\frac{\sqrt{3}}{3}$ | 1 | $\sqrt{3}$ | not allowed | 0 |
 
 ### Identities
 
