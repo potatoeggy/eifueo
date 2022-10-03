@@ -200,3 +200,53 @@ In order to PFD:
     ∴ \frac{x}{(x+1)(x^2+x+1)} &= -\frac{1}{x+1} + \frac{x + 1}{x^2 + x + 1}
     \end{align*}
     $$
+
+## Trigonometry
+
+1 radian represents the angle when the length of the arc of a circle is equal to the radius. Where $s$ is the arc length:
+
+$$\theta=\frac{s}{r}$$
+
+The following table indicates the special angles that should be memorised:
+
+| Angle (rad) | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | 1 |
+| --- | --- | --- | --- | --- | --- |
+| cos | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ | 0 |
+| sin | 0 | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | 1 |
+
+### Identities
+
+The Pythagorean identity is the one behind right angle triangles:
+
+$$\cos^2\theta+\sin^2\theta = 1$$
+
+Cosine and sine can be converted between by an angle shift:
+
+$$
+\cos\biggr(\theta-\frac{\pi}{2}\biggr) = \sin\theta \\
+\sin\biggr(\theta-\frac{\pi}{2}\biggr) = \cos\theta
+$$
+
+The **angle sum identities** allow expanding out angles:
+
+$$
+\cos(a+b)=\cos a\cos b - \sin a\sin b \\
+\sin(a+b)=\sin a\cos b + \cos a\sin b
+$$
+
+Subtracting angles is equal to the conjugates of the angle sum identities.
+
+The **double angle identities** simplify the angle sum identity for a specific case.
+
+$$
+\sin2\theta = 2\sin\theta\cos\theta \\
+$$
+
+The **half angle formulas** are just random shit.
+
+$$
+1+\tan^2\theta = \sec^2\theta \\
+\cos^2\theta = \frac{1}{2}(1+\cos2\theta) \\
+\sin^2\theta = \frac{1}{2}(1-\cos2\theta)
+$$
+
