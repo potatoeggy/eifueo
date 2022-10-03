@@ -1055,7 +1055,7 @@ The centripetal **force** on an object is the net force on that object causing i
 $$\Sigma \vec{F}_c=m\vec{a}_c$$
 
 !!! example
-   When a car turns in a circle, static friction is one factor in centripetal force. When riding a roller coaster, weight and normal force are included as centripetal force. When spinning around on the *WindSeeker* at an amusement park, only the horizontal component of tension ($\vec{F}_{Tx}$) is responsible for centripetal force.
+    When a car turns in a circle, static friction is one factor in centripetal force. When riding a roller coaster, weight and normal force are included as centripetal force. When spinning around on the *WindSeeker* at an amusement park, only the horizontal component of tension ($\vec{F}_{Tx}$) is responsible for centripetal force.
 
 ## 6.2 - Newton's law of gravitation
 
