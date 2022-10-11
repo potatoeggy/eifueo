@@ -385,3 +385,98 @@ Each variable $x_n$ is a **leading variable** if there is a leading entry in $A$
 
 !!! example
     TODO: LEARN example
+
+### Matrix-vector product
+
+In an augmented matrix, the system is consistent **if and only if** the resultant vector is a linear combination of the columns of the coefficient matrix.
+
+$$\text{system is consistent}\iff\vec b = A\vec x$$
+
+Where $\vec x$ is $\colv{x_1 \\ x_2 \\ ...}$ and $\vec a_n$ is the column vector of $A$ at $n$:
+
+$$A\vec x = \vec a_1x_1 + \vec a_2x_2 + ... + \vec a_nx_n$$
+
+**Alternatively**, the matrix-vector product can be considered a dot product such that where $\vec r_1, \vec r_2, ...$ are the rows of $A$:
+
+$$A\vec x = \vec b = \colv{\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec x \\ ... \\ \vec r_n\bullet\vec x}$$
+
+!!! warning
+    - $A$ must be $m\times n$.
+    - $\vec x$ must be in $\mathbb R^n$ (number of columns)
+    - $\vec b$ must be in $\mathbb R^m$ (number of rows)
+
+!!! example
+    The system below:
+    
+    $$
+    \begin{align*}
+    &x_1 &+ &3x_2 &- &2x_3 &= &-7 \\
+    -&x_1 &- &4x_2 &+ &3x_3 &= &8
+    \end{align*}
+    $$
+    
+    is equivalent to the augmented matrix:
+    $$
+    \left[\begin{array}{rrr | r}
+    1 & 3 & -2 & -7 \\
+    -1 & -4 & 3 & 8
+    \end{array}\right]
+    $$
+    
+    which is consistent if and only if, where $\vec{a_1}, \vec{a_2}, \vec{a_3}$ are the column vectors of $A$:
+    
+    $$
+    \begin{align*}
+    \vec b = \colv{-7 \\ 8} &= x_1\colv{1 \\ -1} + x_2\colv{3 \\ -4} + x_3 \colv{-2 \\ 3} \\
+    &= x_a\vec{a_1} + x_2\vec{a_2} + x_3\vec{a_3}
+    \end{align*}
+    $$
+
+The matrix-vector product is distributive, so the following properties are true.
+
+- $A(\vec x + \vec y) = A\vec x + A\vec y$
+- $(A+B)\vec x = A\vec x + B\vec x$
+- $A(c\vec x) = cA\vec x$
+
+### Identity matrices
+
+In a **homogeneous system** ($\vec b = \vec 0$), any linear combinations of the solutions to the system ($\vec x_1, ... \vec x_n$) are also solutions to the system.
+
+The identity matrix ($I_n$) is a **square matrix** of size $n$ with the value 1 along the main diagonal and 0 everywhere else. The $i$th column is equal to the $i$th row, which is known as $\vec e_i$.
+
+$$
+\begin{align*}
+I_4 &= \left[\begin{array}{rrrr}
+1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
+\end{array}\right] \\
+&= [\begin{array}{} \vec e_1 & \vec e_2 & \vec e_3 & \vec e_4\end{array}]
+\end{align*}
+$$
+
+## Matrix equality
+
+Matrices are only equal if *every* possible linear combination is equal ($A\vec x = B\vec x$ **does not mean** $A = B$).
+
+If $A\vec x = B\vec x$ for every $\vec x\in \mathbb R^n$, then $A = B$. This can be proven using the identity matrix:
+
+$$
+\text{Since }A\vec e_i = B\vec e_i \text{ for }i = 1, ... n: \\
+A\vec e_i = \vec a_i, B\vec e_i = \vec b_i \\
+∴ \vec a_i = \vec b_i\text{ for } i=1, ... n,\text{ thus } A=B.
+$$
+
+## Flow
+
+!!! definition
+    - A **network** is a system of junctions connected by directed lines, similar to a directed graph.
+
+In a **junction**, the flow in must equal the flow out. A network that follows the junction rule is at **equilibrium**.
+
+In an electrical diagram, if a reference direction is selected, flow going opposite the reference direction is negative.
+
+Matrices can be applied by applying the junction rule to systems with equal flow in and flow out for each of the **smaller systems** (i.e., not trying to meet every point)
+
+
