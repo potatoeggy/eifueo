@@ -41,7 +41,6 @@ theme:
 
 markdown_extensions:
   - mdx_math:
-      add_preview: True
       enable_dollar_delimiter: True
   - admonition
   - pymdownx.details
@@ -53,4 +52,11 @@ markdown_extensions:
       permalink: True
 
 extra_javascript:
-  ["https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js", "mathjax-config.js"]
+  [
+    "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.2/katex.min.js",
+    "https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/mhchem.min.js",
+    "https://cdn.jsdelivr.net/npm/katex/dist/contrib/mathtex-script-type.min.js",
+  ]
+
+extra_css:
+  ["https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.2/katex.min.css"]
