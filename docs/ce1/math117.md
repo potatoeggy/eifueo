@@ -305,3 +305,180 @@ The sign of $\alpha$ should be determined via its quadrant via the signs of $a$ 
     ∴ \alpha &= \tan^{-1}\frac{5}{3} + \pi
     \end{align*}
     $$
+
+## Limits
+
+### Limits of sequences
+
+!!! definition
+    - A **sequence** is an infinitely long list of numbers with the **domain** of all natural numbers (may also include 0).
+    - A sequence that does not converge is a **diverging** sequence.
+
+A sequence is typically denoted via braces.
+
+$$\{a_n\}\text{ or } \{a_n\}^\infty_{n=0}$$
+
+Sometimes sequences have formulae.
+
+$$\left\{\frac{5^n}{3^n}\right\}^\infty_{n=0}$$
+
+The **limit** of a sequence is the number $L$ that the sequence **converges** to as $n$ increases, which can be expressed in either of the two ways below:
+
+$$
+a_n \to L \text{ as } n\to\infty \\
+\lim_{n\to\infty}a_n=L
+$$
+
+: > Specifically, a sequence $\{a_n\}$ converges to limit $L$ if, for any positive number $\epsilon$, there exists an integer $N$ such that $n>N \Rightarrow |a_n - L | < \epsilon$.
+
+Effectively, if there is always a term number that would lead to the distance between the sequence at that term and the limit to be less than any arbitrarily small $\epsilon$, the sequence has the claimed limit.
+
+!!! example
+    A limit can be proved to exist with the above definition. To prove $\left\{\frac{1}{\sqrt{n}}\right\}\to0$ as $n\to\infty$:
+    $$
+    \begin{align*}
+    \text{Proof:} \\
+    n > N &\Rightarrow \left|\frac{1}{\sqrt{n}} - 0\right| < \epsilon \\
+    &\Rightarrow \frac{1}{\epsilon^2} < n
+    \end{align*} \\
+    \ce{Let \epsilon\ be any positive number{.} If n > \frac{1}{\epsilon^2}, then \frac{1}{\sqrt{n}}-> 0 as n -> \infty{.}}
+    $$
+   
+Please see [SL Math - Analysis and Approaches 1#Limits](/g11/mhf4u7/#limits) for more information.
+
+The **squeeze theorem** states that if a sequence lies between two other converging sequences with the same limit, it also converges to this limit. That is, if $a_n\to L$ and $c_n\to L$ as $n\to\infty$, and $a_n\leq b_n\leq c_n$ is **always true**, $b_n\to L$.
+
+!!! example
+    $\left\{\frac{\sin n}{n}\right\}$: since $-1\leq\sin n\leq 1$, $\frac{-1}{n}\leq\frac{\sin n}{n}\leq \frac{1}{n}$. Since both other functions converge at 0, and sin(n) is always between the two, sin(n) thus also converges at 0 as n approaches infinity.
+
+If function $f$ is continuous and $\lim_{n\to\infty}a_n$ exists:
+
+$$\lim_{n\to\infty}f(a_n)=f\left(\lim_{n\to\infty}a_n\right)$$
+
+On a side note:
+
+$$\lim_{n\to\infty}\tan^{-1} n = \frac{\pi}{2}$$
+
+### Limits of functions
+
+The definition is largely the same as for the limit of a sequence:
+
+: > A function $f(x)\to L$ as $x\to a$ if, for any positive $\epsilon$, there exists a number $\delta$ such that $0<|x-a|<\delta\Rightarrow|f(x)-L|<\epsilon$.
+
+Again, for the limit to be true, there must be a value $x$ that makes the distance between the function and the limit less than any arbitrarily small $\epsilon$.
+
+The extra $0 <$ is because the behaviour for when $x=a$, which may or may not be defined, is irrelevant.
+
+!!! example
+    To prove $3x-2\to 4$ as $x\to 2$:
+    $$
+    \ce{for any \epsilon\ > 0, there is a \delta\ > 0\ such that:}
+    $$
+    $$
+    \begin{align*}
+    |x-2| < \delta &\Rightarrow|(3x-2) - 4| &< \epsilon \\
+    &\Leftarrow |(3x-2) -4| &< \epsilon \\
+    &\Leftarrow |3x-6| &< \epsilon \\
+    &\Leftarrow |x-2| &< \frac{\epsilon}{3} \\
+    \delta &= \frac{\epsilon}{3}
+    \end{align*}
+    $$
+    $$
+    \ce{Let \epsilon\ be any positive number{.} If }|x-2|<\frac{\epsilon}{3}, \\
+    \text{then }|(3x-2)-4|<\epsilon\text{. Therefore }3x-2\to 4\text{ as }x\to 2.
+    $$
+
+!!! warning
+    When solving for limits, negatives have to be considered if the limit approaches a negative number:
+    
+    $$\lim_{x\to -\infty}\frac{x}{\sqrt{4x^2-3}} = \frac{1}{-\frac{1}{\sqrt{x}^2}\sqrt{4x^2-3}}$$
+
+As the angle in **radians** of an arc approaches 0, it is nearly equal to the sine (vertical component).
+
+$$
+\lim_{\theta\to 0}\frac{\sin\theta}{\theta} = 1
+$$
+
+This function is commonly used in engineering and is known as the sinc function.
+
+$$
+\text{sinc}(x) = \begin{cases}
+\frac{\sin x}{x}&\text{ if }x\neq 0 \\
+0&\text{ if }x=0
+\end{cases}
+$$
+
+## Continuity
+
+Please see [SL Math - Analysis and Approaches 1#Limits and continuity](/g11/mhf4u7/#limits-and-continuity) for more information.
+
+Most common functions can be assumed to be continuous (e.g., $\sin x,\cos x, x, \sqrt{x}, \frac{1}{x}, e^x, \ln x$, etc.).
+
+: > $f(x)$ is continuous in an interval if for any $x$ and $y$ in the interval and any positive number $\epsilon$, there exists a number $\delta$ such that $|x-y|<\delta\Rightarrow |f(x)-f(y)| < \epsilon$.
+
+Effectively, if $f(x)$ can be made infinitely close to $f(y)$ by making $x$ closer to $y$, the function is continuous.
+
+If two functions are continuous:
+
+- $(f\circ g)(x)$ is continuous
+- $(f\pm g)(x)$ is continuous
+- $(fg)(x)$ is continuous
+- $\frac{1}{f(x)}$ is continuous anywhere $f(x)\neq 0$
+
+### Intermediate value theorem
+
+The IVT states that if a function is continuous and there is a point between two other points, its term must also be between those two other points.
+
+: > If $f(x)$ is continuous, if $f(a)\leq C\leq f(b)$, there must be a number $c\in[a,b]$ where $f(c)=C$.
+
+The theorem is used to validate using binary search to find roots (guess and check).
+
+### Extreme value theorem
+
+The EVT states that any function continuous within a **closed** interval has at least one maximum and minimum.
+: > If $f(x)$ is continuous in the **closed interval** $[a, b]$, there exist numbers $c$ and $d$ in $[a,b]$ such that $f(c)\leq f(x)\leq f(d)$.
+
+## Derivatives
+
+Please see [SL Math - Analysis and Approaches 1#Rate of change](/g11/mhf4u7/#rate-of-change) and [SL Math - Analysis and Approaches#Derivatives](/g11/mhf4u7/#derivatives) for more information.
+
+The derivative of a function $f(x)$ at $a$ is determined by the following limit:
+
+$$\lim_{x\to a}\frac{f(x)-f(a)}{x-a}$$
+
+If the limit does not exist, the function is **not differentiable at $a$**.
+
+Alternative notations for $f'(x)$ include $\dot f(x)$ and $Df$ (which is equal to $\frac{d}{dx}f(x)$).
+
+Please see [SL Math - Analysis and Approaches 1#Finding derivatives using first principles](/g11/mhf4u7/#finding-derivatives-using-first-principles) and [SL Math - Analysis and Approaches 1#Derivative rules](/g11/mhf4u7/#derivative-rules) for more information.
+
+Some examples of derivatives of inverse functions:
+
+- $\frac{d}{dx}f^{-1}(x) = \frac{1}{\frac{dx}{dy}}$
+- $\frac{d}{dx}\sin^{-1} x = \frac{1}{\sqrt{1-x^2}}$
+- $\frac{d}{dx}\cos^{-1} x = -\frac{1}{\sqrt{1-x^2}}$
+- $\frac{d}{dx}\tan^{-1} x = \frac{1}{1+x^2}$
+- $\frac{d}{dx}\log_a x = \frac{1}{(\ln a) x}$
+- $\frac{d}{dx}a^x = (\ln a)a^x$
+
+### Implicit differentiation
+
+Please see [SL Math - Analysis and Approaches 1#Implicit differentiation](/g11/mhf4u7/#implicit-differentiation) for more information.
+
+### Mean value theorem
+
+The MVT states that the average slope between two points will be reached at least once between them if the function is differentiable.
+
+: > If $f(x)$ is continuous in $[a, b]$ and differentiable in $(a, b)$, respectively, there must be a $c\in(a,b)$ such that $f'(c)=\frac{f(b)-f(a)}{b-a}$.
+
+### L'Hôpital's rule
+
+As long as $\frac{f(x)}{g(x)} = \frac{0}{0}\text{ or } \frac{\infty}{\infty}$:
+
+$$\lim_{x\to a}\frac{f(x)}{g(x)} = \lim_{x\to a}\frac{f'(x)}{g'(x)}$$
+
+: > If $f(x)$ and $g(x)$ are differentiable (except maybe at $a$), and $\lim_{x\to a}f(x) = 0$ and $\lim_{x\to a}g(x) = 0$, the relation is true.
+
+### Related rates
+
+Please see [SL Math - Analysis and Approaches 1#Related rates](/g11/mhf4u7/#related-rates) for more information.
