@@ -251,3 +251,57 @@ $$
 \sin^2\theta = \frac{1}{2}(1-\cos2\theta)
 $$
 
+### Inverse trig functions
+
+Because extending the domain does not pass the horizontal line test, for engineering purposes, inverse sine is only the inverse of sine so long as the angle is within $[-\frac{\pi}{2}, \frac{\pi}{2}]$. Otherwise, it is equal to that version mod 2 pi.
+
+$$y=\sin^{-1}x \iff x=\sin y, y\in [-\frac{\pi}{2}, \frac{\pi}{2}]$$
+
+This means that $x\in[-1, 1]$.
+
+$$
+\sin(\sin^{-1}x) = x \\
+\sin^{-1}(\sin x) = x \text{ only if } x\in[-\frac{\pi}{2}, \frac{\pi}{2}]
+$$
+
+Similarly, inverse **cosine** only returns values within $[0,\pi]$.
+
+Similarly, inverse **tangent** only returns values within $(-\frac{\pi}{2}, \frac{\pi}{2})$. However, $\tan^{-1}$ is defined for all $x\in\mathbb R$.
+
+Although most of the reciprocal function rules can be derived, secant is only valid in the odd range $[-\pi, -\frac{\pi}{2})\cup [0, \frac{\pi}{2})$, and returns values $(-\infty, -1]\cup [1, \infty)$.
+
+### Electrical signals
+
+Waves are commonly presented in the following format, where $A$ is a **positive** amplitude:
+
+$$g(t)=A\sin(\omega t + \alpha)$$
+
+In general, if given a sum of a sine and cosine:
+
+$$a\sin\omega t + b\cos\omega t = \sqrt{a^2 + b^2}\sin(\omega t + \alpha)$$
+
+The sign of $\alpha$ should be determined via its quadrant via the signs of $a$ (sine) and $b$ (cosine) via the CAST rule.
+
+!!! example
+    Given $y=5\cos 2t - 3\sin 2t$:
+    
+    $$
+    \begin{align*}
+    A\sin (2t+\alpha) &= A\sin 2t\cos\alpha + A\cos 2t\sin\alpha \\
+    &= (A\cos\alpha)\sin 2t + (A\sin\alpha)\cos 2t \\
+    \\
+    \begin{cases}
+    A\sin\alpha = 5 \\
+    A\cos\alpha = -3
+    \end{cases}
+    \\
+    \\
+    A^2\sin^2\alpha + A^2\cos^2\alpha &= 5^2 + (-3)^2 \\
+    A^2 &= 34 \\
+    A &= \sqrt{34} \\
+    \\
+    \alpha &= \tan^{-1}\frac{5}{3} \\
+    &\text{since sine is positive and cosine is negative, the angle is in Q3} \\
+    ∴ \alpha &= \tan^{-1}\frac{5}{3} + \pi
+    \end{align*}
+    $$
