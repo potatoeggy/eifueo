@@ -371,6 +371,8 @@ The **row echelon form** of a matrix makes a system rapidly solvable by effectiv
     \end{array}\right]
     $$
 
+The **reduced row echelon form** of a matrix makes a system even more rapidly solvable by performing even more elimination on the system such that each **leading variable** is equal to one, and that variable is the only variable in the coefficient matrix.
+
 The **rank** of a matrix is equal to the number of leading entries any row echelon form.
 $$\text{rank}(A)$$
 
