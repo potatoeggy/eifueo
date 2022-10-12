@@ -259,19 +259,19 @@ $$
 
 The standard form of a vector is written as the difference between two points: $\vec{OA}$ where $O$ is the origin and $A$ is any point. $\vec{AB}$ is the vector as a difference between two points.
 
-If a vector can be expressed as the sum of a scalar multiple of other vectors, that vector is the **linear combination** of those vectors. Formally, $\vec{y}$ is a linear combination of $\vec{a}, \vec{b}, \vec{c}$ if and only if any **real** constant(s) multiplied by each vector return $\vec y$:
+If a vector can be expressed as the sum of a scalar multiple of other vectors, that vector is the **linear combination** of those vectors. Formally, $\vec{y}$ is a linear combination of $\vec{a}, \vec{b}, \vec{c}$ if and only if any **real** constant(s) multiplied by each vector return $\vec{y}$:
 
 $$\vec{y} = d\vec{a} + e\vec{b} + f\vec{c}$$
 
 The **norm** of a vector is its magnitude or distance from the origin, represented by double absolute values. In $\mathbb R^2$ and $\mathbb R^3$, the Pythagorean theorem can be used.
 
-$$||\vec x|| = \sqrt{x_1 + x_2 + x_3}$$
+$$||\vec{x}|| = \sqrt{x_1 + x_2 + x_3}$$
 
 ### Properties of norms
 
 $$
-|c|\cdot ||\vec x|| = ||c\vec x|| \\
-||\vec x + \vec y|| \leq ||\vec x|| + ||\vec y||
+|c|\cdot ||\vec{x}|| = ||c\vec{x}|| \\
+||\vec{x} + \vec{y}|| \leq ||\vec{x}|| + ||\vec{y}||
 $$
 
 ### Dot product
@@ -280,13 +280,13 @@ Please see [SL Math - Analysis and Approaches 2#Dot product](/g11/mcv4u7/#dot-pr
 
 The Cauchy-Schwartz inequality states that the magnitude of the dot product is less than the product.
 $$
-|\vec x\bullet\vec y|\leq||\vec x||\cdot||\vec y||
+|\vec{x}\bullet\vec{y}|\leq||\vec{x}||\cdot||\vec{y}||
 $$
 
 The dot product can be used to guesstimate the angle between two vectors.
 
-- If $\vec x\bullet\vec y < 0$, the angle is obtuse.
-- If $\vec x\bullet\vec y > 0$, the angle is acute.
+- If $\vec{x}\bullet\vec{y} < 0$, the angle is obtuse.
+- If $\vec{x}\bullet\vec{y} > 0$, the angle is acute.
 
 ### Complex vectors
 
@@ -296,7 +296,7 @@ The **norm** of a complex vector must be a real number. Therefore:
 
 $$
 \begin{align*}
-||\vec z|| &= \sqrt{|z_1|^2 + |z_2|^2 + ...} \\
+||\vec{z}|| &= \sqrt{|z_1|^2 + |z_2|^2 + ...} \\
 &= \sqrt{\overline{z_1}z_1 + \overline{z_2}z_2 + ...}
 \end{align*}
 $$
@@ -305,17 +305,17 @@ The **complex inner product** is the dot product between a conjugate complex vec
 
 $$
 \begin{align*}
-\langle\vec z,\vec w\rangle &= \overline{\vec z}\bullet\vec w \\
+\langle\vec{z},\vec{w}\rangle &= \overline{\vec{z}}\bullet\vec{w} \\
 &= \overline{z_1}w_1 + \overline{z_2}w_2 + ...
 \end{align*}
 $$
 
 #### Properties of the complex inner product
 
-- $||\vec z||^2 = \langle\vec z, \vec z\rangle$
-- $\langle\vec z, \vec w\rangle = \overline{\langle\vec w, \vec z\rangle}$
-- $\langle a\vec z, \vec w\rangle = \overline{a}\langle\vec z, \vec w\rangle$
-- $\langle\vec u + \vec z,\vec w\rangle = \langle\vec w,\vec u\rangle + \langle\vec z, \vec u\rangle$
+- $||\vec{z}||^2 = \langle\vec{z}, \vec{z}\rangle$
+- $\langle\vec{z}, \vec{w}\rangle = \overline{\langle\vec{w}, \vec{z}\rangle}$
+- $\langle a\vec{z}, \vec{w}\rangle = \overline{a}\langle\vec{z}, \vec{w}\rangle$
+- $\langle\vec{u} + \vec{z},\vec{w}\rangle = \langle\vec{w},\vec{u}\rangle + \langle\vec{z}, \vec{u}\rangle$
 
 ### Cross product
 
@@ -332,17 +332,17 @@ Please see [SL Math - Analysis and Approaches 2#Vector planes](/g11/mcv4u7/#vect
 !!! definition
     - A **hyperplane** is an $\mathbb R^{n-1}$ plane in an $\mathbb R^n$ space.
 
-The **scalar equation** of a vector shows the normal vector $\vec n$ and a point on the plane $P(a,b,c)$ which can be condensed into the constant $d$.
+The **scalar equation** of a vector shows the normal vector $\vec{n}$ and a point on the plane $P(a,b,c)$ which can be condensed into the constant $d$.
 
 $$n_1x_1+n_2x_2 + n_3x_3 = n_1a+n_2b+n_3c$$
 
 Please see [SL Math - Analysis and Approaches 2#Vector projections](/g11/mcv4u7/#vector-projections) for more information.
 
-Similarly, the component of $\vec a$ in the direction **perpendicular to** $\vec b$ is related to the vector projection.
+Similarly, the component of $\vec{a}$ in the direction **perpendicular to** $\vec{b}$ is related to the vector projection.
 
 $$
-Perp_{\vec b}\vec a = \vec a - Proj_{\vec b}\vec a \\
-|Perp_{\vec b}\vec a = |\vec a|\sin\theta
+Perp_{\vec{b}}\vec{a} = \vec{a} - Proj_{\vec{b}}\vec{a} \\
+|Perp_{\vec{b}}\vec{a} = |\vec{a}|\sin\theta
 $$
 
 ## Matrices
@@ -375,10 +375,10 @@ The **reduced row echelon form** of a matrix makes a system even more rapidly so
 The **rank** of a matrix is equal to the number of leading entries any row echelon form.
 $$\text{rank}(A)$$
 
-In general, $A$ represents just the coefficient matrix, while $A|\vec b$ represents the augmented matrix.
+In general, $A$ represents just the coefficient matrix, while $A|\vec{b}$ represents the augmented matrix.
 
 According to the **system-rank theorem**, a system is consistent **if and only if** the ranks of the coefficient and augmented matrices are equal.
-$$\text{system is consistent } \iff \text{rank}(A) = \text{rank}(A|\vec b)$$
+$$\text{system is consistent } \iff \text{rank}(A) = \text{rank}(A|\vec{b})$$
 
 In addition, for resultant vectors with $m$ dimensions, the system is only consistent if $\text{rank}(A) = m$
 
@@ -391,20 +391,20 @@ Each variable $x_n$ is a **leading variable** if there is a leading entry in $A$
 
 In an augmented matrix, the system is consistent **if and only if** the resultant vector is a linear combination of the columns of the coefficient matrix.
 
-$$\text{system is consistent}\iff\vec b = A\vec x$$
+$$\text{system is consistent}\iff\vec{b} = A\vec{x}$$
 
-Where $\vec x$ is $\begin{bmatrix}x_1 \\ x_2 \\ ...\end{bmatrix}$ and $\vec a_n$ is the column vector of $A$ at $n$:
+Where $\vec{x}$ is $\begin{bmatrix}x_1 \\ x_2 \\ ...\end{bmatrix}$ and $\vec{a}_n$ is the column vector of $A$ at $n$:
 
-$$A\vec x = \vec a_1x_1 + \vec a_2x_2 + ... + \vec a_nx_n$$
+$$A\vec{x} = \vec{a}_1x_1 + \vec{a}_2x_2 + ... + \vec{a}_nx_n$$
 
-**Alternatively**, the matrix-vector product can be considered a dot product such that where $\vec r_1, \vec r_2, ...$ are the rows of $A$:
+**Alternatively**, the matrix-vector product can be considered a dot product such that where $\vec{r}_1, \vec{r}_2, ...$ are the rows of $A$:
 
-$$A\vec x = \vec b = \begin{bmatrix}\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec x \\ ... \\ \vec r_n\bullet\vec x\end{bmatrix}$$
+$$A\vec{x} = \vec{b} = \begin{bmatrix}\vec{r}_1\bullet\vec{x} \\ \vec{r}_2\bullet\vec{x} \\ ... \\ \vec{r}_n\bullet\vec{x}\end{bmatrix}$$
 
 !!! warning
     - $A$ must be $m\times n$.
-    - $\vec x$ must be in $\mathbb R^n$ (number of columns)
-    - $\vec b$ must be in $\mathbb R^m$ (number of rows)
+    - $\vec{x}$ must be in $\mathbb R^n$ (number of columns)
+    - $\vec{b}$ must be in $\mathbb R^m$ (number of rows)
 
 !!! example
     The system below:
@@ -428,22 +428,22 @@ $$A\vec x = \vec b = \begin{bmatrix}\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec
     
     $$
     \begin{align*}
-    \vec b = \{-7 \\ 8} &= x_1\begin{bmatrix}1 \\ -1\end{bmatrix} + x_2\begin{bmatrix}3 \\ -4\end{bmatrix} + x_3 \begin{bmatrix}-2 \\ 3\end{bmatrix} \\
+    \vec{b} = \{-7 \\ 8} &= x_1\begin{bmatrix}1 \\ -1\end{bmatrix} + x_2\begin{bmatrix}3 \\ -4\end{bmatrix} + x_3 \begin{bmatrix}-2 \\ 3\end{bmatrix} \\
     &= x_a\vec{a_1} + x_2\vec{a_2} + x_3\vec{a_3}
     \end{align*}
     $$
 
 The matrix-vector product is distributive, so the following properties are true.
 
-- $A(\vec x + \vec y) = A\vec x + A\vec y$
-- $(A+B)\vec x = A\vec x + B\vec x$
-- $A(c\vec x) = cA\vec x$
+- $A(\vec{x} + \vec{y}) = A\vec{x} + A\vec{y}$
+- $(A+B)\vec{x} = A\vec{x} + B\vec{x}$
+- $A(c\vec{x}) = cA\vec{x}$
 
 ### Identity matrices
 
-In a **homogeneous system** ($\vec b = \vec 0$), any linear combinations of the solutions to the system ($\vec x_1, ... \vec x_n$) are also solutions to the system.
+In a **homogeneous system** ($\vec{b} = \vec{0}$), any linear combinations of the solutions to the system ($\vec{x}_1, ... \vec{x}_n$) are also solutions to the system.
 
-The identity matrix ($I_n$) is a **square matrix** of size $n$ with the value 1 along the main diagonal and 0 everywhere else. The $i$th column is equal to the $i$th row, which is known as $\vec e_i$.
+The identity matrix ($I_n$) is a **square matrix** of size $n$ with the value 1 along the main diagonal and 0 everywhere else. The $i$th column is equal to the $i$th row, which is known as $\vec{e}_i$.
 
 $$
 \begin{align*}
@@ -453,20 +453,20 @@ I_4 &= \left[\begin{array}{rrrr}
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1
 \end{array}\right] \\
-&= [\begin{array}{} \vec e_1 & \vec e_2 & \vec e_3 & \vec e_4\end{array}]
+&= [\begin{array}{} \vec{e}_1 & \vec{e}_2 & \vec{e}_3 & \vec{e}_4\end{array}]
 \end{align*}
 $$
 
 ## Matrix equality
 
-Matrices are only equal if *every* possible linear combination is equal ($A\vec x = B\vec x$ **does not mean** $A = B$).
+Matrices are only equal if *every* possible linear combination is equal ($A\vec{x} = B\vec{x}$ **does not mean** $A = B$).
 
-If $A\vec x = B\vec x$ for every $\vec x\in \mathbb R^n$, then $A = B$. This can be proven using the identity matrix:
+If $A\vec{x} = B\vec{x}$ for every $\vec{x}\in \mathbb R^n$, then $A = B$. This can be proven using the identity matrix:
 
 $$
-\text{Since }A\vec e_i = B\vec e_i \text{ for }i = 1, ... n: \\
-A\vec e_i = \vec a_i, B\vec e_i = \vec b_i \\
-∴ \vec a_i = \vec b_i\text{ for } i=1, ... n,\text{ thus } A=B.
+\text{Since }A\vec{e}_i = B\vec{e}_i \text{ for }i = 1, ... n: \\
+A\vec{e}_i = \vec{a}_i, B\vec{e}_i = \vec{b}_i \\
+∴ \vec{a}_i = \vec{b}_i\text{ for } i=1, ... n,\text{ thus } A=B.
 $$
 
 ## Flow
