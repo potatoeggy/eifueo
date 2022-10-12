@@ -246,13 +246,12 @@ Please see [SL Math - Analysis and Approaches 2#Vectors](/g11/mcv4u7/#vectors) a
 The column vector shows a vector of the form $(x, y, ...)$ from top to bottom as $(x_1, x_2, ...)$ as the number of dimensions increases.
 
 $$
-\newcommand\colv[1]{\begin{bmatrix}#1\end{bmatrix}}
-\colv{x_1 \\ x_2 \\ x_3}
+\begin{bmatrix}x_1 \\ x_2 \\ x_3\end{bmatrix}
 $$
 
 The zero vector is full of zeroes.
 $$
-\colv{0 \\ 0 \\ 0}
+\begin{bmatrix}0 \\ 0 \\ 0\end{bmatrix}
 $$
 
 !!! warning
@@ -394,13 +393,13 @@ In an augmented matrix, the system is consistent **if and only if** the resultan
 
 $$\text{system is consistent}\iff\vec b = A\vec x$$
 
-Where $\vec x$ is $\colv{x_1 \\ x_2 \\ ...}$ and $\vec a_n$ is the column vector of $A$ at $n$:
+Where $\vec x$ is $\begin{bmatrix}x_1 \\ x_2 \\ ...\end{bmatrix}$ and $\vec a_n$ is the column vector of $A$ at $n$:
 
 $$A\vec x = \vec a_1x_1 + \vec a_2x_2 + ... + \vec a_nx_n$$
 
 **Alternatively**, the matrix-vector product can be considered a dot product such that where $\vec r_1, \vec r_2, ...$ are the rows of $A$:
 
-$$A\vec x = \vec b = \colv{\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec x \\ ... \\ \vec r_n\bullet\vec x}$$
+$$A\vec x = \vec b = \begin{bmatrix}\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec x \\ ... \\ \vec r_n\bullet\vec x\end{bmatrix}$$
 
 !!! warning
     - $A$ must be $m\times n$.
@@ -429,7 +428,7 @@ $$A\vec x = \vec b = \colv{\vec r_1\bullet\vec x \\ \vec r_2\bullet\vec x \\ ...
     
     $$
     \begin{align*}
-    \vec b = \colv{-7 \\ 8} &= x_1\colv{1 \\ -1} + x_2\colv{3 \\ -4} + x_3 \colv{-2 \\ 3} \\
+    \vec b = \{-7 \\ 8} &= x_1\begin{bmatrix}1 \\ -1\end{bmatrix} + x_2\begin{bmatrix}3 \\ -4\end{bmatrix} + x_3 \begin{bmatrix}-2 \\ 3\end{bmatrix} \\
     &= x_a\vec{a_1} + x_2\vec{a_2} + x_3\vec{a_3}
     \end{align*}
     $$
