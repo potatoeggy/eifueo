@@ -393,7 +393,7 @@ In an augmented matrix, the system is consistent **if and only if** the resultan
 
 $$\text{system is consistent}\iff\vec{b} = A\vec{x}$$
 
-Where $\vec{x}$ is $\begin{bmatrix}x_1 \\ x_2 \\ ...\end{bmatrix}$ and $\vec{a}_n$ is the column vector of $A$ at $n$:
+Where $\vec{x}$ is $[x_1, x_2, ...]$ and $\vec{a}_n$ is the column vector of $A$ at $n$:
 
 $$A\vec{x} = \vec{a}_1x_1 + \vec{a}_2x_2 + ... + \vec{a}_nx_n$$
 
@@ -428,7 +428,7 @@ $$A\vec{x} = \vec{b} = \begin{bmatrix}\vec{r}_1\bullet\vec{x} \\ \vec{r}_2\bulle
     
     $$
     \begin{align*}
-    \vec{b} = \{-7 \\ 8} &= x_1\begin{bmatrix}1 \\ -1\end{bmatrix} + x_2\begin{bmatrix}3 \\ -4\end{bmatrix} + x_3 \begin{bmatrix}-2 \\ 3\end{bmatrix} \\
+    \vec{b} = \begin{bmatrix}-7 \\ 8\end{bmatrix} &= x_1\begin{bmatrix}1 \\ -1\end{bmatrix} + x_2\begin{bmatrix}3 \\ -4\end{bmatrix} + x_3 \begin{bmatrix}-2 \\ 3\end{bmatrix} \\
     &= x_a\vec{a_1} + x_2\vec{a_2} + x_3\vec{a_3}
     \end{align*}
     $$

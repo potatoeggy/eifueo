@@ -59,4 +59,4 @@ extra_javascript:
   ]
 
 extra_css:
-  ["https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.2/katex.min.css"]
+  ["https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.2/katex.min.css", "fix_katex.css"]
