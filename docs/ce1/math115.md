@@ -160,8 +160,8 @@ $$|z|=0 \iff z=0$$
 The modulus of the conjugate is equal to the modulus of the original.
 $$|\overline{z}| = |z|$$
 
-The number multiplied by the conjugate modulus is the square of the modulus.
-$$z|\overline{z}|=|z|^2$$
+The number multiplied by the conjugate is the square of the modulus.
+$$z\overline{z}=|z|^2$$
 
 Moduli are also almost just a factor:
 $$
