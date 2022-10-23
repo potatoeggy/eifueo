@@ -386,6 +386,36 @@ Each variable $x_n$ is a **leading variable** if there is a leading entry in $A$
 
 !!! example
     TODO: LEARN example
+    
+### Matrix algebra
+
+!!! definition
+    - $M_{m\times n}(\mathbb R)$ is the set of all real matrices.
+    - A **square matrix** has $m=n$.
+    - The **zero matrix** $0_{m\times n}$ has every entry equal to 0.
+
+In a $m\times n$ matrix $A$, $a_{ij}$ or $(A)_{ij}$ represents the entry in the $i$th row and $j$th column.
+
+$$A=[a_{ij}]$$
+
+Two matrices with size $m\times n$ $[a_{ij}]$ and $[b_{ij}]$ are equal if and only if $a_{ij} = b_{ij}$ for every i and j (formally, for every $i=1, ..., m, j = 1, ..., n$).
+
+Properties of matrices include:
+
+- $(A+B)_{ij} = (A)_{ij} + (B)_{ij}$
+- $(cA)_{ij} = (cB)_{ij}, c\in\mathbb R$
+- $A-B=A+(-1)B$
+
+The **matrix transpose** $A^T$ is the matrix satisfying $(A^T)_{ij}=(A)_j$, as if it was reflected along the primary diagonal.
+
+A matrix is **symmetric** if $A^T = A$, implying a square matrix.
+
+Properties of transposed matrices:
+
+- $A^T\in M_{n\times m}(\mathbb R)$
+- $(A^T)^T = A$
+- $(A+B)^T=A^T+B^T$
+
 
 ### Matrix-vector product
 
