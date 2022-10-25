@@ -416,6 +416,34 @@ Properties of transposed matrices:
 - $(A^T)^T = A$
 - $(A+B)^T=A^T+B^T$
 
+### Matrix multiplication
+
+In the two matrices $A\in M_{m\times n}(\mathbb R)$ and $B\in M_{n\times k}(\mathbb R)$, where $B=[\vec b_1, ..., \vec b_n]$ are columns:
+
+$$AB=[A\vec b_1, ..., A\vec b_n]$$
+
+where the resultant matrix is of size $m\times k$.
+
+Extra columns in $B$ are ignored.
+
+Alternatively, where $r_i$ is each row in $A$:
+
+$$
+AB = \begin{bmatrix}
+\vec r_1\bullet \vec b_1 & ... & \vec r_1\bullet b_k \\
+... & ... & ... \\
+\vec r_m\bullet b_1 & ... & \vec r_m\bullet \vec b_k
+\end{bmatrix}
+$$
+
+Properties of matrix multiplication, where $x\in \mathbb R$:
+
+- $(AB)^T = B^T + A^T$
+- $A(BC) = A(BC)$
+- $AB \neq BA$
+- $(B+C)A = BA+ BC$
+- $(xA)B = x(AB) = A(xB)$
+
 
 ### Matrix-vector product
 
