@@ -444,6 +444,8 @@ Properties of matrix multiplication, where $x\in \mathbb R$:
 - $(B+C)A = BA+ BC$
 - $(xA)B = x(AB) = A(xB)$
 
+In an **adjacency matrix**, the number of paths between points in exactly $x$ edges is equal to that entry in $A^x$.
+
 
 ### Matrix-vector product
 
