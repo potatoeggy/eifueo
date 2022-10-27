@@ -712,7 +712,8 @@ $$\ce{14 = pH + pOH}$$
 ### Acid/base dissociation
 
 An equilibrium will be reached when a weak acid or base dissociates/ionises in water. The extent that the acid or base has dissociated/ionised can be quantified with **percent dissociation/ionisation**.
-$$\text{% ionisation} = \frac{\text{[acid ionised]}}{\text{[original acid]}}\times 100\%$$
+
+$$\text{\% ionisation} = \frac{\text{[acid ionised]}}{\text{[original acid]}}\times 100\%$$
 
 !!! note
     When performing an approximation assumption in an ICE table, the assumption is also valid if the % ionisation is less than 5%.

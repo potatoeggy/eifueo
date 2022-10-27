@@ -343,15 +343,19 @@ When a solution is **diluted** the moles of solute are the same before and after
 $$c_iv_i=c_fv_f$$
 
 A mass/mass percentage concentration (%m/m) is such that:
+
 $$c\text{ (%m/m)}=\frac{\text{mass of solute (g)}}{\text{total mass of solution (g)}}×100\%$$
 
 A mass/volume percentage concentration (%m/v) is easy to measure, but may be unreliable as volume changes with temperature. It is such that:
+
 $$c\text{ (%m/v)}=\frac{\text{mass of solute (g)}}{\text{total volume of solution (100 cm}^3\text{)}}×100\%$$
 
 A volume/volume percentage concentration (%v/v) has the same properties as the above but also has the caveat that there is no guarantee that the total volume of the solution is equal to the sums of the volumes of the solute and solvent. It is such that:
+
 $$c\text{ (%v/v)}=\frac{\text{volume of solute (cm}^3\text{)}}{\text{total volume of solution (100 cm}^3\text{)}}×100\%$$
 
 When dealing with very small concentrations, smaller units such as **parts per million (ppm)** or parts per billion (ppb) are used.
+
 $$c\text{ (ppm)}=\frac{\text{mass of solute (g)}}{\text{mass of solution (g)}}×10^6$$
 
 ### Standard solutions
@@ -465,8 +469,10 @@ Isotopes are atoms of the same element but with different masses, or alternative
 
 The mass of every atom is represented relative to 1/12th of a carbon-12 atom. This mass is either unitless or expressed in terms of **atomic mass units (amu or u)**. On the periodic table, the **relative atomic mass** ($A_r$) is shown, which is the sum of the masses of each isotope combined with their natural abundance (%abundance).
 
-$$A_r = \text{%abundance}×\text{mass number of isotope}$$
-$$m_a = \Sigma A_r$$
+$$
+A_r = \text{%abundance}×\text{mass number of isotope} \\
+m_a = \Sigma A_r
+$$
 
 When calculating the atomic mass from the graph from a **mass spectrometer**, the sum of the natural abundances of each isotope may not equal 100 or 1 (not in %abundance). In this case, calculation of %abundance will need to be done before solving for $m_a$.
 

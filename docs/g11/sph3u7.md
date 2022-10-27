@@ -1024,7 +1024,7 @@ Circular motion is any motion along a circular path. The instantaneous velocity 
 !!! definition
     - An object is in **uniform circular motion** when all instantaneous velocities are equal in magnitude or when all accelerations are equal in magnitude.
     - **Period** ($T$) represents the time required to complete one revolution ($360°$ or $2\pi$ radians).
-    - **Frequency** ($f$) represents the revolutions per second represented in hertz ($\text{1 Hz=1s^{-1}}$), and is the inverse of period.
+    - **Frequency** ($f$) represents the revolutions per second represented in hertz ($\text{1 Hz=1 s}^{-1}$), and is the inverse of period.
 
 !!! warning
     As velocity and acceleration are vectors, direction must be considered when manipulating them. This means that the **kinematic equations** cannot be used.
