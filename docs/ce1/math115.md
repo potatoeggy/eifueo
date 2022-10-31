@@ -517,6 +517,29 @@ I_4 &= \left[\begin{array}{rrrr}
 \end{align*}
 $$
 
+### Markov chains
+
+!!! definition
+    - A **probability vector** $\vec s$ has only **non-negative** entries that sum to 1.
+    - A **stochastic** matrix has only probability vectors as its columns.
+    - A **state vector** $s_k$ in a Markov chain represents the state of the system.
+
+A Markov chain is a sequence of probability vectors $\vec s_0, \vec s_1, ...$ and stochastic matrix $P$ such that:
+
+$$s_{k+1} = P_{s_k}$$
+
+for any non-negative integer $k$.
+
+The state vector $\vec s$ is the **steady-state vector for $P$** if $P\vec s = \vec s$. Each stochastic matrix converges to a steady state.
+
+If the stochastic matrix is **regular**, there are only positive integers, which is true if at some $P^n$ there are only positive integers. Regular matrices converge to exactly one steady state vector.
+
+In order to determine the steady state for any stochastic cmatrix:
+
+ - Verify that $P$ is regular,
+ - Solve the augmented matrix $(P-I)\vec s = 0$.
+ - Deduce the probability vector $\vec s$.
+
 ## Matrix equality
 
 Matrices are only equal if *every* possible linear combination is equal ($A\vec{x} = B\vec{x}$ **does not mean** $A = B$).
