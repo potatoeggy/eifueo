@@ -482,3 +482,49 @@ $$\lim_{x\to a}\frac{f(x)}{g(x)} = \lim_{x\to a}\frac{f'(x)}{g'(x)}$$
 ### Related rates
 
 Please see [SL Math - Analysis and Approaches 1#Related rates](/g11/mhf4u7/#related-rates) for more information.
+
+## Differentials
+
+$\Delta x$ and $\Delta y$ represent tiny increments of $x$ and $y$. $dx$ and $dy$ are used when those tiny ammounts approach 0.
+
+Specifically, by rearranging the definition of the deriative, $df$ is a short form for the **differential** of $f$:
+
+$$f'(x)dx=dy=df$$
+
+By abusing differentials, the tangent line of a point in a function can be approximated.
+
+$$\Delta f\approx f'(x)\Delta x$$
+
+!!! example
+    If $f(x) = \sqrt{x},x_0=81$, $\sqrt{78}$ can be estimated by:
+    
+    $$
+    \begin{align*}
+    \Delta x&=dx=78-81=-3 \\
+    \frac{df}{dx} &= f'(x) \\
+    df &= f'(x)dx \\
+    &= \frac{1}{2\sqrt{81}}(-3) = -\frac{1}{6} \\
+    f(78) &= \sqrt{81}-\frac{1}{6} \\
+    &= \frac{53}{54}
+    \end{align*}
+    $$
+
+### Curve sketching
+
+Please see [SL Math - Analysis and Approaches 1#5.2 - Increasing and decreasing functions](/g11/mhf4u7/#52-increasing-and-decreasing-functions) for more information.
+
+## Integrals
+
+Please see [SL Math - Analysis and Approaches 2#Integration](/g11/mhf4u7/#52-increasing-and-decreasing-functions) for more information.
+
+### More integration rules
+
+- $\int a^xdx = \frac{a^x}{\ln a} + C$
+- $\int\sec^2xdx=\tan x+C$
+- $\int\text{cosh } xdx = \text{sinh } x + C$
+- $\int\text{sinh } xdx = \text{cosh } x + C$
+- $\int\frac{1}{\sqrt{1-x^2}}dx = \sin^{-1}x+C$
+- $\int\csc^2xdx = -\cot x+C$
+- $\int\sec x\tan x dx = \sec x + C$
+- $\int\csc x\cot xdx = -\csc x + C$
+- $\int\frac{1}{1+x^2}dx=\tan^{-1}x+C$
