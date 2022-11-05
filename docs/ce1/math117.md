@@ -528,3 +528,71 @@ Please see [SL Math - Analysis and Approaches 2#Integration](/g11/mhf4u7/#52-inc
 - $\int\sec x\tan x dx = \sec x + C$
 - $\int\csc x\cot xdx = -\csc x + C$
 - $\int\frac{1}{1+x^2}dx=\tan^{-1}x+C$
+- $\int\sec xdx = \ln|\sec x + \tan x| + C$
+- $\int\csc x dx = -\ln|\csc x + \cot x| + C$
+
+### Integration by parts
+
+IBP lets you replace an integration problem with a different, potentially easier one.
+
+$$
+\int u\ dv = uv-\int v\ du
+$$
+
+or, in function notation:
+
+$$
+\int u(x)v'(x)dx = u(x)v(x)-\int v(x)u'(x)dx
+$$
+
+Effectively, a product of two factors should be made simpler such that one is differentiable and the other is integratable. While there are integrals on both sides, the constant $C$ can be cancelled out for simplicity.
+
+Heuristics to be used:
+
+- $dv$ must be differentiable
+- $u$ should be simpler when differentiated
+- IBP might need to be used repeatedly
+- IBP and u-substitution might be needed together
+
+!!! example
+    To solve $\int xe^xdx$:
+    
+    Let $u=x$, $dv=e^xdx$:
+    
+    $\therefore du=dx, v=e^x + C$
+    
+    via IBP:
+    
+    $$
+    \begin{align*}
+    \int udv &= xe^x - \int e^xdx \\
+    &= xe^x-e^x + K
+    \end{align*}
+    $$
+
+Please see [SL Math - Analysis and Approaches 2#Area between two curves](/g11/mcv4u7/#area-between-two-curves) for more information.
+
+- A **Type 1** region is bounded by functions of $x$ — it's open-ended in the x-axis.
+- A **Type 2** region is bounded by functions of $y$, which can be solved by integrating $y$.
+- A **Type 3** region can be viewed as either Type 1 or 2.
+
+### Mean values
+
+
+The **mean value** of a continuous function $f(x)$ in $[a, b]$ is equal to:
+
+$$\text{m.v.} (f) = \frac{1}{b-a}\int_a^b f(x)dx$$
+
+The **root mean square** is equal to the square root of the mean value for each point:
+
+$$\text{r.m.s.} (f) = \sqrt{\frac{1}{b-a}\int_a^b f(x)^2dx}$$
+
+### Trigonometric substitution
+
+If $a\in\mathbb R$, functions of the form $\sqrt{x^2\pm a^2}$ or $\sqrt{a^2-x^2}$ can be rearranged in the form of a trig function.
+
+- In $\sqrt{x^2 + a^2} \rightarrow x=a\tan\theta$
+- In $\sqrt{x^2-a^2} \rightarrow x=a\sec\theta$
+- In $\sqrt{a^2-x^2} \rightarrow x=a\sin\theta$
+
+…which can be used to derive other trig identities to be integrated.
