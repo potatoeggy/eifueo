@@ -540,7 +540,7 @@ In order to determine the steady state for any stochastic cmatrix:
  - Solve the augmented matrix $(P-I)\vec s = 0$.
  - Deduce the probability vector $\vec s$.
 
-## Matrix equality
+### Matrix equality
 
 Matrices are only equal if *every* possible linear combination is equal ($A\vec{x} = B\vec{x}$ **does not mean** $A = B$).
 
@@ -551,6 +551,37 @@ $$
 A\vec{e}_i = \vec{a}_i, B\vec{e}_i = \vec{b}_i \\
 ∴ \vec{a}_i = \vec{b}_i\text{ for } i=1, ... n,\text{ thus } A=B.
 $$
+
+### Complex matrices
+
+The **conjugate** of a matrix is the conjugate of each of its elements.
+
+$$\overline A = [\overline a_{ij}]$$
+
+Conjugates are distributive, i.e. $\overline{A\vec z} = \overline A \ \overline{\vec{z}}$.
+
+### Matrix inversion
+
+The **unique** inverse matrix $A^{-1}$ of $A$ is such that $AA^{-1} = I = A^{-1}A$. Both matrices must be square for this to work and have ranks equal to that of their length.
+
+Properties of inverse matrices:
+
+- $(cA)^{-1} = \frac{1}{c}A^{-1}$
+- $(ABCD)^{-1} = A^{-1}B^{-1}C^{-1}D^{-1}$
+- $(A^k)^{-1} = (A^{-1})^k$ if $k>0$
+- $(A^T)^{-1} = (A^{-1})^T$
+
+To determine an inverse matrix, the augmented matrix of it and the identity matrix should be solved.
+
+$$\begin{bmatrix}A\ |\ I\end{bmatrix}$$
+
+If it is row reducible, it will form an identity matrix and the inverse on the other side.
+
+$$\begin{bmatrix}I\ |\ A^{-1}\end{bmatrix}$$
+
+If it is not row reducible or has free variables, it is not invertible.
+
+If a matrix is invertible, $A\vec x = \vec b$ is **guaranteed to have a unique solution** for any $\vec b$.
 
 ## Flow
 
@@ -563,4 +594,69 @@ In an electrical diagram, if a reference direction is selected, flow going oppos
 
 Matrices can be applied by applying the junction rule to systems with equal flow in and flow out for each of the **smaller systems** (i.e., not trying to meet every point)
 
+## Spanning sets
 
+The span of a finite set of vectors in $\mathbb R^n$ is the infinite set of all linear combinations of those vectors, such that **Span $B$ is spanned by $B$** and **$B$ is a spanning set for Span $B$**.
+
+The set $B=\{\vec v_1, \vec v_2, \vec v_3\}$ can be represented as matrix $A=[\vec v_1, \vec v_2, \vec v_3]$. A vector $\vec x$ is in Span $B$ if and only if $A\vec c = \vec x$ is consistent — which is to say that if it can be expressed as a linear combination, it is in the span.
+
+### Linear independence
+
+A set is:
+
+- linearly **dependent** if at least one non-zero linear combination of the set is equal to $\vec 0$.
+- linearly **independent** if the only solution is setting all coefficients to zero.
+
+Effectively, if there is at least one vector in the set that is a linear combination of the other elements, it is redundant and thus the set is **linearly dependent.**
+
+This can be solved by testing if there are no free variables in the homogeneous system — the vector that is free is the dependent one.
+
+!!! warning
+    - Any set with the zero vector will be an linearly **dependent** set.
+    - The empty set is linearly **independent**.
+
+Subsets can be proven to be dependent via contradiction.
+
+!!! example
+    To prove $\{\vec v_1 ... \vec v_{k-1}\}$ is LI given $\{\vec v_1 ... \vec v_k\}$ is LI, assume that the former is LD, which results in the latter being LD, which cannot be true, therefore the proof holds.
+
+## Subspaces
+
+A subset $\mathbb S$ of $\mathbb R^n$ is a subspace of $\mathbb R^n$ if and only if:
+
+- all $\vec x + \vec y \in\mathbb S$
+- $\vec 0\in\mathbb S$
+- for all $c\in\mathbb R, c\vec x\in\mathbb R$
+
+### Bases
+
+A **basis** $B$ of subspace $\mathbb S$ is a set that is **linearly independent** such that the span of $B$ is equal to the subspace. All elements in that subspace must have a unique linear combination of the elements in $B$.
+
+The basis of $\mathbb R^n$ contains exactly $n$ elements, and all bases have the same number of elements.
+
+The **standard basis** for $\mathbb R^n$ is the set of identity matrix columns.
+
+Therefore, a spanning set is only a basis under the following conditions:
+
+- it is linear independent
+- it has the same number of elements as a basis
+
+### Dimensions
+
+The dimension of a subspace $\text{dim}(\mathbb S)$ is equal to the number of elements in any of its bases.
+
+### Other spaces
+
+The **null space** of a matrix is the set of all elements that solve the homogeneous system $A\vec x = \vec 0$.
+
+$$\text{Null}(A) = \{\vec x\in\mathbb R^n | A\vec x = \vec 0\}$$
+
+The **column space** of a matrix is the set of all linear combinations of its columns.
+
+$$\text{Col}(A) = \{A\vec x |\vec x\in\mathbb R^n \} = \text{Span}\{\vec a_1, \vec a_2, ..., \vec a_n\}$$
+
+The **row space** of a matrix is the set of all linear combinations of its rows.
+
+$$\text{Row}(A) = \{A^t\vec x\mathbb R^n\} = \text{Span}\{\vec r_1, \vec r_2, ..., \vec r_m\}$$
+
+Two row spaces are equal if and only if they can be manipulated into each other via elementary row operations. This indicates that systems to the homogeneous system for one apply to the other as well.
