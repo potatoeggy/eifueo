@@ -415,6 +415,7 @@ Properties of transposed matrices:
 - $A^T\in M_{n\times m}(\mathbb R)$
 - $(A^T)^T = A$
 - $(A+B)^T=A^T+B^T$
+- $(AB)^T = B^TA^T$
 
 ### Matrix multiplication
 
