@@ -631,7 +631,7 @@ A subset $\mathbb S$ of $\mathbb R^n$ is a subspace of $\mathbb R^n$ if and only
 
 ### Bases
 
-A **basis** $B$ of subspace $\mathbb S$ is a set that is **linearly independent** such that the span of $B$ is equal to the subspace. All elements in that subspace must have a unique linear combination of the elements in $B$.
+A **basis** $B$ of subspace $\mathbb S$ is a set that is **linearly independent** such that the span of $B$ is equal to the subspace. All elements in that subspace must have a unique linear combination of the elements in $B$, such that the rank of a matrix from the basis is always the number of vectors.
 
 The basis of $\mathbb R^n$ contains exactly $n$ elements, and all bases have the same number of elements.
 
@@ -652,12 +652,115 @@ The **null space** of a matrix is the set of all elements that solve the homogen
 
 $$\text{Null}(A) = \{\vec x\in\mathbb R^n | A\vec x = \vec 0\}$$
 
-The **column space** of a matrix is the set of all linear combinations of its columns.
+Its dimension is equal to the number of free vectors in RREF.
+
+The **column space** of a matrix is the set of all linear combinations of its columns, which can be found by taking a linearly independent subset of the matrix (non-free vectors in RREF).
 
 $$\text{Col}(A) = \{A\vec x |\vec x\in\mathbb R^n \} = \text{Span}\{\vec a_1, \vec a_2, ..., \vec a_n\}$$
 
-The **row space** of a matrix is the set of all linear combinations of its rows.
+Its dimension is equal to the rank of the matrix.
 
-$$\text{Row}(A) = \{A^t\vec x\mathbb R^n\} = \text{Span}\{\vec r_1, \vec r_2, ..., \vec r_m\}$$
+The **row space** of a matrix is the set of all linear combinations of its rows, which can be found by taking each row, excluding free vectors, from RREF.
+
+$$\text{Row}(A) = \{A^t\vec x | \vec x\in\mathbb R^n\} = \text{Span}\{\vec r_1, \vec r_2, ..., \vec r_m\}$$
+
+Its dimension is equal to the rank of the matrix.
 
 Two row spaces are equal if and only if they can be manipulated into each other via elementary row operations. This indicates that systems to the homogeneous system for one apply to the other as well.
+
+## Vector spaces
+
+A vector space over $\mathbb R$ is a set defined by the linear combination of two or more vectors.
+
+In a vector space, the following properties mmust be true:
+
+- $0\vec x=\vec 0$
+- $-\vec x = (-1)\vec x$
+
+Rules regarding dimensions, bases, subspaces, sets, and spanning sets all apply to vector spaces.
+
+The **standard basis** for the vector space $M_{2\times2}(\mathbb R)$ is:
+
+$$
+\left\{
+\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}
+,
+\begin{bmatrix}
+0 & 1 \\
+0 & 0
+\end{bmatrix},
+\begin{bmatrix}
+0 & 0 \\
+1 & 0
+\end{bmatrix}
+,
+\begin{bmatrix}
+0 & 0 \\
+0 & 1
+\end{bmatrix}
+\right\}
+$$
+
+The **vector space over $\mathbb C$** can have complex scalars but is otherwise the same as a vector space over $\mathbb R$.
+
+### Polynomial vector spaces
+
+$P_n(\mathbb R)$ is the set of all possible real polynomials with a degree less than or equal to $n$.
+
+$$P_n(\mathbb R) = \{ a_0 + a_1x + ... + a_nx^n | a\in\mathbb R \}$$
+
+The zero polynomial is in all polynomials and is equal to zero with all coefficients set to zero.
+
+For each $n\in\mathbb Z\geq 0$, $p_n(\mathbb R)$ is a vector space within addition and scalar multiplication.
+
+The standard basis for $p$ is equal to all coefficients set to 1, and its dimension is equal to its degree plus 1.
+
+$$\text{dim}(P_n(\mathbb R) = n+1$$
+
+
+### Matrix transformations
+
+!!! definition
+    - The **codomain** of a function is the set of all possible values in that axis / dimension.
+    - The **range** of a function is the set of all possible values returnable by the function.
+
+A matrix transformation function $f_A$ **maps** a vector $x$ to its matrix-vector product $A\vec x$ from $\mathbb R^m$ to $\mathbb R^n$.
+
+The matrix transformation function for matrix $A$ $f_A$ is directly equivalent to the matrix-vector product.
+
+$$f_A(x)=A(x)$$
+
+!!! example
+    $$
+    f_A(1,2,3) = A
+    \begin{bmatrix}
+    1 \\ 2 \\ 3
+    \end{bmatrix}
+    $$
+
+Matrix transformation properties:
+
+- $f_A(\vec x + \vec y) = f_A(\vec x) + f_A(\vec y)$
+- $f_A(c\vec x) = cf_A(\vec x)$
+
+A matrix transformation function can be restored to its original vector by substituting in the standard basis as parameters.
+
+$$A=[f_A(\vec e_1), f_A(\vec e_2), ..., f_A(\vec e_n)]$$
+
+### Linear transformations
+
+A matrix transformation function $L: \mathbb R^n \rightarrow \mathbb R^m$ is a linear transformation if and only if for all:
+
+$$L(s\vec x + t\vec y) = sL(\vec x) + tL(\vec y)$$
+
+A linear transformation is a line that passes through the origin. If the transformation does not change the dimension of the vector, the function is a **linear operator**. Matrix transformation **preserve** linear combinations — that is, every matrix transformation is a linear transformation.
+
+Its standard matrix is equal to the original vector (found by substituting the identity matrix).
+
+For all linear transformations:
+
+- $L(\vec 0_n) = \vec 0_m$
+- $L(-\vec x) = -L(\vec x)$
