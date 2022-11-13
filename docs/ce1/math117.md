@@ -576,6 +576,8 @@ Please see [SL Math - Analysis and Approaches 2#Area between two curves](/g11/mc
 - A **Type 2** region is bounded by functions of $y$, which can be solved by integrating $y$.
 - A **Type 3** region can be viewed as either Type 1 or 2.
 
+Substituting $u=\cos\theta$, $du=-\sin\theta d\theta$ is common.
+
 ### Mean values
 
 
@@ -596,3 +598,46 @@ If $a\in\mathbb R$, functions of the form $\sqrt{x^2\pm a^2}$ or $\sqrt{a^2-x^2}
 - In $\sqrt{a^2-x^2} \rightarrow x=a\sin\theta$
 
 …which can be used to derive other trig identities to be integrated.
+
+### Rational integrals
+
+All integrals of rational functions are expressible as more rational functions, ln, and arctan.
+
+Partial fraction decomposition is useful here.
+
+$$\int \frac{1}{x^2+a^2}dx=\frac{1}{a}tan^{-1}\left(\frac{x}{a}\right)+C$$
+
+## Summary of all integration rules
+
+- $\int x^n\ dx = \frac{1}{n+1}x^{n+1} + C,n\neq -1$
+- $\int \frac{1}{x}dx = \ln|x| + C$
+- $\int e^x\ dx = e^x + C$
+- $\int a^x\ dx = \frac{1}{\ln a} a^x + C$
+- $\int\cos x\ dx = \sin x + C$
+- $\int\sin x\ dx = -\cos x + C$
+- $\int\sec^2 x\ dx = \tan x + C$
+- $\int\csc^2 x\ dx = -\cot x + C$
+- $\int\sec x\tan x\ dx = \sec x + C$
+- $\int\csc x\cot x\ dx = -\csc x + C$
+- $\int\text{cosh}\ x\ dx = \text{sinh}\ x + C$
+- $\int\text{sinh}\ x\ dx = \text{cosh}\ x + C$
+- $\int\text{sech}^2\ x\ dx = \text{tanh}\ x + C$
+- $\int\text{sech}\ x\text{tanh}\ x\ dx = \text{sech}\ x + C$
+- $\int\frac{1}{1+x^2}dx=\tan^{-1}x+C$
+- $\int\frac{1}{a^2+x^2}dx=\frac{1}{a}\tan^{-1}\left(\frac{x}{a}\right)+C$
+- $\int\frac{1}{\sqrt{1-x^2}}dx=\sin^{-1}x+C$
+- $\int\frac{1}{x\sqrt{x^2-1}}dx=\sec^{-1}x+C$
+- $\int\sec x\ dx = \ln|\sec x+\tan x|+C$
+- $\int\csc x\ dx = -\ln|\csc x + \cot x|+C$
+
+## Applications of integration
+
+The length of a curve over a given interval is equal to:
+
+$$L=\int^b_a\sqrt{1+\left(\frac{dy}{dx}\right)^2\ dx}$$
+
+For curves bounded by functions of $y$:
+
+$$L(y)=\int^b_a\sqrt{1+\left(\frac{dx}{dy}\right)^2\ dy}$$
+
+### Solids of revolution
