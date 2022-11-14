@@ -660,7 +660,7 @@ $$\text{Col}(A) = \{A\vec x |\vec x\in\mathbb R^n \} = \text{Span}\{\vec a_1, \v
 
 Its dimension is equal to the rank of the matrix.
 
-The **row space** of a matrix is the set of all linear combinations of its rows, which can be found by taking each row, excluding free vectors, from RREF.
+The **row space** of a matrix is the set of all linear combinations of its rows, which can be found by taking each non-zero row from RREF.
 
 $$\text{Row}(A) = \{A^t\vec x | \vec x\in\mathbb R^n\} = \text{Span}\{\vec r_1, \vec r_2, ..., \vec r_m\}$$
 
