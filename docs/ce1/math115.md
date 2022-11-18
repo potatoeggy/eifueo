@@ -654,7 +654,7 @@ $$\text{Null}(A) = \{\vec x\in\mathbb R^n | A\vec x = \vec 0\}$$
 
 Its dimension is equal to the number of free vectors in RREF.
 
-The **column space** of a matrix is the set of all linear combinations of its columns, which can be found by taking a linearly independent subset of the matrix (non-free vectors in RREF).
+The **column space** of a matrix is the set of all linear combinations of its columns, which can be found by taking a linearly independent subset of the matrix (the **original vectors** of the non-free vectors in RREF).
 
 $$\text{Col}(A) = \{A\vec x |\vec x\in\mathbb R^n \} = \text{Span}\{\vec a_1, \vec a_2, ..., \vec a_n\}$$
 
