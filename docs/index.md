@@ -14,7 +14,7 @@ If you would like to contribute by submitting fixes, requesting pages, and/or co
 
 ## Source
 
-The source for Eifueo is available [here](https://git.eggworld.tk/eggy/eifueo).
+The source for Eifueo is available [here](https://git.eggworld.me/eggy/eifueo).
 
 ## Acknowledgements
 

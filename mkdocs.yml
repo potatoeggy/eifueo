@@ -2,8 +2,8 @@ site_name: Eifueo
 site_description: "A collection of personal notes throughout school"
 site_author: "Daniel Chen"
 copyright: "Text licensed under the GNU General Public License, version 3"
-site_url: "https://eifueo.eggworld.tk"
-repo_url: "https://git.eggworld.tk/eggy/eifueo"
+site_url: "https://eifueo.eggworld.me"
+repo_url: "https://git.eggworld.me/eggy/eifueo"
 repo_name: Gitea
 nav:
   - Home: index.md
