@@ -642,6 +642,30 @@ $$L(y)=\int^b_a\sqrt{1+\left(\frac{dx}{dy}\right)^2\ dy}$$
 
 ### Solids of revolution
 
+Please see [SL Math - Analysis and Approaches 2#Volumes of solids of revolution](/g11/mcv4u7/#volumes-of-solids-of-revolution) for more information.
+
+The **parallel axis theorem can be used** to shift the axis of the solid to $y=k$:
+
+$$V=\pi\int^b_a [f(x)^2 + 2kf(x)]\ dx$$
+
+Around the vertical axis about the origin with a function that is bounded by $y$:
+
+$$V=\int^b_a2\pixf(x)\ dx$$
+
+Around the vertical axis about the origin with functions bounded by $x$:
+
+$$V=\int^b_a2\pi(x-k)[f(x)-g(x)]\ dx$$
+
+The **frustrum** is the sesction bounded by two parallel plates.
+
+The surface area of the solids are as follows:
+
+$$SA=\int^b_a2\pi f(x)\sqrt{1+f'(x)^2}\ dx$$
+
+Around the vertical axis about the origin:
+
+$$SA=\int^b_a2\pi x\sqrt{1+f'(x)^2}\ dx$$
+
 ### Improper integrals
 
 An improper integral is a definite integral where only one bound is defined:
