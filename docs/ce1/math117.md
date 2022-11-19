@@ -641,3 +641,63 @@ For curves bounded by functions of $y$:
 $$L(y)=\int^b_a\sqrt{1+\left(\frac{dx}{dy}\right)^2\ dy}$$
 
 ### Solids of revolution
+
+### Improper integrals
+
+An improper integral is a definite integral where only one bound is defined:
+
+!!! example
+    $\int_2^\infty$ or $\int_a^b$, where only $a$ is defined.
+
+These can be expanded into limits:
+
+$$\int_a^\infty f(x)\ dx = \lim_{t\to\infty}\int_a^t f(x)\ dx$$
+
+The integral converges to a value if the limit exists.
+
+$$\int_{-\infty}^a f(x)\ dx = \lim_{t\to-\infty}\int^a_tf(x)\ dx$$
+
+Discontinuities can be simply dodged. If there is a discontinuity:
+
+- at $b$: $\int_a^{b^-}f(x)\ dx$
+- at $a$: $\int_{a^+}^b f(x)\ dx$
+- at $a<c<b$: $\int_a^cf(x)\ dx + \int_c^bf(x)\ dx$
+
+Limits to both infinities must be broken up because they may not approach them at the same rate.
+
+$$\int^\infty_{-\infty}x\ dx = \int^0_{-\infty} x\ dx + \int^\infty_0 x\ dx$$
+
+## Polar form
+
+Please see [MATH 115: Linear Algebra#Polar form](/ce1/math115/#polar-form) for more information.
+
+Instead of $r$ and $\theta$, engineers use $\rho$ and $\phi$.
+
+For $\rho \geq 0$, these basic conversions go between the two forms:
+
+- $x=\rho\cos\phi$
+- $y=\rho\sin\phi$
+- $\phi=\sqrt{x^2+y^2}$
+- $\phi=\tan^{-1}\left(\frac{y}{x}\right) + 2k\pi,k\in\mathbb Z$
+
+Polar form allows for simpler representations such as $x^2+y^2=4 \iff \rho=2$
+
+Functions are described in the form $\rho=f(\phi)$, such as $\rho=\sin\phi+2$.
+
+### Area under curves
+
+From the axis to the curve:
+
+$$A=\int^\beta_\alpha\frac{1}{2}[f(\phi)]^2\ d\phi$$
+
+Between two curves:
+
+$$A=\int^\beta_\alpha\frac{1}{2}[f(\phi)^2-g(\phi)^2]\ d\phi$$
+
+Arc length:
+
+$$L=\int^\beta_\alpha\sqrt{f'(\phi)^2 + f(\phi)^2}\ d\phi = \int^\beta_\alpha\sqrt{\left(\frac{d\rho}{d\phi}\right)^2+\rho^2}\ d\phi$$
+
+## Complex numbers
+
+Please see [MATH 115: Linear Algebra#Complex Numbers](/ce1/math115/#complex-numbers) for more information.
