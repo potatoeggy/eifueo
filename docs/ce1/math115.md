@@ -748,7 +748,7 @@ Matrix transformation properties:
 
 A matrix transformation function can be restored to its original vector by substituting in the standard basis as parameters.
 
-$$A=[f_A(\vec e_1), f_A(\vec e_2), ..., f_A(\vec e_n)]$$
+$$[L]=[L(\vec e_1), L(\vec e_2), ..., L(\vec e_n)]$$
 
 ### Linear transformations
 
@@ -764,3 +764,153 @@ For all linear transformations:
 
 - $L(\vec 0_n) = \vec 0_m$
 - $L(-\vec x) = -L(\vec x)$
+
+Linear combinations **preserve linear combinations**, so a linear transformation of a subspace can be found if the linear transformations of the basis are known.
+
+### Reflections
+
+Around a direction vector $\vec d$ through the origin, a linear transformation can reflect about it, similar to a reflection across $y=x$.
+
+$$
+\begin{align*}
+L&: \mathbb R^2 \longrightarrow \mathbb R^2 \\
+&\vec x \longmapsto 2\ \text{proj}_{\vec{d}}\ \vec x-\vec x \\
+&\vec x \longmapsto \vec x - 2\ \text{perp}_{\vec{d}}\ \vec x
+\end{align*}
+$$
+
+In $\mathbb R^3$, it is reflected across a plane, and the normal vector $\vec n$ can be used as the direction vector.
+
+$$
+\begin{align*}
+L&: \mathbb R^3 \longrightarrow \mathbb R^3 \\
+&\vec x\longmapsto \vec x - 2\ \text{proj}_{\vec n}\ \vec x
+\end{align*}
+$$
+
+### Rotations
+
+Where $R_\theta:\mathbb R^2 \longrightarrow \mathbb R^3$ is a **counterclockwise** rotation about the origin by $\theta$, $r$ is the **norm** of the vector, and $\phi$ is the original angle to the x-axis:
+
+$$
+R_\theta(\vec x) = \begin{bmatrix}
+r\cos(\theta + \phi) \\
+r\sin(\theta + \phi)
+\end{bmatrix}
+$$
+
+This effectively transforms the matrix to:
+
+$$
+R_\theta(\vec x) = \begin{bmatrix}
+\cos\theta & -\sin\theta \\
+\sin\theta & \cos\theta
+\end{bmatrix}\vec x
+$$
+
+The inverse angle is just the matrix transpose.
+
+### Stretches and compressions
+
+$$
+Ax=\begin{bmatrix}
+t & 0 \\
+0 & 1
+\end{bmatrix}
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+
+If $t>1$, $L(\vec x)$ is a **stretch** in the $x_2$ direction. Otherwise, it is a **compression** in that direction.
+
+$$
+Ax=\begin{bmatrix}
+t & 0 \\
+0 & t
+\end{bmatrix}
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+
+If $t>1$, $L(\vec x)$ is a **dilation** (stretch in both directions). Otherwise, it is a **contraction**.
+
+$$
+Ax=\begin{bmatrix}
+1 & s \\
+0 & 1
+\end{bmatrix}
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+
+If $s > 1$, $L(\vec x)$ is a **rightward shear**, bending a square into a right-facing parallelogram. Otherwise, if $0 < s < 1$, it **shears left**.
+
+For all linear and matrix transformations:
+
+- $L=M \iff L(\vec x)$ always is equal to $M(\vec x)$
+- $(L+M)\mathbb R^n\to\mathbb R^m: [L] + [M]$
+- $[cL] = c[L]$
+
+In $L: \mathbb R^n\to\mathbb R^m, M:\mathbb R^m\to\mathbb R^p$:
+
+- $[M\circ L]=[M][L]$ or $M(L(\vec x)) = [M][L]\vec x$
+
+## Determinants and adjugates
+
+$$A(\text{adj}\ A)=(\det A)I=(\text{adj}\ A)A$$
+
+The determinant does a lot of magic things and is commonly used in the cross product.
+
+$$
+\det A = \begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix} = ad-bc
+$$
+
+The inverse can be quickly found if and only if the determinant of the original matrix is **non-zero**:
+
+$$A^{-1}=\frac{1}{\det A}(\text{adj}\ A)$$
+
+The mini-matrix $A(i,j)$ is equal to the matrix created by removing the $i$th row and $j$th column.
+
+The $(i,j)$th cofactor of $A$ is related to its one-indexed determinant, and its sign is determined by its position:
+
+$$c_{i,j}=\det(A(i,j))(-1)^{i+j}$$
+
+The determinant of an arbitrarily sized matrix can be found by recursively applying these formulae — for any row or column, the cofactor expansion along the $i$th row or $j$th column of $A$ can find the determinant:
+
+$$\det A=a_{i1}c_{i1}+a_{i2}c_{i2} ...$$
+
+The **adjugate matrix** is equal to the transpose of the **cofactor matrix**:
+
+$$\text{adj}\ A=[c_{ij}]^T\text{ for all }i,j$$
+
+Determining cofactors is easier with more zeroes in the matrix, so reducing a matrix to RREF via EROs and **switching columns** is simpler.
+
+- If there is row or column of zeros, $\det A = 0$
+- If $B=A$ with exactly one pair of swapped rows, $\det B = -\det A$
+- If $B=A$ by adding multiples of rows or columns to each other, $\det B = \det A$
+- If $B=A$ with exactly one row or column a scalar multiple $c$ of $A$, $\det B = c\det A$
+
+Properties;
+
+- $\det(AB)=\det(A)\det(B)$
+- $\det(BA)=\det(AB)$
+- $\det(A+B)\neq\det(A)+\det(B)$
+- $\det(cA)=c^n\det(A)$
+- $\det(A^{-1})=\frac{1}{\det A}$
+- $\det A^T = \det A$
+
+### Triangular matrices
+
+A triangular matrix is in REF or REF transposed.
+
+If $A$ is an upper triangular matrix, it is in REF and all entries below the main diagonal are zero, and $\det A$ is equal to the sum of all entries along the main diagonal.
+
