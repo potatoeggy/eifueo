@@ -725,3 +725,30 @@ $$L=\int^\beta_\alpha\sqrt{f'(\phi)^2 + f(\phi)^2}\ d\phi = \int^\beta_\alpha\sq
 ## Complex numbers
 
 Please see [MATH 115: Linear Algebra#Complex Numbers](/ce1/math115/#complex-numbers) for more information.
+
+### Impedance
+
+Where $\~i$ is a complex number representing the current of a circuit:
+
+$$\~i(t)=I\cdot Im(e^{j\omega t})$$
+
+This can be related to Ohm's law, because $v(t)=IR\sin(\omega t)$ such that $\~v=IRe^{j\omega t}$:
+
+$$\~v=R\~i$$
+
+In fact, t
+
+$$
+\~v=Z\~i,\text{ where } Z=\begin{cases}
+\begin{align*}
+&R &\text{ for resistors} \\
+&\frac{1}{j\omega C} &\text{ for capacitors} \\
+&j\omega L &\text{ for inductors}
+\end{align*}
+\end{cases}
+$$
+
+Impedance has similar properties to resistance.
+
+- In series: $Z = Z_1 + Z_2 + Z_3 ...$
+- In parallel: $\frac{1}{Z} = \frac{1}{Z_1} + \frac{1}{Z_2} + \frac{1}{Z_3} ...$
