@@ -914,3 +914,87 @@ A triangular matrix is in REF or REF transposed.
 
 If $A$ is an upper triangular matrix, it is in REF and all entries below the main diagonal are zero, and $\det A$ is equal to the sum of all entries along the main diagonal.
 
+### Polynomial interpolation
+
+Given $n$ points distinct in its domain, a polynomial with a degree of $n-1$ can always be found by substituting in the $x$ and $y$ values for each point to form the following **Vandermonde matrix** used in the matrix-vector product:
+
+$$
+\begin{bmatrix}x_{0}^{n}&x_{0}^{n-1}&x_{0}^{n-2}&\ldots &x_{0}&1\\x_{1}^{n}&x_{1}^{n-1}&x_{1}^{n-2}&\ldots &x_{1}&1\\\vdots &\vdots &\vdots &&\vdots &\vdots \\x_{n}^{n}&x_{n}^{n-1}&x_{n}^{n-2}&\ldots &x_{n}&1\end{bmatrix}
+\begin{bmatrix}a_{n}\\a_{n-1}\\\vdots \\a_{0}\end{bmatrix}
+=\begin{bmatrix}y_{0}\\y_{1}\\\vdots \\y_{n}\end{bmatrix}
+$$
+
+The determinant of the Vandermonde matrix can be determined by taking the product of the different between every entry. If any entry is equal to another entry, the determinant must be zero.
+
+$$\det V = \prod_{1\leq i\leq j\leq h}(x_j-x_i)$$
+
+## Eigens
+
+If $A\vec x = \lambda\vec x$ for some $\vec x$ while $\lambda\in\mathbb R,A\in M_{n\times m}(\mathbb R)$:
+
+- $\lambda$ is an **eigenvalue** of $A$, and
+- $\vec x$ is an **eigenvector** of $A$ corresponding to $\lambda$.
+
+Only non-zero eigenvectors should be found unless otherwise specified since any eigenvalue would work for that.
+
+To solve for eigenvectors, the system below should be solved.
+
+$$(A-\lambda I)\vec x=\vec 0$$
+
+The determinant of the system can be used to check if there will be any eigenvectors.
+
+- If $\det(A-\lambda I)=0$, there is exactly one solution which is the trivial solution, so $\lambda$ is **not an eigenvalue**.
+- If $\det(A-\lambda I)\neq 0$, there are multiple solutions, so $\lambda$ is an eigenvalue.
+
+The **characteristic polynomial** of an eigenvalue is equal to its determinant, and can be used to solve for eigenvalues when $\lambda$ is unknown.
+
+$$C_A(\lambda) = \det(A-\lambda I)$$
+
+Any complex values result in complex eigenvalues, and any complex eigenvalues guarantees the existence of another eigenvalue equal to the **conjugate** of the eigenvalue with corresponding vectors equal to the **conjugate** of the original corresponding vector.
+
+If the system is any triangular matrix, the eigenvalues are equal to the main diagonal.
+
+!!! warn
+    When solving eigenvectors in the form $\vec x=t(x_0, x_1, x_2)$, $t\in\mathbb R, t\neq 0$ must be specified.
+
+An **eigenspace** is the vector space of eigenvectors for a given eigenvalue:
+
+$$E_\lambda(A)=\text{Null}(A-\lambda I)$$
+
+The dimension of the eigenspace is guaranteed to be less than or equal to the number of times the eigenvalue appears in the characteristic polynomial.
+
+By default, a square matrix of size $n$ has degree $n$.
+
+The **algebraic multiplicity** $a_\lambda$ is the number of times $\lambda$ appears as a root of $C_A(\vec x)$.
+
+The **geometric multiplicity** $g_\lambda$ is the dimension of eigenspace $E_\lambda(A)$.
+
+It is guaranteed that, for all eigenvalues:
+
+$$1\leq g_\lambda\leq a_\lambda\leq n$$
+
+### Diagonal matrices
+
+A **diagonal matrix** has every entry equal to zero except for the main diagonal (which *may* be equal to zero).
+
+$$D=\text{diag}(d_{11}, d_{22}, ..., d_{nn})$$
+
+For two diagonal matrixes $D$ and $E$:
+
+- $D+E=\text{diag}(d_{11}+e_{11}, d_{22}+e_{22}, ...)$
+- $DE=\text{diag}(d_{11}e_{11}, d_{22}e_{22}, ...)$
+
+An $n\times n$ matrix $A$ is **diagonalisable** if and only if there is an invertible matrix $P$ and diagonal matrix $D$ with the same size such that:
+
+$P_{-1}AP=D$$
+
+The matrix $P$ **diagonalises** $A$ to $D$, and neither of the two are unique.
+
+If $A$ is diagonalisable, $D$ is the matrix of all eigenvalues, and $P$ is the matrix of all eigenvectors, such that the column of the eigenvalue in $D$ corresponds to the column of the eigenvector in $P$.
+
+If $B_i$ is a basis for the $i$th eigenspace for $A$, $B=B_1\cup B_2\cup ... B_k$, which is linearly **independent**.
+
+The matrix $A$ is diagonalisable **if and only if** there is a basis for $\mathbb R^n$ consisting of eigenvectors of $A$. Therefore:
+
+- A matrix is diagonalisable if and only if $a_\lambda=g_\lambda$ for every eigenvalue of $A$
+- If an $n\times n$ matrix $A$ has exactly $n$ distinct eigenvalues, $A$ is diagonalisable
