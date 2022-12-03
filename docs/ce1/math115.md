@@ -986,7 +986,7 @@ For two diagonal matrixes $D$ and $E$:
 
 An $n\times n$ matrix $A$ is **diagonalisable** if and only if there is an invertible matrix $P$ and diagonal matrix $D$ with the same size such that:
 
-$P_{-1}AP=D$$
+$P^{-1}AP=D$
 
 The matrix $P$ **diagonalises** $A$ to $D$, and neither of the two are unique.
 
@@ -998,3 +998,79 @@ The matrix $A$ is diagonalisable **if and only if** there is a basis for $\mathb
 
 - A matrix is diagonalisable if and only if $a_\lambda=g_\lambda$ for every eigenvalue of $A$
 - If an $n\times n$ matrix $A$ has exactly $n$ distinct eigenvalues, $A$ is diagonalisable
+
+It's easy to calculate the powers of a diagonalisable matrix:
+
+$$A^k=PD^kP^{-1}$$
+
+### Traces
+
+The trace of a matrix is the sum of the main diagonal.
+
+$$\text{tr } A=\sum^n_{i=1}A_{(ii)}$$
+
+Alternatively, where $c$ is the number of times an eigenvalue $\lambda$ appears:
+
+$$\text{tr } A=\sum c\lambda$$
+
+This results in the trace equal to the product of each eigenvector as they appear in the main diagonal.
+
+$$\text{tr } A=\sum^n_{i=1}x_ia_{x_i}$$
+
+### Orthogonality
+
+!!! definition
+    - An **orthogonal basis** is an orthogonal set that is a basis.
+    - An **orthonormal set** contains only orthogonal vectors that have a norm of 1.
+
+A subspace is **orthogonal** if and only if each vector in their bases are all orthogonal to each vector in the other subspace's basis.
+
+An **orthonormal basis** makes it easy to solve for linear combinations, as the coefficient to that vector is equal to the dot product between the solution vector and the basis vector:
+
+$$c_1\vec v_1 + c_2\vec v_2 = \vec x, c_1=\vec v_1\bullet\vec x, c_2=\vec v_2\bullet\vec x$$
+
+They can be derived via the **Gram-Schmidt process**:
+
+where $\vec x$ is the normalised vector and $\vec v$ is the original, each vector is orthonormalised to one by taking its projection to every other orthonormalised vector before it:
+
+$$
+\begin{align*}
+\vec x_1&=\vec v_1 \\
+\vec x_2&=\vec v_2-\text{proj}_{\vec x_1}\vec v_2 \\
+\vec x_3&=\vec v_3 - \text{proj}_{\vec x_1}\vec v_3-\text{proj}_{\vec x_2}\vec v_3 \\
+\vec x_k&=\vec v_k-\sum_{j=1}^{k-1}\text{proj}_{\vec x_j}\vec v_k
+\end{align*}
+$$
+
+A set is **orthogonal** if and only if each vector is orthogonal to every other.
+
+$$\vec v_i\bullet\vec v_j=0,i\neq j$$
+
+An orthogonal set with only **non-zero vectors** is linearly independent.
+
+An **orthonormal matrix** has its inverse equal to its transpose:
+
+$$P^TP=I$$
+
+which has the unique property that the rows of $P$ and columns of $P$ are each an orthonormal basis for $\mathbb R^n$.
+
+To orthogonally diagonalise a matrix, the orthogonal basis should be diagonalised.
+
+1. Calculate eigenspaces
+2. Calculate bases for each eigenspace
+3. Do not use Gram-Schmidt in eigenspaces because that changes the direction, making it no longer an eigenspace
+4. If all eigenspaces are orthogonal to each other, diagonalise
+
+### Symmetric matrices
+
+Because magic:
+
+$$\vec x\bullet(A\vec y)=(A\vec x)\bullet\vec y$$
+
+This allows the conversion of the dot product to a matrix multiplication:
+
+$$\vec x\bullet(A\vec y)=\vec x^T(A\vec y)$$
+
+If a matrix is symmetric and has at least two distinct eigenvalues, their eigenspaces are orthogonal to each other, so long:
+
+$$\vec x_1\in E_{\lambda_1}(A)\bullet\vec x_2\in E_{\lambda_2}(A)=0$$
