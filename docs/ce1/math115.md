@@ -943,8 +943,8 @@ $$(A-\lambda I)\vec x=\vec 0$$
 
 The determinant of the system can be used to check if there will be any eigenvectors.
 
-- If $\det(A-\lambda I)=0$, there is exactly one solution which is the trivial solution, so $\lambda$ is **not an eigenvalue**.
-- If $\det(A-\lambda I)\neq 0$, there are multiple solutions, so $\lambda$ is an eigenvalue.
+- If $\det(A-\lambda I)=0$, there is exactly one solution which is the trivial solution, so $\lambda$ is **an eigenvalue**.
+- If $\det(A-\lambda I)\neq 0$, there are multiple solutions, so $\lambda$ is **not** an eigenvalue.
 
 The **characteristic polynomial** of an eigenvalue is equal to its determinant, and can be used to solve for eigenvalues when $\lambda$ is unknown.
 
