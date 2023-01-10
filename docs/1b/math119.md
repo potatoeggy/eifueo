@@ -21,5 +21,5 @@ $$f: \mathbb R^n \to \mathbb R$$
     - A **level curve** is a slice of a three-dimensional graph by setting to a general variable $f(x, y)=k$. It is effectively a series of contour plots set in a three-dimensional plane.
     - A **contour plot** is a graph obtained by substituting a constant for $k$ in a level curve.
 
-Please see [level set](https://en.wikipedia.org/wiki/Level_set) and [contour line](https://en.wikipedia.org/wiki/Contour_line) for example images.f
+Please see [level set](https://en.wikipedia.org/wiki/Level_set) and [contour line](https://en.wikipedia.org/wiki/Contour_line) for example images.
 
