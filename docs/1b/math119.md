@@ -23,3 +23,14 @@ $$f: \mathbb R^n \to \mathbb R$$
 
 Please see [level set](https://en.wikipedia.org/wiki/Level_set) and [contour line](https://en.wikipedia.org/wiki/Contour_line) for example images.
 
+In order to create a sketch for a multivariable function, this site does not have enough pictures so you should watch a YouTube video.
+
+!!! example
+    For the function $z=x^2+y^2$:
+    
+    For each $x, y, z$:
+    
+    - Set $k$ equal to the variable and substitute it into the equation
+    - Sketch a two-dimensional graph with constant values of $k$ (e.g., $k=-2, -1, 0, 1, 2$) using the other two variables as axes
+    
+    Combine the three **contour plots** in a three-dimensional plane to form the full sketch.
