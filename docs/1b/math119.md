@@ -34,3 +34,33 @@ In order to create a sketch for a multivariable function, this site does not hav
     - Sketch a two-dimensional graph with constant values of $k$ (e.g., $k=-2, -1, 0, 1, 2$) using the other two variables as axes
     
     Combine the three **contour plots** in a three-dimensional plane to form the full sketch.
+
+A **hyperbola** is formed when the difference between two points is constant. Where $r$ is the x-intercept:
+
+$$x^2-y^2=r^2$$
+
+<img src="/resources/images/hyperbola.svg" width=600 />
+
+If $r^2$ is negative, the hyperbola is is bounded by functions of $x$, instead.
+
+## Limits of two-variable functions
+
+A function is continuous at $(x, y)$ if and only if all possible lines through $(x, y)$ have the same limit. Or, where $L$ is a constant:
+
+$$\text{continuous}\iff \lim_{(x, y)\to(x_0, y_0)}f(x, y) = L$$
+
+In practice, this means that if any two paths result in different limits, the limit is undefined. Substituting $x|y=0$ or $y=mx$ or $x=my$ are common solutions.
+
+!!! example
+    For the function $\lim_{(x, y)\to (0,0)}\frac{x^2}{x^2+y^2}$:
+    
+    Along $y=0$:
+    
+    $$\lim_{(x,0)\to(0, 0) ... = 1$$
+    
+    Along $x=0$:
+    
+    $$\lim_{(0, y)\to(0, 0)} ... = 0$$
+    
+    Therefore the limit does not exist.
+
