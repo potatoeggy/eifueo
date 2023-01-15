@@ -56,7 +56,7 @@ In practice, this means that if any two paths result in different limits, the li
     
     Along $y=0$:
     
-    $$\lim_{(x,0)\to(0, 0) ... = 1$$
+    $$\lim_{(x,0)\to(0, 0)} ... = 1$$
     
     Along $x=0$:
     
