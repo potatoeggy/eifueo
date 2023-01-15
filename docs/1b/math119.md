@@ -64,3 +64,47 @@ In practice, this means that if any two paths result in different limits, the li
     
     Therefore the limit does not exist.
 
+## Partial derivatives
+
+Partial derivatives have multiple different symbols that all mean the same thing:
+
+$$\frac{\partial f}{\partial x}=\partial_x f=f_x$$
+
+For two-input-variable equations, setting one of the input variables to a constant will return the derivative of the slice at that constant.
+
+By definition, the **partial** derivative of $f$ with respect to $x$ (in the x-direction) at point $(a, B)$ is:
+
+$$\frac{\partial f}{\partial x}(a, B)=\lim_{h\to 0}\frac{f(a+h, B)-f(a, B)}{h}$$
+
+Effectively:
+
+ - if finding $f_x$, $y$ should be treated as constant.
+ - if finding $f_y$, $x$ should be treated as constant.
+
+!!! example
+    With the function $f(x,y)=x^2\sqrt{y}+\cos\pi y$:
+    
+    \begin{align*}
+    f_x(1,1)&=\lim_{h\to 0}\frac{f(1+h,1)-f(1,1)} h \\
+    \tag*{$f(1,1)=1+\cos\pi=0$}&=\lim_{h\to 0}\frac{(1+h)^2-1} h \\
+    &=\lim_{h\to 0}\frac{h^2+2h} h \\
+    &= 2 \\
+    \end{align*}
+
+### Higher order derivatives
+
+!!! definition
+    - **wrt.** is short for "with respect to".
+
+$$\frac{\partial^2f}{\partial x^2}=\partial_{xx}f=f_{xx}$$
+
+Derivatives of different variables can be combined:
+
+$$f_{xy}=\frac{\partial}{\partial y}\frac{\partial f}{\partial x}=\frac{\partial^2 f}{\partial xy}$$
+
+The order of the variables matter: $f_{xy}$ is the derivative of f wrt. x *and then* wrt. y.
+
+**Clairaut's theorem** states that if $f_x, f_y$, and $f_{xy}$ all exist near $(a, b)$ and $f_{yx}$ is continuous **at** $(a,b)$, $f_{yx}(a,b)=f_{x,y}(a,b)$ and exists.
+
+!!! warning
+    In multivariable calculus, **differentiability does not imply continuity**.
