@@ -108,3 +108,60 @@ The order of the variables matter: $f_{xy}$ is the derivative of f wrt. x *and t
 
 !!! warning
     In multivariable calculus, **differentiability does not imply continuity**.
+
+### Linear approximations
+
+A **tangent plane** represents all possible partial derivatives at a point of a function.
+
+For two-dimensional functions, the differential could be used to extrapolate points ahead or behind a point on a curve.
+
+$$
+\Delta f=f'(a)\Delta d \\
+\boxed{y=f(a)+f'(a)(x-a)}
+$$
+
+The equations of the two unit direction vectors in $x$ and $y$ can be used to find the normal of the tangent plane:
+
+$$
+\vec n=\vec d_1\times\vec d_2 \\
+\begin{bmatrix}-f_x(a,b) \\ -f_y(a,b) \\ 1\end{bmatrix} = \begin{bmatrix}1\\0\\f_x(a,b)\end{bmatrix}
+\begin{bmatrix}0\\1\\f_y(a,b)\end{bmatrix}
+$$
+
+Therefore, the general expression of a plane is equivalent to:
+
+$$
+z=C+A(x-a)+B(x-b) \\
+\boxed{z=f(a,b)+f_x(a,b)(x-a)+f_y(a,b)(y-b)}
+$$
+
+??? tip "Proof"
+    The general formula for a plane is $c_1(x-a)+c_2(y-b)+c_3(z-c)=0$.
+    
+    If $y$ is constant such that $y=b$:
+    
+    $$z=C+A(x-a)$$
+    
+    which must represent in the x-direction as an equation in the form $y=b+mx$. It follows that $A=f_x(a,b)$. A similar concept exists for $f_y(a,b)$.
+    
+    If both $x=a$ and $y=b$ are constant:
+    
+    $$z=C$$
+    
+    where $C$ must be the $z$-point.
+
+Usually, functions can be approximated via the **tangent at $x=a$.**
+
+$$f(x)\simeq L(x)$$
+
+!!! warning
+    Approximations are less accurate the stronger the curve and the farther the point is away from $f(a,b)$. A greater $|f''(a)|$ indicates a stronger curve.
+
+
+!!! example
+    Given the function $f(x,y)=\ln(\sqrt[3]{x}+\sqrt[4]{y}-1)$, $f(1.03, 0.98)$ can be linearly approximated.
+    
+    $$
+    L(x=1.03, y=0.98)=f(1,1)=f_x(1,1)(x-1)+f_y(1,1)(y-1) \\
+    f(1.03,0.98)\simeq L(1.03,0.98)=0.005
+    $$
