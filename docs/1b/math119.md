@@ -165,3 +165,54 @@ $$f(x)\simeq L(x)$$
     L(x=1.03, y=0.98)=f(1,1)=f_x(1,1)(x-1)+f_y(1,1)(y-1) \\
     f(1.03,0.98)\simeq L(1.03,0.98)=0.005
     $$
+
+### Differentials
+
+Linear approximations can be used with the help of differentials. Please see [MATH 117#Differentials](/1a/math117/#differentials) for more information.
+
+$\Delta f$ can be assumed to be equivalent to $df$.
+
+$$\Delta f=f_x(a,b)\Delta x+f_y(a,b)\Delta y$$
+
+Alternatively, it can be expanded in Leibniz notation in the form of a **total differential**:
+
+$$df=\frac{\partial f}{\partial x}dx+\frac{\partial f}{\partial y}dy$$
+
+??? tip "Proof"
+    The general formula for a plane in three dimensions can be expressed as a tangent plane if the differential is small enough:
+    
+    $$f(x,y)=f(a,b)+f_x(a,b)(x-a)+f_y(a,b)(x-b)$$
+    
+    As $\Delta f=f(x,y)-f(a,b)$, $\Delta x=x-a$, and $\Delta y=y-b$, it can be assumed that $\Delta x=dx,\Delta y=dy, \Delta f\simeq df$.
+    
+    $$\boxed{\Delta f\simeq df=f_x(a,b)dx+f_y(a,b)dy}$$
+
+### Related rates
+
+Please see [SL Math - Analysis and Approaches 1](/g11/mhf4u7/#related-rates) for more information.
+
+!!! example
+    For the gas law $pV=nRT$, if $T$ increases by 1% and $V$ increases by 3%:
+    
+    \begin{align*}
+    pV&=nRT \\
+    \ln p&=\ln nR + \ln T - \ln V \\
+    \tag{multiply both sides by $d$}\frac{d}{dp}\ln p(dp)&=0 + \frac{d}{dT}\ln T(dt)-\frac{d}{dV}\ln V(dV) \\
+    \frac{dp}{p} &=\frac{dT}{T}-\frac{dV}{V} \\
+    &=0.01-0.03 \\
+    &=-2\%
+    \end{align*}
+
+### Parametric curves
+
+Because of the existence of the parameter $t$, these expressions have some advantages over scalar equations:
+
+- the direction of $x$ and $y$ can be determined as $t$ increases, and
+- the rate of change of $x$ and $y$ relative to $t$ as well as each other is clearer
+
+$$
+\begin{align*}
+f(x,y,z)&=\begin{bmatrix}x(t) \\ y(t) \\ z(t)\end{bmatrix} \\
+&=(x(t), y(t), z(t))
+\end{align*}
+$$
