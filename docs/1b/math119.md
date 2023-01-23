@@ -216,3 +216,31 @@ f(x,y,z)&=\begin{bmatrix}x(t) \\ y(t) \\ z(t)\end{bmatrix} \\
 &=(x(t), y(t), z(t))
 \end{align*}
 $$
+
+The **derivative** of a parametric function is equal to the vector sum of the derivative of its components:
+
+$$\frac{df}{dt}=\sqrt{\left(\frac{dx}{dt}\right)^2+\left(\frac{dy}{dt}\right)^2+\left(\frac{dz}{dt}\right)^2}$$
+
+Sometimes, the **chain rule for multivariable functions** creates a new branch in a tree for each independent variable.
+
+For two-variable functions, if $z=f(x,y)$:
+
+$$\frac{dz}{dt}=\frac{\partial z}{\partial x}\frac{dx}{dt}+\frac{\partial z}{\partial y}\frac{dy}{dt}$$
+
+Sample tree diagram:
+
+<img src="/resources/images/two-var-tree.jpg" width=300>(Source: LibreTexts)</img>
+
+!!! example
+    This can be extended for multiple functions — for the function $z=f(x,y)$, where $x=g(u,v)$ and $y=h(u,v)$:
+    
+    <img src="/resources/images/many-var-tree.jpg" width=300>(Source: LibreTexts)</img>
+    
+    Determining the partial derivatives with respect to $u$ or $v$ can be done by only following the branches that end with those terms.
+    
+    $$
+    \frac{\partial z}{\partial u} = \frac{\partial z}{\partial x}\frac{\partial x}{\partial u} + \frac{\partial z}{\partial y}\frac{\partial y}{\partial u} \\
+    $$
+
+!!! warning
+    If the function only depends on one variable, $\frac{d}{dx}$ is used. Multivariable functions must use $\frac{\partial}{\partial x}$ to treat the other variables as constant.
