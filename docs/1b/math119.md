@@ -274,3 +274,17 @@ Cartesian and polar coordinates can be easily converted between:
 - $x=r\sin\theta\cos\phi$
 - $y=r\sin\theta\sin\phi$
 - $z=r\cos\theta$
+
+## Optimisation
+
+**Local maxima / minima** exist at points where all points in a disk-like area around it do not pass that point. Practically, they must have $\nabla f=0$.
+
+**Critical points** are any point at which $\nabla f=0|undef$. A critical point that is not a local extrema is a **saddle point**.
+
+Local maxima tend to be **concave down** while local minima are **concave up**. This can be determined via the second derivative test. For the critical point $P_0$ of $f(x,y)$:
+
+1. Calculate $D(x,y)= f_{xx}f_{yy}-(f_{xy})^2$
+2. If it greater than zero, the point is an extremum
+    a. If $f_{xx}(P_0)<0$, the point is a maximum — otherwise it is a minimum
+3. If it is less than zero, it is a saddle point — otherwise the test is inconclusive and you must use your eyeballs
+
