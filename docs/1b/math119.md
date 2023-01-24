@@ -244,4 +244,33 @@ Sample tree diagram:
 
 !!! warning
     If the function only depends on one variable, $\frac{d}{dx}$ is used. Multivariable functions must use $\frac{\partial}{\partial x}$ to treat the other variables as constant.
-    
+
+### Gradient vectors
+
+The **gradient vector** is the vector of the partial derivatives of a function with respect to its independent variables. For $f(x,y)$:
+
+$$\nabla f=\left(\frac{\partial f}{\partial x},\frac{\partial f}{\partial y}\right)$$
+
+This allows for the the following replacements to appear more like single-variable calculus. Where $\vec r=(x,y)$ is a desired point, $\vec a=(a,b)$ is the initial point, and all vector multiplications are dot products:
+
+Linear approximations are simplified to:
+
+$$f(\vec r)=f(\vec a)+\nabla f(\vec a)\bullet(\vec r-\vec a)$$
+
+The chain rule is also simplified to:
+
+$$\frac{dz}{dt}=\nabla f(\vec r(t))\bullet\vec r'(t)$$
+
+A **directional derivative** is any of the infinite derivatives at a certain point with the length of a unit vector. Specifically, in the unit vector direction $\vec u$ at point $\vec a=(a,b)$:
+
+$$D_{\vec u}f(a_b)=\lim_{h\to 0}\frac{f(\vec a+h\vec u)\bullet f(\vec a)}{h}$$
+
+This reduces down by taking only $h$ as variable to:
+
+$$D_{\vec u}f(a,b)=\nabla f(a,b)\bullet\vec u$$
+
+Cartesian and polar coordinates can be easily converted between:
+
+- $x=r\sin\theta\cos\phi$
+- $y=r\sin\theta\sin\phi$
+- $z=r\cos\theta$
