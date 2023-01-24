@@ -244,3 +244,4 @@ Sample tree diagram:
 
 !!! warning
     If the function only depends on one variable, $\frac{d}{dx}$ is used. Multivariable functions must use $\frac{\partial}{\partial x}$ to treat the other variables as constant.
+    
