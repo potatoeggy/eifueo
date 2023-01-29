@@ -288,3 +288,37 @@ Local maxima tend to be **concave down** while local minima are **concave up**. 
     a. If $f_{xx}(P_0)<0$, the point is a maximum — otherwise it is a minimum
 3. If it is less than zero, it is a saddle point — otherwise the test is inconclusive and you must use your eyeballs
 
+### Optimisation with constraints
+
+If there is a limitation in optimising for $f(x,y)$ in the form $g(x,y)=K$, new critical points can be found by setting them equal to each other, where $\lambda$ is the **Lagrange multiplier** that determines the rate of increase of $f$ with respect to $g$:
+
+$$\nabla f = \lambda\nabla g, g(x,y)=K$$
+
+If possible, $\nabla g=\vec 0, g(x,y)=K$ should also be tested.
+
+!!! example
+    If $A(x,y)=xy$, $g(x,y)=K: x+2y=400$, and $A(x,y)$ should be maximised:
+    
+    
+    \begin{align*}
+    \nabla f &= (y, x) \\
+    \nabla g &= (1, 2) \\
+    (y, x) &= \lambda (1, 2) \\
+    \begin{cases}
+    y &= \lambda \\
+    x &= 2\lambda \\
+    x + 2y &= 400 \\
+    \end{cases}
+    \\
+    \\
+    \therefore y=100,x=200,A=20\ 000
+    \end{align*}
+
+This applies equally to higher dimensions and constraints by adding a new term for each constraint. Given $f(x,y,z)$ with constraints $g(x,y,z)=K$ and $h(x,y,z)=M$:
+
+$$\nabla f=\lambda_1\nabla g + \lambda_2\nabla h$$
+
+### Absolute extrema
+
+- If end points exist, those should be added
+- If no endpoints exist and the limits go to $\pm\infty$, there are no absolute extrema
