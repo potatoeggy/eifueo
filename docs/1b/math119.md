@@ -304,14 +304,14 @@ The largest/smallest values of $f(x,y)$ from the critical points return the maxi
     \nabla f &= \left<y, x\right> \\
     \nabla g &= \left<1, 2\right> \\
     \left<y, x\right> &= \lambda \left<1, 2\right> \\
-    \begin{cases}
+    &\begin{cases}
     y &= \lambda \\
     x &= 2\lambda \\
     x + 2y &= 400 \\
     \end{cases}
     \\
     \\
-    \therefore y=100,x=200,A=20\ 000
+    \therefore y&=100,x=200,A=20\ 000
     \end{align*}
 
 ??? example
