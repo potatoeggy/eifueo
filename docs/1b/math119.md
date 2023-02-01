@@ -294,16 +294,16 @@ If there is a limitation in optimising for $f(x,y)$ in the form $g(x,y)=K$, new 
 
 $$\nabla f = \lambda\nabla g, g(x,y)=K$$
 
-If possible, $\nabla g=\vec 0, g(x,y)=K$ should also be tested.
+The largest/smallest values of $f(x,y)$ from the critical points return the maxima/minima. If possible, $\nabla g=\vec 0, g(x,y)=K$ should also be tested **afterward**.
 
 !!! example
     If $A(x,y)=xy$, $g(x,y)=K: x+2y=400$, and $A(x,y)$ should be maximised:
     
     
     \begin{align*}
-    \nabla f &= (y, x) \\
-    \nabla g &= (1, 2) \\
-    (y, x) &= \lambda (1, 2) \\
+    \nabla f &= \left<y, x\right> \\
+    \nabla g &= \left<1, 2\right> \\
+    \left<y, x\right> &= \lambda \left<1, 2\right> \\
     \begin{cases}
     y &= \lambda \\
     x &= 2\lambda \\
@@ -313,6 +313,56 @@ If possible, $\nabla g=\vec 0, g(x,y)=K$ should also be tested.
     \\
     \therefore y=100,x=200,A=20\ 000
     \end{align*}
+
+??? example
+    If $f(x,y)=y^2-x^2$ and the constraint $\frac{x^2}{4} + y^2=1$ must be satisfied:
+    
+    \begin{align*}
+    \nabla f &=\left<-2x, 2y\right> \\
+    \nabla g &=\left<\frac{1}{2} x,2y\right> \\
+    \tag{$\left<0,0\right>$ does not satisfy constraints} \left<-2x,2y\right>&=\lambda\left<-\frac 1 2 x,2y\right> \\
+    &\begin{cases}
+    -2x &= \frac 1 2\lambda x \\
+    2y &= \lambda2y \\
+    \frac{x^2}{4} + y^2&= 1
+    \end{cases} \\
+    \\
+    2y(1-\lambda)&=0\implies y=0,\lambda=1 \\
+    &\begin{cases}
+    y=0&\implies x=\pm 2\implies\left<\pm2, 0\right> \\
+    \lambda=1&\implies \left<0,\pm 1\right>
+    \end{cases}
+    \\
+    \tag{by substitution} \max&=(2,0), (-2, 0) \\
+    \min&=(0, -1), (0, 1)
+    \end{align*}
+
+??? example
+    If $f(x, y)=x^2+xy+y^2$ and the constraint $x^2+y^2=4$ must be satisfied:
+    
+    \begin{align*}
+    \tag{domain: bounded at $-2\leq x\leq 2$}y=\pm\sqrt{4-x^2} \\
+    f(x,\pm\sqrt{4-x^2}) &= x^2+(\pm\sqrt{4-x^2})x + 4-x^2 \\
+    \frac{df}{dx} &=\pm(\sqrt{4-x^2}-\frac{1}{2}\frac{1}{\sqrt{4-x^2}}2x(x)) \\
+    \tag{$f'(x)=0$} 0 &=4-x^2-x^2 \\
+    x &=\pm\sqrt{2} \\
+    \\
+    2+y^2 &= 4 \\
+    y &=\pm\sqrt{2} \\
+    \therefore f(x,y) &= 2, 6
+    \end{align*}
+    
+    Alternatively, trigonometric substitution may be used to solve the system parametrically.
+    
+    \begin{align*}
+    x^2+y^2&=4\implies &x=2\cos t \\
+    & &y=2\sin t \\
+    \therefore f(x,y) &= 4+2\sin(2t),0\leq t\leq 2\pi \\
+    \tag{include endpoints $0,2\pi$}t &= \frac\pi 4,\frac{3\pi}{4},\frac{5\pi}{4} \\
+    \end{align*}
+
+!!! warning
+    Terms cannot be directly cancelled out in case they are zero.
 
 This applies equally to higher dimensions and constraints by adding a new term for each constraint. Given $f(x,y,z)$ with constraints $g(x,y,z)=K$ and $h(x,y,z)=M$:
 
