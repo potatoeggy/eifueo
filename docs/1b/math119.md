@@ -372,3 +372,53 @@ $$\nabla f=\lambda_1\nabla g + \lambda_2\nabla h$$
 
 - If end points exist, those should be added
 - If no endpoints exist and the limits go to $\pm\infty$, there are no absolute extrema
+
+## Double integration
+
+In a nutshell, double integration is done by taking infinitely small lines then finding the area under those lines to form a volume.
+
+For a surface formed by vectors $[a,b]$ and $[c,d]$:
+
+$$[a,b]\times[c,d]=R=\{(x,y)|a\leq x\leq b,c\leq y\leq d\}$$
+
+If the function is continuous and bounds do not depend on variables, the order of integration doesn't matter.
+
+$$\boxed{\int^d_c\int^b_af(x,y)dxdy}$$
+
+!!! example
+    For $f(x,y)=x^2y$ and $R=[0,3]\times[1,2]$:
+    
+    \begin{align*}
+    V&=\int^2_1\int^3_0x^2ydxdy \\
+    &=\int^2_1\left[\frac 1 3 3^3y\right]dy \\
+    &=\frac{9}{2}y^2\biggr|^2_1 \\
+    &=\frac 9 2 (4)-\frac 9 2 \\
+    &=\frac{27}{2}
+    \end{align*}
+
+If the function is the product of two functions of separate variables, i.e., if $f(x,y)=g(x)\cdot h(y)$:
+
+$$\int^b_a\int^d_cg(x)h(y)dxdy=\left(\int^b_ah(y)dy\right)\left(\int^d_cg(x)dx\right)$$
+
+### Volume betweeen two functions
+
+The result of the bound variable should be integrated first. For functions of $y$:
+
+$$\int^b_a\left(\int^{g(x)}_{h(x)}f(x,y)dy\right)dx$$
+
+Functions can also be replaced to be bounded by the other if necessary.
+
+!!! example
+    For $f(x,y)$ bounded by $y=x$ and $y=\sqrt x$:
+    
+    $$\int^1_0\int^{\sqrt x}_xf(x,y)dydx = \int^1_0\left(\int^y_{y^2}f(x,y)dx\right)dy$$
+
+??? example
+    For $f(x,y)=xy$ bounded by $x=2$, $y=0$, and $y=2x$:
+    
+    \begin{align*}
+    \int^2_0\int^{2x}_0xy\ dydx&=\int^2_0x\left(\frac 1 2(2x)^2\right)dx \\
+    &=\int^2_02x^3dx \\
+    &=\frac 1 4 x^4(2)\biggr|^2_0 \\
+    &= 8
+    \end{align*}
