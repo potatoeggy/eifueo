@@ -422,3 +422,13 @@ Functions can also be replaced to be bounded by the other if necessary.
     &=\frac 1 4 x^4(2)\biggr|^2_0 \\
     &= 8
     \end{align*}
+
+### Double polar integrals
+
+The differential elements can be directly replaced:
+
+$$dA=dxdy=\rho d\rho d\phi$$
+
+In general, the radius should be the inner integral, and functions converted from Cartesian to polar forms.
+
+$$\int^{\phi_2}_{\phi_1}\int^{\rho_2}_{\rho_1}f(\rho\cos\phi,\rho\sin\phi)\rho d\rho d\phi$$
