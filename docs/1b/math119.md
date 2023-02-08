@@ -432,3 +432,51 @@ $$dA=dxdy=\rho d\rho d\phi$$
 In general, the radius should be the inner integral, and functions converted from Cartesian to polar forms.
 
 $$\int^{\phi_2}_{\phi_1}\int^{\rho_2}_{\rho_1}f(\rho\cos\phi,\rho\sin\phi)\rho d\rho d\phi$$
+
+### Change of variables
+
+The **Jacobian** is the proportion of change in the differentials between different coordinate systems.
+
+$$
+\frac{\partial(x,y)}{\partial(u, v)}=\det\begin{bmatrix}
+\partial x / \partial u & \partial x / \partial v \\
+\partial y / \partial u & \partial y / \partial v
+\end{bmatrix}
+$$
+
+The Jacobian can be treated as a fraction — it may be easier to determine the reciprocal of the Jacobian and then reciprocal it again.
+
+When converting between two systems, the absolute value of the Jacobian should be incorporated.
+
+$$dA=\left|\frac{\partial(x,y)}{\partial(u,v)}\right|du\ dv$$
+
+!!! example
+    The Jacobian of the polar coordinate system relative to the Cartesian coordinate system is $\rho$. Therefore, $dA=\rho\ d\rho\ d\phi$.
+
+If $x=x(u,v)$, $y=y(u,v)$, and $\partial(x,y)/\partial(u,v)\neq 0$ in the domain of $u$ and $v$ $D_{uv}$:
+
+$$\iint_{D_{xy}}f(x,y)dA = \iint_{D_{uv}}f(x(u,v),y(u,v))\left|\frac{\partial(x,y)}{\partial(u,v)}\right|du\ dv$$
+
+1. Pick a good transformation that simplifies the domain and/or the function.
+2. Compute the Jacobian
+3. Determine bounds (domain)
+4. Integrate with the formula
+
+If the Jacobian contains $x$ and/or $y$ terms:
+
+- they can be substituted into the integral directly, praying that the terms all cancel out
+- or $x$ and $y$ can be written in terms of $u$ and $v$ and then all substituted
+
+### Applications of multiple integrals
+
+The area enclosed within bounds $R$ is the volume with a height of 1.
+
+$$A_R=\iint_R 1\ dA$$
+
+The average value of the function $f(x,y)$ over a region $R$, where $A_R$ is the area of the region:
+
+$$\overline{f}_R=\frac{1}{A_R}\iint_Rf(x,y) dA$$
+
+The total "amount" of within a region, if $f(x,y)$ describes the density at point $(x,y)$:
+
+$$\iint_R f(x,y)dA$$
