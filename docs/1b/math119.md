@@ -467,16 +467,97 @@ If the Jacobian contains $x$ and/or $y$ terms:
 - they can be substituted into the integral directly, praying that the terms all cancel out
 - or $x$ and $y$ can be written in terms of $u$ and $v$ and then all substituted
 
+!!! example
+    For the volume within $x^2y^2\sqrt{1-x^3-y^3}$ bounded by $x=0,y=0,x^3+y^3=1$:
+    
+    By graphical inspection, the bounds can be determined to be $x=0,y=0, y^3=x^3-1,x=1$.
+    
+    Let $u=x^3,du=3x^2dx$. Let $v=y^3,dv=3y^2dy$. The bounds change to $0\leq u\leq 1,0\leq v\leq 1-u$.
+    
+    \begin{align*}
+    \int^1_0\int^{1-u}_0\frac 1 9\sqrt{1-u-v}\ dudv &= \int^1_0\frac{2}{27}(1-v-u)^{3/2}\biggr|^{1-u}_0du \\
+    &= \int^1_0\frac{2}{27}(1-u)^{3/2}du \\
+    &= \frac{4}{135}(1-u)^{5/2}\biggr|^1_0 \\
+    &= \frac{4}{135}
+    \end{align*}
+
 ### Applications of multiple integrals
 
 The area enclosed within bounds $R$ is the volume with a height of 1.
 
 $$A_R=\iint_R 1\ dA$$
 
+!!! example
+    For the area between $y=(x-1)^2$ and $y=5-(x-2)^2$:
+    
+    POI: $x^2-3x=0,\therefore x=0, 3$
+    
+    
+    \begin{align*}
+    \int^3_0\int^{5-(x-2)^2}_{(x-1)^2}dydx &=\int^3_0(5-(x-2)^2-(x-1)^2)dx \\
+    &=\int^3_0(-2x^2+6x)dx \\
+    &=-\frac 2 3x^3+3x^2\biggr|^3_0 \\
+    &=9
+    \end{align*}
+
+!!! example
+    For the area of $\left(\frac x a\right)^2+\left(\frac y b\right)^2=1$ in the region $a,b>0$:
+    
+    **For ellipses of this form, a direct substitution to $a\rho\cos\phi$ and $b\rho\cos\phi$ is fastest.**
+    
+    Let $u=\frac x a$ and $v=\frac y b$.
+    
+    $$
+    \frac{\partial(x,y)}{\partial(u,v)}=\det\begin{bmatrix}
+    a & 0 \\
+    0 & b
+    \end{bmatrix}=ab
+    $$
+    
+    Thus $A=\iint_Rab\ du\ dv$.
+    
+    Let $u=\rho\cos\phi,v=\rho\sin\phi$. Radius is 1 by inspection.
+    
+    \begin{align*}
+    A&=\int^{2\pi}_0\int^1_0ab\rho\ d\rho\ d\phi \\
+    &=\int^{2\pi}\frac 1 2 ab\ d\phi \\
+    &=\frac 1 2 ab\phi\biggr|^{2\pi}_0 \\
+    &=\pi ab
+    \end{align*}
+
 The average value of the function $f(x,y)$ over a region $R$, where $A_R$ is the area of the region:
 
 $$\overline{f}_R=\frac{1}{A_R}\iint_Rf(x,y) dA$$
 
+!!! example
+    The average value of $x^2+y^2$ over $x=0,x=1, y=x$:
+    
+    \begin{align*}
+    \text{avg}&=\frac 1 A\int^1_0\int^x_0(x^2+y^2)dydx \\
+    &=2\int^1_0(x^2y+\frac 1 3y^3)\biggr|^x_0dx \\
+    &=2\int^1_0\frac 4 3 x^3dx \\
+    &=\frac 2 3 x^4 \biggr|^1_0 \\
+    &=\frac 2 3
+    \end{align*}
+
 The total "amount" of within a region, if $f(x,y)$ describes the density at point $(x,y)$:
 
 $$\iint_R f(x,y)dA$$
+
+!!! example
+    The total of $x^2+y^2$ with density $\sigma=\sqrt{1-x^2-y^2}$:
+    
+    Let $x^2=\rho\cos\phi,y^2=\rho\sin\phi$. Thus $\sigma=\sqrt{1-\rho^2}$.
+    
+    \begin{align*}
+    M&=\int^{2\pi}_0\int^1_0\sqrt{1-\rho^2}\rho\ d\rho\ d\phi \\
+    &=\int^{2\pi}_0d\phi\int^1_0\sqrt{1-\rho^2}\ d\rho\ d\phi \\
+    \end{align*}
+    
+    Let $u=1-\rho^2$. Thus $du=-2\rho\ d\rho$.
+    
+    \begin{align*}
+    m&=2\pi\int^1_0-\frac 1 2\sqrt u du \\
+    &=\frac 2 3u^{3/2}du\biggr|^1_0 \\
+    &=\frac 2 3\pi
+    \end{align*}
