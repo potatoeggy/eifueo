@@ -561,3 +561,31 @@ $$\iint_R f(x,y)dA$$
     &=\frac 2 3u^{3/2}du\biggr|^1_0 \\
     &=\frac 2 3\pi
     \end{align*}
+
+## Triple integration
+
+Much like double integrals:
+
+The **volume** within bounds $E$ is the integral of 1:
+
+$$V=\iiint_E1dV$$
+
+The **average value** within a volume is:
+
+$$\overline f_E=\frac 1 V\iiint_Ef(x,y,z)dV$$
+
+!!! example
+    For the volume within $x+y+z=1$ and $2x+2y+z=2,x,y,z\geq 0$:
+    
+    The points intersect the axes and each other to create the bounds $0\leq x\leq 1,0\leq y\leq 1-x,1-x-y\leq z\leq 2-2x-2y$.
+    
+    $$\int^1_0\int^{1-x}_0\int^{2-2x-2y}_{1-x-y}1dz\ dy\ dx =\frac 1 6$$
+    
+    The average value is:
+    
+    $$6\iiint_Ez\ dV=\frac 3 4$$
+
+The **total quantity** if $f$ represents density is:
+
+$$T=\iiint_Ef(x,y,z)dV$$
+
