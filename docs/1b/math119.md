@@ -589,3 +589,49 @@ The **total quantity** if $f$ represents density is:
 
 $$T=\iiint_Ef(x,y,z)dV$$
 
+### Cylindrical coordinates
+
+Cylindrical coordinates are effectively polar coordinates with a height.
+
+$$
+x=\rho\cos\phi \\
+y=\rho\sin\phi \\
+z=z
+$$
+
+$$
+\rho=\sqrt{x^2+y^2} \\
+\tan\phi=\frac y x
+$$
+
+The Jacobian is still $\rho$.
+
+!!! example
+    For the volume under $z=9-x^2-y^2$, outside $x^2+y^2=1$, and above the $xy$ plane:
+    
+    - $0\leq z\leq 9-x^2-y^2\implies 0\leq z\leq 9-\rho^2$
+    - $1\leq \rho\leq 3$
+    - $0\leq \phi\leq 2\pi$
+    
+    $$
+    \int^3_1\int^{2\pi}_0\int^{9-\rho^2}_0\rho\ dz\ d\rho\ d\phi =32\pi
+    $$
+
+### Spherical coordinates
+
+Where $r$ is the direct distance from the point to the origin, $\phi$ is the angle to the x-axis in the xy-plane ($[0,2\pi]$), and $\theta$ is the angle to the z-axis, top to bottom ($[0,\pi]$):
+
+$$
+z=r\cos\theta \\
+x=r\sin\theta\cos\phi \\
+y=r\sin\theta\sin\phi
+$$
+
+The Jacobian is $r^2\sin\theta$.
+
+!!! example
+    The mass inside the sphere $x^2+y^2+z^2=9$ with density $z=\sqrt{\frac{x^2+y^2}{3}}$:
+    
+    It is clear that $\tan\theta=\sqrt 3\implies\theta=\frac\pi 3,r=3$. Thus:
+    
+    $$\int^3_0\int^{\pi/3}_0,\int^{2\pi}_0 \frac{\rho}{\sqrt{3}}\rho\ d\phi\ d\theta\ d\rho=\frac{243\pi}{5}$$
