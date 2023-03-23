@@ -708,3 +708,45 @@ An approximation correct to $n$ decimal places requires that $|R_n(x)|<10^{-n}$.
 The upper and lower bounds of a Taylor polynomial are clearly $P(x)\pm R(x)$. Integrating them separately reveals creates bounds for the integral.
 
 $$\int P(x)dx-\int R(x)dx\leq\int P(x)\leq\int P(x)dx +\int R(x)dx$$
+
+## Infinite series
+
+The $n$th partial sum of a sequence is used to determine divergence.
+
+$$S_n=\sum^n_{k=0}a_k=a_0 + a_1 ... a_n$$
+
+A sum converges to $S$ if the sum eventually ends up there. Otherwise, if the limit is infinity or does not exist, it diverges.
+
+$$\lim_{x\to\infty}S_n=S\implies\sum^\infty_{n=0}a_n=S$$
+
+### Divergence test
+
+By the divergence test, if the limit of each term never reaches zero, the sum diverges.
+
+$$\lim_{x\to\infty}a_n\neq 0\implies\sum^\infty_{n=0}a_n\text{ diverges}$$
+
+### Geometric series
+
+The $n$th partial sum of a geometric series $ar^n$ is equal to:
+
+$$S_n=\frac{a(1-r)^{n+1}}{1-r}$$
+
+To simply test for convergence:
+
+- If $|r|<1$, $S_n\to\frac{a}{1-r}$.
+- Otherwise, it diverges by the test for divergence.
+
+### Integral test
+
+If $f(x)$ is **continuous**, **decreasing**, and **positive** on some $[a,\infty)$:
+
+$$\int^\infty_af(x)dx\text{ converges}\iff\sum^\infty_{k=a}f(k)\text{ converges$$
+
+### p-series test
+
+For all $p\in\mathbb R$, a series of the form
+
+$$\sum^\infty_{n=1}\frac{1}{n^p}$$
+
+converges if and only if $p>1$.
+
