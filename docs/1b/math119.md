@@ -635,3 +635,76 @@ The Jacobian is $r^2\sin\theta$.
     It is clear that $\tan\theta=\sqrt 3\implies\theta=\frac\pi 3,r=3$. Thus:
     
     $$\int^3_0\int^{\pi/3}_0,\int^{2\pi}_0 \frac{\rho}{\sqrt{3}}\rho\ d\phi\ d\theta\ d\rho=\frac{243\pi}{5}$$
+
+## Approximation and interpolation
+
+Each of these finds roots, so a rooted equation is needed.
+
+!!! example
+    To find an $x$ where $x=\sqrt 5$, the root of $x^2-5=0$ should be found.
+
+### Bisection
+
+1. Select two points that are guaranteed to enclose the point
+2. Select an arbitrary $x$ and check if it is greater than or less than zero
+3. Slice the remaining section in half in the correct direction
+
+### Newton's method
+
+The below formula can be repeated after plugging in an arbitrary value.
+
+$$x_1=x_0-\frac{f(x_0)}{f'(x_0}$$
+
+!!! warning
+    If Newton's method converges to the wrong root, bisection is necessary to brute force the result.
+    
+### Polynomial interpolation
+
+Where $\Delta^k y_0$ are the $k$th differences between the $y$ points:
+
+$$f(x)=y_0+x\Delta y_0+x(x-1)\frac{\Delta^2y_0}{2!}+x(x-1)(x-2)\frac{\Delta^3 y_0}{3!} ...$$
+
+### Taylor polynomials
+
+The $n$th order Taylor polynomial centred at $x_0$ is:
+
+$$\boxed{P_{n,x_0}(x)=\sum^n_{k=0}\frac{f^{(k)}(x_0)(x-x_0)^k}{k!}}$$
+
+**Maclaurin's theorem** states that if some function $P^{(k)}(x_0)=f^{(k)}(x_0)$ for all $k=0,...n$:
+
+$$P(x)=P_{n,x_0}(x)$$
+
+!!! example
+    If $P(x)=1+x^3+\frac{x^6}{2}$ and $f(x)=e^{x^5}}$, ... TODO
+
+The desired function $P(x)$ being the $n$th degree Maclaurin polynomial implies that $P(kx^m)$ is the $(mn)$th degree polynomial for $f(kx^m)$.
+
+Therefore, if you have the Maclaurin polynomial $P(x)$ where $P$ is the $n$th order Taylor polynomial:
+
+- $P'(x)=P_{n-1,x_0}(x)$ for $f'(x)$
+- $\int P(x)dx=P_{n+1,x_0}(x)$ for $\int f(x)dx$
+
+The integration constant $C$ can be found by substituting $x_0$ as $x$ and solving.
+
+For $m\in\mathbb Z\geq 0$, where $P(x)$ is the Maclaurin polynomial for $f(x)$ of order $n$, $x^mP(x)$ is the $(m+n)$th order polynomial for $x^mf(x)$.
+
+### Taylor inequalities
+
+The **triangle inequality** for integrals applies itself many times over the infinite sum.
+
+$$\left|\int^b_af(x)dx\right|\leq\int^b_a|f(x)|dx$$
+
+The **Taylor remainder** is the error between a Taylor polynomial and its actual value. Where $k$ is an arbitrary value chosen as the **upper bound** of the difference of the first derivative between $x_0$ and $x$: $k\geq |f^{(n+1)}(z)|$
+
+$$|R_n(x)|\leq\frac{k|x-x_0|^{n+1}}{(n+1)!}$$
+
+An approximation correct to $n$ decimal places requires that $|R_n(x)|<10^{-n}$.
+
+!!! warning
+    $k$ should be as small as possible. When rounding, round down for the lower bound, and round up for the upper bound.
+    
+### Integral approximation
+
+The upper and lower bounds of a Taylor polynomial are clearly $P(x)\pm R(x)$. Integrating them separately reveals creates bounds for the integral.
+
+$$\int P(x)dx-\int R(x)dx\leq\int P(x)\leq\int P(x)dx +\int R(x)dx$$
