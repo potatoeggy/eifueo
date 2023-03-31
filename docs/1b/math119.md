@@ -756,6 +756,24 @@ For two series $\sum a_n$ and $\sum b_n$ where **all terms are positive**, if $a
 
 The **limit comparison test** has the same requirements, but if $L=\lim_{n\to\infty}\frac{a_n}{b_n}$ such that $0<L<\infty$, either both converge or both diverge.
 
+### Ratio tests
+
+The **ratio test** is applicable if the $L$ exists or is infinity:
+
+$$L+\lim_{n\to\infty}\left|\frac{a_{n+1}}{a_n}\right|$$
+
+- $L<1$ implies the function converges absolutely
+- $L>1$ implies the function diverges
+- $L=1$ is inconclusive
+
+It is useful if a constant is raised to the power of $n$ or if a factorial is present.
+
+The **root test** has the same analysis but with a different limit:
+
+$$L=\lim_{n\to\infty}\sqrt[n]{|a_n|}$$
+
+It is useful for functions of the form $f(x)^{g(x)}$.
+
 ### Alternating series
 
 If the absolute value of all terms $b_k$ continuously decreases and $\lim_{k\to b_k}=0$, the alternating function $\sum^\infty_{k=0}(-1)^kb_k$ converges.
@@ -771,3 +789,5 @@ $\sum a_n$ converges **absolutely** only if $\sum |a_n|$ converges.
 An absolutely converging series also has its regular form converge.
 
 A series converges **conditionally** if it converges but not absolutely. This indicates that it is possible for all $b\in\mathbb R$ to rearrange $\sum a_n$ to cause it to converge to $b$.
+
+
