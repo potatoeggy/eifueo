@@ -790,4 +790,62 @@ An absolutely converging series also has its regular form converge.
 
 A series converges **conditionally** if it converges but not absolutely. This indicates that it is possible for all $b\in\mathbb R$ to rearrange $\sum a_n$ to cause it to converge to $b$.
 
+### Power series
+
+A power series **centred at $x_0$** is an infinitely long polynomial.
+
+$$\sum^\infty_{n=0}c_n(x-x_0)^n$$
+
+If there are multiple identified domains of convergence, the endpoints must be tested separately to get the **interval of convergence**. The **radius of convergence** is the amplitude of the interval, regardless of inclusion/exclusion.
+
+$$r=\frac{\text{max}-\text{min}}{2}$$
+
+For a power series of radius $R$, regardless if it is differentiated, integrated, multiplied (by non-zero), the radius remains $R$.
+
+!!! warning
+    The interval may change.
+
+Adding functions with different radii results in a radius roughly near the smaller interval of convergence.
+
+The **binomial series** is the infinite expansion of $(1+x)^m$ with radius 1.
+
+$$(1+x)^m=\sum^\infty_{n=0}\frac{m(m-1)(m-2)...(m-n+1)}{n!}x^n$$
+
+## Big O notation
+
+A function $f$ is of order $g$ as $x\to x_0$ if $|f(x)|\leq c|g(x)|$ for all $x$ near $x_0$. This is written as big O:
+
+$$f(x)=O(g(x))\text{ as }x\to x_0$$
+
+The inner function only dictates how it grows, discarding any constant terms.
+
+!!! example
+    As $x\to 0$, $x^3=O(x^2)$ as well as $O(x)$ and $O(1)$. Thus $kx^3=O(x^2)$ for all $k\in\mathbb R$.
+    
+    However, $x^3=O(x^4)$ only as $x\to\infty$ by the definition.
+
+!!! example
+    As $|\sin x|\leq |x|$, $\sin x=O(x)$ as $x\to 0$.
+
+
+If $f=O(x^m)$ and $g=O(x^n)$ as $x\to 0$:
+
+- $fg=O(x^{m+n})$
+- $f+g=O(x^q)$, where `q=min(m,n)`
+- $kO(x^n)=O(x^n)$
+- $O(x^n)^m=O(x^{nm})$
+- $O(x^m)\div x^n=O(x^{m-n})$
+
+With Taylor series, big O is the remainder.
+
+$$R_n(x)=O((x-x_0)^{n+1})$$
+
+The limit of big O is the behaviour of $g(x)$.
+
+!!! example
+    \begin{align*}
+    \lim_{x\to 0}\frac{x^2e^x+2\cos x-2}{x^3}&=\lim_{x\to 0}\frac{x^3+O(x^4)}{x^3} \\
+    &= 1+O(x) \\
+    &= 1
+    \end{align*}
 
