@@ -59,8 +59,7 @@ These only contain carbon and hydrogen.
     The lack of standardisation prior to IUPAC means that some IUPAC names have common names that are still widely used today.
     
     - acetylene: **ethyne**
-    - vinyl: **propene**
-    - ethylene: **ethene**
+    - vinyl / ethylene: **ethene**
 
 The general formula for an **acyclic** hydrocarbon with no rings is as follows, where $n$ is the number of carbon atoms, $x$ is the number of double bonds, and $y$ is the number of triple bonds.
 $$\ce{C_nH_{2n+2-2x-4y}}$$
@@ -504,7 +503,7 @@ An aldehyde is named like an alcohol but has a higher naming priority, with a su
 
 <img src="/resources/images/alcohol-aldehyde.png" width=900>(Source: Kognity)</img>
 
-Aldehydes will continue to react to ketones if the oxidising agent is not limited. To prevent this, the aldehyde is separated and removed from the mixture through distillation.
+Aldehydes will continue to react to carboxylic acids if the oxidising agent is not limited. To prevent this, the aldehyde is separated and removed from the mixture through distillation.
 
 <img src="/resources/images/aldehyde-distillation.png" width=900>(Source: Kognity)</img>
 
@@ -800,7 +799,7 @@ If there are multiple E/Z isomers, they are separated by commas and numbered acc
 
 Optical isomers are mirrored across the y-axis with the same compounds put on the same bonds. **Four distinct groups** must be attached to the central carbon atom to have optical isomers.
 
-In the data booklet, all amino acids are chiral except for glyine and proline.
+In the data booklet, all amino acids are chiral except for glycine and proline.
 
 !!! example
     <img src="/resources/images/enantiomer.ex.png" width=700>(Source: Kognity)</img>
