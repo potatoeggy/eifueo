@@ -2,6 +2,11 @@
 
 The course code for this page is **CHW3MZ**.
 
+!!! warning
+    <p style="font-size: 1rem">**The Eifueo project is no longer maintained
+    as of 19 April 2023. Information in this repository may no longer be accurate.
+    Please see [the main blog post](https://eggworld.me/blog/2023/sunsetting-eifueo) for more details.**</p>
+
 ## Command terms
 
 The following terms are regularly used by IB and have specific meanings:
