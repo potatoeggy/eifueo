@@ -2,6 +2,11 @@
 
 The course code for this page is **SPH4U7**.
 
+!!! warning
+    <p style="font-size: 1rem">**The Eifueo project is no longer maintained
+    as of 19 April 2023. Information in this repository may no longer be accurate.
+    Please see [the main blog post](https://eggworld.me/blog/2023/sunsetting-eifueo) for more details.**</p>
+
 ## Magnetism
 
 Magnets are objects with north/south dipoles that create a field around them. Although ferromagnetic substances can repel each other, paramagnetic substances are always attracted to a magnetic field. See [HL Chemistry#Physics properties of transition elements](/sch3uz/#physical-properties-of-transition-elements) for more details.
