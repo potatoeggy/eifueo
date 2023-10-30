@@ -1,7 +1,7 @@
 site_name: Eifueo
 site_description: "A collection of personal notes throughout school"
 site_author: "Daniel Chen"
-copyright: "Text licensed under the GNU General Public License, version 3"
+copyright: "Text licensed under the GNU Free Documentation License"
 site_url: "https://eifueo.eggworld.me"
 repo_url: "https://git.eggworld.me/eggy/eifueo"
 repo_name: Gitea
@@ -35,6 +35,13 @@ nav:
       - "ECE 140: Linear Circuits": 1b/ece140.md
       - "ECE 192: Engineering Economics": 1b/ece192.md
       - "MATH 119: Calculus 2": 1b/math119.md
+  - Computer Engineering 2A:
+      - "ECE 109: Materials Chemistry": 2a/ece109.md
+      - "ECE 240: Electronic Circuits": 2a/ece240.md
+      - "ECE 222: Digital Computers": 2a/ece222.md
+      - "ECE 250: DSA": 2a/ece250.md
+      - "ECE 205: Advanced Calculus 1": 2a/ece205.md
+      - "ECE 204: Numerical Methods": 2a/ece204.md
 
 theme:
   name: material
