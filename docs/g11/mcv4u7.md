@@ -2,11 +2,6 @@
 
 The course code for this page is **MCV4U7**.
 
-!!! warning
-    <p style="font-size: 1rem">**The Eifueo project is no longer maintained
-    as of 19 April 2023. Information in this repository may no longer be accurate.
-    Please see [the main blog post](https://eggworld.me/blog/2023/sunsetting-eifueo) for more details.**</p>
-
 ## Integration
 
 Integration is an operation that finds the **net** area under a curve, and is the opposite operation of differentiation. As such, it is also known as **anti-differentiation**.
