@@ -42,6 +42,13 @@ nav:
       - "ECE 250: DSA": 2a/ece250.md
       - "ECE 205: Advanced Calculus 1": 2a/ece205.md
       - "ECE 204: Numerical Methods": 2a/ece204.md
+  - Computer Engineering 2B:
+      - "ECE 208: Discrete Math 2": 2b/ece208.md
+      - "ECE 207: Signals": 2b/ece207.md
+      - "BIOL 240: Microbiology 1": 2b/biol240.md
+      - "ECE 203: Probability": 2b/ece203.md
+      - "ECE 224: Embedded": 2b/ece224.md
+      - "ECE 252: Concurrency": 2b/ece252.md
 
 theme:
   name: material
